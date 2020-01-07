@@ -1,0 +1,1069 @@
+开关 二极管 75v 150ma smd sod 323 1n4148ws 10
+肖特基 二极管 20v 1.1 a smd sod 123 sl02 4
+15.0 10901071 气体 放电管 2087 120 gdt 2r 4 0.0
+279.0 11202001 二极管 1n4007 直插 2489.0
+280.0 11202012 二极管 直插 11204008 in5408 0.0
+281.0 11202016 贴片 1n4007 3528 11202014 0.0
+282.0 11202029 tvs 二极管 smbj30ca 214aa 208586 750.0
+283.0 11203005 稳压 二极管 直插 11104011 1n4739 9.1 v 1w 714.0
+284.0 11203008 贴片 稳压 二极管 2500 9.1 v 0.0
+285.0 11203024 贴片 稳压 二极管 11205003 11203019 5v1 1206 2500 0.0
+286.0 11203025 贴片 稳压 二极管 2500 11202026 5.6 v 1206 6500.0
+287.0 11203026 禁止 贴片 稳压 二极管 11202025 8.2 v 1206 0.0
+288.0 11203027 贴片 稳压 二极管 12v 1206 2500.0
+289.0 11203033 禁止 10v 贴片 稳压 二极管 10v 3528 2495.0
+290.0 11203034 贴片 稳压 二极管 3v 3528 2500 0.0
+291.0 11203038 稳压 二极管 in4746 18v 1w 直插 472.0
+292.0 11203045 肖 基特 二极管 b540c b540c 90.0
+293.0 11204014 6a 二极管 11202007 6a 直插 41.0
+294.0 11204028 二极管 10a 600v 45.0
+295.0 11204032 齐纳 二极管 flz4v7a 214aa 208586 2500.0
+296.0 11204037 双向 tvs 管 5v 0603 2990.0
+297.0 11205008 二极管 ss36 mbrs340t3g 50.0
+298.0 11205009 二极管 4148 mmsd4148t1g 100.0
+299.0 11205011 二极管 4148 in4148 3528 2500 0.0
+300.0 11205012 12v 稳压管 12v sma 2500 0.0
+301.0 11205013 贴片 二极管 s1m e3 61t sma 2000 0.0
+302.0 11205018 二极管 rs1j 214aa 208586 0.0
+303.0 11205019 esd 二极管 vesd05 02v sod 523 208586 0.0
+304.0 11205025 esd 二极管 pesd3v3lvb sod 523 168.0
+18 4g sk36b ltp micron 9400
+19 4g sm5s36a tp micron 5250
+36 zc sm05 02htg 3000
+18 贴片 二极管 sr560 214aa smb 2 d1 d2
+19 贴片 二极管 ll60p ll 34 玻封表贴 7 d3 d4 d9 d10 d11 d13 d22
+20 贴片 二极管 sr560 214ac sma 4 d5 d6 d7 d8
+21 贴片 二极管 1n4001w sod 123f 3 d14 d15 d16
+22 贴片 二极管 ss14 214ac sma 1 d17
+23 贴片 二极管 mm1z5v1 sod 123 1 d18
+6 贴片 二极管 1n4001w 214ac sma 1 d1
+7 贴片 二极管 1n5822 214ac sma 1 d2
+8 贴片 二极管 1n5401 214ac sma 1 d3
+15.0 10901071 气体 放电管 2087 120 gdt 2r 4
+279.0 11202001 二极管 1n4007 直插
+280.0 11202012 二极管 直插 11204008 in5408
+281.0 11202016 贴片 1n4007 3528 11202014
+282.0 11202029 tvs 二极管 smbj30ca 214aa
+283.0 11203005 稳压 二极管 直插 11104011 1n4739 9.1 v 1w
+284.0 11203008 贴片 稳压 二极管 2500 9.1 v
+285.0 11203024 贴片 稳压 二极管 11205003 11203019 5v1 1206 2500
+286.0 11203025 贴片 稳压 二极管 2500 11202026 5.6 v 1206
+287.0 11203026 禁止 贴片 稳压 二极管 11202025 8.2 v 1206
+288.0 11203027 贴片 稳压 二极管 12v 1206
+289.0 11203033 禁止 10v 贴片 稳压 二极管 10v 3528
+290.0 11203034 贴片 稳压 二极管 3v 3528 2500
+291.0 11203038 稳压 二极管 in4746 18v 1w 直插
+292.0 11203045 肖 基特 二极管 b540c b540c
+293.0 11204014 6a 二极管 11202007 6a 直插
+294.0 11204028 二极管 10a 600v
+295.0 11204032 齐纳 二极管 flz4v7a 214aa
+296.0 11204037 双向 tvs 管 5v 0603
+297.0 11205008 二极管 ss36 mbrs340t3g
+298.0 11205009 二极管 4148 mmsd4148t1g
+299.0 11205011 二极管 4148 in4148 3528 2500
+300.0 11205012 12v 稳压管 12v sma 2500
+301.0 11205013 贴片 二极管 s1m e3 61t sma 2000
+302.0 11205018 二极管 rs1j 214aa
+303.0 11205019 esd 二极管 vesd05 02v sod 523
+304.0 11205025 esd 二极管 pesd3v3lvb sod 523
+21 稳压 二极管 dz3 dz4 zmm3v6 2.0
+22 贴片 二极管 d10 d7 d11 d21 d22 d23 d24 1n5819 7.0
+23 稳压 二极管 dz1 zd1 zmm5v1 2.0
+11.0 106040004 1.0 dsn2nsr02f30nxt5g nsr02f30nxt5g 1000.0
+bav70 215 72000
+ss16 e3 61t 9000
+pesd5v0l2bt 215 18000
+fsv15100v 9000
+mbrb20200ct 7200
+bzx384 c20 115 3600
+1n4448ws 3600
+gbu808 14400
+gsib1580 e3 45 9000
+b125s slim 3600
+diodo gs1m m7 90000
+uf 4007 7200
+smbj160a 7200
+smaj40a 7200
+smbj40a 3600
+smaj5.0 a 1800
+贴片 整流 二极管 s6m smc 091804 031801 68
+贴片 tvs 二极管 smcj160a smc 091804 031901 37
+贴片 稳压 二极管 mm1z5v1 ll 34 091804 032001 194
+贴片 稳压 二极管 zmm24 ll 34 091804 032101 37
+贴片 整流 二极管 s2m sma 091804 032401 37
+贴片 肖特基 二极管 ss34 sma 091804 032701 68
+贴片 稳压 二极管 zmm15 ll 34 091804 032201 37
+贴片 tvs 二极管 smaj36a sma 091804 031701 37
+贴片 esd 保护 二极管 pesd1can sot23 091804 033001 100
+贴片 开关 二极管 1n4148w sod 123 091804 031601 1297
+贴片 tvs 二极管 smf30a sod 123 091804 033201 635
+贴片 esd 保护 二极管 pesd5v0s1ba sod323 091804 033301 68
+贴片 整流 二极管 murs160t3g on smb 091804 032501 131
+贴片 快速 二极管 es3j smc 091804 033401 68
+贴片 tvs 二极管 sr05 sot 143 091804 033101 37
+贴片 esd 保护 二极管 pesd1can sot23 091804 033001 68
+贴片 tvs 二极管 psm712 sot23 091804 032901 68
+贴片 tvs 二极管 smf30a sod 123 091804 033201 131
+贴片 开关 二极管 1n4148w sod 123 091804 031601 163
+贴片 超快 二极管 mura110t3g on sma 214ac 091804 032801 68
+贴片 稳压 二极管 zmm24 ll 34 091804 032101 37
+贴片 稳压 二极管 zmm5v1 ll 34 091804 032301 100
+贴片 双 肖特基 二极管 bat54c sot 23 091804 032601 37
+贴片 tvs 二极管 smaj36a sma 091804 031701 37
+贴片 整流 二极管 s6m smc 091804 031801 68
+贴片 tvs 二极管 smcj160a smc 091804 031901 37
+贴片 稳压 二极管 mm1z5v1 ll 34 091804 032001 194
+贴片 稳压 二极管 zmm24 ll 34 091804 032101 37
+贴片 整流 二极管 s2m sma 091804 032401 37
+贴片 肖特基 二极管 ss34 sma 091804 032701 68
+贴片 稳压 二极管 zmm15 ll 34 091804 032201 37
+贴片 tvs 二极管 smaj36a sma 091804 031701 37
+贴片 esd 保护 二极管 pesd1can sot23 091804 033001 100
+贴片 开关 二极管 1n4148w sod 123 091804 031601 1297
+贴片 tvs 二极管 smf30a sod 123 091804 033201 635
+贴片 esd 保护 二极管 pesd5v0s1ba sod323 091804 033301 68
+贴片 整流 二极管 murs160t3g on smb 091804 032501 131
+贴片 快速 二极管 es3j smc 091804 033401 68
+陶瓷 气体 放电管 un3e8 75hm socay un3e8 091804 034201 61
+贴片 tvs 二极管 sr05 sot 143 091804 033101 37
+贴片 esd 保护 二极管 pesd1can sot23 091804 033001 68
+贴片 tvs 二极管 psm712 sot23 091804 032901 68
+贴片 tvs 二极管 smf30a sod 123 091804 033201 131
+贴片 开关 二极管 1n4148w sod 123 091804 031601 163
+贴片 超快 二极管 mura110t3g on sma 214ac 091804 032801 68
+贴片 稳压 二极管 zmm24 ll 34 091804 032101 37
+贴片 稳压 二极管 zmm5v1 ll 34 091804 032301 100
+贴片 双 肖特基 二极管 bat54c sot 23 091804 032601 37
+贴片 tvs 二极管 smaj36a sma 091804 031701 37
+11 贴片 二极管 s2mf 2a sod 123f 1 200 10000 d1
+rb160mm 60tr sod123f d8 d10 2 5200
+udzvte 175.1 b sod323 d9 1 2600
+sma6j24a sma d11 1 2600
+b0540ws 7 f sod323 d13 1 2600
+b340a 13 f sma d14 1 2600
+rb060mm 30tr sod123f d15 1 2600
+bat54tw 7 f sot 363 d16 1 2600
+sd05c 01ftg sod323 d20 1 2600
+1n4148 sod323 sod 323 1.0 10000.0 stc max
+1n4007 m7 sma 214ac 1.0 10000.0 stc max
+ss34 sma 214ac sma 214ac 2.0 20000.0 stc max
+ss54 sma 214ac 1.0 10000.0 stc max
+esda6v8ul sot 23 1.0 10000.0
+11 贴片 二极管 s2mf 2a sod 123f 1 d1 s2mw mdd 10000 0.0938 1 2d s2mf 没有 sod123f sod123f
+22 a05 004009 021 二极管 sk34a 214ac 3a sk34a tsc 9000 d1 d19 d20 贴片
+23 a05 004001 035 瞬态 电压 抑制 二极管 smdj36ca 214ab 3000w 36v 65 to 150 ℃ smdj36ca 9000 d2 d5 d6 贴片
+24 a05 004010 007 二极管 bk23000702 m bk23000702 m 18000 d10 d12 d13 d14 d15 d16 贴片
+26 a05 004001 038 esd 抑制器 esd9n5bl 2 tr dfn1006 55 150 ℃ esd9n5bl 2 tr 12000 ed1 ed2 ed3 ed4 贴片
+30 a14 004002 005 气体 放电管 2rm090m 8 90v ± 20% 贴片 气体 放电管 2rm090m 8 3000 g1 贴片
+74 a05 004001 003 esd 抑制器 uf s08a28 l04 soic 08 uf s08a28 l04 3000 u8 贴片
+12 ed0093 二极管 pz5d4v2h prisemi 1200
+23 1 4000 dual diode cathode d1 sot23 3 bat54cta bat54ctr nd d
+091804 022201 二极管 bat54clt1g sot23 3 6000
+091804 022301 肖特基 二极管 mbr0540t1g sod 123 5076
+091804 022601 二极管 smbj43a 1500
+091804 023401 二极管 ss14 e3 61t 1202
+19 a05 004009 003 二极管 sk34 214aa sk34 214aa 3000 d1 贴片
+20 a05 004001 016 tvs 管 smbj12ca 214aa smbj12ca 3000 d2 贴片
+21 a05 004001 038 esd 抑制器 esd9n5bl 2 tr dfn1006 55 150 ℃ esd9n5bl 2 tr 12000 ed1 ed2 ed3 ed4 贴片
+14.1 贴片 瞬态 电压 抑制 二极管 smbj15ca 6 24 smbj15ca 贴片
+14.2 贴片 整流 二极管 s1m m7 diodes 44 176 m7 s1m 贴片
+14.3 贴片 稳压管 1smb5927b 13 214ac 3 12 1smb5927b 13 214ac
+14.4 贴片 整流桥 mb6s 14 56
+21.0 双联 二极管 led g2 2 8
+71 b5819 肖特基 二极管 40v1a sod 323 b5819wsf sod 323f d1200 1 vc5819wsf 20
+72 pz5d4v2h 稳压 二极管 sod523 5.1 v 500mw pz5d4v2h sod523 d800 1 pz5d4v2h 20
+17 d 1n4148 d10 d11 d12 d15 d16 d17 d18 d19 d20 d21 d22 d23 d24 d25 d26 d27 d32 1n4148 1206 ak 850.0
+1 d bat54c d1 sot23 3d c95p280x100 50.0
+1 d in5819 d30 d1808 50.0
+3 d m7 d13 d14 d31 d1808 ak 150.0
+1 d mbr0540 sod123 nc d3 d1206 50.0
+6 d rclamp0502b d4 d5 d6 d7 d8 d9 sot 523 300.0
+5 d smbj12ca d2 tvs5 tvs6 tvs11 tvs12 tvs 250.0
+1 d sr54 d33 d1808 ak 50.0
+2 d ss34 d28 d29 d1808 100.0
+35 smd 1a 200v 50ns sma es1d 5.0 1000.0
+36 smd 2a 100v smb ss210 1.0 200.0
+38 smd 5.1 v ± 5% 1.5 w sma 1sma5918bt3 g 1.0 on 200.0
+39 smd 18v ± 5% 1.5 w sma 1sma5931bt3 g 1.0 on 200.0
+4 e10q0804801 贴片 二极管 mmbd4148se sot 23 8
+7 e10a0807701 贴片 二极管 ss34 d0 214ab smc mic 1
+8 e10a0704201 tvs 管 smbj7.0 a d0 214aa 0 2
+9 e10a0102301 二极管 ll4148 快速 开关 二极管 1v 75v 200ma smd panjit 5
+10 e10015011 tvs 管 smbj13ca 双向 tvs 管 15v 600w 214aa 卷 带装 2
+11 e10015007 tvs 管 smbj36ca 双向 42v 10.3 a 214aa 1
+54 c0100150 esd 二极管 esd05v23t lc 单向 vrwm 5v vbr 6v ppk 300w c 1.5 pf sot 23 sot 23 un 4 2000
+61 c0100157 二极管 ll4148 快速 开关 二极管 1v 75v 200ma smd mini melf sod 80 panjit 11 5500
+63 c0100159 esd 二极管 pjusb208 单向 vrrm 40v vbr 50v c 3.0 pf sot 23 6l 卷装 sot 23 6l panjit 2 1000 ecn ecn18082
+13 c0200111 整流桥 df210s 贴片 整流桥 dfs 2a 700v dfs hy 1 500
+16 c0200114 稳压 二极管 zm4742a melf 213ab melf 213ab 1 500
+17 c0200115 稳压 二极管 1sma5934 vz 24v 1500mw ifsm 10a 8.3 ms pulse 214ac sma 卷装 214ac sma panjit 4 2000
+18 c0200116 整流 二极管 us1dw sma w sma w panjit 6 3000
+19 c0200117 二极管 ll4148 快速 开关 二极管 1v 75v 200ma smd mini melf sod 80 panjit 2 1000
+20 c0200118 整流 二极管 uf 1m smb smb panjit 2 1000
+15 c0200166 二极管 sb1040lct to 220ab to 220ab panjin 1 500
+10 109 0302 0027 贴片 二极管 in5819 sma toshiba 20 00000 2019 09 06
+9 1n4148ws 二极管 sod323 4 40000
+9 1n4148ws 二极管 sod323 4 40000
+1 470.0 2007010036 齐纳 二极管 64 b 5120 diode bzv55 b2v4 sod 80c 2.4 v
+2007010002 二极管 64 b 5120 diode hitachi hzk2cll 3.5 1.35 2.6 v
+1 480.0 2007010038 齐纳 二极管 8 b 640 diode bzv55 b5v1 sod 80c 5.1 v
+2007010010 齐纳 二极管 8 b 640 diode rohm rlzte115.1 b ll 34 5.1 v
+1 490.0 2007010040 肖特基 二极管 8 b 640 diode pmeg3020bep sod 128 30v 2a
+2007010006 肖特基 二极管 8 b 640 diode toshiba cms07 te12l sod 128 30v 2a
+1 180.0 2007010038 齐纳 二极管 82 b 6560 diode bzv55 b5v1 sod 80c 5.1 v
+2007010010 齐纳 二极管 82 b 6560 diode rohm rlzte115.1 b ll 34 5.1 v
+2007010001 齐纳 二极管 82 b 6560 diode hitachi hzk5cll 3.5 1.35 5.3 v
+26.0 pysd 0016 贴片 二极管 ss54 smc 1 50.0
+27.0 pysd 0001 贴片 二极管 1n4148 ll 34 5 250.0
+28.0 pysd 0006 贴片 二极管 1n4007 214ac sma 2 100.0
+29.0 pysd 0017 贴片 二极管 1n 5819 sod 123 3 150.0
+32.0 pysd 0019 贴片 稳压 二极管 8.7 v sod 123 2 100.0
+1 290.0 2007010039 二极管 4.0 b 320 diode pmll4448 sod 80c 75v 200ma
+1 300.0 2007010004 二极管 2.0 0.05 b 168 diode toshiba 1ss379 te85l f to 236mod 400v 0.1 a
+1 310.0 2007010040 肖特基 二极管 4.0 b 320 diode pmeg3020bep sod 128 30v 2a
+1 320.0 2007010005 开关 二极管 2.0 0.05 b 168 diode rohm dan217 t146 sot23 dk1530 80v 0.3 a
+1 330.0 2006040002 二极管 1.0 b 80 tvs vcut0505b hd1 gs08 llp1006 2l
+13.0 二极管 fr107w f7 sod 123 smd fr107w 快 二极管 sod 123f 3000
+ss24 214 smd ss24 2000
+ss2200 214 smd ss2200 肖特基 二极管 sma 200v 2a vf 0.95 v 2a ss2200 肖特基 二极管 sma 200v 2a vf 0.95 v 2a 0
+ss1200 214 smd ss1200 肖特基 二极管 sma 200v 1a vf 0.95 v 1a ss1200 肖特基 二极管 sma 200v 1a vf 0.95 v 1a 210
+smbj12ca be smb smd smbj12ca smbj12ca 瞬态 抑制 二极管 smb 210
+smbj6.5 ca smb smd smbj75ca smbj75ca 瞬态 抑制 二极管 smb 610
+1n4007 41 dip 1n4007 1n4007 编带 二极管 1n4007 41 200
+in4148w t4 smd 1n4148ws 弯脚 1n4148ws 弯脚 3000
+7 贴片 二极管 ss14 sma do214acss14 1 6000 0.04 贴片 二极管 ss14 sma do214acss14
+9 二极管 1n4148 sod 80 1 d5 50
+10 稳压 二极管 zmm2v0 sod 80 1 d3 50
+c151926 tvs 二极管 smbj12ca 编带 smb 214aa 120.0 born 半导体
+c29715 tvs 二极管 smbj3.3 a 编带 smb 214aa 120.0 ruilon
+c266551 肖特基 二极管 ss14 sma 180.0 born 半导体
+27 稳压 二极管 bat54ct sot 523 1 10
+28 肖特基 二极管 sodj28a sh sod123 d2 3 30
+29 肖特基 二极管 fm401 m1 fm401 m1 sma 1 10
+30 肖特基 二极管 4.3 v sod123 d2 1 10
+31 贴片 esd 二极管 esd6.8 ci esd6.8 ci lc 0603 r 1 10
+66 贴片 二极管 b0540ws sod 323 2 d12 d13 n b0540ws 7 2050
+9 贴片 二极管 1n4007 1n4007 a7 1a 1000v sod 123 2 d1 d4 400000
+10 贴片 整流桥 mb10f sop 4 mb10f sop 4 1 db1 200000
+41 sxfc30000181 4d normal diode schottky zener h esd protection amc az1045 04f r7g smd dfn2510p10e 4 channel esd 10kv con 15kv air c 05 pf amc az1045 04f r7g 6 3000 12000
+160 sxfc30000179 4d normal diode schottky zener diode gw sm5817a smd vrm 14v ifm 1a vf 0.45 v gw sm5817a 8 4000 16000
+161 sxfc30000180 4d normal diode schottky zener diode ll4148 gs08 1206 smd vrm 100v if 2a vf 1v 260d 5s ll4148 gs08 5 2500 10000
+162 sxfc30000189 4dp diode esd protection esd protection amc azc099 04s r7g sot23 6l 4 channel esd 15kv con 15kv air c 10 pf amc azc099 04s r7g 1 500 2000
+163 sxfc30000182 4d normal diode schottky zener esd protection ezaeg2b60ax smd 0402 1 channel esd 8kv con 15kv air c 0.05 pf ezaeg2b60ax 26 13000 52000
+189 sxfc30000183 4d normal diode schottky zener schottky diode gw sm5822b smd vr 40v if 3a vf 0.525 v gw sm5822b 1 500 2000
+190 sxfc30000184 4d normal diode schottky zener schottky diode panjit svm1550ub smd to 277b vr 50v if 15a vf 0.44 v panjit svm1550ub 1 500 2000
+191 sxfc30000185 4d normal diode schottky zener schottky diode bat54c smd sot 23 vr 30v if 200ma vf 0.8 v bat54c 1 500 2000
+192 sxfc30000178 4d normal diode schottky zener schottky diode bat54s smd sot 23 vr 30v if 200ma vf 0.8 v bat54s 7 3500 14000
+smcj440ca tvs diode 440v 713v 214ab d1 d2 inc smcj440ca 214ab 2 20
+27.0 12040027 tvs 管 26v 600w 10 1000us 4kw 8 20us smbj26a 25200 smbj26a smb 7
+28.0 12030017 schottky barrier diode vr 40v if 250ma sod 323 ons nsr0240h 7200 nsr0240h sod 323 2
+24.0 12030016 zener diode breakdown voltage 39v 300mw sod 323 ons mm3z39vt1g 32400 mm3z39vt1g sod 323 9
+25.0 12040034 tvs bidirectional esd diodes esd protection level 30kv vrwm 5.0 v vbr 5.8 v ct 32pf 1.7 x0.9 x0.7 mm onsemi esd5b5.0 st1g 43200 esd5b5.0 st1g sod 523 12
+29.0 12040035 tvs quad common anode 16kv 25v 31.4 v 48.6 v 150w 6pin sc 74 3.1 x 1.7 x 1mm on mmqa33vt1g 3600 mmqa33vt1g mmqa33vt1g 1
+86.0 10120038 ic ovp ocp switch 40 80v ovp ocp 10 lead 3mmx5mmx1.1 mm linear technology lt4356ims 1 3600 lt4356 lt4356 1
+贴片 二极管 m4007 d2 sma 1.0 1000
+贴片 二极管 n4148 d13 213aa 1.0 1000
+贴片 二极管 ss34 d12 sma 1.0 1000
+5 9v 2w 稳压 二极管 214ac 1
+9 1n4148ws 二极管 sod323 4 40000
+9 1n4148ws 二极管 sod323 4 80
+0101 100002 贴片 二极管 5190 1n5819 d0805
+0101 100004 贴片 二极管 5100 us1m 214ac sma
+0101 100030 贴片 二极管 1050 bav21 d0805
+0101 100031 贴片 二极管 500 smaj85a sma
+0101 100039 贴片 二极管 800 bat54c dsot 23 共阴
+0101 100040 贴片 二极管 1560 贴片 rled d0805 红色
+0101 100042 贴片 二极管 3186 bat54s sot 23
+0101 100047 贴片 二极管 800 minimelf zmm20 d1206 12
+0101 100049 贴片 二极管 250 1n4148 d0603 sod 523
+1102 030002 快 二极管 400 mur460 4a do201
+1102 030003 快 二极管 400 ffp08h60s 8a to220ac
+1102 030004 二极管 400 stth2003cfp 20a to220fpab
+1n4148ws 二极管 sod323 4 80
+rb551v 二极管 d0603 30
+ss32 肖特基 二极管 d1206 15
+ss32 肖特基 二极管 d1206 15
+4 u040100058 贴片 二极管 1n4007 sma 214ac 1 d1 1n4007 6000.0
+60401000680 肖特基 二极管 肖特基 二极管 30v 200ma 800mv sod 323 2pin smd on bat54ht1g 324
+60401001170 肖特基 二极管 肖特基 二极管 bat54lt1g io 200ma vrev 30v 5ns sot 23 3pin smd on bat54lt1g 18
+60402000940 发光 二极管 发光 二极管 绿色 180 ^ 450mcd 20ma 0805 2pin smd 17 21 ghc xs1t2m 3t 6
+60401000340 肖特基 二极管 肖特基 二极管 30v 100ma 800mv sot 23 3pin smd nexperia bat54c 215 14
+60401000450 肖特基 二极管 肖特基 二极管 30v 200ma 400mv sot 23 3pin smd nexperia bat54a 215 7
+60401002370 瞬息 抑制 二极管 瞬息 抑制 二极管 5v 9.2 v 65.2 a 214aa 2pin smd smbj5.0 a e3 52 7
+60402001150 瞬态 抑制 二级 管 瞬态 抑制 二级 管 6v 14v 5a x1son 2 2pin smd tpd1e10b06dpyt 14
+14 cmprt0900 esdalc6v1w5 1 d1 esdalc6v1w5 smd esda series 4 channel 6.1 v 7.5 pf smt uni directional transil array sot 323 5l sot323 5l 100
+15 cmtrs010100003 on mmsz5231bt1g 1 d2 mmsz5231bt2g smd sod123 齐纳 二极管 vz 35.1 v 500mw sod123 100
+16 cmtrs0102 on mbra120et3g 1 d3 mbra120et3g smd 整流 二极管 diode schottky 20v 1a sma aec q101 sma 100
+17 cmprt0900 smbj8.5 ca 2 d11 d14 smbj8.5 ca smd tvs diode 8.5 vwm 14.4 vc smb 2p smb 200
+18 cmtrs0101 diodes mmsz5242b tp 4 d12 d13 d15 d16 mmsz5242b tp smd diode zener 12v 500mw som123 sod123 400
+19 cmprt090000007 socay smbj6.0 ca 2 d17 d20 smbj6.0 ca smd 2p tvs vrwm 6v vc 10.3 v 600w 双向 smd 5.5 3.94 2.44 mm 200
+20 cmtrs010200002 1n4007 1 d18 1n4007 smd sma 整流 二极管 vr 1000v if 1a vf 1.1 v sma 100
+21 cmtrs0102 diodes dfls130l 1 d19 dfls130l smd 整流 二极管 diode schottky 30v 1a powerdi123 aec q101 smd 100
+22 cmtrs010200005 diodes bat43ws 7 f 2 d21 d22 bat43ws smd sod323 肖特基 二极管 vrrm 30v ifm 200ma vf 0.33 v if 2ma sod323 200
+二极管 1n4148wt on sod523 3.0 3000.0
+二极管 pesd5v0s1bb born 半导体 sod523 4.0 4000.0
+二极管 bat54cw sc70 2.0 2000.0
+二极管 pesd5v0x1ub nexperia sod523 3.0 3000.0
+二极管 pesd5v0x1ub nexperia sod523 3.0 3000.0
+tvs 二极管 pesd5vof1bl nexperia sod 882 3.0 3000.0
+二极管 rclamp3346p tnt semtech bcc7 080 0301l 10 10000
+镭射 激光 二极管 红色 6mmx10mm 6mmx10mm 2.0 2000.0
+29 cmtrs010200002 diodes s1m 13 f 3 d14 d16 d18 s1m 13 f smd sma 整流 二极管 s1m series vr 1000v if 1a 玻璃 钝化 1n5819s 300.0
+30 cmtrs010200005 diodes bat43ws 7 f 1 d17 bat43ws smd sod323 肖特基 二极管 vrrm 30v ifm 200ma vf 0.33 v if 2ma sod 323 100.0
+31 cmtrs010200003 diodes es1g 13 f 2 d19 d20 es1g 13 f smd sma 整流 二极管 vr 400v if 1a vf 1.25 v 超 快速 sma 200.0
+36 cmtrs0102 diodes dfls130l 1 d49 dfls130l smd 整流 二极管 diode schottky 30v 1a powerdi123 aec q101 sod 130l 100.0
+37 cmtrs0102 on mbra120et3g 1 d50 mbra120et3g smd 整流 二极管 diode schottky 20v 1a sma aec q101 sma 403d 100.0
+稳压 二极管 mm3z 10v s sod 323 60 aec q101
+稳压 二极管 bzx84c5v1q sot 23 30 aec q101
+52 贴片 肖特基 管 smd ss34 214 2 d5007 d5010 52 mvl320s m00024447 ss34 kr z csi 2 2 12 03612 43344 4
+53 贴片 肖特基 管 smd b5819w 1a sod 123 1 d4 53 mvlm30t m00023975 b5819w 1 2 7 0229569 1606983 5
+54 贴片 肖特基 管 smd ss14 214ac 2 d5000 d5005 54 mvl2z0u m00023972 ss14 mdd 2 2 12 00731 08772
+55 贴片 二极管 smd bat54s sot 23 ht 2 d5001 d5004 55 mvmjm0v m00013538 lbat54slt1g lrc 2 2 12 009381 112572 5
+56 稳压 二极管 smd 3v sod 123 lbzt52c3v0 lrc 1 d3 56 mvlm30w m00024095 bzt52c3v0 1 2 7 0117174 0820218 5
+57 稳压 二极管 smd 7v 500mw sod 123 lbzt52c18 lrc 1 d5002 57 mvlm30x lbzx84c7v5lt1g lrc 1 2 7 010557 073899 3 75 v
+58 稳压 二极管 smd 18v 500mw sod 123 lbzt52c18 lrc 1 d5003 58 mvlm30y lbzt52c18t1g lrc 1 2 7 011155 078085 3
+59 贴片 tvs 管 smd be2504 dfn2.5 x1 10l born 2 ed1 ed2 59 mel1f0z 2 33 43 0 0 0 客
+60 贴片 tvs 管 smd be2053 dfn 2l born 27 ed53 ed54 ed55 ed56 ed57 ed58 ed59 ed60 ed61 ed62 ed63 ed64 ed65 ed66 ed67 ed68 ed70 ed71 ed72 ed73 ed74 ed75 ed76 ed7340 ed7302 ed7303 ed7304 60 memjo10 27 2 137 0 0 0 客
+61 贴片 tvs 管 smd be2051 dfn 2l born 2 ed107 ed108 61 memjo11 2 2 12 0 0 0 客
+tvs 管 p6ke15a 直插 dip 500 0.12
+放电管 un2e8 600ml union 直插 dip 500 0.714
+单向 稳压 二极管 in4749 1w 24v 直插 dip 5000 0.04
+整流桥 db107 yj 杨杰 直插 dip 5000 0.253
+12400 0004 双向 瞬态 抑制 二极管 esd0603e002m05 esd 二极管 esd0603e002m05 8kv 10na 0603 socay d9 d10 d11 3 18 socay
+10304 0001 瞬态 抑制 二极管 jp6ke 6v8 瞬态 抑制 二极管 68 v 105 v 581 a smbj diodes d13 d14 d15 d16 d17 d18 6 36 diodes
+9 sod4007 sh lrc diodes general purpose 1kv 1a 1.1 v 1a sod 123f 1 200000
+10 lbzx84c22lt1g lrc lbzx84c22lt1g zener diode 22v 225mw â ± 7% surface mount sot 23 3 to 236 1 200000
+1 d2 tvs diode 36v 58.1 v do214ac 2571 smaj36calfct nd diom4528x23n sma biipolar 36v smaj36ca ok 520.0
+34 tvs 二极管 pesd3v3l1ba n sod 323 箝位 电压 24v 击穿 电压 4v 关断 电压 3.3 v max
+35 肖特基 二极管 fr107w sod 123f 1kv 1a vf 1.3 v 1a
+36 肖特基 二极管 ss26f smaf 60v 2a vf 0.7 v 2a
+37 tvs 二极管 smaj15ca sma 214ac 峰值 脉冲电流 10 1000us 16.4 a 箝位 电压 24.4 v 击穿 电压 16.7 v 关断 电压 15v
+38 整流桥 mb10f mbf 1a 1kv
+34 tvs 二极管 pesd3v3l1ba n sod 323 箝位 电压 24v 击穿 电压 4v 关断 电压 3.3 v max 3000
+35 肖特基 二极管 fr107w sod 123f 1kv 1a vf 1.3 v 1a 3000
+36 肖特基 二极管 ss26f smaf 60v 2a vf 0.7 v 2a 3000
+37 tvs 二极管 smaj15ca sma 214ac 峰值 脉冲电流 10 1000us 16.4 a 箝位 电压 24.4 v 击穿 电压 16.7 v 关断 电压 15v 5000
+38 整流桥 mb10f mbf 1a 1kv 5000
+6106 tsslp200 tvs 二极管 tvs diode 53 vwm 21vc tsslp2 4 infineon esd112b102else6327xtsa1 300 esd112b102else6327xtsa1 infineon 300
+51 ej e1040205 esd 管 esd ega10402v05ah inpaq ega10402v05ah 900 bpesd0402 05st born 900 3 0071381
+d1 d4 esd110 b102 resistors smd r 0402 tvs diode 18.5 v 29v tslp 2 20 esd110b102ele6327xtma1 6200
+55 二极管 diode 30 volts sod 123 on mbr130lsft1g smt on mbr130lsft1g 4 160
+58 二极管 diode 8.0 amperes 30 volts to252bh24 on mbrd835lg smt on mbrd835lg 1 40
+59 二极管 diode schottky 40v 3a sma403b 02 on 1sma15cat3g smt on 1sma15cat3g 20 800
+60 二极管 diode 214aa smbj13a smt smbj13a 2 80
+104 二极管 diode schottky 40v 3a sma403b 02 on 1sma15cat3g smt on 1sma15cat3g 10 400
+12 esd esd 5v 2pf 0402 smt 0402esda 05 4 160
+14 esd esd 5v 2pf 0402 smt 0402esda 05 4 160
+6106 tsslp200 tvs 二极管 tvs diode 53 vwm 21vc tsslp2 4 infineon esd112b102else6327xtsa1 3000 esd112b102else6327xtsa1 infineon 3000
+1 二极管 diode switching 100v 200ma pj sod123 390
+2 二极管 schottky sr54f 40v 5a smbf pj smbf 390
+11 040010 瞬态 抑制 二极管 p4smaj24adf 13 50
+11 040057 二极管 diodes sbr3u40s1fq 7 40
+11 040058 瞬态 抑制 二极管 mmbz27vdl 100
+11 040059 瞬态 抑制 二极管 mmbz15vdl 100
+11 040060 瞬态 抑制 二极管 smcj24a 50
+11 050160 esd 芯片 semtech rclamp3346p tnt 40
+36.0 稳压 二极管 5v1 1 2w dc 214ac 玻封 dc 214ac 玻封 贴片 1 d3 5000.0
+37.0 二极管 1n4148 214ac 214ac 贴片 1 d2 5000.0
+38.0 二极管 ss86 214ab 214ab 贴片 1 d1 5000.0
+1 photodiode d1 el pd15 22c tr8 el pd15 22c tr8 el pd15 22c tr8 600
+二极管 d1 1206 1n4007 1 10000
+二极管 d5 sma 214ac b340a 1 10000
+tvs 管 tvs1 sma 214aa smb33ca 1 10000
+d50 d51 d52 二极管 1n4148ws t4 lc sod 323 3 15
+d8 d34 d35 d36 d37 d38 d39 d40 d41 d43 d44 d45 d46 d47 d48 d49 二极管 dfls1200 7 dfls1200 7 powerdi123 16 diodes incorporated 80
+d2 d4 d6 d9 d11 d19 d33 贴片 二极管 ma2yd2600l ma2yd2600l sod123 7 35
+d32 贴片 二极管 s1ab 13 f s1ab 13 f sod106 1 diodes incorporated 5
+d1 d5 d10 d22 d25 d27 d29 贴片 二极管 ss34 ss34 sod106 7 on semiconductor 35
+d1 d5 tvs 管 pesd15vl2bt pesd15vl2bt sot23 3p 2 30
+d2 贴片 tvs 管 p6smb36cat3g p6smb36cat3g smb 1 15
+d4 贴片 二极管 s1ab 13 f s1ab 13 f sod106 1 15
+d7 贴片 二极管 ss34 ss34 sod106 1 15
+d55 d58 d59 二极管 1n4148ws t4 1n4148ws t4 lc sod 323 3 45
+1 220 2007010009 肖特基 二极管 diode on bat54sl sot23 30v 0.2 a d105 d107 2 20 0.3 b 40 dlk
+1 230 2007010021 二极管 diode on mmsd4148t1g sod 123 d502 d503 d504 d505 d508 d509 d510 d511 d512 d513 d514 d515 d516 d517 d518 d519 16 20 0.3 b 320 dlk
+8 贴片 m7 4 0805 贴片 二极管
+1 d1 d2 d3 d5 d6 d7 d8 d9 d10 d11 d12 d14 d15 d17 d18 d19 d20 d21 d22 d24 d25 d27 d28 d29 d30 d31 d32 d34 d35 d37 d38 d39 1n4148 1n4148 smd t4 32.0 4868
+8 高速 二极管 byv26egp 30
+15 稳压 二极管 nte5289a 5 nte
+21 tvs sm15t100a 5
+7 贴片 二极管 m7 1
+8 贴片 m7 4 4000000 0805 贴片 二极管
+11 贴片 24v 1 1000000 sot 23
+12 贴片 5.6 v 1 1000000 sot 23
+32 整流 二极管 1n4007 1n4007 整流 二极管 1000v 214ac 贴装 100
+1 lxes03aaa1 lxes03aaa1 d1 0402 esd suppressor diode array ± 15kv 2 pin smd lxes03aaa1 098 20.0
+2 pgb1010603 pgb1010603 d2 d3 0603 1 50v 0603 bi directional smd esd suppressor pgb1010603nr 40.0
+3 szbzx84c9v1lt1g on semiconductor szbzx84c9v1lt1g d4 d5 d11 sot23 diode zener single 9.1 v 5% 300mw automotive 3 pin sot 23 szbzx84c9v1lt1g on 60.0
+1 ptvs28vs1ur nexperia ptvs28vs1ur d6 sod 123w 28v 400w unidirectional smd tvs diode sod 123 ptvs28vs1ur 20.0
+2 ptvs5v0s1ur nexperia ptvs5v0s1ur d7 d8 sod 123w 5v 400w unidirectional smd tvs diode sod 123 ptvs5v0s1ur 40.0
+1 ptvs13vs1ur nexperia ptvs13vs1ur d9 sod 123w 13v 400w unidirectional smd tvs diode sod 123 ptvs13vs1ur 20.0
+1 mbrs340t3 on semiconductor mbrs340t3g d10 smc 40v 80a smd schottky power rectifier 214ab smc mbrs340t3g on 20.0
+5 mbr0560 tp micro commercial co mbr0560 tp d1 d2 d3 d4 sod 123 diode schottky 60v 500ma surface mount sod 123 mbr0560 tp mcc 100.0
+es3b e3 smc d16 3a 100v ultrafast 1.0 4.0
+bav199lt1g bav199lt1 sot 23 on semiconductor d8 d9 d10 d11 d12 d13 d14 d15 d37 d38 d39 d40 d41 d42 d43 d44 d45 d46 d47 d48 d49 d50 d100 d101 二极管 dual series switchg diode sot 23 70v 200ma 24.0 96.0
+smf4l36a sod 123 d19 dx1 dx2 400w tvs 瞬态 电压 抑制 二极管 3.0 12.0
+1n4148w 7 f 1n4148w 13 f sod 123 diodes d27 d28 d29 d30 d33 d34 d35 d36 100v 300ma sod 123 信号 二极管 8.0 32.0
+ddz9678 7bzt52c2v0 7 fmmsz4680et1gmmsz4679 tpszmmsz4679t1g sod 123 diodes dx3 1.8 2v 稳压管 zener diode 1.0 4.0
+6000 2 a7 丝印 sod 123 1n4007
+srv05 4 tct semtech 3000 1 sot23 6 tvs srv05 4
+2 bridge rectifiers mb4s soic 4 1 bd1 2100
+16 diode mbr230 mbr230 sod 123fl case 498 plastic 1 d1 2100
+17 schottky rectifier mbr0530 mbr0530 sod 123fl case 498 plastic 1 d9 2100
+18 esd se03vp50n 16 se03vp50n 16 esd 0402 11 d2 d3 d4 d7 d8 d11 d12 d13 d14 d16 d17 23100
+20 tvs smcj33ca 13 f smcj33ca 13 f 214ab smc tvs bi 1 ed1 2100
+1n4007 6000 2 a7 丝印 sod 123 1n4007
+srv05 4lc t7 protek 3000 1 sot23 6 tvs srv05 4
+30 11 0105 009 010 防雷 管 18v tvs 18v tvs sod 123 sod 123 d13 1 10000.0
+31 11 0105 002 002 肖特基 二极管 ss34 smb ss34 3a lc smb 214aa s1 d8 1 10000.0
+17 11 0117 001 005 管 cesdlc5v0m5 cesdlc5v0m5 sot 563 sot 563 u1 1 10000.0
+18 11 0117 001 003 管 sod 323 pesdhc3d3v3u pesdhc3d3v3u smd sod 323 sod 323 d1 1 10000.0
+20 11 0105 001 004 二级 管 1n5819 sod 523 塑封 lc sod 523 d3 d5 d6 3 30000.0
+15 11 0105 009 010 双向 tvs 瞬态 抑制 二极管 smf18ca 18v tvs sod 123 d3 1 10000.0
+16 11 0105 001 006 贴片 快 二极管 f7 f7 sod 123fl sod 123 d1 d2 2 20000.0
+19 11 0111 013 009 贴片 桥堆 mb10f mb10f mb6s db1 1 10000.0
+23 11 0117 001 001 贴片 管 esda0603 09 esda0603 09 esd0603 0603 esd1 esd2 2 20000.0
+33 esda25p35 1u1m diode esda25p35 1u1m qfn 1610 20000 esda25p35 1u1m 半导体 18000 7 10 days 1 1 0.11 1980 19
+34 esda25w diode esda25w sot23 3p 5000 esda25w 5000 7 12 days 3000 0.12 600
+mmbd7000 开关 二极管 d1 sot 23 10 1 on
+smbj6.5 ca 瞬态 二极管 d2 d3 214aa 20 2 jksemi
+1n5819 肖特基 二极管 d4 214ac 10 1 sunmate
+153 贴片 肖特基 二极管 bat54s 215 diode array schottky 30v sot23 nexperia bat54s 215 sot 23 2 40 4000 60000
+贴片 稳压 二极管 mm1z10 zener voltage 10v 5ma 500mw sod 123 semtech mm1z10 sod123 1 semtech 20 2000 30000
+154 贴片 稳压 二极管 mm1z22 zener voltage 22v 5ma 500mw sod 123 semtech mm1z22 sod123 1 semtech 20 2000 30000
+155 贴片 肖特基 二极管 bat54c 215 diode array schottky 30v sot23 nexperia 双 肖特基 二极管 bat54c 215 sot 23 1 nexperia 20 2000 30000
+157 c3291010001 贴片 esd 贴片 esd protect 0402 esd9b5vl 2 tr smt willsemi esd9b5vl 2 tr o402 10 willsemi 200 20000 300000
+159 c3211010001 贴片 肖特基 二极管 二极管 sk56 smc sk56 214ab 2 40 4000 60000
+161 c3211010002 贴片 肖特基 二极管 肖特基 二极管 ss34 40v 3a sma born ss34 do214ac 10 born 200 20000 300000
+162 c3231010001 贴片 稳压 二极管 7.5 v mm1z7v5 sod 523 zmm7v5st sod 523aa 3 60 6000 90000
+163 c3211010003 贴片 肖特基 二极管 rb520s 30 sod523 semtech rb520s sod 523 3 semtech 60 6000 90000
+165 贴片 肖特基 二极管 schottky diodes bat60bhs sod 323he bat60 sod 323 2 40 4000 60000
+166 贴片 稳压 二极管 7.5 v mm1z7v5 sod 123 zmm7v5st sod123 1 20 2000 30000
+199 贴片 tvs 管 btr9s23a10 v 5 v clamping voltage 16v sod 923 package btr923a10 sod 923 6 120 12000 180000
+1 4c7602d0 d01 s000101 diode schottky 30v 0.2 a sod323 bat54ht1g 肖特基 二极管 3812
+2 4c7602d0 d01 s000101 diode schottky 30v 0.2 a sod323 bat54ht1g 肖特基 二极管 205
+3 4c7602d0 d02 s000015 diode switch 75v 200mw sod323 1n4148ws 7 f diodes 整流 二极管 5214
+4 4c7602d0 d02 s000015 diode switch 75v 200mw sod323 1n4148ws 7 f diodes 整流 二极管 305
+5 4c7602d0 d07 s000379 diode zener 16v 500mw sod523 mm5z 16v t1g on 齐纳 二极管 7623
+6 4c7602d0 d07 s000379 diode zener 16v 500mw sod523 mm5z 16v t1g on 齐纳 二极管 405
+7 4c7602d0 d07 s000385 d mmsz5227b sod 123 3.6 v 15ua 1v 500mw mmsz5227b 齐纳 二极管 536
+8 4c7602d0 d07 s000385 d mmsz5227b sod 123 3.6 v 15ua 1v 500mw mmsz5227b 齐纳 二极管 105
+9 4c7602d0 d14 s000104 tvs diode 3.3 v 8v sod523 cpdh3v3up hf comchip tvs 二极管 3812
+10 4c7602d0 d14 s000104 tvs diode 3.3 v 8v sod523 cpdh3v3up hf comchip tvs 二极管 205
+1ss226 sot 23 11.0 二极管 5500.0
+02cz5.1 y sot 23 02cz 2.0 稳压 二极管 1000.0
+1n4007 5819smd 3.0 sma 二极管 1500.0
+18 0110 00217 贴片 二极管 bat54cwt1g diode array schottky 30v sot323 on semiconductor bat54cwt1g on 1050
+19 0110 00218 贴片 二极管 db2j31400l diode schottky 30v 30ma smini2 db2j31400l 1050
+29 1777 0 29 topdynamic diode thd rectifiers vr 1000v io 1a t r 41 1n4007 3.0 30000
+30 1777 0 30 topdynamic diode thd zener diode 5.6 v 5w 15 1n5339b 1.0 10000
+31 1777 0 31 topdynamic diode thd zener diode 24v 5w 15 1n5359b 1.0 10000
+11 040064 二极管 1n4148 sod123 40
+11 040065 稳压 二极管 esd5z5vl will semi 10
+3 tvs 二极管 nup2105lt1g onsemi sot 23 nup2105lt1g sot 23 3 on 300
+4 稳压 二极管 flz12va sod 80 flz12va sod 80 on 300
+5 整流器 mbr2035ct mbr2035ct to 220 3 300
+20 二极管 dsi45 16ar ixys dsi45 16ar ixys 600
+21 稳压管 flz4v7c sod 80 flz4v7c sod 80 on 1500
+24 稳压管 flz3v0a sod 80 flz3v0a sod 80 on 2100
+25 稳压管 flz 10v c sod 80 flz 10v c sod 80 on 2100
+26 稳压管 flz18vc sod 80 flz18vc sod 80 on 2100
+35 tvs 二极管 sm6t6v8a smb sm6t6v8a 214aa 300
+42 esd 器件 12 du1 du2 du3 d4 d5 d6 d7 d14 d18 d20 d21 d22 esd5d100ta esd0402
+43 esd 器件 4 du4 du5 du7 du8 esd5d003ta esd0402
+44 esd 器件 6 du6 d9 d10 d11 d12 du9 esd7d750tr esd0402
+49 肖特基 二极管 1 d2 ss34 smdo214ac
+50 肖特基 二极管 1 d3 ss24 smdo214ac
+52 肖特基 二极管 1 d16 ss14 sod 123
+53 will semiconductor 肖特基 二极管 2 d17 d19 wsb5508l 2 tr sod 123
+54 will semiconductor 双向 tvs 管 18 ed1 ed2 ed3 ed4 ed5 ed6 ed7 ed8 ed9 ed10 ed11 ed12 ed13 ed14 ed15 ed16 ed17 ed18 esd5451n 2 tr esd0402
+187 超低 电容 esd 器件 2 u13 u16 tpd4e05u06dqar son10 2r50x1r00x0r50
+1ss314 sod 323 0805
+13.0 瞬态 抑制 二极管 tvs smbj12ca smbj12ca d1 smb 214aa 1.0 1000
+37 27013 1ss314 sod 323 0805 20 50
+25.0 瞬态 抑制 二极管 smbj6.5 ca d2 d3 d6 d7 d8 d9 d12 d13 d16 smb 214aa yini 9.0 9000
+26.0 瞬态 抑制 二极管 smbj8.0 ca d4 d5 d10 d11 smb 214aa yini 4.0 4000
+27.0 贴片 整流 二极管 1n4148w d1 sod 123fl 1.0 1000
+28.0 贴片 整流 二极管 m7 d d14 d15 sma 2.0 2000
+000400 tvs2 smbj24a tvs diode 24v 600w 214aa smbj24a m3 5b 1 1120
+000430 u4 集成电路 ic rclamp0502a usb high speed filter with esd protection rclamp0502a 1 semtech 1120
+26 d1 d2 d3 3.0 diode 1n4007 diodes general purpose 1kv 1a 1.1 v 1a 41 41 panjit international 1n4007 ay 10001
+27 dz1 1.0 zener diode zener diode 24v zener diode 24v 5w axial axial on semiconductor 1n5359brlg
+28 dz3 1.0 zener diode zener diode 5.6 v zener diode 5.6 v 5w axial axial on semiconductor 1n5339brlg
+26 d1 d2 d3 3.0 diode 1n4007 diodes general purpose 1kv 1a 1.1 v 1a 41 41 panjit international 1n4007 ay 10001
+27 dz1 1.0 zener diode zener diode 24v zener diode 24v 5w axial axial on semiconductor 1n5359brlg
+28 dz3 1.0 zener diode zener diode 5.6 v zener diode 5.6 v 5w axial axial on semiconductor 1n5339brlg
+2035 09 sm rplf 3000
+63 dio a00000a26 mbrm120e d5 6 d11 d15 4 457 04 schottky barrier diode on 800
+64 dio a00000a29 smd24jgp d7 d24 d32 d34 d36 d38 d40 d42 8 sod 123j io 2a vr 40v vf 0.5 v ir 500ua schottky barrier rectifier voltage range 40 volts current 2.0 amperes 力勤 1600
+65 dio aj0000 s14 d1 4 d8 10 d12 14 d18 23 d25 31 28 sma 214ac if 1a vf 0.55 v io 1a vr 30v schottky barrier diode smd daco 5600
+83 esd 20180500002 lesd8d5.0 cat5g e1 e4 e5 e8 e9 e12 e13 e16 e17e20 e21 e24 e25e28 e29 e32 16 sod882 stand − off voltage 5.0 v response time is typically 1.0 ns 登辰易 3200
+84 esd 20180500003 lesd8d7 0cat5g e2 3 e6 7 e10 11e14 15 e18 19 e22 23 e26 27e30 31 16 sod882 stand − off voltage 7.0 v response time is typically 1.0 ns 登辰易 3200
+po20190026 温度 3000024666 直插 整流桥 db107 220
+po20190026 温度 3000011051 esd 保护 二极管 ds9503 tsoc6 490
+dio a00000a26 mbrm120e d5 6 d11 d15 4 457 04 schottky barrier diode on 800
+dio a00000a29 smd24jgp d7 d24 d32 d34 d36 d38 d40 d42 8 sod 123j io 2a vr 40v vf 0.5 v ir 500ua schottky barrier rectifier voltage range 40 volts current 2.0 amperes 力勤 1600
+dio aj0000 s14 d1 4 d8 10 d12 14 d18 23 d25 31 28 sma 214ac if 1a vf 0.55 v io 1a vr 30v schottky barrier diode smd daco 5600
+esd 20180500002 lesd8d5.0 cat5g e1 e4 e5 e8 e9 e12 e13 e16 e17e20 e21 e24 e25e28 e29 e32 16 sod882 stand − off voltage 5.0 v response time is typically 1.0 ns 登辰易 3200
+esd 20180500003 lesd8d7 0cat5g e2 3 e6 7 e10 11e14 15 e18 19 e22 23 e26 27e30 31 16 sod882 stand − off voltage 7.0 v response time is typically 1.0 ns 登辰易 3200
+po20190026 3000001862 贴片 二极管 1n4148ws sod 323 1n4148ws 3030
+po20190026 3000011112 贴片 二极管 es1d smb es1d vashy 2930
+po20190026 3000004290 贴片 二极管 ss26t3 smb ss26t3 vashy 770
+po20190026 3000001856 贴片 二极管 es1j smb es1j vashy 770
+po20190026 3000001853 快 二极管 byv26e sod57 byv26e 1490
+po20190026 3000001863 贴片 二极管 m7 sma m7 2930
+po20190026 3000004286 贴片 双 二极管 pmbd7000 sot 23 pmbd7000 1455
+po20190026 3000004289 稳压 二极管 kexin 1sma5918b 214ac sma 1sma5918b kexin 1455
+po20190026 温度 3000024666 直插 整流桥 db107 db107 diodes 220
+po20190026 温度 3000011051 esd 保护 二极管 ds9503 tsoc6 ds9503 490
+bd1 diode tmbfr210 pingwe 10000
+贴片 二极管 d4004 ll 34 2 d1 d2
+d1 mmsz5245bt1g 1 on 稳压管 15v 10.0
+d2 mmbd1201 1 on sot 23 100 v 2 a 10.0
+d3 murs160 e3 52t 1 1a 600v 10.0
+d4 mmbd1201 1 on sot 23 100 v 2 a 10.0
+d5 smbt70a 13 f 1 on tvs 管 70v 10.0
+d6 mmbd1201 1 on sot 23 100 v 2 a 10.0
+d7 mmsz5245bt1g 1 on 稳压管 15v 10.0
+sp1103c 01utg 5
+17.0 1n4148 3528 02 01 d2 d3 d4 3.0 30.0 贴片
+18.0 1n5819 3528 02 01 d5 1.0 10.0 贴片
+1n47 3528 02 01 d1 1.0 10.0 贴片
+28.0 28v tvs 1808 z1 1.0 10.0
+5.0 1n4007 1808 d1 1.0 10.0 贴片
+p6smb36cat3g 1808 z1 1.0 10.0
+15.0 1n4148 贴片 d3 1.0 10.0
+16.0 1n5817 贴片 d1 1.0 10.0
+17.0 1n5819 贴片 d2 1.0 10.0
+20.0 1n4007 贴片 d6 d7 2.0 20.0
+30.0 28v tvs 1808 z1 1.0 10.0 双向 28 tvs
+48 060w107510313 267 703800002800 二极管 schottky diode fm751v nl h 40v 30ma sod 323 smd formosa fm751v nl h 2 200 mbs 5330 2.0
+78 060w412400211 268 703800002900 二极管 tvs diode tvu1240r1a 12v smd 2510 inpaq inpaq tvu1240r1a 4 400 mbs 5330 lio 53301 2.0 2.0
+96 060w100540911 269 700509190200 二极管 schottky barrier diode bat54c tp 30v mcc bat54c tp 1 100 mbs 5330 1.0
+134 060w003550011 270 703800001000 二极管 switch diode 1ss355te 17 smd rohm rohm 1ss355te 17 2 200 mbs 5330 2.0
+164 060w04e051511 271 703800002700 二极管 整流 二极管 tpd4e05u06dqar 5v smd tpd4e05u06dqar 2 200 mbs 5330 2.0
+169 060w041480511 272 703800002600 二极管 ll4148 gs08 75v 300ma sod 80 smd ll4148 gs08 26 2600 mbs 5330 26.0
+17 05004 00489 贴片 二极管 smbj26a 214aa 1 d1 22
+18 05003 00177 贴片 二极管 ss14 e3 5at 214ac 6 d2 d4 d7 d8 d9 d10 132
+19 05035 00210 esd 二极管 esda6v1u1rl 2 esd1 esd2 44
+20 05004 00491 tvs 二极管 sm12t1 sot 23 2 d5 d6 on 44
+17 05004 00489 贴片 二极管 smbj26a 214aa 1 d1 22
+18 05003 00177 贴片 二极管 ss14 e3 5at 214ac 6 d2 d4 d7 d8 d9 d10 132
+19 05035 00210 esd 二极管 esda6v1u1rl 2 esd1 esd2 44
+20 05004 00491 tvs 二极管 sm12t1 sot 23 2 d5 d6 on 44
+9 d07 s000017 tvs diode 3.3 vwm 7.8 vc sod923 esd9r3.3 st5g on 齐纳 二极管 2064
+esdcan02 2bwy esd suppressors tvs diodes automotive dual line transil 3d sm712 d95 d96 3.0 700.0
+sm712 02htg tvs diode 12v 31v sot23 3 3d sm712 d207 d210 d213 3.0 1050.0
+smaz10 13 f diode zener 10v 1w sma 3d do214 d165 d169 2.0 700.0
+smaz16 13 f zener diodes 16 volt 1.0 w 5% 3d do214 d5 d6 d20 d21 d35 d36 d50 d51 d65 d66 d125 d126 d166 d170 2.0 4900.0
+smbj28cd m3 h esd suppressors tvs diodes 28v 600w bidir transzorb 3.5% tol 3d do214 d189 d190 d191 d192 d193 d194 d195 d196 2.0 2800.0
+smcj5.0 esd suppressors tvs diodes 1.5 kw 5v 10% uni directional 3d smcj d172 2.0 350.0
+smcj28a 28v bidirectional tvs diode 3d smcj d1 d2 d3 d4 d7 d101 d113 d128 d167 d171 d180 2.0 3850.0
+tbu ca065 200 wh tbu ca065 200 wh bi directional tvs diode 12 pin dfn dioc650x400x100n d205 d206 d208 d209 d211 d212 2.0 2100.0
+tpd4e002drl2 . 15 kv esd protection 4 channels 40 to 85 degc 5 pin sot drl green drl5 v u81 5.0 1750.0
+usblc6 4sc6 esd suppressors tvs diodes low cap esd protec sot23 6 u54 6.0 350.0
+wi dio 0002 d2 d3 d5 1kv 1a smb 3 diode gen purp 1kv 1a smb diodes s1mb 13 f s1mb fdict nd smb 2340
+wi dio 0009 d10 stth1r06 1 diode gen purp 600v 1a sma stth1r06a 497 3765 6 nd sma 780
+wi dio 0005 d8 d9 1kv 1a sma 2 diode gen purp 1kv 1a sma on semiconductor s1m s1mfsct nd sma 1560
+wi dio 0010 d6 b340a 13 f 1 diode schottky 40v 3a sma diodes incorporated b340a 13 f b340a fdict nd sma 780
+wi dio 0004 d7 1kv bridge 1 ic full bridge diode 1000v 4 microdip on semiconductor mdb10s mdb10sfsct nd 0805 780
+wi dio 0006 d25 1kv 1a sma 1 diode gen purp 1kv 1a sma diodes us1m 13 f us1m fdict nd sma 780
+wi dio 0011 d11 curb207 g 1 diode gen purp 1kv 2a do214aa comchip technology curb207 g 641 1191 6 nd 780
+wi dio 0007 d12 d13 d14 d15 d16 d17 d18 d19 1kv 1a sma 8 diode gen purp 1kv 1a sma diodes s1m 13 f s1m fdict nd sma 6240
+wi dio 0012 d26 s1mls rvg 1 diode gen purp 1kv 1.2 a sod123he taiwan semiconductor corporation s1mls rvg s1mlsrvgdkr nd 780
+wi msc 0001 gt1 600v 10ka 1 gdt 600v 15% 10ka surface mount 2027 60 sm rplf 2027 60 sm rplfct nd smd smt 780
+wi ics 0010 u2 ic 1 ic usb switch usblc6 4sc6 497 4492 6 nd sot 23 650
+091804 011401 tvs smbj5344b 214aa 1006
+091804 019701 二极管 4007 214ac 362
+091804 030301 二极管 1n4148 0402 480
+091805 132201 tvs 0402 tpd1e10b06dpyr 121
+091805 132601 二极管 tpd1e10b06dpyr 0402 412
+26 二极管 srv05 4 tct sot23 s6 ws070005 2 18400
+27 二极管 s5k 214ab ws070006 1 9200
+28 二极管 smej36ag do218ab ws070007 1 9200
+29 二极管 mbrs340t3g diodes smc case403 ws070008 1 9200
+30 二极管 smbj5.0 a 214aa ws070009 1 9200
+31 二极管 sed52c05l01 sod 523 ws070010 8 73600
+33 二极管 nup2105lt1g sot 23 es010118 1 9200
+34 二极管 ss24 214aa 214aa es010100 1 9200
+26 d1 d2 d3 3.0 diode 1n4007 diodes general purpose 1kv 1a 1.1 v 1a 41 41 panjit international 1n4007 ay 10001 30000 1n4007 ay 10001 panjit 300 2 4working days 5000.0 50.0 0.08357 25.07
+27 dz1 1.0 zener diode zener diode 24v zener diode 24v 5w axial axial on semiconductor 1n5359brlg 10000 1n5359brlg on 100 2 4working days 4000.0 1.0 0.8349 83.49
+28 dz3 1.0 zener diode zener diode 5.6 v zener diode 5.6 v 5w axial axial on semiconductor 1n5339brlg 10000 1n5339brlg on 100 2 4working days 4000.0 1.0 1.05751 105.75
+2038 15 sm rplf gdt 1 50v 25% 5ka surface mount gdt 2038 15 sm g1 g2 g3 3.0 1050.0
+aq24 02htg tvs diodes esd suppressors 2ch 30kv 24v 3d sm712 d84 d85 d86 d87 3.0 1400.0
+b240a 13 f schottky diodes rectifiers 40v 2a 3d do214 d88 d98 d111 d179 d181 d182 d183 d184 d185 d186 d187 d188 2.0 4200.0
+cdsod323 t24c dslq tvs diodes esd suppressors 24v 350w bidirection sod323 aecq 3d diode 0805 d141 2.0 350.0
+cdsod323 t24s 24v tvs diodes esd suppressors unidirectional std cap 3d diode 0805 d18 d19 d33 d34 d48 d49 d63 d64 d78 d79 d100 d104 d108 d110 d124 d127 d131 d132 d133 d134 d135 d136 d137 d138 d139 d140 d142 d143 d144 d145 d147 d148 d149 d150 2.0 14000.0
+db107 s full wave diode bridge 3d wso4 d8 d23 d38 d53 d68 d129 4.0 2100.0
+esdcan02 2bwy esd suppressors tvs diodes automotive dual line transil 3d sm712 d95 d96 3.0 700.0
+sm712 02htg tvs diode 12v 31v sot23 3 3d sm712 d207 d210 d213 3.0 1050.0
+smaz10 13 f diode zener 10v 1w sma 3d do214 d165 d169 2.0 700.0
+smaz16 13 f zener diodes 16 volt 1.0 w 5% 3d do214 d5 d6 d20 d21 d35 d36 d50 d51 d65 d66 d125 d126 d166 d170 2.0 4900.0
+smbj28cd m3 h esd suppressors tvs diodes 28v 600w bidir transzorb 3.5% tol 3d do214 d189 d190 d191 d192 d193 d194 d195 d196 2.0 2800.0
+smcj5.0 esd suppressors tvs diodes 1.5 kw 5v 10% uni directional 3d smcj d172 2.0 350.0
+smcj28a 28v bidirectional tvs diode 3d smcj d1 d2 d3 d4 d7 d101 d113 d128 d167 d171 d180 2.0 3850.0
+tbu ca065 200 wh tbu ca065 200 wh bi directional tvs diode 12 pin dfn dioc650x400x100n d205 d206 d208 d209 d211 d212 2.0 2100.0
+tpd4e002drl2 . 15 kv esd protection 4 channels 40 to 85 degc 5 pin sot drl green drl5 v u81 5.0 1750.0
+usblc6 4sc6 esd suppressors tvs diodes low cap esd protec sot23 6 u54 6.0 350.0
+6106 tsslp200 tvs 二极管 tvs diode 53 vwm 21vc tsslp2 4 infineon esd112b102else6327xtsa1 300 esd112b102else6327xtsa1 infineon 300
+51 ej e1040205 esd 管 esd ega10402v05ah inpaq ega10402v05ah 900 bpesd0402 05st born 900 3 0071381
+4g2403b0 d14 s000019 tvs diode 5v 9.2 v smbj5.0 a do214aa tvs 二极管 996
+14 1 100 d1 srv05 4 tct sot 26 srv05 4 峰值 脉冲电流 12a 钳位 电压 15v 击穿 电压 6v 管 端电压 5v leiditech 雷卯 item szlcsc 358584 html
+15 1 100 d2 mura120 mura120 mura120 同流 1a 正 向导 通压 降 071 v 击穿 电压 200v on item szlcsc 113061 html
+16 2 200 d3 d4 rclamp0524patct rclamp0524p rclamp0524p esd 4 通道 钳位 电压 15v ipeak 1a ≤ 04 pf semtech item szlcsc 41944 html
+17 1 100 d5 ss34 214ac ss34 同流 3a 正 向导 通压 降 055 v 击穿 电压 40v mdd item szlcsc 9178 html
+18 1 100 d6 smf12a sod 123fl smf12a vrmw 12v vbr 133 147 v vc 199 v 单 极性 ipp 101 a mdd item szlcsc 189651 html
+19 2 200 d7 d8 mbra210lt3g 214ac mbra210lt3g 耐压 vr 10v 正向 电流 2a 正向 压降 350mv 2a on item szlcsc 156522 html
+20 1 100 d9 1n4148 sod 123 1n4148 开关 二极管 vr 100v if 150ma vf 125 v item szlcsc 2456 html
+21 1 100 d10 smf50 a sod 123fl smf50 a vrmw 5v vbr 64 v vc 92 v 单 极性 ipp 217 a mdd item szlcsc 231120 html
+二极管 55 to 150 ° c 200ma 30v bat54a sot 23 20
+二极管 55 to 150 ° c 200ma 30v bat54c sot 23 30
+钳位 二极管 55 to 150 ° c 200ma 30v bat54s sot 23 3 70
+二极管 55 to 150 ° c 70v 200ma bav99 sot 23 3 35
+6.5 v 双向 稳压 二极管 diodes 55 to 125 ° c 600w 瞬态 电压 抑制器 smbj6.5 ca diodes smb 214aa 10
+30v 单向 稳压 二极管 diodes 55 to 125 ° c 600w 瞬态 电压 抑制器 smbj30a diodes smb 214aa 10
+二极管 65to 125 ° c 20vdc 1a ss12 214ac 34
+二极管 65to 125 ° c 20vdc 3a ss36fa 214 34
+二极管 diodes 65 to 150 ° c 1a 1000v 超 快速 整流 二极管 us1m diodes 214ac 20
+二极管 on semiconductor 55 to 150 ° c 1000vdc 1.5 a us2ma on semiconductor 214ac 30
+2 nh dem001 ferd2045sb tr 10
+19 贴片 二极管 esh1pb d1 220aa smp 1 20
+20 贴片 二极管 smc3k33ca m3 57 d2 smc 1 20
+21 贴片 二极管 led3 d3 2012 0805 1 20
+24 贴片 二极管 ss2h10he3 a i d7 smb 1 20
+74 贴片 tvs 824022 z1 824022 1 wurth 20
+tvs smf5.0 a tvs2 tvs23 tvs41 tvs48 67 23 sod 123fl 345
+tvs smf10.0 a tvs37 tvs42 tvs44 3 sod 123fl 45
+tvs smf20.0 a tvs32 1 sod 123fl 15
+tvs smf45.0 a tvs30 tvs33 35 4 sod 123fl 60
+tvs esd5z2.5 t1g t5g tvs1 tvs4 5 tvs7 8 tvs11 12 7 sod 523 525
+tvs esd5z3.3 t1g t5g tvs9 10 2 sod 523 150
+tvs smf6v0a e3 08 tvs2 3 2 smf 219ab 150
+tvs smf28a e3 08 tvs6 1 smf 219ab 75
+二极管 直插 byv26ev d7 1 3
+二极管 sma ss14 d2 d9 2 6
+sma us1m d4 d5 d6 d7 4 12
+贴片 us3m d1 1 3
+直插 gbj2510 d14 1 3
+18 贴片 二极管 1n4148 d1206 1 d7 1000 2500 1500 500 ll4148 500.0 贴片 二极管 1n4148 d1206 1.0 d7
+19 贴片 tvs 管 smbj6.5 ca smb 3 d8 d9 d10 3000 3000 0 3000 smbj6.5 ca mdd 3000.0 贴片 tvs 管 smbj6.5 ca smb 3.0 d8 d9 d10
+20 贴片 肖特基 1n5822 smb 1 d11 1000 3000 2000 1000 1n5822 lrc 1000.0 贴片 肖特基 1n5822 smb 1.0 d11
+稳压 二极管 bzt52c12s 稳压 12v d1 d14 d15 sod323 3 21
+开关 二极管 in4148 d3 d4 d5 d6 sod323 4 3000
+肖特基 二极管 1n5822 3a 40v d10 d12 d19 d21 不焊 smb 2 3000
+双向 tvs 管 smcj36ca d13 d16 214ab 2 15
+肖特基 二极管 ss14 d18 d23 d17 d22 不焊 214aa 2 2000
+双 二极管 mbrb20100ct d20 to 263 1 9
+双 二极管 bav99 d24 d25 sot23 2 15
+双向 tvs 管 smaj33ca dk1 dk2 dk3 dk4 dk5 dk6 214ac 6 39
+整流 二极管 1n5408 dk7 214ab 1 9
+tvs 管 tvs vb 12v cap 10pf 0402 sfi0402 120e100np lf h 970829 sfi 1 1000 tv1921
+tvs n diode tvs 5v 0.5 pf sod882 0.5 pf 8 20us 5v sig8l5.0 st5g sig 2 2000 tv1804 tv1900
+二极管 n 二极管 tvs 双向 5v 15pf sod 882 sig8d5.0 st5g sig 11 11000 tvs1 tvs2 tvs3 tvs4 tvs5 tvs6 tvs7 t302 tvs1101 tvs1102 tv1901
+稳压 二极管 s zener 5.1 v 500mw sod 523 sig5v1t1g sig 1 1000 d304
+3 0101 150027 整流桥 gbj2510 pin3l30w46 h20 1000 liteon 虹扬 gbj2510 1300
+4 0101 150028 整流桥 kbp310g pin4l155 w48 h11 1000 liteon 虹扬 kbp310g 1300
+7 1102 030001 整流桥 gbj1008 10a 单相 400 liteon s gbj1008f tu lt 1300
+8 1102 030003 快 二极管 ffp08h60s 8a to220ac 500 on ffp08h60stu 1862
+9 1102 030004 二极管 th2003cfp 20a to220fpab 500 th2003cfp 1862
+d1 ss34 diode do214aa do214aa diode 20
+d2 1n4148 diode sod323 w sod323 w diode 2.0 40
+zd 5v1 diode sod323 w sod323 w diode 2.0 40
+9 usblc6 2p6 tvs diode 5.25 v 17v sot666 1 1000
+9 usblc6 2p6 tvs diode 5.25 v 17v sot666 1 5000
+16 top 贴片 esd esd cd esd sod 523 esdbvd5v0d5 d1 d2 d3 d4 4 40
+17 top 贴片 二极管 ss34 sma yj7 sbd sma 214ac 3a 40v ss34a d5 1 10
+18 top 贴片 tvs p6smbj16ca 214aa p6smbj16ca smb d6 1 10
+32 10140000412 贴片 开关 二极管 semt sw sod 123 0.15 a 100v 1n4148w d2 1 sod 123 10
+33 10140004025 贴片 esd 保护 二极管 diod esd x1 dfn1006 2 desd12v0s1bl 7b d4 d5 d6 d7 4 sod882 40
+34 10140003654 贴片 esd 保护 二极管 lrc esd sod882 lesd8d12ct5g d4 d5 d6 d7 4 sod882 40
+51 10140001748 贴片 瞬态 电压 抑制 管 panj tvs sma 5v 400w p4smaj5.0 ca 214ac tvs1 1 sma 214ac 10
+52 10140002334 贴片 瞬态 电压 抑制 管 lrc tvs 214ac sma 5v 400w smaj5.0 a tvs1 1 sma 214ac 10
+sesot12clc d2 sot 23 3 l3.0 w1.7 p0.95 ls2.9 br 1 5
+hsms 2822 u27 sot23 3 1 5
+091805 125101 贴装 稳压 二极管 mmsz5227b 3.6 v mmsz5227bt1g 90
+091805 125101 稳压管 mmsz5227b mmsz5227bt1g 3.6 v 0.5 w 160
+091805 125101 稳压管 稳压管 mmsz5227b mmsz5227bt1g 3.6 v 0.5 w 10
+091804 029801 表贴 二极管 1n4148 smd 1n4148w 270
+091804 028801 稳压 二极管 1n4733 5v 1w 插装 1n4733a 10
+091804 028301 tvs tvs smbj6.8 ca smbj6.8 ca 30
+091804 028001 二极管 sb340 40
+091804 027901 tvs 二极管 p6ke6.8 a 120
+091804 027801 tvs 二极管 p6ke30a 80
+091804 027701 tvs 二极管 p6ke16ca 20
+16 10 diode ss 2 50v 200ma sot23 d11 bav23sfsct nd bav23s each
+17 10 diode schottky 40v 1a sma d12 b140 fdict nd diodes inc b140 13 f each
+16 rfoa02 05 003 diode high speed 1n4148 35 axl 1n4148
+17 rfoa02 05 005 diode schottky 1n5817 41 axl 1n5817 mdd
+18 rfoa02 05 006 diode schottky 1n5819 41 axl 1n5819 mdd
+19 rfoa02 05 002 diode silicon 1n4001 41 axl e 絡盟 9564993 1n4001 mdd
+15v 单向 tvs smbj15a tr smbj15a vrwm 15v vbr 16.7 v 18.5 v vclamp 24.4 v ipp 24v ppp 600w ir 5ua uni drection smb on 1smbj15at3 smbj15a tr 1 300
+肖特基 二极管 bat54ht1g lbat54ht1g io 0.2 a vrrm 30v vf 0.4 v 10ma sod 323 lrc lbat54ht1g 1 300
+肖特基 二极管 lrb521s 30t1g rb521sm 30t2r rb521s 30 1ps79sb10 rb521s 30u9jte61 io 0.2 a vrrm 30v vf 0.5 v 0.2 a ir 30ua sod 523 lrc lrb521s 30t1g 1 300
+2 2006040003 二极管 100 tvs semtech rclamp0524p tct slp2510p8
+3 2006040010 瞬态 电压 抑制器 250 tvs semtech rclamp0502a sc 89 6v
+4 2007010008 肖特基 二极管 500 diode on mbrs240lt3g smb 40v 2a
+rb751v 40 17 diode schottky 30v 30ma umd2 sod323 ak rohm rb751v 40 17 2400 9920 7000 1000
+pdz24 b diode zener 24 v 400mw sod323 1n4148ws v sod323 nexperia usa inc pdz24 b 115 1200 9920 7000 1000
+1sma5918bt3g on semiconductor 1sma5918bt3g diode zener 5.1 v 1.5 w 1sma59xxbt3g on semiconductor 1sma5918bt3g 1800 9920 7000 1000
+rb751s40t1g rb751s40t1g diode schottky 30ma 370mv sod 523 on semiconductor rb751s40t1g 1800 9920 7000 1000
+bav20ws diodes inc bav20ws 7 f diode switching 200v 02 w sod323 element14 184 3712 bav20ws sod323 diodes inc bav20ws 7 f 600 9920 7000 1000
+murs120 diode gen purp 200v 1a axial mur120 p10 on semiconductor mur120rlg 1800 9920 7000 1000
+1n4148w diode small signal 100v sod 323 1n4148ws v sod323 semiconductor 1n4148ws 600 9920 7000 1000
+cd214a f1200 cd214a f1200 diode fast resp 200v 1a 214ac element 14 2211962 cd214a f1200 214ac cd214a f1200 1800 9920 7000 1000
+mbrs130t3g on semiconductor 1 amp general purpose rectifier pn mbrs130t3g farnell 1459070 footprint 214aa mbrs130t3 smb on semiconductor mbrs130t3g 600 9920 7000 1000
+pdz6.2 b zener diode 1n4148ws v sod323 nexperia pdz6.2 b 115 300 9920 7000 1000
+rb161m 20tr schottky rectifiers vf 160mv sod 123 rohm rb161m 20tr 300 9920 7000 1000
+1n4148ws small signal fast switching diode 100v 1n4148ws v sod323 semiconductor 1n4148ws g3 08 2100 9920 7000 1000
+b330a 13 f diode schottky 30v 3a sma b330a sma diodes inc b330a 13 f 300 9920 7000 1000
+bzt52c3v3s diode zener 33 v 02 w sod323 sod323 ak diodes inc mmsz5226bs 300 9920 7000 1000
+bzx884 c51 zener diode 51v sod 882 sod 882 nexperia bzx884 c51 315 600 9920 7000 1000
+bat46wh bat46wh diode schottky 100v 0.25 a sod123f bat46wh sod123f nexperia bat46wh 600 9920 7000 1000
+d murb2020ctpbf diode ultrafast 2x10a farnell 9101659 murb2020ctpbf d2pak vs murb2020ctpbf 300 9920 7000 1000
+sm6t27a dio rect sma b3 shtky 30v 3a b330a sma sm6t27a 300 9920 7000 1000
+1n4148ws v gs18 diode switching 100 volt 350ma 4ns 1n4148ws v sod323 1n4148ws v gs18 600 9920 7000 1000
+stps2150a diode schottky 2a 1 50v forward current 0.67 v 214ac stps2150a 600 9920 7000 1000
+pds3200 13 diodes pds3200 13 diode schottky 200v 3a pds3200 13 diodes inc pds3200 13 300 9920 7000 1000
+pgb1010603nr esd suppressors 0603 0603 littlefuse pgb1010603nr 3300 9920 7000 1000
+l12esdl5v0c6 4 esd protection sot23 6 lite on semiconductor l12esdl5v0c6 4 900 9920 7000 1000
+sp725abtg tvs thyristor 30 v 8 pins soic tvs 2 circuits soic8 littlefuse sp725abtg 900 9920 7000 1000
+vbus05l1 dd1 g 08 tvs diode bidrectional voltage rating 5.5 v llp1006 2m vbus05l1 dd1 g 08 3300 9920 7000 1000
+tvs smc30j6.5 ca esd suppressors tvs diodes 3000w transil 6.5 v 0.2 ua 15kv 8kv 214ab 12 smc30j6.5 ca 1800 9920 7000 1000
+smbj150ca tvs diode 1 50v wm 243vc smb smbj150ca do214aa semiconductor diodes division smbj150ca 300 9920 7000 1000
+desdalc5lp 7b tvs diode bidrectional voltage rating 5.5 v ap02001 diode inc desdalc5lp 7b 600 9920 7000 1000
+sp725abtg tvs array esd 4ch 2 30v 8soic soic8 inc sp725abtg 900 9920 7000 1001
+rb161m 20tr sod 123 schottky rectifiers vf 160mv rohm rb161m 20tr 600 9920 7000 0988
+power diode byv29b 500 byv29b 500 d2pak dual diode 500v 9a byv29b 500 600 9920 7000 0988
+480v bidirection diode 1.5 smc480ca smc zener diode 1.5 smc480ca 600 9920 7000 0988
+mbrs130t3g mbrs130t3 smb on semiconductor 1 amp general purpose rectifier pn mbrs130t3g farnell 1459070 footprint 214aa on semiconductor mbrs130t3g 600 9920 7000 0988
+pgb1010603nr pgb1010603nr 0603 esd suppressors littlefuse pgb1010603nr 3600 9920 7000 0988
+l12esdl5v0c6 4 sot23 6 esd protection lite on semiconductor l12esdl5v0c6 4 600 9920 7000 0988
+pgb1010402kr pgb1010402 esd suppressors littlefuse pgb1010402kr 4800 9920 7000 0988
+diode schottky 1a 40v forward current 0.5 v diode 1a 40v sod 123 sd1206t040s1r0 320 9920 7000 0861
+diode signal 30v 200ma forwared current sot 23 bat54c 7 f sot23 3 multicomp bat54c 7 f 160 9920 7000 0861
+diode schottky 40v rb751v 40 17 sod 323 rohm rb751v 40 17 80 9920 7000 0861
+diode schottky 50v 5a b550c 13 f smc diodes inc b550c 13 f 80 9920 7000 0861
+diode zener 33 v 02 w sod323 mmsz5226bs sod 323 diodes inc mmsz5226bs 640 9920 7000 0861
+zener diode pdz6.2 b 115 1n4148ws v sod323 pdz6.2 b 115 80 9920 7000 0861
+esd suppressors diode esd protector 24v 0603 pgb1010603nr 0603 littlefuse pgb1010603nr 320 9920 7000 0861
+esd protection l12esdl5v0c6 4 sot23 6l lite on semiconductor l12esdl5v0c6 4 80 9920 7000 0861
+transient voltage suppressors 3000w 7.2 v smc smc30j6.5 ca tvsdo 214ab smc30j6.5 ca 720 9920 7000 0861
+power diode byv29b 500 byv29b 500 d2pak dual diode 500v 9a byv29b 500 80 9920 7000 0916
+480v bidirection diode 1.5 smc480ca smc zener diode 1.5 smc480ca 80 9920 7000 0916
+20 二极管 1n4148ws sod 323 30 d1 d2 d3
+21 二极管 ma152wk n sot 23 120 d5 d6 d7 d8 d9 d10 d11 d12 d13 d18 d19 d20
+22 稳压 二极管 mmsz5240b f5j sod 123 10 d4
+n1021800614 无铅 表贴 肖特基 二极管 dfls1200 7 diodes 肖特基 电压 vr 200v 平均 整流 电流 if 1a 正向 压降 vf 850mv 1a powerdi 123 2.8 mm 1.78 mm 0.98 mm 65 175 ℃ diodes 100
+n1021800615 无铅 表贴 tvs 二极管 smbj90ca inc 齐纳 双向 电压 击穿 100v 1 16v 箝位 电压 146v 41 a 600w 214aa 47 mm 39 mm 26 mm 55 ℃ 150 ℃ tj inc 200
+n1021800607 无铅 表贴 tvs 二极管 smf11ca fms 齐纳 双向 电压 击穿 12.2 v 箝位 电压 18.2 v 11a sod 123 2.8 mm 2.0 mm 1.35 mm 55 ℃ 150 ℃ tj fms 600
+二极管 直插 byv26ev d7 1 3 3.2 正极 白色 负极 黑色 1a1000v75ns
+二极管 sma ss14 d2 d9 2 6 sma 电流 1a 外形 4x2.6 引脚 向 内侧 弯曲
+sma us1m d4 d5 d6 d7 4 12 sma 电流 1a 外形 4x2.6 引脚 向 内侧 弯曲
+贴片 us3m d1 1 3 smc 电流 3a 外形 7x6 引脚 向 内侧 弯曲
+1206 t4 d11 d10 d12 d13 4 12 sod123 贴片 4148 二极管 引脚 引脚 向 内侧 弯曲
+214ac ss12 vd1 vd2 vd3 214ac 3 600
+1206 1n4148 vd4 vd5 玻璃 贴片 2 400
+23 二极管 ss56 smb 4 d3 d5 d6 d7 2000
+24 二极管 m7 smb 1 d4 500
+d1 d3 sk 34 sk 34 2 20
+d2 d6 ba301n ba301n 2 20
+d5 sm712 sm712 1 10
+d29 12v zener 12v zener 1 1200 sml4742 e3 5a
+d30 20v zener 20v zener 1 1200 sml4747 e3 61
+73 肖特基 二极管 ej38 214ac 1 500 500 v39
+75 双 二极管 pmbd7000 sot 23a 3 500 1500 v3 v19 v20
+76 肖特基 二极管 ss14 214ac 13 500 6500 v2 v17 v29 v30 v31 v32 v34 v35 v44 v47 v48 v51 v52
+77 贴片 二极管 1206 1n4148 1206 9 500 4500 v1 v4 v21 v22 v23 v24 v36 v37 v41
+78 肖特基 二极管 b540c smc 2 500 1000 v42 v43
+32 tvs 管 p6ke6.8 ca 2 brightking 8000
+33 贴片 二极管 ss34 d0 214ac 2 born 半导体 8000
+34 贴片 二极管 rs1m d0 214ac 1 星海 4000
+35 整流桥 db107 1 hottech 4000
+smf33 little fuse tvs diode tvs1 tvs2 tvs3 tvs4 tvs5 sod 123fl tvs diode smf33 tct 5 loading supplier disabled smf33a tpmsct nd
+15 3200 d201 d202 d301 d schottky smd db2s20500l critical
+42 33600 u201 usbc protection tpd8s300rukr critical
+14 1200 d201 d schottky sma 2a 1 50v ps2150a critical
+6 800 d102 d zener 4.7 v 500mw 805.0 taiwan semiconductor bzy55c4v7 ryg equivalent
+6 2400 d102 d zener 5.1 v 500mw 805.0 taiwan semiconductor bzy55c5v1 ryg equivalent
+m7 jf 200000
+ll4448 diotec 200000
+us1m diotec 200000
+bas40 05 diotec 200000
+16 mbr0520 d2 d3 sod 123 2 2100
+17 1n4002 d4 d6 d7 d9 d10 sod 123 5 5250
+18 ss34 d5 d8 sod 123 2 2100
+77 rclamp0524pa u17 u18 u19 rclamp0524pa 3 3000
+9 贴装 二极管 5819 500 d3 贴装
+11 贴片 整流桥 1a db107s 1000 d1 d2 贴装
+20 二极管 1n4148ws sod 323 3 d1 d2 d3
+21 二极管 ma152wk n sot 23 12 d5 d6 d7 d8 d9 d10 d11 d12 d13 d18 d19 d20
+22 稳压 二极管 mmsz5240b f5j sod 123 1 d4
+6 共阴 二极管 fch10a20 to 220 200
+sma 214ac ss54 sma 214ac ss54 d1 d6 d7 sma 3d sma 214ac ss54 3 30
+59 二极管 bas32l bas32l 1 2
+13 d4 32 bit mcu stm32f103cbt6 stm lqfp48 n 1 5
+14 d1 d2 d3 d5 ads1248ipw tssop 28 4 20
+52 v5 v6 二极管 b370 13 f 49v 3a smc 2 10
+62 z2 稳压 二极管 39v 3w 1smb5939bt3g smb smb 1 5
+63 z3 z4 z5 z6 z7 z8 z9 z10 z11 z12 z13 z14 稳压 二极管 5.6 v 0.5 w mmsz5v6t1g sod 123 sod 123 12 60
+52 v5 v6 二极管 b370 13 f 49v 3a smc 2 100
+62 z2 稳压 二极管 39v 3w 1smb5939bt3g smb smb 1 50
+63 z3 z4 z5 z6 z7 z8 z9 z10 z11 z12 z13 z14 稳压 二极管 5.6 v 0.5 w mmsz5v6t1g sod 123 sod 123 12 600
+sod 123 b5819w sl sod 123 b5819w sl d7 肖特基 二极管 1 20
+214ac tvs tvs d8 smaj33ca 1 20
+sot 23 sot 23 3 pesd3v3l2bt psm712 lf t7 c32677 u9 u14 u19 tvs 3 60 pesd3v3l2bt
+17 贴片 二极管 1n4007 7227 m7 toshiba 7700
+19 二极管 1sma5921bt3g sma 821b 850
+66 tvs b3d090l b3d090l bencent smd 400
+53 贴片 二极管 b520c 13 f diodes smd 200
+21 二极管 gs1m gs1m smb m47 700
+44 二极管 lbat54clt1g 5c lbat54clt1g 5c sot 23 5c lrc 350 y1
+19 贴片 二极管 ll4148 smd ll4148 smd 1206 1200
+24 贴片 二极管 mbrs2040lt3 7227 bkjl on 700
+16 贴片 二极管 mmbd4148se sot 23 d4 jcet 3900
+18 二极管 murs120t3g smb k1 u1d 4000
+17 二极管 nsr0320mw2t1g sod 323 rd onsemi 450
+15 贴片 二极管 pesd5v0s1ba sot 323 e6 600
+20 贴片 二极管 smf13a sod 123 bg 利特 500
+19 贴片 二极管 smf5.0 a sod 123 ae 利特 700
+22 tvs sml4746 sma z18 650
+51 贴片 二极管 srv05 4atct semtech smd 500
+14 贴片 二极管 th112u 7227 u12 e 500
+20 贴片 二极管 vlin1616 02g sod 323 2j 600
+20 贴片 二极管 sk210b smb f81 sk210b 900
+16 二极管 sk54b smb f87 sk54b willas 300
+112 tvs smaj13a sma bg 50
+111 tvs smaj15a sma bm 50
+21 tvs smaj26ca sma ye 600
+107 tvs smaj5.0 a sma ae 250
+47 tvs smbj13ca smb bg brightking 6500
+22 tvs smbj15ca 7227 bm 1100
+22 tvs smbj20ca smb bv brightking 3050
+110 tvs smbj26ca smb ce brightking 50
+21 tvs smbj5.0 ca 7227 ae 3850
+65 压敏 tvs 气体 放电管 pgb1010603mr lf littlefuse smd 1200
+16.0 2.0 d7 d8 10bq100 vs 10bq100 m3 5bt smb 600.0
+17.0 4.0 d9 d15 d17 d18 bas21 bas21e6327htsa1 sot23 1200.0
+18.0 2.0 d11 d12 mbrb1545 mbrb1545ctpbf to263 2 600.0
+19.0 2.0 d19 d20 smbj30a smbj30a do214aa 600.0
+01 ab gx bat54s ic bat54s sot 23 1 120 bat54s sot 23
+51 ej15819323 消特基 二极管 shortky diode 1n5819 sod 323 2 240 1n5819 sod 323 diode
+01 ab zd d5301n esd esd 管 willsemi esd5301n protect high speed data stand off voltage 5v max ± 20kv and air discharge dfn1006 2l 4 480 esd5301n esd0402 wilisem
+01 ab zd d9b5vl esd esd 管 willsemi esd9b5vl reverse stand off voltage ± 5v max ± 20kv and air discharge fbp 02c 4 480 esd9b5vl esd0402 wilisem
+01 ab zd000011 esd esd5471x 2 tr 8 960 esd5471x 2 tr esd0402 willsemi
+01 ab zd d5451n esd esd 管 willsemi esd5451n reverse stand off voltage ± 5v max ± 30kv and air discharge dfn1006 2l 10 1200 esd5451n esd0402 willasemi
+tvs 二极管 tvs diode 5.3 vwm 21vc tsslp2 4 infineon esd112b102else6327xtsa1 300 esd131b1w0201e6327xtsa1 infineon 450 2 0.594691
+ll4148 hottech 6000 0.021
+47 060w003550011 700509140100 diode 二极管 cas jason190816 switch diode iss355te 17 smd rohm rohm iss355te 17 1 500
+48 060w041480511 700509190100 diode 二极管 cas jason190816 small signal fast switching diodes ll4148 gs08 3 1500
+49 060w100540911 700509190200 diode 二极管 cas jason190816 schottky barrier diode bat54c tp 30 mcc bav54c tp ms 1 500
+50 060w100540912 700509190201 diode 二极管 cas jason190816 schottky barrier diode bat54a tp hf mcc bat54a tp 2 1000
+51 060w401501511 700509190300 diode 二极管 cas jason190816 tvs diode esd protection pdfb05015 nichtek pdfb050150 sod923 1 500
+52 060w4pdwl1511 700509190400 diode 二极管 cas jason190816 esd array tvs diode pdwl050019 sot nichtek pdwl050019 sot236 8 4000
+53 060w402200711 700509190301 diode 二极管 cas jason190816 tvs diode p0220sc smb 15v 400a smd wpm p0220sc 4 2000
+54 060w405241511 700509190302 diode 二极管 cas jason190816 tvs diode array cddfn10 0524p 5v s cddfn10 0524p 2 1000
+3 sma 214ac ss54 ss54 晶导 d1 d2 d3 d4 4 40
+13 sma 214ac ss54 ss54 晶导 d1 d6 d7 3 30
+1 20 d1 cgra4001 g 750 cgra4001 g comchip technology diode gen purp 50v 1a 214ac 1.1 v 1a standard recovery 500ns 200ma io 5 µ a 50v comchip technology cgra4001 g sma 214ac
+1.0 vd1 stps3l60u 5.0 diode schottky 60v 3a 214aa smb
+1.0 vd2 tpd6e004rser 6.0 esd suppressors tvs diodes lo cap 4ch 15 kv esd prot array uqfn 8
+smf05ct1g 5.0 on semiconductor tvs diode 5vwm 12.5 vc sc70 6 sc70 6
+pesd5v0s1bl 15.0 semiconductors low capacitance bidirectional esd protection diodes sod 882
+1 20 d1 sl22 e3 52t 625 sl22 e3 semiconductors schottky diodes rectifiers 2.0 amp 20 volt 214aa sl22 e3 52t 214aa
+110100800003x 整流桥 堆 bridge rectifier kbpc601 100v 5a 10400055 500
+110100400049x cd 稳压管 zener diode lm1084it 3.3 3.3 v to 220 20000
+1n4148 diode d6 diode 0.3 diode 1 1n4148
+smbj26ca smbj26ca brightking d0 d2 smb 214aa s1 2 200 2 400
+ss56 ss56 mdd d1 smb 214aa s1 2 200 1 200
+b340a b340a mdd d5 sma 214ac s1 2 200 1 200
+b5819w b5819w d8 d21 d22 d23 d24 d25 d26 d39 d40 d41 d42 d43 d44 d57 d58 d59 d60 d61 d62 d75 d76 d77 d78 d79 d80 d9 d10 d11 d12 d13 d14 d27 d28 d29 d30 d31 d32 d45 d46 d47 d48 d49 d50 d63 d64 d65 d66 d67 d68 sod 123 2 200 49 9800
+smaj13 smaj13ca fms 美丽 d90 sma 214ac s1 2 200 1 200
+6.0 19020105 b88069x6051t902 5 250 气体 放电管 b gas discharge tube 90v 5ka 7.6 mm 5mm distance 5mm
+10.0 15010163 1 a8 1 bat 68 e6327 2 100 infineon b schottky diodes 8v 0.34 v sot 23
+21.0 15040320 tpd13s523rsvr 1 50 ic transient suppressing diode hdmi esd 6v 13v 30w 3.00 a 1uqfn
+19 0208 0729 uad8c05l01 tip sod828 esd 保护 二极管 d1 d2 d15 d16 d31 d32 4 80
+27002 sm15t18a smc 214ab 1 100 d1
+d1 d4 4 641 1006 2 nd comchip cdbu00340 diode schottky 40v 0.03 a 0603 20000
+23.0 稳压 二极管 d sod 323 bzt52c5v1s smt 1 d1 100
+24.0 esd 二极管 l 0402 esd 二极管 lxes15aaa1 133 smt 10 d2 d3 d4 d5 d6 d8 d9 d10 d11 d7 1000
+dd11 1 bat54clt1gostr nd on semi bat54clt1g dual diode schottky cc 30v sot23 3 5000
+d6 1 fyv0704smtftr nd fyv0704smtf diode schottky 40v 750ma sot23 3 5000
+dd1 dd7 7 mmbd1503atr nd semi mmbd1503a dual diode series gp 200v 200ma sot23 3 35000
+d2 1 s1j fdict nd diodes inc s1j 13 f diode gen purp 600v 1a sma 5000
+d3 d4 d7 d9 d10 d11 6 smaj36ca fditr nd diodes inc smaj36ca 13 f diode transient supr 36v bidir sma 30000
+d12 d13 d14 3 smaj10a fdict nd diodes inc smaj10a 13 f diode transient supr 10v unidir sma 15000
+dd1 1 digi key mmbd1504atr nd mmbd1504 diode array 200v 200ma sot23 5000.0
+50877 mbrd1045t4g on semi 51
+50889 mbrd1045t4g on semi 100
+50927 mm3z5v6c on semi 653
+50939 mm3z5v6c on semi 1000
+51524 usblc6 4sc6y stmicro 11
+51536 usblc6 4sc6y stmicro 30
+11 bzv55c12v smd zener diode 3216 0.4 watt 12v 1 1000 0
+12 bzv55c18v smd zener diode 3216 0.4 watt 18v 4 4000 0
+35 b360b 13 f diodes incorporated smd diod 60v 3a b360b 13f 1 1000 0
+36 b370 13 f diodes incorporated smd diod 70v 3a b370 13f 1 1000 0
+40 dalc208sc6 or prtr5v0u4ad diode arry dalc208sc6 esd 6 6000 0
+67 smaj58a tr diode smaj58a 8 8000 0
+68 smp100lc 65or thyrior smp100lc 65 16 16000 0
+50877 mbrd1045t4g on semi 51
+50889 mbrd1045t4g on semi 100
+50927 mm3z5v6c on semi 653
+50939 mm3z5v6c on semi 1000
+102 esd 管 cesdblc5v0d5 d0603 1
+103 tvs 管 smcj24a 214ab 200
+104 二极管 cd4148wtp d0603 1
+105 二极管 sds511 d0805s 1
+106 二极管 1n5817 d0805 200
+107 二极管 fr107w sod123 1
+108 二极管 mbr0530 sod123 1
+109 二极管 mbr340 do214 100
+110 稳压 二极管 bzt52c5v1s d0805s 200
+esd 0402d cg0402mlc 3.3 lga 2.0 20.0
+tvs 3216dt cdsod323 t12c 2.0 20.0
+102 esd 管 cesdblc5v0d5 cesdblc5v0d5 d0603 1
+103 tvs 管 smcj24a smcj24a 214ab 200
+104 二极管 cd4148wtp cd4148wtp d0603 1
+105 二极管 sds511 sds511 d0805s 1
+106 二极管 1n5817 1n5817 d0805 200
+107 二极管 fr107w fr107w sod123 1
+108 二极管 mbr0530 mbr0530 sod123 1
+109 二极管 mbr340 mbr340 do214 100
+110 稳压 二极管 bzt52c5v1s bzt52c5v1s d0805s 200
+51683 smbj36ca 54
+51695 smbj36ca 54
+51707 smbj36ca onsemi 54
+51731 mb1s onsemi 882
+51755 2036 07 b3lf 1258
+51779 sp03 6btg littlefuse 376
+51791 smaj16a 13 f diodes inc 694
+150011841 tvs eos nonpolar 24v 350pf sod 123fl 100k
+二极管 1n4148 ll 34 1 d3
+二极管 1n4148 ll 34 1 d5 手工 钢网 开孔
+tvs 管 smaj24a sma 214ac 1 d8
+二极管 ss54 smc 214ab 2 d9 d10
+23012 rclamp0524pa btrd10a03 slp2510p8 12 1200
+29001 esda6v8ul azc199 02s sot23 17 1700
+29002 esd5451n 双向 esd 管 8kv e0402o 4 400
+贴片 二极管 1n4148 ll34 32 17000
+贴片 二极管 mbra160t3g 60v 4 耐压 60v smb 贴片 d1 d2 d3 d4 on 8000
+稳压管 贴片 1smb5925bt3 smb 10v 10v 3w 2 10v 3w smb 贴片 z1 z2 on 4000
+稳压管 贴片 1smb5929bt3 smb 15v 15v 3w 6 15v 3w smb 贴片 z3 z4 z5 z6 z7 z8 on 12000
+贴片 稳压管 { mmsz5231bt1 e1 sod123 5.1 v } { tcmmsz5231b z5v1 sod123 5.1 v } 5.1 v 0.5 w 7 5.1 v 0.5 w sd1006a 贴片 z9 z10 z13 z14 z15 z16 z17 on 14000
+贴片 稳压管 1smb5918bt3 smb 5.1 v 5.1 v 3w 2 5.1 v 3w smb 贴片 z11 z12 on 4000
+tvs 管 smbj48ca 48v 1 tvs 48v 600w smb 贴片 tvs1 on 2000
+p6ke39a 1000
+23.0 贴片 二极管 baw56wt1g sot323 123 baw56wt1g on
+24.0 贴片 二极管 1n4148wt sod 523 1n4148wt on diodes
+25.0 贴片 二极管 bat54ht1 sod 323 bat54ht1 on
+26.0 贴片 二极管 sp15u100l to277 sp15u100l
+27.0 贴片 二极管 bav70wt1g sot323 123 bav70wt1g on
+28.0 贴片 二极管 bav99w sot323 123 bav99w diodes
+29.0 二极管 es1002fl sod123fl es1002fl panjit
+30.0 稳压管 mmbz5240blt1g sot23 123 mmbz5240blt1g on
+31.0 稳压管 mmbz5241blt1g t3g sot23 123 mmbz5241blt1g t3g on
+32.0 稳压管 mm3z3v9 sod 323 mm3z3v9 on
+33.0 稳压管 mm3z6v2 sod 323 mm3z6v2 on
+34.0 稳压管 mm3z15v sod 323 mm3z15v on
+35.0 稳压管 mm3z 10v sod 323 mm3z 10v on
+二极管 lbas21ht1g 50
+二极管 lbat54ht1g 50
+二极管 lmbr1150et1g 50
+稳压管 lm3z 10v t1g 50
+51890 bas16 onsemi 6000
+2sm 肖特基 二极管 d1 d2 d3 d4 d5 d6 d7 d8 d9 d10 d11 d12 d13 d14 d15 d16 diode sma 16 80
+1 二极管 晶导 es1gf 1 10
+2 二极管 1n4148wt 1 10
+3 二极管 米 mkt642u05 4 40
+17 6p7901b0 d02 s000338 diode schottky 60v 1a sma nrvba160t3g on 整流 二极管 42
+18 6p7901b0 d02 s000339 diode gp ult fast 600v 1a smb surs8160t3g on 整流 二极管 24
+19 6p7901b0 d02 s000340 semiconductor diode schottky 30v 200ma sod323 nsvbat54ht1g on 整流 二极管 24
+20 6p7901b0 d05 s000030 diode zener 6.8 v 300mw sod323 szmm3z6v8t1g on 稳压 二极管 3
+21 6p7901b0 d07 s000394 diode zener 27v 550mw smb 1smb5935bt3g on 齐纳 二极管 6
+22 6p7901b0 d07 s000395 diode zener 10v 300mw sod323 szmm3z 10v t1g on 齐纳 二极管 101
+52232 bar43afilm stmicro 1800.0
+60401000420 smcj12a on 500
+60401000650 sm6t33ca 50
+60401001070 b340a 13 f diodes 100
+60401001120 mra4007t3g on 265
+60401001142 smbj24a 610
+60401001150 1smb5.0 at3g on 70
+60401002350 sm24cana 02htg 20
+60401003100 esd5d05ca socay 900
+60401003110 bat54kfilm 910
+60404000970 ddz9690 7 diodes 900
+60405000820 tpd2e2u06drlr 530
+tvs 二极管 tvs diode 5.3 vwm 21vc tsslp2 4 infineon esd112b102else6327xtsa1 esd131b1w0201e6327xtsa1 infineon 450 2 0.594691
+esd 管 esd ega10402v05ah inpaq ega10402v05ah bpesd0402 05st born 900 3 0.071381
+12 dss14 sod 123 1.0 d1 400.0
+68.0 贴片 二极管 in4001 m1 sma 3.0 d7 d9 9000
+62 贴片 二极管 in4148 smd1206 2 d18 d19 6000
+63 贴片 二极管 ll103 1206d 2 d11 d14 6000
+64 贴片 二极管 ss12 sma 2 d13 d17 6000
+65 贴片 二极管 in4001 m1 sma 1 d10 3000
+5 tvs 二极管 smbj36ca smbj36ca brightking smb 214aa 3000
+6 二极管 m7 gpp m7 mdd sma 214ac 2000
+14 p20306000024 tsop 6 on nup4201mr6t1g 5v 500w tvs 管 250
+贴片 esd sbc0524p ic 10p rclamp0524p 5 u19 u20 u21 u23 u24 42850
+贴片类 srv05 4 sot 23 6 1 d8 8570
+贴片类 bav99 sot 23 6 d4 d5 d10 d11 d12 d13 51420
+贴片类 bat54c sot 23 2 d6 d14 17140
+贴片类 ll5232b 5.6 v 5% ll 34a 5 d9 d15 d16 d17 d18 42850
+贴片类 m7 214ac 1 d7 8570
+贴片类 ss56 smc 3 d1 d2 d3 25710
+16 贴片 二极管 ss34 born 半导体 sma 37
+17 贴片 二极管 1n4148wt sod 523 194
+18 贴片 tvs 管 sd05 01ftg sod 323 16
+19 贴片 二极管 1n4148ws born 半导体 sod 323 79
+23 tvs 管 sm712 dowo 东沃 sot 23 16
+70 贴片 tvs 管 smaj30a born 半导体 sma 16
+71 tvs 管 pesd15vl2bt nexperia sot 23 16
+79 tvs 管 阵列 pesd5v0l5uy nexperia sot 363 71
+21 肖特基 二极管 ss34 mdd sma 16
+22 tvs smbj30a mdd smb 26
+23 高速 开关 二极管 1n4148w sod 123 289
+24 esd cesdblc5v0d3 sod 323 37
+25 肖特基 二极管 ss34 mdd smb 26
+109 贴片 tvs 管 pesd15vl2bt born 半导体 sot23 3n 58
+110 贴片 tvs 管 pesd5v2s2ut born 半导体 sot23 3n 16
+115 贴片 tvs 管 pesd5v0l5uy nexperia sot 363 11
+121 肖特基 二极管 ss54 mdd smb 16
+10 esd 二极管 pesd5v2s2ut nexperia sot23 16
+11 esd 二极管 pesd15vl2bt nexperia sot23 37
+12 肖特基 二极管 ss34 sma 26
+13 esd 二极管 cesd5v0d1 sod 123 26
+14 tvs 二极管 smaj30a sma 16
+15 tvs 二极管 sm712 dowo sot23 16
+70 tvs 二极管 pesd5v0l5uy nexperia sot 363 11
+604012920 bat54s 90 2019 12 16 0.04585
+604012540 tpd2e1dzdr 90 2019 12 16
+604012880 diodes bat43w 7 f 30 2019 12 16 0.15783049
+604051440 nexperia bas28 215 1 2019 12 16 0.22192409
+604012920 bat54s 90 2019 12 16 0.04585
+604012540 tpd2e1dzdr 90 2019 12 16
+604012880 diodes bat43w 7 f 30 2019 12 16 0.15783049
+604051440 nexperia bas28 215 1 2019 12 16 0.22192409
+20 smd led 1n4148 sod 123 10000
+21 smd regulator 15v 1 2w 5% sod 123 10000
+30 fast recovery diode fr107 10000
+31 rectifier bridge kbp310 10000
+39 screw m3 10000
+42 dual diode mrs20150ct 10000
+25.0 二极管 smcj20ca smcj20ca 2.0
+26.0 二极管 smcj6.0 ca smcj6.0 ca 1.0
+27.0 二极管 1n4148ws v 1n4148ws v 2.0
+28.0 二极管 nc smaj6.5 ca 1.0
+29.0 二极管 s210 s210 1.0 on
+30.0 二极管 smbj15ca smbj15ca 2.0
+31.0 横流 二极管 sm24canb 02htg sm24canb 02htg 1.0
+32.0 横流 二极管 nc sm24canb 02htg 1.0
+33.0 二极管 smbj5.0 ca smbj5.0 ca 6.0
+34.0 稳压 二极管 mmsz4689t1g mmsz4689t1g 1.0 on
+35.0 横流 二极管 sm05 02htg sm05 02htg 1.0
+11 整流管 d1 1n4007 1n4007 1 20
+12 tvs 管 双向 5kw d2 5kp160ca 5kp160ca 1 20
+13 tvs 管 双向 d3 smaj6.5 ca smaj6.5 ca 1 20
+14 tvs 管 双向 d4 nc smaj6.5 ca 1 20
+jt01 0005 a smd 二极管 1n5819 sma sma 4.3 mm 2.5 mm 2.0 mm 6 3300
+jt01 0017 a smd 二极管 mmbd4148lt1g sot 23 1 550
+jt01 0023 a smd 瞬间 吸收 二极管 1smb5.0 at3 smb smb 2 1100

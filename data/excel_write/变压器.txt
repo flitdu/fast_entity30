@@ -1,0 +1,49 @@
+19.3 网口 变压器 h1102nl 1 4 pulse
+1 e2300052001 变压器 s16 1102 网络 隔离 变压器 smd 10 100 base t transformer 600pcs 0 1
+20 变压器 ee1310 加宽 磁芯 5 5 全部 黄色 胶带 感量 4 5 1.4 mh ± 8% 87 5 11 pc44 排距 13.0 mm pin 距 2.5 mm px 53 0003 ee1310 5v2.1 a 1.4 mh td309 td207 1 t1 200000
+62911004730 电压 调整器 电压 调整器 4.5 36v so 20pin smd l293dd 5 8.5
+62911001320 电压 调整器 电压 调整器 lm1117mpx 2.5 固定 2.5 v 1.5 a sot223 3pin smd lm1117mpx 2.5 nopb 5 3.1708
+62911000060 电压 调整器 电压 调整器 lm4040aim3 5.0 nopb 分流 固定 5v 15ma sot23 3pin smd lm4040aim3 5.0 nopb 5 7.0
+62911004020 电压 调整器 电压 调整器 ncp1599mntwg 可调 0.8 v 3a vdfn6 6pin smd on ncp1599mntwg 5 7.0
+62911001460 电压 调整器 电压 调整器 ncv7708 两极 半桥 驱动 5.5 v 500ma soic28 28pin smd on ncv7708bdwr2g 5 15.0
+0101 150033 变压器 400 er28 11 伺服板
+62911002680 电压 调整器 电压 调整器 tlv6213 可调 4v 3a qfn16 16pin smd tlv62130argt 48
+62911002540 电压 调整器 电压 调整器 88e1512 a0 nnp2c000 qfn56 56pin smd marvell 88e1512 a0 nnp2c000 12
+62911006180 62911.0 电压 调整器 电压 调整器 tps79901 可调式 6.5 v wson 6pin smd tps79901drvr 12
+62911002690 电压 调整器 电压 调整器 tps51206 600mv 2a wson 10 10pin smd tps51206dsq 12
+62911006160 62911.0 电压 转换器 电压 转换器 tps548a20rver 可调式 降压 稳压器 vqfn 28pin smd tps548a20rver 6
+62911006170 62911.0 电压 转换器 电压 转换器 lm73606rnpr 可调式 降压 稳压器 wqfn 30pin smd lm73606rnpr 6
+p20303000009 bepc 10 118ga epc 10 贴片 变压器 100
+1 600 2013010018 变压器 transformer 线艺 cy0116 al smd t101 t201 2 20 a 40 dlk
+6 变压器 pt22 1161 pt22 1161 e1 变压器 表贴 100
+11 网络 变压器 h5007nl h5007nl 1000base t 网络 变压器 100
+12 e1 变压器 hr610604 hr610604 e1 变压器 1.26 1 100
+72105000040 通讯网 接口 变压器 22 50v dc min 16.26 13.84 mm 12pin dip pulse j00 0061nl 4
+8 11 0106 003 006 变压器 ee1310 t1 1 10000.0
+po20190026 温度 3000004224 变压器 插针 入 220v 出 8.7 v 0.25 a 2 110
+po20190026 温度 3000004224 变压器 插针 入 220v 出 8.7 v 0.25 a 2 110
+6 05004 00477 集成电路 hr601680 1 u32 20
+6 05004 00477 集成电路 hr601680 1 u32 20
+变压器 直插 t1 1 3
+h1102nl t1 sol 16 1.0 100.0 top
+pm48 2064k t3 dip20 1.0 100.0 top
+adt1 1wt u7 adt4 1wt 1 5
+transformers sm lp 5001 sm lp 5001 sm lp 5001 1200 9920 7000 1000
+hx5008nl 1000base t 1 1 magnetics module hx5008nl pulse hx5008nl 300 9920 7000 1000
+hx5008nl hx5008nl 1000base t 1 1 magnetics module pulse hx5008nl 600 9920 7000 0988
+1000base t 1 1 magnetics module h5015nl h5015nl pulse h5015nl 80 9920 7000 0861
+变压器 直插 t1 1 3 eer28 01700610
+12 变压器 t4 f60 pbt 03sf 139 500 t1 电装
+64 变压器 fc1008cle fc1008cle sow16p fc1008cle 飞芯 100
+63 电感 变压器 h5007nl h5007nl pulse sow24p 200
+61 电感 变压器 lqh55pn4r7nr0 lqh55pn4r7nr0 smd 400
+47 lp82440anl smd magnetics 2port 1 1000 0
+22 lan xmer gb 1 1 1 port choke ic 端 hn2409cg 1 3000
+23 lan xmer gb 1 1 2 port choke ic 端 and rj45 端 hn4824cg 2 6000
+147 高频 变压器 epc13 卧式 双排 针 5 5lcp 骨架 pc44 铁氧 磁芯 灰色 efd151s10pdet kpdn 300
+147 高频 变压器 epc13 卧式 双排 针 5 5lcp 骨架 pc44 铁氧 磁芯 灰色 efd151s10pdet kpdn 300
+网络 变压器 hs16 102cs 网络 变压器 1 t1
+54.0 电流 互感器 hg701a hg701a hg701a
+57.0 电流 互感器 hg1001a ct1001a hg1001a
+55 6p7901b0 t03 s000033 transformers for igbt fet 33.00 mm x 26.80 mm vgt22epc 200s6a12 变压器 6
+56 6p7901b0 t03 s000034 dc dc converter 33 v50 mm x 30 mm x 16 mm mpm3515gqv aec1 z monolithic power systems inc 变压器 3

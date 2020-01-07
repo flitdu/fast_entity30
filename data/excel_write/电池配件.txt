@@ -1,0 +1,44 @@
+纽扣 电池 座 bs 2 1 q j battery 1 091807 021301 31
+纽扣 电池 cr2032 240mah 091806 042501 31
+纽扣 电池 座 bs 2 1 q j battery 1 091807 021301 31
+纽扣 电池 cr2032 240mah 091806 042501 31
+19.1 纽扣 电池 座子 br2032 1 4
+19.2 纽扣 电池 br2032 电压 高于 2v 1 4
+1 纽扣 电池 50.0
+3 e31003v0002 电池 座 cr1220 3v 贴片 0 1
+a01011200 e31011004 电池 cr1220 35mah 3v 12mm 厚度 2mm smd 1
+71 电池 卧式 焊脚 电池 cr1220 1 bat1 y cr1220 q j 1050
+139 sxfc30000242 4zt battery battery holder kts bhkb7566bp5l dip 260d 10s kts bhkb7566bp5l 1 500 2000
+157 sxfc30000243 4zt battery coin battery cr2032 varta 004828 3.0 v 230mah 20x3.2 mm varta 004828 1 500 2000
+3 a060310060 纽扣 电池 3v 纽扣 电池 卧式 焊脚 cr1220 12 4 6 tht 1 bt1 cr1220 12 4 6 0.3 6000.0
+电池 ms518se battery ms518se 1.0 1000.0
+bat hld 001 thm linx 10000 bat hld 001 thm 通孔
+13404 0000 电池 座 cr2032 2 1 电缆 连接器 2pin 直脚 电池 座 压接型 bt1 1 6
+12 电池 座 电池 座 lotes aaa bat 029 k01 dip lotes aaa bat 029 k01 1 40
+2 电池 battey 3.0 v 200ma dl2032b dl2032b 1 40
+20 bt131 600 1 1000000
+3 14 1400 003 013 电池 18650 3350mah 3.7 v 带 镍 片 18650 3350mah 3.7 v 不带 保护 带 镍 片 18650 dc 2 bt1 1 10000.0 焊 装 bom
+091806 034301 纽扣 电池 ml1220 卧式 带 焊脚 3v 15
+091806 035201 纽扣 电池 3v 可充 lm1220 100
+84 连接器 纽扣 电池 座 cr2032 直插 cr2032 ws060013 1 9200
+纽扣 电池 底座 cr1220 3v 电池 底座 贴片 bt1 cr1220 1 9
+2032 直插 卧式 电池 座 ml2032 电池 cf2 电池 必须 可充电 ml2032 cr2032 1.0 100.0 top
+1 rfoa02 17 028 battery 3.6 v 60mah gp60bvhx3 1 0 供料
+16 bt1 纽扣 电池 cr1220 12 4 6 带 焊脚 卧式 直插 1 q j
+16 bt1 纽扣 电池 cr1220 12 4 6 带 焊脚 卧式 直插 1 q j 3000
+105 3v 锂电池 d 6mm ml621s dn smt bat 2p 表贴 1 500 500 bt1
+xl 050f t3er14250h 200000
+78 battery cr2032 r 套 astron tht 200
+80 电池 座 两 pin 电池 座 卧式 smt bs 6 cr2032 smd 100
+纽扣 电池 ms621fe fl11e 3v 可充电 纽扣 电池 芯片 留出 2p 引脚 20.0
+bat1 1 36 2486 nd 2486 holder batt 1 2aa plastic 5000
+battery 1 xeon xl 050f 3.6 v 1 2aa battery 5000
+batt1 1 bu2032sm gtr nd mpd bu2032sm g holder cr2032 gold leads smd 5000
+50271 ch74 2032lf multicomp 11
+50403 cr 2032 11
+50271 ch74 2032lf multicomp 11
+50403 cr 2032 11
+锂 亚柱式 电池 er14335 容量 带 焊脚 3.6 v 3045100061000 1 bt1 电池
+锂 亚柱式 电池 er14335 容量 带 焊脚 3.6 v 3045100061000 1 bt1 电池
+78 18650 电池 3.6 v 7.92 w 2.2 ah 线长 红黑 1 3000
+1.0 电池 底座 battery 3v 103 1.0

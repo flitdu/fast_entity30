@@ -1,0 +1,574 @@
+三极管 npn 25v 600ma 200mw hfe 160 400 smd sot 23 mmbt8050d d9d 5
+p mos管 p ch 20v 4.0 a 0.35 w 43m ω smd sot 23 cj3415 3
+252.0 11101003 三极管 s8550 8.0
+253.0 11101004 三极管 s8050 16.0
+254.0 11101012 三极管 d882 108.0
+255.0 11101014 禁止 三极管 c1815 500.0
+256.0 11101017 三极管 9012 sot23 吉庆 1100.0
+257.0 11101019 贴片 三极管 mmbt3904lt1g 0.0
+261.0 11103022 mos管 ao3401 p 增强 sot 23 10.0
+262.0 11104025 三极管 npn mmbt5551lt1g 60.0
+263.0 11104026 mosfet p bsp613p 191.0
+265.0 11104028 npn 三极管 mmbt4401lt1g 3000 0.0
+266.0 11104029 pnp 三极管 mmbta56lt1g 3000 0.0
+28 贴片 三极管 8050 sot 23 11 q1 q2 q3 q4 q6 q7 q9 q12 q14 q15 q17
+29 贴片 三极管 me20p03 to 252 2 dpak 2 q5 q13
+30 贴片 三极管 8550 sot 23 2 q8 q10
+31 贴片 三极管 b772m to 252 2 dpak 1 q16
+13 贴片 三极管 9014 sot 23 6 q1 q2 q3 q4 q5 q6
+252.0 11101003 三极管 s8550
+253.0 11101004 三极管 s8050
+254.0 11101012 三极管 d882
+255.0 11101014 禁止 三极管 c1815
+256.0 11101017 三极管 9012 sot23
+257.0 11101019 贴片 三极管 mmbt3904lt1g
+261.0 11103022 mos管 ao3401 p 增强 sot 23
+262.0 11104025 三极管 npn mmbt5551lt1g
+263.0 11104026 mosfet p bsp613p
+265.0 11104028 npn 三极管 mmbt4401lt1g 3000
+266.0 11104029 pnp 三极管 mmbta56lt1g 3000
+24 三极管 q13 q14 q16 q17 q18 q19 q35 q01 q37 q39 q41 q44 s8050 sot23 12.0
+25 三极管 q02 s8550 sot23 1.0
+15.0 107020001 1.0 yzf9csd22204wt csd22204wt 1000.0
+bc807 215 18000
+bc817 215 270000
+uln2003d1013tr 10800
+irfz44nstrlpbf 18000
+irf1010ns 1800
+stn3nf06l 9000
+bcp55 16 115 5400
+tip122 4500
+bta140 800 7200
+n mos管 irf100b202 infineon to 220 ab 091804 033501 60
+贴片 p mos管 ao4805 alpha omega soic8 091804 033601 31
+贴片 场效应管 3415 fm 富满 sot 23 sot 23 3 091804 033901 68
+贴片 三极管 s8050 sot 23 091804 034001 68
+n mos管 irf100b202 infineon to 220 ab 091804 033501 60
+贴片 p mos管 ao4805 alpha omega soic8 091804 033601 31
+贴片 场效应管 3415 fm 富满 sot 23 sot 23 3 091804 033901 68
+贴片 三极管 s8050 sot 23 091804 034001 68
+12 贴片 三极管 m8050 25v 800ma sot 23 1 200 10000 q1
+13 贴片 mos管 si2301 20v 3a sot 23 1 200 10000 q2
+14 贴片 mos管 si2302 20v 3a sot 23 1 200 10000 q3
+ao3400a sot23 q5 q7 2 5200
+aon7510 aon7528 inf pg tsdson 8 21 v q6 1 2600
+bss84w 7 f sot323 q10 1 2600
+stp55nf06 to 220 2.0 20000.0
+irl3705z 35 12.7 38.1 mm 2.5 mm 引脚 黑色 to 220fp hot35 1.0 10000.0
+12 贴片 三极管 m8050 25v 800ma sot 23 1 q1 m8050 10000 0.07249 1 2d
+13 贴片 mos管 si2301 20v 3a sot 23 1 q2 si2301 hottech 10000 0.13619 1 2d
+14 贴片 mos管 si2302 20v 3a sot 23 1 q3 si2302 hottech 10000 0.13619 1 2d
+37 a06 001003 007 npn 三极管 mmbt3904 npn 管 sot 23 mmbt3904 12000 q1 q3 q5 q8 贴片
+38 a06 001012 027 mos管 irlml6401 12v 55 to 150 ° c irlml6401 ir 3000 q2 贴片
+39 a06 001012 004 增强型 pmos si2303cds t1 e3 30v ds sot 23 55 150 ℃ si2303cds t1 e3 3000 q7 贴片
+1 ea0108 三极管 ntns3a65pzt5g on 1550
+20 1 4000 transistor 2n3904 q6 sot 23 mmbt3904 mmbt3904fsct nd d
+21 3 12000 n channel mosfet q2 q3 q5 sot 23 dmg3406l 13 dmg3406l 13dict nd d
+22 2 8000 p channel mosfet q1 q4 sot 23 dmp4065s dmp4065s 7dict nd d
+091804 021901 p 沟道 mos管 fdn304p sot23 3 4000
+091804 022801 p 沟道 mos管 irf7416trpbf so 8 5000
+091804 022901 n 沟道 mos管 2n7002k e3 sot23 3 24000
+091804 023001 功率 二极管 mbrs540t3g 6000
+091804 023101 二极管 bat54ht1g sod 323 2000
+091804 023201 esd 二极管 esd5z5.0 t1g sod 523 800
+091804 023501 n 沟道 mos管 cph6443 tl w sot23 6 2400
+27 a06 001003 007 npn 三极管 mmbt3904 npn 管 sot 23 mmbt3904 12000 q1 q3 q5 q8 贴片
+28 a06 001012 027 mos管 irlml6401 12v 55 to 150 ° c irlml6401 ir 6000 q2 q7 贴片
+28 贴片 npn 三极管 9013 j3 sot 23 3.0 30.0 3000.0
+29 npn 三极管 2sd882 sot 89 1.0 10.0 1000.0
+30 贴片 pnp 三极管 9012 j2 sot 23 1.0 10.0 1000.0
+66 pnm723t703e0 2 充电 mos管 pnm723t703e0 2 sot 723 q800 1 pnm723t703e0 2 22
+67 dtesd5vwbfbp005 浪涌 tvs 管 esd 0402 t1200 t1201 t1202 3 dtesd5vwbfbp005 70
+73 pt236t30e2h pnp 功率 三极管 管 sot 23 6l pt236t30e2 stt818b sot 6 u800 1 stt818b sot 6 20
+74 2n7002t vgs th 1.5 v rds on 7.0 ω pd 300mw sc − 75 sot 523 q1201 q1200 2 2n7002t 40
+37 smd sot23 0.6 a 160v npn mmbt5551 2.0 400.0
+43 smd sot 89 npn 2sc2873 1.0 kexin 200.0
+15 2005104000372 smt 100 ℃ 100a 100v 4.2 m ω pg to263 3 ipb042n10n3 g 8.0 1600.0 10.0
+5 e17a0280001 三极管 s8050 npn vceo 25v ic 500ma sot 23 sj 12
+55 c0100151 三极管 s9014 npn sot 23 sot 23 better 1 500
+56 c0100152 三极管 mmbt5551 npn 600ma 160v sot 23 sot 23 jcet 9 4500
+57 c0100153 场效应管 qs6k21tr nmos 45v ± 1a 300m ω tsmt6 tsmt6 rohm 3 1500
+9 c0200108 三极管 ss8550 pnp mark y2 sot 23 sot 23 bt 1 500
+12 c0200163 场效应管 sihg20n50c to 247 to 247 1 500
+11 109 0401 0001 贴片 三极管 s8050 sot 23 3 jcet 20 00000 2019 09 06
+12 109 0401 0006 贴片 三极管 mmbt589lt1g sot 23 10 00000 2019 09 06
+13 109 0401 0007 贴片 三极管 tl431aidbzr sot 23 10 00000 2019 09 06
+10 bss138 三极管 sot23 2 20000
+11 bss84 三极管 sot23 2 20000
+10 bss138 三极管 sot23 2 20000
+11 bss84 三极管 sot23 2 20000
+1 190.0 2007020002 三极管 4 0.05 b 336 transistor on mmbt2907alt1g sot23 pnp 60v 0.6 a 100
+2007020003 三极管 4 0.05 b 336 transistor toshiba 2sa1312 bl sc 59 pnp 120v 0.1 a 350
+22.0 pyst 0007 贴片 三极管 s8050 sot 23 4 200.0
+23.0 pysi 0059 贴片 三极管 2n7002 sot23 5 250.0
+24.0 pyst 0011 贴片 三极管 d882 to 252 1 50.0
+25.0 pysi 0072 贴片 场效应管 ssm3j332r sot 23f 4 200.0
+1 450.0 2007020002 三极管 2.0 0.05 b 168 transistor on mmbt2907alt1g sot23 pnp 60v 0.6 a 100
+1 460.0 2007020001 三极管 2.0 0.05 b 168 transistor on mmbt2222lt1g sot23 npn 60v 0.6 a 30
+1 470.0 2007030016 场效应管 1.0 b 80 mosfet diodes dmp2035u sot 23 p channel 20 v 3.6 a
+1 480.0 2007030017 场效应管 1.0 b 80 mosfet on bss138lt1g sot 23 n channel 50 v 0.2 a
+14.0 三极管 j122g to 252 smd mjd122g on mjd122g on 达林顿 晶体管 8a 400
+j127g to 252 smd mjd127g on mjd127g on 达林顿 晶体管 8a 400
+s8050 j3y sot 23 smd s8050 j3y 3000
+2sd1898 df sot 89 smd 2sd1898 q 档 120 270 400
+16 贴片 三极管 s8050 j3y sot 23 2 12000 0.09 贴片 三极管 s8050 j3y sot 23
+11 三极管 pmbt2222a w1p sot 23 2 bg1 bg2 100
+35 贴片 三极管 2n3906s sot 23 2 q1 q2 n 2n3906s rtk ps kec 2050
+45 sxfc30000192 4h fet h mosfet n diodes 2n7002k 7 vds 60v vgs 20v rds on 3ohm at 5v smd sot 23 diodes 2n7002k 7 29 14500 58000
+46 sxfc30000191 4h fet h mosfet p emc emb12p03v vds 30v vgs 25v rds on 20mohm at 4.5 v smd edfn3x3 emc emb12p03v 1 500 2000
+132 sxfc30000193 4h fet t mosfet dual n rohm um6k1ntn vds 30v vgs 20v rds on 13ohm at 2.5 v smd umt6 rohm um6k1ntn 18 9000 36000
+182 sxfc30000194 4h fet power mosfet p on ntr4101pt1g vds 20v vgs 8v rds on 210mohm at 1.8 v smd sot 23 on ntr4101pt1g 8 4000 16000
+42.0 12010030 mosfet p channel vds 50v id 130ma rds 10ohm sot23 3 onsemi bss84l 46800 bss84l sot23 3 13
+43.0 12020004 npn vceo 60v ic 1a sot89 500mw nexperia bcx55 32400 bcx55 bcx55 9
+44.0 12010029 mosfet n channel vds 50v id 200ma rds 10ohm sot23 3 onsemi bss138l 61200 bss138l sot23 3 17
+45.0 12020002 npn vceo 40v ic 600ma sot23 pmbt2222a 3600 pmbt2222a sot23 3 1
+46.0 12010027 mosfet n channel vds 60v id 85a rds 4.5 mohm dfn5x6 5.15 x6.15 x1.1 mm alphaomega aon6242 21600 aon6242 dfn5x6 6
+47.0 12010031 mosfet n channel vdss 30v id 6a rds 45mohm dfn2x2 6l 2.0 x2.0 x0.8 mm onsemi ntljs4114n 14400 ntljs4114n wnm3017 4
+贴片 三极管 s8050 q1 q4 q6 q7 q8 sot 23 5.0 5000
+60405000260 pnp 三极管 pnp 三极管 25v 200ma 350mw sot23 3pin smd on mmbt4126 5 0.1662
+三极管 ss8550 sot 23 ss8550 100
+10 bss138 三极管 sot23 2 20000
+11 bss84 三极管 sot23 2 20000
+10 bss138 三极管 sot23 2 40
+11 bss84 三极管 sot23 2 40
+0101 120007 贴片 三极管 1188 mmbt2222 sot 23
+0101 120008 贴片 三极管 8000 mmbt5401 sot 23
+19 三极管 apt20m36bfll to 247 40
+20 三极管 irf531 to 220 10
+21 三极管 apt8014l2fll to 264 80
+22 三极管 to 247 40
+24 三极管 irf531 to 220 10
+25 三极管 bta41700b to 3p 200
+bss138 三极管 sot23 2 40
+bss84 三极管 sot23 2 40
+s8550 pnp 三极管 sot23 30
+s8050s npn 三极管 sot23 15
+2n7002 n mos管 sot23 30
+s8550 pnp 三极管 sot23 15
+19 三极管 apt20m36bfll to 247 40
+20 三极管 irf531 to 220 20
+21 三极管 apt8014l2fll to 264 80
+22 三极管 to 247 40
+25 三极管 bta41700b to 3p 200
+19 三极管 apt20m36bfll to 247 1440
+20 三极管 irf531 to 220 720
+21 三极管 apt8014l2fll to 264 2880
+22 三极管 to 247 1440
+25 三极管 bta41700b to 3p 7200
+5 u050210246 贴片 场效应管 kia50n03a to 252 2 1 q1 kia50n03a 6000.0
+60405000770 npn 三极管 npn 三极管 pusb3f 双 极性 晶体管 ± 15kv son10 10pin smd nexperia pusb3fr4 324
+60405000190 npn 三极管 npn 三极管 45v 500ma 300mw sot 23 3pin smd on bc817 16lt1g 96
+三极管 bc807 25wt1g sot 23 5.0 5000.0
+三极管 bc817w sc70 3 2.0 2000.0
+npn 三极管 bc817 40q sot 23 210 aec q101
+npn 三极管 bsr43 sot 223 30 aec q101
+64 贴片 三极管 smd lmbt3904lt1g npn sot 23 lrc 2 q4 q5002 64 mnmjm14 lmbt3904lt1g lrc 2 2 12 005957 071484 3
+65 贴片 mos管 smd lpm9017b3f p mos sot 23 lps 2 q5 q5001 65 mnmjm15 2 2 12 0 0 0 客
+66 贴片 mos管 smd 2sk3018 n sot 23 2 q8 q9 66 mnmjm16 2sk3018 2 2 12 0133745 160494 3
+67 贴片 mos管 smd lpm9017b3f p mos sot 23 lps 1 q1 67 mnmjm17 1 2 7 0 0 0 客
+68 贴片 mos管 smd wpm2026 3 tr sot 23 1 q5000 68 mnmjm18 willsemi 1 2 7 0623875 4367125 3
+bss138 g on 5000 mosfet n ch 50v 220ma sot 23 sot 23
+pmv65xp 215 nexperia 5000 mosfet p ch trench 20v sot 23
+46 三极管 s9013 sot 23 sot 23 3 额定功率 300mw 集电极 电流 ic 500ma 集射极 击穿 电压 vce 25v npn
+46 三极管 s9013 sot 23 sot 23 3 额定功率 300mw 集电极 电流 ic 500ma 集射极 击穿 电压 vce 25v npn 1000
+51 sj t2306231 mosfet se2306 n 沟道 sot 23 sino ic sino ic se2306 300 se2306 sino ic 300 3 0162328
+54 三极管 triode sot 23 diodes bat54c 7 f smt diodes bat54c 7 f 1 40
+56 三极管 triode 6v 0.5 ua 32w 12.3 v dfn10 05mm sp3010 04utg smt sp3010 04utg 6 240
+57 三极管 triode esd0603 0.06 pf 1 50v 24vdc pgb1010603nr smt pgb1010603nr 12 480
+94 三极管 triode sot 23 diodes 2n7002 7 f smt diodes 2n7002 7 f 21 840
+97 三极管 triode sot363 on semi ntjd4001nt1g smt on ntjd4001nt1g 24 960
+98 三极管 triode sot23 diodes mmbt3904 7 f smt diodes mmbt3904 7 f 6 240
+99 三极管 triode p mosfet so8jvh18 ir irf7425pbf smt ir irf7425pbf 2 80
+49 三极管 triode sot23 lrc l2n7002lt1g smt lrc l2n7002lt1g 22 880
+50 三极管 triode sot 23 mmbt3904 smt mmbt3904 14 560
+贴片 三极管 贴片 npn 数字 晶体管 rohm dtc043zeb tl emt3f
+贴片 三极管 贴片 pnp 数字 晶体管 rohm dta143ze tl emt3
+6 ic ic mosfet vs3622ds 30v 12a sop8 sop8 770
+11 040043 场效应管 bf861c 40
+39.0 三极管 npn s9014 sot 23 sot 23 贴片 1 q2 5000.0
+q1 q2 q5 q6 x73x a03407a sot 23 1 4.0 120.0
+q3 q4 q7 q8 1am mmbt3904lt1g sot 23 0 4.0 120.0
+1 transistor fet q2 dmn63d8lw 13dict sot 323 dmn63d8lw 13 diodes incorperated 510
+1 transistor fet pair q1 2n7002dwh6327xtsa1ct sot 363 2n7002dwh6327xtsa1 infineon technologies 510
+三极管 q1 q2 q3 q4 sot 23 npn 8050 8050 4 40000
+q3 q4 q14 双 二极管 bat54c bat54c sot 23 3 15
+q1 q2 q5 q6 q7 q8 q9 q10 q11 q12 mosfet 管 csd18531q5a csd18531q5a pqfn8 fet 10 50
+q13 贴片 n mos 2n7002 2n7002 sot 23 1 5
+q1 nmos 2n7002 2n7002 sot 23 1 15
+q2 q5 q7 q8 q9 q10 q11 q12 q13 q14 q15 q16 q17 q18 q19 q20 q21 q22 q23 q24 q25 q26 q27 q28 q29 q30 q31 q32 ic 芯片 ipg20n04s4 08a ipg20n04s4 08a son 8 28 420
+q3 q4 q6 双 二极管 bat54c bat54c sot 23 3 45
+q33 q34 贴片 n mos fdv303n fdv303n sot 23 2 30
+1 290 2007030009 场效应管 mosfet fds89161lz so 8 dual n channel 100v 2.7 a q101 q307 2 20 b 40 dlk
+1 300 2007030010 场效应管 mosfet fds4559 so 8 complementary ± 60v 3.5 a q308 q309 2 20 b 40 dlk
+1 310 2007030012 场效应管 mosfet si4666dy t1 ge3 so 8 n channel 25v 16.5 a q316 q317 2 20 b 40 dlk
+1 320 2007030008 场效应管 mosfet zetex bss123ta sot 23 n channel 2.8 v 170ma q321 q322 q323 q324 4 20 b 80 dlk
+1 650 2008110003 贴片 ic 双 mos 驱动器 driver supertex md1210k6 g qfn12 u113 u115 u626 u629 4 20 b 80 dlk
+20 bt131 600 1
+3 场效应管 irfi720g 10 ir
+19 场效应管 irfu220n 5 ir
+9 贴片 8050 2 2000000 sot 23
+10 贴片 8550 2 2000000 sot 23
+2 irf7319pbfct nd infineon irf7319pbf t1 t2 t3 soic 8 n p mosfet x2 unipolar 30v 6.5 a irf7319pbf infineon 40.0
+5 mmbt2222a nexperia mmbt2222a 215 q1 q2 q3 q4 q5 sot 23 bipolar transistor npn 40v 600ma 300mhz 250mw smd mmbt2222a 100.0
+4 si7469 si7469dp t1 e3 t1 t2 t4 t5 powerpak so 8 p channel 80 v 25 mohm smt power mosfet powerpak so 8 si7469dp t1 e3 80.0
+1 si7145 si7145dp t1 ge3 t3 powerpak so 8 p channel 30 v 2.6 mohms power mosfet powerpak so 8 si7145dp t1 ge3 20.0
+sq9a180001 6012236 dtc143zca 数字 三极管 npn 200
+mmbt2222a sot 23 diode diodes incorporated d2 d7 d102 q0 q3 npn general purpose amplifier 500ma 5.0 20.0
+auirf4905s to 263 d2pak international rectifier q1 q2 p mosfet 55v 42a 20m ω 2.0 8.0
+zxtn2010zta sot 89 diodes zetex q4 q6 q7 q18 60v npn low saturation medium power transistor sot89bvceo 60v rsat 30m ic 5a 4.0 16.0
+zxtp2012 sot 89 diodes zetex q5 q8 q9 q17 60v pnp medium power low saturation transistor sot89 4.0 16.0
+9000 3 sot 23 ao3407
+12000 4 sot 23 s9014
+39 p mos ao3401 ao3401 sc 59 4 q1 q3 q8 q9 8400
+40 n mos 2n7002 sot 23 6 q2 q4 q5 q6 q7 q10 12600
+ao3407 aos 9000 3 sot 23 ao3407
+s9014 12000 4 sot 23 s9014
+32 11 0104 001 001 三级管 ss8050 y1 sot23 ss8050 y1 lc sot 23 sot 23 3 q1 q3 2 20000.0
+33 11 0104 002 001 贴片 mos管 si2301 a1 sot23 si2301 a1 sot23 si2301 a1 q7 1 10000.0
+34 11 0104 002 011 p mosfet ru20p7c sot 23 3 lc sot 23 sot 23 3 q5 1 10000.0
+35 11 0104 002 008 n mosfet ru207c sot 23 3 lc sot 23 sot 23 3 n1 n2 2 20000.0
+36 11 0103 002 026 稳压 ic bl8503 33psm sot89 3 lc sot 89 sot 89 3 u1 1 10000.0
+37 11 0103 002 016 升压 ic hm6351 sot 23 6 lc sot 23 6 u6 1 10000.0
+14 11 0104 001 001 npn 三极管 8050 y1 sot23 ss8050 y1 sot 23 q1 q2 2 20000.0
+15 11 0104 001 004 预 偏压 三极管 dtc043zebtl sot 416fl sot 416fl q3 q4 q5 3 30000.0
+21 11 0104 002 008 mos管 ru207c lc sot 23 sot 23 3 q3 q4 q5 q6 4 40000.0
+6 l6p3llh6 mosfet l6p3llh6 trans nexfet q5a 20000 l6p3llh6 20000 3 5 days 3000 0.515 10300 19
+7 psmn1r7 25yldx mosfet psmn1r7 25yldx nexperia lfpak56 5 60000 psmn1r7 25yldx nexperia 60000 18weeks 1500 1500 0.37 22200
+8 buk6d72 30ex mosfet buk6d72 30ex nexperia dfn2020md 6 60000 buk6d72 30ex nexperia 60000 8weeks 3000 1 0.126 7560
+10 buk6d72 30ex mosfet buk6d72 30ex nexperia dfn2020md 6 10000 buk6d72 30ex nexperia 10000 8weeks 3000 1 0.12636 1263.6
+22 mmbt3904 transistor mmbt3904 nexperia sot23 3p 10000 mmbt3904 on 10000 3 5 days 3000 0.0053 53
+23 mmbt3906 transistor mmbt3906 nexperia sot23 3p 5000 mmbt3906 5000 7 10 days 3000 3000 0.018 90 19
+8050 y1 n 三极管 q1 q2 q3 q4 q5 q6 q7 sot 23 70 7
+168 c3311010001 贴片 三极管 npn mmbt3904 sot 23 mmbt3904 sot23 9 180 18000 270000
+169 贴片 mos管 p mos管 wpm1481 dfn2 2 6l willsemi wpm1485 dfn8p0 65b2 00x2 00h0 75 1 willsemi 20 2000 30000
+171 贴片 mos管 p mos 沟道 ao3415 sot 23 i 3a ao ao3415 sot23 4 80 8000 120000
+174 贴片 三极管 三极管 l8050hqlt1g npn ic 1.5 a sot 23 lrc l8050hqlt1g sot 23 2 lrc 40 4000 60000
+176 贴片 mos管 wpm3012 p mos 沟道 i 3.1 a vds 30v vgs ± 20v sot 23 wpm3012 sot23 1 20 2000 30000
+13 4c7602d0 q01 s000454 mosfet 2n ch 60v 0.32 a sot 363 bss138ps 115 nexperia sot 1899
+14 4c7602d0 q01 s000454 mosfet 2n ch 60v 0.32 a sot 363 bss138ps 115 nexperia sot 100
+15 4c7602d0 q03 s000127 mosfet n ch 60v 280ma sot323 bss138wh6433xtma1 infineon 晶体管 晶闸管 5709
+16 4c7602d0 q03 s000127 mosfet n ch 60v 280ma sot323 bss138wh6433xtma1 infineon 晶体管 晶闸管 305
+17 4c7602d0 q03 s000128 mosfet p ch 100v 0.6 a sot23 3 zxmp10a13fta diodes 晶体管 晶闸管 1900
+18 4c7602d0 q03 s000128 mosfet p ch 100v 0.6 a sot23 3 zxmp10a13fta diodes 晶体管 晶闸管 100
+19 4c7602d0 q03 s000129 mosfet n ch 40v 100a 8tdson ipc100n04s5l1r9atma1 infineon 晶体管 晶闸管 3795
+20 4c7602d0 q03 s000129 mosfet n ch 40v 100a 8tdson ipc100n04s5l1r9atma1 infineon 晶体管 晶闸管 200
+21 4c7602d0 q03 s000131 q bss84akw sot323 bss84akw 115 nexperia 晶体管 晶闸管 3809
+22 4c7602d0 q03 s000131 q bss84akw sot323 bss84akw 115 nexperia 晶体管 晶闸管 205
+2sk2036 sot 23 1.0 三极管 500.0
+uln2803 sol 18 2.0 7.2 mm 芯片 1000.0
+20 0113 00162 mosfet rt1a050zptr mosfet p ch 12v 5a tsst8 rohm semiconductor rt1a050zptr rohm semiconductor 1050
+26 1777 0 26 nexperia transistor smd 45 v 500 ma pnp general purpose transistors sot23 bc807 3.0 30000
+27 1777 0 27 nexperia transistor smd 45 v 500 ma npn general purpose transistors sot23 bc817 1.0 10000
+35 1777 0 35 triac thd 5ma 600v to202 3 z0405mf 2.0 20000
+27 三极管 bcp53 16t1g on sot 223 bcp53 16t1g sot 223 on 900
+88 p 沟道 mos管 1 qc1 si2301 sot23 sot 23
+89 p 沟道 mos管 2 q1 q2 si2301 sot23 sot 23
+90 will semiconductor npn 三极管 2 q3 q4 wnt2f04 sot 23
+92 will semiconductor n 沟道 mos管 1 q6 wnm6001 willsemi sot 23
+93 npn 三极管 1 q7 2sc2712 sot 23
+94 will semiconductor p 沟道 mos管 1 q8 wpm2341 3 tr sot 23
+95 npn 三极管 1 q9 s8050 sot23 sot 23
+96 will semiconductor n 沟道 mos管 3 q10 q11 q12 wnm2021 3 tr sot 323
+34 1 will semiconductor n 通道 mos管 q2 wnm6001 sot23 3n
+15.0 p 场效应管 si2301 si2301 q1 q2 q3 sot 23 mcc 3.0 3000
+29.0 贴片 三极管 mmbt8050d q1 sot 23 1.0 1000
+000240 q1 mos 三极管 2n7002 mosfet n ch 60v 1a sot 23 3 2n7002lt 1 on semi 1120
+32 q1 1.0 transistor bc817 transistor npn 45v sot 23 sot 23 panjit international bc817 25 r1 00001
+33 q2 q3 q4 3.0 transistor bc807 transistor pnp 45v sot 23 sot 23 panjit international bc807 25 r1 00001
+34 q5 1.0 triac btb06 600 thyristors triacs two way thyristor 600v to 220ab btb06 600brg
+35 q8 1.0 triac z0405mf thyristors triacs two way thyristor 600v to 202 3 z0405mf 1aa2
+32 q1 1.0 transistor bc817 transistor npn 45v sot 23 sot 23 panjit international bc817 25 r1 00001
+33 q2 q3 q4 3.0 transistor bc807 transistor pnp 45v sot 23 sot 23 panjit international bc807 25 r1 00001
+35 q6 q8 2.0 triac z0405mf thyristors triacs two way thyristor 600v to 202 3 z0405mf 1aa2
+34 tra an0005 2sc2412k q2 q4 6 q13 15 q26 41 23 sot 23 hfe 120 560 vceo 50v ic 0.15 a 55 ℃ to 150 ℃ 與 tra aa0000 2sc2412k 同一 型號 但 不同 所 製 造 細微 參數 上會 有 稍微 不同 weitron 4600
+78 mos p00000001 apm2605cc tr g u1 u7 u9 u14 u16 u18 u20 21 8 sot 23 6 30v 4.5 a rdson 60m ohm vgs 4.5 v p channel enhancement mode mosfet anpec 茂達 電子 1600
+79 mos pb0000 fdn338p q1 q3 2 sot 23 vds 20v id 1.6 a p channel supersot 3 400
+tra an0005 2sc2412k q2 q4 6 q13 15 q26 41 23 sot 23 hfe 120 560 vceo 50v ic 0.15 a 55 ℃ to 150 ℃ 與 tra aa0000 2sc2412k 同一 型號 但 不同 所 製 造 細微 參數 上會 有 稍微 不同 weitron 4600
+mos p00000001 apm2605cc tr g u1 u7 u9 u14 u16 u18 u20 21 8 sot 23 6 30v 4.5 a rdson 60m ohm vgs 4.5 v p channel enhancement mode mosfet anpec 茂達 電子 1600
+mos pb0000 fdn338p q1 q3 2 sot 23 vds 20v id 1.6 a p channel supersot 3 400
+po20190026 3000004292 贴片 三极管 on mjd44h11g dpak mjd44h11g on 1455
+po20190026 3000004291 贴片 三极管 on mjd45h11g dpak mjd45h11g on 1455
+po20190026 3000001815 贴片 芯片 uln2003a sop 16 uln2003a toshiba 735
+贴片 三极管 s8550 2ty sot 23 mdd 2 q3 q8
+贴片 mos管 ao3400 sot 23 2 q1 q2
+贴片 mos管 ao3401 sot 23 2 q11 q12
+q1 sqm120n10 3m8 ge3 1 100v 3.8 m ω 10.0
+q2 sqm120n10 3m8 ge3 1 100v 3.8 m ω 10.0
+q3 ipb60r180p7atma1 1 infineon n channel mosfet 10.0
+q4 ipb60r180p7atma1 1 infineon n channel mosfet 10.0
+q5 sqm120n10 3m8 ge3 1 100v 3.8 m ω 10.0
+q6 sqm120n10 3m8 ge3 1 100v 3.8 m ω 10.0
+q7 sqm120n10 3m8 ge3 1 100v 3.8 m ω 10.0
+q8 sqm120n10 3m8 ge3 1 100v 3.8 m ω 10.0
+q9 sqm120n10 3m8 ge3 1 100v 3.8 m ω 10.0
+q10 sqm120n10 3m8 ge3 1 100v 3.8 m ω 10.0
+q11 ipb60r180p7atma1 1 infineon n channel mosfet 10.0
+q12 ipb60r180p7atma1 1 infineon n channel mosfet 10.0
+si4425ddy t1 ge3 1
+19.0 9014 q1 1.0 10.0 s9014
+9012 sot23 3 q1 1 10 s9012
+37.0 tip29c to 220 q1 1.0 10.0 tip29cg
+4 050w000044000 1 704901001106 mos管 mosfet p ch ap2p053n sot 23 3p smd apec ap2p053n 1 100 mbs 5330 1.0
+119 050w166739h01 2 704901001107 mos管 p channel mosfet fds6673bz so 8 8p smd on on fds6673bz 9 900 mbs 5330 9.0
+133 050w160109501 340 704901001103 三极管 mosfet dual n um6k1ntn sot363 rohm rohm um6k1ntn 11 1100 mbs 5330 11.0
+11 05019 00016 mosfet s5nf60l n 沟道 5 a 60 v 45 mohm 8 mos1 mos2 mos3 mos4 mos5 mos6 mos7 mos8 160
+16 05004 00492 贴片 三极管 s8550 sot 23 1 q5 22
+11 05019 00016 mosfet s5nf60l n 沟道 5 a 60 v 45 mohm 8 mos1 mos2 mos3 mos4 mos5 mos6 mos7 mos8 160
+16 05004 00492 贴片 三极管 s8550 sot 23 1 q5 22
+26 q01 s000083 trans npn 20v 3a sot 223 dnls320e 13 diodes 三极管 13465
+27 q01 s000135 mosfet n ch 60v 260ma sot 23 2n7002et1g on 三极管 54788
+59 w01 s000024 mosfet n ch 20v 5.47 a sot23 dmg3420u 7 diodes 晶体管 晶闸管 418056
+ntd20p06lt4g mosfet 60v 15.5 a p channel 3d dpack q1 q2 3.0 700.0
+ulq2003l high voltage high current darlington array l16 n u12 u18 u24 u30 u36 u60 u71 16.0 2450.0
+wi trs 0003 q1 npn 400v 1 trans npn 400v 0.3 a sot 23 central semiconductor cmpta44tr cmpta44ct nd to 236 3 780
+wi trs 0004 q2 q3 q4 q5 q6 q7 q8 q9 npn 80v 8 trans pnp 80v 0.5 a sot23 on semiconductor mmbta56lt1g mmbta56lt1gosct nd sot 23 3 to 236 6240
+091805 028701 mos fdv303n sot 23 233
+45 三极管 2sc4617ebtlr rhom sot416 ws080001 3 27600
+78 二极管 mbr0530t1g sod123 30v 500ma sod123 ws070020 3 27600
+79 三极管 bcw66f npn 800ma 45v bcw66f ws080004 1 9200
+32 q1 1.0 transistor bc817 transistor npn 45v sot 23 sot 23 panjit international bc817 25 r1 00001 10000 bc817 25 panjit 100 2 4working days 3000.0 20.0 0.10918 10.92
+33 q2 q3 q4 3.0 transistor bc807 transistor pnp 45v sot 23 sot 23 panjit international bc807 25 r1 00001 30000 bc807 25 r1 00001 panjit international 300 2 4working days 3000.0 20.0 0.10918 10.92
+34 q5 1.0 triac btb06 600 thyriors triacs two way thyrior 600v to 220ab btb06 600brg 10000 btb06 600brg 半导体 100 2 4working days 50.0 1.0 2.1879 218.79
+35 q8 1.0 triac z0405mf thyristors triacs two way thyristor 600v to 202 3 z0405mf 1aa2 10000 z0405mf1aa2 100 8 12working days 4.499 449.9 shortage
+bc856alt1 general purpose transistor pnp silicon sot 23 q3 3.0 350.0
+ntd20p06lt4g mosfet 60v 15.5 a p channel 3d dpack q1 q2 3.0 700.0
+51 sj t2306231 mosfet se2306 n 沟道 sot 23 sino ic sino ic se2306 300 se2306 sino ic 300 3 0162328
+33 2 200 q1 q2 mmst3904 sot 323 mmst3904 npn 额定功率 200mw ic 200ma vce 40v item szlcsc 55904 html
+三极管 65 to 150 ° c 50v 800ma bc81716mft sot23 20
+npn 三极管 65 to 150 ° c 4 50v 2a 30w ksc5402d dpak 10
+1 nh dem001 spd30n06s2l 23 infineon 10
+2 109 0102 0021 直插 集成块 mje2955t to 220 3 3 00000
+7 109 0402 0001 直插 三极管 cj431 3 00000
+34 贴片 mos管 bsc014n06ns q3 q4 q5 q6 q7 q8 pg tdson 8 6 infineon 120
+35 贴片 三极管 bc846alt1g q9 sot 23 1 20
+二极管 ao3400 u2 u10 2 sot 23 30
+三极管 sot23 2x q8 q9 q10 q11 4 12
+sot23 2t1 q6 q7 q1 q2 q3 q4 q5 7 21
+三极管 to220 15n65fda t2 1 3
+22 三极管 s8050 贴片 npn sot 23 3 q5 q6 q7 3000 3000 0 3000 s8050 3000.0 三极管 s8050 贴片 npn sot 23 3.0 q5 q6 q7
+mos管 sud50p04 q1 q14 to 252 2 15
+npn 三极管 s8050 q2 q6 q7 q11 q12 q13 sot23 6 39
+mos管 2n7002 q3 q15 sot 23 2 15
+mos管 irf5210 q4 q5 q8 q9 q10 to 263 5 33
+q2 p mosfet so8 so 08 p channel mosfet 20
+q3 ao3401 a03401 bc856bsmd sot23 bec pmos transistror 3.0 60
+t1 bc846 bc846 sot23 npn transistor 10.0 200
+t9 bc856 bc856a pnp sot23 bec sot23 bec pnp transistror 2.0 40
+24 top 贴片 三极管 mmun2233 on npn sot 23 0.1 a 50v mmun2233lt1g 带 内置 电阻 r1 4.7 k r2 47k q1 q3 2 20
+11 10140002856 贴片 三极管 pnp sot23 0.1 a 50v pdta143xt 内置 电阻 r1 4k7 r2 10k q4 1 sot 23 10
+12 10140002123 贴片 三极管 lrc npn sot 23 0.1 a 50v lmun2232lt1g 内置 电阻 r1 r2 4k7 q2 q6 q7 q8 q9 5 sot 23 50
+35 10140002552 贴片 场效应管 diod p mosfet sot 23 3.5 a 30v dmp3130l 7 q1 1 sot 23 10
+36 10140001694 贴片 场效应管 lrc p mosfet sot 23 4.7 a 20v lp3443lt1g q1 1 sot 23 10
+57 10140000880 贴片 三极管 lrc npn sot 23 0.2 a 40v lmbt3904lt1g hfe 100 300ic 200ma q3 q5 2 sot 23 20
+58 10140000877 贴片 三极管 semt npn sot 23 0.2 a 40v mmbt3904lt1 q3 q5 2 sot 23 20
+091805 125901 mosfet dmn2004wk dmg1012uw 7 dmn2004wk 7 sot23 670
+091804 027601 贴装 三极管 mmbt5551 mmbt5551lt1g sot23 830
+091804 027601 三极管 三极管 mmbt5551 mmbt5551lt1g n2 取消 20
+31 10 ic mosfet 2p ch 30v 5.5 a 8 soic q1 zxmp3a16dn8ct nd diodes zetex zxmp3a16dn8ta each
+32 80 ic mosfet n ch 60v 2.8 a sot23 6 q2 q3 q4 q5 q6 q7 q8 q9 zxmn6a08e6ct nd diodes zetex zxmn6a08e6ta each
+npn 开关 三极管 mmbt4401lt1g pb free mmbt4401lt1g lmbt4401lt1g vceo 40v vcbo 60v pd 225mw ic 600ma hfe 20 300 ft 250mhz sot 23 lrc lmbt4401lt1g 1 300
+npn 开关 三极管 mmbt3904lt1g pcn pmbt3904 lmbt3904lt1g pmbt3904 vceo 40v vcbo 60v pd 225mw ic 200ma hfe 30 340 ft 300mhz sot 23 lrc lmbt3904lt1g 1 300
+npn 三极管 mmbt5551lt1g lmbt5551lt1g vceo 140v vcbo 160v pd 225mw ic 600ma hfe 30 250 ft mhz sot 23 lrc lmbt5551lt1g 1 300
+n mos 场效应管 带 e 2n7002kt1g 2n7002ck 2n7002k t1 ge3 vdss 60v id 300ma rds on 2 ω idm 800ma sot23 on 2n7002kt1g 1 300
+5 2007030016 场效应管 100 mosfet diodes dmp2035u sot 23 p channel 20 v 3.6 a
+6 2007030017 场效应管 150 mosfet on bss138lt1g sot 23 n channel 50 v 0.2 a
+7 2007030018 场效应管 50 mosfet csd17308q3 son n channel 30 v 44 a
+8 2007030020 场效应管 50 mosfet csd25402q3a son 3 3 p channel 20 v 35 a
+irlml6401trpbf hexfet power mosfet sot23 dgs international rectifier irlml6401trpbf 1200 9920 7000 1000
+2n7002 n channel enhancement mode field effect transistor 60v 0.3 a sot23 dgs 2n7002 300 9920 7000 1000
+bc846b 215 npn general purpose transistor bc856 sot23 nexperia bc846b 215 4200 9920 7000 1000
+si3437dv t1 ge3 siliconix si3437dv mosfet p ch 1 50v 1.4 a tsop 6 element 14 2679685 tsop 6 siliconix si3437dv t1 ge3 1200 9920 7000 1000
+zvn3320fta diodes inc zvn3320fta mosfet n ch 200v 006 a sot23 element 14 2061497rl zvn3320fta sot23 diodes inc zvn3320fta 1800 9920 7000 1000
+pbhv9115t pbhv9115t transistor pnp 1a 1 50v sot23 pbhv9115t sot23 nexperia pbhv9115t 600 9920 7000 1000
+fzt696bta fzt696bta transistor npn 180v 05 a sot 223 fzt696b sot223 diodes inc fzt696bta 600 9920 7000 1000
+pbhv8118t pbhv8118t transistor npn 1a 180v sot23 element14 1829310 pbhv8118t sot23 nexperia pbhv8118t 600 9920 7000 1000
+fdms8460 mosfet n ch 40v 25a power56 fdms8460 farchid fdms8460 600 9920 7000 1000
+mmbf170 mosfet n ch 60v 500ma sot 23 mmbf170 sot23 on semiconductor mmbf170lt1g 300 9920 7000 1000
+irf9640spbf irf9640spbf p channel mosfet to 263 farnell 9103112 irf9640spbf d2pak irf9640spbf 600 9920 7000 1000
+si2327ds t1 e3 siliconix si2327ds t1 e3 mosfet p ch 200v 0.38 a sot 23 si2327ds sot23 si2327ds t1 e3 1200 9920 7000 1000
+irlml6401trpbf sot23 dgs hexfet power mosfet international rectifier irlml6401trpbf 600 9920 7000 0988
+mmbf170 mmbf170 sot23 trans mosfet n ch 60v 0.5 a 3 pin sot 23 t r mmbf170 3000 9920 7000 0988
+hexfet power mosfet irlml6401trpbf irlml6401 sot23 international rectifier irlml6401trpbf 880 9920 7000 0861
+n channel enhancement mode field effect transistor 60v 0.3 a 2n7002 2n7002 sot23 2n7002 240 9920 7000 0861
+npn general purpose transistor bc846b 215 bc846 sot23 bc846b 215 1520 9920 7000 0861
+npn switching transistor pmbt3904 npn sot23 pmbt3904 160 9920 7000 0861
+mosfet n 50v 0.2 a sot 23 bss138lt1g sot 23 on semi bss138lt1g 640 9920 7000 0861
+nmos 2 sot 23 n channel power mosfet on semiconductor ntr4501nt1g 640 9920 7000 0860
+ksc1845fta on 2000
+25 npn rn1417 xt sot 23 90 q1 q2 q3 q4 q5 q6 q7 q8 q9
+n1021900102 无铅 表贴 mos管 fdbl86063 f085 on 单 n 沟道 100v rds on 2.6 mohms 80a 10v 240a tc 357w tj hpsof 8 55 ℃ 175 ℃ 11.78 mmx9.9 mmx2.4 mm on semiconductor 600
+n1022202333 无铅 表贴 mos管 fdws86068 f085 on 漏源 电压 100v vgs ± 20v 漏极 电流 80a 驱动 电压 10v 功耗 214w 55 ℃ 150 ℃ 5.1 6.3 1.1 mm n 沟道 mosfet 金属 氧化物 power dfn56 onsemi 200
+n1022202349 无铅 表贴 集成 mos管 ucc27517dbvr 驱动 配置 低压 侧 栅极 单路 igbt n 沟道 mosfet 单 驱动器 反相 非 反相 4a 4a 电源 电压 4.5 v 18 v 40 ℃ 140 ℃ sot 23 5 1.45 mm 200
+三极管 sot23 2x q8 q9 q10 q11 4 12 mmbt4401 sof23
+sot23 2t1 q6 q7 q1 q2 q3 q4 q5 7 21 s9012 sof23
+三极管 to220 15n65fda t2 1 3
+sot 23 dtc143eca q1 q2 q3 q4 q5 5 1000
+25 三极管 ss8050 sot 23 4 q1 q2 q3 q4 2000
+26 场效应管 nce7560k to 252 2 4 m1 m2 m3 m4 2000
+d7 d9 d11 mmbta13lt1g mmbta13lt1g sot23 3 30
+d8 d10 d12 ao3407 ao3407 sot23 3 30
+79 晶体 三极管 mmbt9013lt1g sot 23a 6 500 3000 v5 v16 v18 v38 v45 v8
+80 场效应管 ao3401 sot 23a 1 500 500 q1
+81 p 沟道 场效应管 irf4435 so g8 2 500 1000 v33 v50
+82 n 沟道 场效应管 irfr210 to 252aa 1 500 500 v25
+83 n 沟道 场效应管 irfr4620pbf to 252aa 1 500 500 v40
+2n7002 n channel enhancement mode mosfet q2 sot 23 l 2n7002 2n7002 1 loading ...
+rn2903 lora module rn1 rn2903 rn2903 rn2903a i rm103 1 loading ... rn2903a i rm098 nd
+23 6400 q301 q302 q401 q402 q403 q404 n mosfet vson 8 csd17578q3a critical
+24 2800 q303 mosfet p channel 6 wson csd25310q2t critical
+25 20000 q405 p mosfet vson 8 csd25402q3a critical
+32 3600 q101 q203 q204 mosfet n channel sot 23 nexperia pmv55enear
+33 1200 q201 mosfet n channel tdsob 8 100v 8mohm l92n10f7ag critical
+10 8400 q401 q601 q801 q1001 mosfet h bridge 200v tc8220k6 g
+11 8400 q402 q602 q802 q1002 bjt npn 500v sot23 r1550
+mmbt5550lt1g on semi 200000
+33 9013 q1 q2 q3 q4 q5 q6 q7 q8 q9 q10 q11 q12 q13 q14 q15 sot 23b m 15 15750
+70 ao3401 sot23 u3 u5 u8 u26 u29 p mos sot 23 5 5000
+72 spp9435 sop8 u10 u14 u21 u22 u24 u25 u28 u30 p mos sop 8 8 8000
+78 9575gm sop8 u20 p mos sop 8 1 1000
+17.0 贴片 三极管 bc847c sot 23 8550 500 q1 贴装
+24.0 贴装 电路 uln2003a so 16 500 u3 贴装
+25 npn rn1417 xt sot 23 9 q1 q2 q3 q4 q5 q6 q7 q8 q9
+1 场效应管 irf9530 to 220 400
+28 q1 q2 q3 q4 q5 q6 q7 q8 q9 q10 q11 q12 npn 三极管 mmbt4401 sot23 sot23 m 12 60
+28 q1 q2 q3 q4 q5 q6 q7 q8 q9 q10 q11 q12 npn 三极管 mmbt4401 sot23 sot23 m 12 600
+sot 23 3l ao3400a n 道 沟 x0yv1t sot 2 ao3400a n 道 沟 x0yv1t sot 23 q1 q2 mos 场效应管 2 40
+to 252 2 mosfet n mosfet n q3 ncep0178ak 1 20 1 2
+t0 263 2 mosfet n mosfet n q4 ncep85t25d 1 20 1 2
+132 mosfet nce3415 nce3415 sot 23 willas 50
+133 三极管 l8050hqlt1g 1hc l8050hqlt1g 1hc sot 23 lrc 100 y3
+39 三极管 lmun5211t1g lmun5211t1g npn ba lrc 100 y4
+26 贴片 三极管 s8050 sot 23 j3y jcet 500
+26.0 1.0 q1 bc807 40 bc807 40 sot23 300.0
+27.0 1.0 q2 fdd6637 fdd6637 on dpak 300.0
+28.0 1.0 q3 bc817 40 bc817 40 sot23 300.0
+51 sj sot23004 三极管 mmbt3904 sot 23 7 840 mmbt3904 sot 23 blue
+2sa1615 isc 固电 6000 0.98
+2sb1424 6000 0.29
+42 050w039049503 704716000103 transistor 三极管 cas jason190816 npn transistor pmbs3904 215 sot 23 pmbs3904 3 1500
+43 050w17678m301 704901001104 transistor mos cas jason190816 power mosfet n ch fdmc7678 30v 17 fdmc7678 1 500
+12 ss8050 sot 23 ss8050 tr1 tr2 tr3 tr4 4 40
+1.0 vt1 irf7304 7.0 infineon mosfet 2p ch 20v 4.3 a 8 soic so 8
+1.0 vt2 fw342 tl e 7.0 sanyo mosfet n p ch 30v 6a 5a 8 sop so 8
+1.0 vt3 2n7002 7.0 on semiconductor n channel enhancement mode field effect transistor to 236ab sot23
+3.0 vt4 vt5 vt6 mun5235dw1 35.0 on semiconductor dual npn bias resistor transistors sot 363
+1.0 vt7 2n7002dwh6327xtsa1 15.0 infineon technologies mosfet array 2 n channel dual 60v 300ma 500mw surface mount pg sot363 6 sot 363
+bc847ce6327htsa1 25.0 infineon bipolar bjt transistor npn 45v 100ma 250mhz 330mw to 236ab sot23
+bcr512 5.0 infineon npn silicon digital transistor to 236ab sot23
+110100200189x 达林顿 晶体管 uln2003a sol16 toshiba 10220155 1000
+110101100028x 场效应管 n channel power fda28n50f to 3p on 1000
+110101100030x cd p 沟道 mos管 ntr0202pl sot 23 on 3000
+ss8050 ss8050 q1 q8 q9 q10 q11 q12 q13 q14 q15 q16 q17 q18 q19 q26 q27 q28 q29 q30 q31 q32 q33 q34 q35 q36 q37 q44 q45 q46 q47 q48 q49 q50 q51 q52 q53 q54 q55 q62 q63 q64 q65 q66 q67 q68 q69 q70 q71 q72 q73 sot 23 sot 23 3 3 200 49 9800
+a03400a ao3400a aos q2 q3 q4 q5 q6 q7 q20 q21 q22 q23 q24 q25 q38 q39 q40 q41 q42 q43 q56 q57 q58 q59 q60 q61 sot 23 3l 3 200 24 4800
+12.0 15060190 3 激光 1 irf5805trpbf 4 200 ic ir b isolated gate field effect transistor pchannel 30v 3.8 a 0.098 ω 20v tsop 6
+q1 q3 3 dmc2400uv 7dict nd diodes inc dmc2400uv 7 mosfet array n and p channel 20v 1.03 a 15000
+q4 q5 2 rue002n02tlct nd rohm semi rue002n02tl n channel 20v 200ma ta 150mw ta surface mount 10000
+q1 1 bcp56t1gostr nd on semi bcp56t1g trans npn 80v 1a sot223 5000
+q2 q4 q7 5 bss138tr nd bss138 mosfet n ch 50v 220ma sot23 25000
+q3 1 mmbt3904lt1gosct nd on semi mmbt3904lt1g transisitor npn 40v sot23 5000
+q1 q2 2 digi key rur020n02tltr nd rohm rur020n02 mosfet n ch 20v 2a tsmt3 10000.0
+50005 2n7002 non specific 245
+50017 2n7002 non specific 1000
+50029 2n7002 non specific 3000
+50621 irfr5505pbf infineon 11
+50633 irfr5505pbf infineon 30
+39 csd19538q3at smd mosfet csd19538q3at 1 1000 0
+50005 2n7002 non specific 245
+50017 2n7002 non specific 1000
+50029 2n7002 non specific 3000
+50621 irfr5505pbf infineon 11
+50633 irfr5505pbf infineon 30
+111 三极管 mmbta44 sot23 1
+112 三极管 mmbta94 sot23 1
+113 三极管 ss8050 sot23 1
+114 三极管 ss8550 sot23 1
+115 三极管 ss9014 sot23 1
+116 mos管 2n7002bk sot23 200
+117 mos管 ao3404 sot23 300
+118 mos管 ao3415 sot23 200
+119 mos管 si4435dy so 8 50
+120 mos管 si4599 psop8 du 50
+121 mos管 fdms8090 psop8 du 50
+122 mos管 fqd2p40tm to 252 300
+123 可控硅 mac97a8 sot23 1
+111 三极管 mmbta44 mmbta44 sot23 1
+112 三极管 mmbta94 mmbta94 sot23 1
+113 三极管 ss8050 ss8050 sot23 1
+114 三极管 ss8550 ss8550 sot23 1
+115 三极管 ss9014 ss9014 sot23 1
+116 mos管 2n7002bk 2n7002bk sot23 200
+117 mos管 ao3404 ao3404 sot23 300
+118 mos管 ao3415 ao3415 sot23 200
+119 mos管 si4435dy si4435dy so 8 50
+120 mos管 si4599 si4599 psop8 du 50
+121 mos管 fdms8090 fdms8090 psop8 du 50
+122 mos管 fqd2p40tm fqd2p40tm to 252 300
+123 可控硅 mac97a8 mac97a8 sot23 1
+nds332p nds332p sot 23 3 q1 q6 q9
+npn 三极管 8050 sot 23 7 q2 q3 q4 q5 q7 q8 q12
+ap9435gh ap9435gh to 252 2 q10 q11
+28002 mmbt3904 1am sot 23 1 100
+mos管 cju20n06 jcet d2park 1 500
+贴片 三极管 s8050 jcet sot 23 34 17000
+mos管 dn2540n8 g dn2540n8 g 1 400v 150ma sot 89 贴片 m1 supertex 2000
+bd135 500
+44.0 mos bsc123n08 pg tdson 8 bsc123n08 infineon
+45.0 mos ntmfs4841n so8 p ntmfs4841n on
+46.0 mos nvmfs5c442nl so8 p nvmfs5c442nl on
+47.0 mos si7115 3.3 3.3 p si7115
+48.0 mos bsc123n08 so8 p bsc123n08 infineon
+49.0 npn mmbt5551 sot23 bce mmbt5551 on
+50.0 npn mmbt4401wt1g sot323 bce mmbt4401wt1g on
+51.0 pnp mmbt2907awt1g sot323 bce mmbt2907awt1g on
+52.0 pnp 2sb1124 sot89 bce 2sb1124 on
+53.0 npn 2sd1624 sot89 bce 2sd1624 on
+51902 irf530npbf infineon 50
+stb75nf75l n 沟 场效应管 q1 q2 q3 q4 q5 q6 q7 q8 q9 q10 q11 q12 q13 q14 to252 14 70
+s9014 低噪 放大 npn q15 sot23 3n 1 5
+15 场效应管 csd17307q5a 1 10
+16 三极管 mmbt3904t 2 20
+17 三极管 mmbt3906t 1 10
+25 6p7901b0 q01 s000305 mosfet p ch 60v 1.1 a sot23 3 nvr5124plt1g on 三极管 24
+26 6p7901b0 q03 d000021 igbt 6 50v 240a 882w to 247 fgy120t65spd f085 on 晶体管 晶闸管 72
+27 6p7901b0 q03 s000141 mosfet n ch 60v 2.2 a sot23 nvr5198nlt1g on 晶体管 晶闸管 24
+57 6p7901b0 u11 s000109 mosfet n ch 40v 50a to252 3 313 ipd50n04s4l08atma1 infineon to 24
+58 6p7901b0 u11 s000115 mosfet p ch 40v 50a to252 3 smd ipd50p04p4 13 infineon to 24
+66 6p7901b0 u21 s000084 mosfet n ch 60v 50a dpak fdd13an06a0 f085 on dpak 6
+10 pdtc114et q1 q2 q4 sot 23 dtc114eet1g dtc114eka 30 pdtc114et nexperia
+60405000810 uln2003aid 120
+60406000860 si4936cdy t1 ge3 275
+60406001830 ssm6l61nu lf toshiba 900
+62911003540 moc3051sm on 200
+mosfet se2306 n 沟道 sot 23 sino ic sino ic se2306 se2306 sino ic 300 3 0.162328
+16 ao3407 sot23 3 1.0 q1 400.0
+17 ao3402 sot23 3 1.0 q2 400.0
+74.0 贴片 三极管 8050 npn 1b2e3c sot 23 1.0 q1 j3y 3000
+75.0 贴片 三极管 2sc1623 npn 1b2e3c sot 23 3.0 q2 q3 q5 9000
+76.0 贴片 三极管 2sa812 pnp 1b2e3c sot 23 1.0 q4 3000
+tip31c to 220 3 vertical 1 tip31c 6a ic 100v vce power npn transistor to 220 100
+tip32c to 220 3 vertical 1 tip32c 6a ic 100v vce power pnp transistor to 220 100
+66 贴片 三极管 2sc1623 npn 1b2e3c sot 23 3 q6 q8 q9 9000
+67 贴片 三极管 8050 npn 1b2e3c sot 23 1 q7 3000
+15 p20316000006 to 220 3 ir irf3205pbf irf3205pbf mos管 1300
+贴片 p 沟道 ao4405 so8nb 2 u13 u26 17140
+贴片类 ao3401 3407 代 sot23 100 1 q2 8570
+贴片类 mmbt3904 sot 23 6 q1 q7 q10 q301 q302 q9 51420
+贴片类 n 2n7002 sot 23 2 q6 q8 17140
+41 三极管 s9013 银河 sot 23 16
+76 场效应管 芯片 nce30p15s sop8 11
+78 达林顿 管 阵列 芯片 uln2003aidr sop 16 20
+65 贴片 三极管 npn bc847bw on sot23 3n 26
+66 贴片 三极管 pnp ss8550 sot23 3n 16
+67 贴片 三极管 npn bc847bw on sot23 3m 47
+68 贴片 三极管 npn bc847bw on sot23 3n 16
+120 贴片 ic nce6005as sop8 m 11
+42 贴片 三极管 bc807 25 sot 23 16
+43 贴片 三极管 mmbt4401 sot 23 16
+64 贴片 ic uln2004aid so16 10
+71 mos管 nce40p13s soic8 11
+trans prebias npn 250mw sot 23 3 pdtc143et 215 晶体管 晶闸管 805
+18 smd transistor mmbt2222a npn sot 23 10000
+28 high voltage mos transistor 8a 800v to 220f 10000
+54.0 p mosfet irfr9220trpbf irfr9220trpbf 1.0
+jt02 0001 a smd 三极管 mmbt3904lt1g sot 23 sot 23 5 2750
+jt02 0002 a smd 三极管 mmbt3906lt1g sot 23 sot 23 4 2200

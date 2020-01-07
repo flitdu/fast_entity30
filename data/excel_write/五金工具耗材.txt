@@ -1,0 +1,35 @@
+091806 020301 bga 101 模块 屏蔽罩 白铜 c7521 厚度 0.3 mm 1000
+22 五金 弹片 tp11 铁 镀锌 2 l n 400000
+90 螺柱 螺柱 m.2 5.5 2.55 mm lutuo s005 b11p a smt lutuo s005 b11p a 2 80
+246 螺丝 screw fivetech 99 450 201 6 rl smt 2 80
+7 码 25mm 8mm 铜版纸 白色 耐高温 300 ℃ b c 一排 三列 1 40
+8 码 35mm 10mm 铜版纸 白色 耐高温 300 ℃ b c 一排 二列 1 40
+3 码 25mm 8mm 铜版纸 白色 耐高温 300 ℃ b c 一排 三列 1 40
+56 码 25mm 8mm 铜版纸 白色 耐高温 300 ℃ b c 一排 三列 1 40
+189 贴片 五金 夹 cp001 屏蔽罩 夹子 马口铁 ptc4944h 10 1.9 3mm via ptc4944h 11 220 22000 330000
+68 077w000042000 341 702004925600 sink eipps01c al screw 66x60x25mm hojet hojet eipps01c 1 100 mbs 5330 1.0
+69 077w000043000 342 702004906480 backplate bipsn01c al screw 66x48x6mm hojet hojet bipsn01c 1 100 mbs 5330 1.0
+70 077w000129000 343 702004910165 sink ecspp76b al push pin 29.8 x16.5 x10mm hojet hojet ecspp76b 2 200 mbs 5330 2.0
+152 077w013340003 344 702004927350 sink 41.2 x35x27mm pad 13x13mm 粉红 shyung shuhn 8e859 pad13x13 1 100 mbs 5330 1.0
+71 077w612140001 345 散热器 green sink 37.5 x37.5 x13mm pad 15x15mm t725p al push pin hojet hojet ecspp05f 1 100 lio 53303 1.0
+8 084w000216000 346 label 6x6mm io 88953z brady 084w000216000 2 200 lio 53301 lio 53302 1.0 1.0
+381 084w000210000 347 label 20mmx6mm mb 9661x yeah sheng 1h0200061r 2 200 lio 53303 lrc 53301 1.0 1.0
+382 084w000228000 348 label 30x10mm mb 8895z yeah sheng 170300101sr 1 100 lio 53303 1.0
+83 070w000078000 350 702667000116 柱 pcb so smt m3 l5 h8 pcm m.2 nut laichun 2 200 mbs 5330 2.0
+84 070w000109000 351 702667000117 柱 pcb so smt m3 h16 ocp nut laichun 6 600 mbs 5330 6.0
+4 3 03icsrc6 sfra1 接插件 ict icsrc6508sfr icsrc6508sfr icsrc6508sfr 44
+m2x16 双通 尼龙 柱 1.0 100.0
+m2x6 双通 尼龙 柱 2.0 200.0
+m2x4 尼龙 螺丝 6.0 600.0
+109 10 heatsink to 220 vertical u2 heatsink clips on to u2 hs357 nd aavid thermaalloy 574502b03300g each
+14 螺丝 自攻 螺丝 3 8 1000 固定 变压器 电装
+85 asob221 s90q 4h 螺柱 螺丝 400
+51011 r30 1000502 harwin 102
+51023 r30 1000502 harwin 200
+51011 r30 1000502 harwin 102
+51023 r30 1000502 harwin 200
+62.0 骨架 rer13 rer13
+63.0 骨架 reer12.8 er13 reer12.8 er13
+mrfc 20 kitagawa co ltd 5
+e06a050 seiwa electric mfg co ltd 電機 5
+mrfc13 kitagawa co ltd 5

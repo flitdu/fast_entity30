@@ -1,0 +1,69 @@
+看门狗 ic sp706s smd sop 8 3000
+时钟 ic bm8563esa smd sop 8 3000
+32 ic ic1 ds1302 ds1302 1.0
+34.0 105010070 2.0 6udfntps3895adryr tps3895adryr 2000.0
+贴片 电源 监控 芯片 tps3823 3.3 sot 23 5 091805 140701 31
+贴片 电源 监控 芯片 tps3823 3.3 sot23 5 091805 140701 31
+贴片 电源 监控 芯片 tps3823 3.3 sot 23 5 091805 140701 31
+贴片 电源 监控 芯片 tps3823 3.3 sot23 5 091805 140701 31
+88.0 10230027 ic logc 1.8 5.0 v watchdog supervisor vson 8 3mmx3mm tps3851g33edrbr 3600 tps3851 tps3851 1
+8 u060310062 实时 时钟 芯片 slm1302 soic 8 1 u2 slm1302 0.7 6000.0
+bd49k25g tl rohm 5000 监控 电路 volt sup det 2.3 6v ssop3
+10629 0011 看门狗 sp706ten 功率 微处理器 监控 电路 200m 复位 脉宽 16 s 看门狗 so 8 exar u4 1 6 exar
+38 ic ic qfn48b s167h10 idt 9zxl0831aklf smt idt 9zxl0831aklf 2 80
+1 adm6320cz29arjz r7 analog devices adm6320cz29arjz r7 cr2 sot 23 5 2.3 v supervisor watchdog timer push button reset sot 23 5 adm6320cz29arjz r7 20.0
+max708tesa soic8 50 150 u15 电源 监控 芯片 single upower supervisor 1.0 4.0
+3 ozt4180718002 1 u6 apx823 26w5g 7 apx823 监控 电路 11 v 55 v 263 v 20ma diodes incorporated vendor cn 100
+贴片 ic ds1302z soic 8 150mil 1 u2
+091805 132701 芯片 rx 8025nb 115
+700903010011.0 芯片 9zx21901cklf vfqfpn 72p smd idt idt 9zx21901cklf 2 200
+701421000701.0 芯片 regulator adm811sartz reel7 sot 143 smd analog device adm811sartz reel7 1 100
+时钟 芯片 pcf8563 u5 sop 8 1 9
+加密 ic 加密 ic sot23 5 dx81c04 c dx chipsec 1 1000 u4
+tlv803sdbzr 2.93 v reset ic 1.0
+ds1339u 33 u17 sop8 sl 1.0 100.0 top
+74 10 ic watchdog time circuit sot23 5 u19 497 10058 1 nd stwd100nywy3f each
+76 10 ic volt detector 3.1 v lp sot 23 u21 497 4957 1 nd stm1061n31wx6f each
+up 电源 电压 芯片 adm706sarz reel tps3705 33dr vrst 2.93 v 复位 电平 手动 复位 电源 失效 监控 看门狗 soic8 adm706sarz reel tps3705 33dr 1 300
+可编程 lvpecl 时钟 综合 器 843n571bkilf pcn 843n571akilf 843n571akilf 3 lvpecl 差分 包括 100mhz 125mhz 156.25 mhz 同时 还有 6 单端 25mhz 1 单端 33.33 mhz rms jitter 12khz 20mhz 内 小于 0.5 ps 6 6 idt 843n571bkilf 新港 海岸 ncs23571 1 300
+抖动 时钟 驱动器 lmk00301sqx 8t39s10nlgi8 pi6c49s1510zdiex 工作电压 核 电压 3.3 v io 电压 2.5 v 3.3 v 形式 数量 两路 lvcmos lvpecl lvds 一路 crystal 形式 lvpecl lvds hcsl 数量 10 路 工作频率 1.5 ghz 抖动 51fs rms 156.25 mhz 12khz 20mhz pericom lmk00301 频率 及第 38 脚 稍 有 不同 时请 兼容 设计 7mm 7mm 1mm 48 pin lmk00301sqx 奥拉 au5411 1 300
+18 2008140003 复位 芯片 20 reset 2.93 v sot143
+atsha204a sshcz t cryptoauthentication soic8 atsha204a sshcz t 300 9920 7000 1000
+uprocessor supervisory 2.63 v lm809m3x 2.63 nopb ame sot23 lm809m3x 2.63 nopb 80 9920 7000 0861
+30 贴片 ic tl7700cpsr t7700 sop 8 10 u2
+13 u6 时钟 芯片 ds1302z soic 8 150mil 1
+13 u6 时钟 芯片 ds1302z soic 8 150mil 1 3000
+62 集成电路 imp811s sot143 1 500 500 d11
+29 贴片 ic tl7700cpsr t7700 sop 8 10 u2
+76 贴片 ic tl7700cpsr t7700 sop 8 1000 u2
+31 贴片 ic tps3809i50dbvr pdci sot 23 1 u5
+20 复位 max706sesa so8 1 2
+48 贴片 芯片 max706resa so g8 max706resa 700
+69 贴片 芯片 rx 8025sa so14 r8025 100
+贴片 ic 高精度 时钟 芯片 sd3078 sop 8 20.0
+1 20 u16 tps3431sdrbr 595 tps3431sdrbr supervisory circuits standard programmable watchdog timer with enable 8 son 40 to 125 tps3431sdrbr 8 son th pad
+110100200035x ic icm7555id soic 8 artschip 5000
+110100201578x ic icm7555ibaz t soic 8 10000
+max038 high frequency waveform generator u1 dip 20 d25 max038cpp 1 max038
+39.0 39110322 传感器 1 a8 1 adm706sarz reel 2 100 ic b voltage monitor adm706 active low reset 2.93 v 200ms sop8
+40.0 39130071 a8 pcf8563t f4 118 1 50 ic b real time clock pcf8563 i2c bcd code sop8
+50415 ds3232s 11
+50427 ds3232s 30
+51474 tps3823 50dbv 11
+51487 tps3823 50dbv 30
+5 linear technology analog devices ltc6994cs6 1 trmpbf ic delay block 8tap prog tsot23 u1 u5 2 ea 20.0
+6 linear technology analog devices ltc6994cs6 2 trmpbf ic delay block 8tap prog tsot23 u4 1 ea 10.0
+20 linear technology analog devices ltc6994cs6 1 trmpbf ic delay block 8tap prog tsot23 u1 u5 2 ea 20000.0
+21 linear technology analog devices ltc6994cs6 2 trmpbf ic delay block 8tap prog tsot23 u4 1 ea 10000.0
+50415 ds3232s 11
+50427 ds3232s 30
+时钟 芯片 pcf85063at soic 8 1 u1
+wdt tps3823 33 q1 sot 23 5 1 u8
+23019 hym8563 msop8 1 50 u30
+21 芯片 pcf8563t 5 518 1 10
+52297 ds1337s t r 400.0
+ic ncp803sn293t1g sot 23 ic ncp803sn293t1g sot 23 on 1 2000
+atsha204a sshda t soic 8 3.9 x4.9 mm p1.27 mm 1 atsha204a sshda t i2c serial eeprom 1kb 128x8 with unique serial number so8 100
+6 时钟 ic kdb86122d xxx sop 8 1 u11 rtc 3000
+adf4001bcpz ad 100
+adm6320cy29arjzr7 ad 48820

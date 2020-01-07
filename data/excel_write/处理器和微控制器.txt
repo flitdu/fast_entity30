@@ -1,0 +1,229 @@
+单片机 stm32f030r8t6 smd lqfp64 1
+单片机 stm32f030c8t6 smd 3000
+305.0 11301007 单片机 11301008 tda7052 0.0
+306.0 11301031 单片机 lm2676s adj 16.0
+10 qm mcimx6q6avt08ad 1500
+12 qm m32f100rbt6b 1920
+20 4g m32f407vgt6 5000
+3 贴片 ic stm32f101r6t6 lqfp64 1 u1
+2 贴片 ic n76e003at20 tssop 20 1 u2
+305.0 11301007 单片机 11301008 tda7052
+306.0 11301031 单片机 lm2676s adj
+33 ic ic4 lpc1114fbd48 302 lqfp48 lpc1114fbd48 302 1.0
+38.0 105040003 1.0 wlcsp 36aduc7023bcbz62i r7 aduc7023bcbz62i r7 1000.0
+msp430g2221ipw14r 9000
+msp430g2955irha40t 1800
+贴片 单片机 m32f205zct6 lqfp 144 091805 141101 30
+贴片 单片机 m32h743iit6 lqfp176 091805 141001 30
+贴片 单片机 m32f205zct6 lqfp 144 091805 141101 30
+贴片 单片机 m32h743iit6 lqfp176 091805 141001 30
+20 贴片 ic stc8f2k16s2 28i tssop20 1 200 10000 u5
+stm32f103vct6 stm lqfp100 l u1 1 2600
+11 主控 lc6936d4 主控 qfn 32 4x4 u2 1 伦茨
+11 主控 主控 lc6936d4 qfn 32 4x4 1 400000
+stm32f103vet6 stm32f103vet6 lqfp 1.0 10000.0
+20 贴片 ic stc8f2k16s2 28i tssop20 1 u5 stc8f2k16s2 28i tssop20 stc 10000 1.683 3 4d
+71 a07 001007 067 mcu m32l073rzt6 lqfp 64 165 36 v 40 to 125 ° c m32l073rzt6 3000 u5 贴片
+18 eu0793 集成电路 m32l471zgj6 1550
+27 1 4000 microcontroller u 1 100qlfp msp430f437ipz 296 26232 1 nd d
+54 a07 001007 067 mcu m32l073rzt6 lqfp 64 165 36 v 40 to 125 ° c m32l073rzt6 3000 u2 贴片
+31 单片机 m8s105s4 tqfp 44 1.0 10.0 1000.0
+1 stm32f030c8t6 单片机 lqfp48 1 10000
+触摸 mcu bs83b12a u1 ssop 20 1.0 1000.0
+mcu stm32f072cbt6 u9 lqfp 48 1.0 半导体 1000
+63001000450 单片机 单片机 mc9s08ac60cfg 8 bit 60kb 60kx8 flash 40mhz lqfp44 44pin smd freescale mc9s08ac60cfge 5 15.0
+63003000190 63003.0 处理器 处理器 xc7z100 2ffg900i 256kbram 800mhz ffg 900pin smd xilinx xc7z100 2ffg900i 6
+stm8l101f2u6atr stmicro 5000 stm8l101f2u6atr 20 uf qfpn
+10629 0012 单片机 lpc1778fbd144 cpu lpc1778fbd144 32bit 512kb lqfp144 u3 1 6
+32 ic hc32l130f8ua qfn32 4x4 qfn32 4x4
+32 ic hc32l130f8ua qfn32 4x4 qfn32 4x4 5000
+6101 kl27z200 ic ic mcu kl27z256vfm4 32qfn kl27z256vfm4 100 kl27z256vfm4 100 2 29809912
+6101 nxh36700 ic ic nxh3670 nxh3670 100 nxh3670uk a1z 100 2 64866903
+6101 mkl27z00 ic mcu mkl27z256vmp4 bga mkl27z256vmp4 100 mkl27z256vmp4 freescale 100 2 28395399 15
+6101 nxh36700 ic ic nxh3670 nxh3670 100 nxh3670uk a1z 100 2 64866903
+1 ic microcontroller u1 pic16f1704 i 14 tssop pic16f1704 i technology 505
+芯片 u2 lc lqfp 64 10x10x05p m32f103rct6 1 10000
+u5 ic 芯片 stm32f407vgt6 stm32f407vgt6 tqfp 100 1 5
+u1 arm 芯片 stm32f407zgt6 stm32f407zgt6 tqfp 144 1 15
+20 集成电路 pic16f876a e sp 15
+10 集成电路 sc92f7543m28u 1 psop28
+33 mcu stm32f072rbt6 stm32f072rbt6 cortex m3 处理器 lqfp64 表贴 50
+sq9a180001 6012235 stm32f103vet6 芯片 stm32f103vet6 5 片
+tms320f28335ptp 176 pin powerpad lqfp u4 digital signal controllers dscs ptp 176 pin powerpad lqfp 1.0 4.0
+xc6slx25 3fgg484i 40 100 ℃ xc6slx25 3fgg484c 0 85 ℃ bga 484pin xilinx u9 xilinx spartan 6 lx fpga 1.0 4.0
+spc5668gammg u5 1159a 01 mpc5668 1 1 spc5668gammg 20
+stm32l151c8t6tr stm 3000 1 lqfp48 stm32l151c8t6 lqfp48
+75 ic stm32f429igt6 stm32f429igt6 lqfp 176 1 u13 2100
+stm32l151c8t6tr stm 3000 1 lqfp48 stm32l151c8t6 lqfp48
+27 ozt4180718014 1 u7 msp430f5419apz msp430f5419a pz 100 100
+34 ozt4180718014 1 u7 msp430f5419aipz msp430f5419a pz 100 100
+spc5668gammg u5 1159a 01 mpc5668 1 1 spc5668gammg 20
+40 11 0103 002 015 看门狗 芯片 pms150c ble ptr u6 c10c35 sot23 6 lc sot 23 6 u4 1 10000.0
+45 11 0103 070 003 单片机 sc92f7422 带 m4s 显示 tssop 20 sc92f7422 lc tssop 20 u8 1 10000.0
+11 m32g071r8t6 ic m32g071r8t6 m32g071 lqfp64 50000 m32g071r8t6 50000 10weeks 960 1.21 60500
+12 m32g070kb ic m32g070kb m32g070 lqfp32 50000 m32g070kb 50000 10weeks 1500 0.65 32500
+m32f103cbt6 mcu u9 lqfp48 10 1
+1 贴片 ic cpu cpu t3 4 核 a7 主频 1.2 ghz fbga 468 balls 0.65 pitch 16 16mm t3 bga468p0 65b16 x16 1 20 20 3
+14 贴片 ic mcu mcu arm m32f105rct6 64lqfp m32f105rct6 lqfp64 1 20 2000 30000
+stm32f407ig lqfp 176 1.0 芯片 500.0
+epm240t100 lqfp 100 1.0 芯片 500.0
+28 1777 0 28 ic smd mcu soic 28pin pic16f873a 1.0 10000
+92 1 arm u1 a50 bga413 1229 bga413p50b1230 1280
+stm32f405rgt6 lqfp64
+stm32f103rct6 lqfp64
+11 23027 stm32f405rgt6 lqfp64 10 10
+14 23032 stm32f103rct6 lqfp64 10 10
+000420 u3 集成电路 ic tsam3a4ca au mcu 32bit cortex m3 atsam3a4ca au 1 1120
+36 u1 1.0 ic pic soic 28 soic 28 technology pic16f873 20 so
+36 u1 1.0 ic pic soic 28 soic 28 technology pic16f873 20 so
+71 ic mcbw0001 c8051f340 gq u12 1 tqfp 48 0.5 mm mcu full speed usb flash mcu family silicon 200
+po20190026 温度 3000001846 贴片 芯片 m32f103rct6 lqfp64 125
+ic mcbw0001 c8051f340 gq u12 1 tqfp 48 0.5 mm mcu full speed usb flash mcu family silicon 200
+po20190026 3000001846 贴片 芯片 m32f103rct6 lqfp64 m32f103rct6 735
+po20190026 温度 3000001846 贴片 芯片 m32f103rct6 lqfp64 m32f103rct6 125
+5csema5f31c8n intel 2 1082.133
+34.0 c8051f005 pag u4 1.0 10.0 c8051f005 gqr
+34.0 c8051f005 pag u4 1.0 10.0 c8051f005 gqr
+stm32h743bit arm cortex m7 mcu lqfp208 28x28x1p u45 208.0 350.0
+091805 027501 芯片 stm32l151vdt6 lqfp 100 115
+74 ic m32f103rct lqfp64 ws050025 1 9200
+36 u1 1.0 ic pic soic 28 soic 28 technology pic16f873 20 so 10000 pic16f873 20 so technology 100 8 12working days 41.943000000000005 4194.3 shortage
+701401003701.0 芯片 cpld lc4064ze 7tn48c 绿点 tqfp 48p smd lattice lattice lc4064ze 7tn48c 绿点 1 100 烧录 image 烧入 里面
+701401003702.0 芯片 cpld lcmxo2 1200uhc 4ftg256c 绿点 bga 256p smd lattice lcmxo2 1200uhc 4ftg256c 绿点 1 100 烧录 image 烧入 里面
+stm32h743bit arm cortex m7 mcu lqfp208 28x28x1p u45 208.0 350.0
+6101 mkl27z00 ic mcu mkl27z256vmp4 bga mkl27z256vmp4 100 mkl27z256vmp4 freescale 100 2 28395399 15
+arm 控制器 flsah 64kb 40 to 105 ° m32f103r8t6 lqfp64 10
+64 贴片 集成电路 tms320f28069mpzp u2 s pqfp g100 1 20
+芯片 贴片 irc15w415s u1 1 3
+24 芯片 atmega32l 8au tqfp44 tqfp44 1 u2 1000 1000 0 1000 atmega32l 8au 1000.0 芯片 atmega32l 8au tqfp44 tqfp44 1.0 u2
+110100201139x ic mcu stm8l052c6t6 lqfp48 41772 3486
+110100201047x cd ic 微控制器 m32f072rbt6 lqfp64 10150 870
+110100201354x ic mcu stm32f103vct6 lqfp100 10114 844
+110100200997x ic mcu m32f103rbt6tr lqfp64 5940 490
+110100201007x ic m32f439iih6 uf bga176 arm32 cortex m4 5494 456
+110100201444x ic mcu m8s003f3p6 ssop20 1816 152
+110100200660x ic m32f103ze lqfp 144 1414 118
+110100201234x ic 微控制器 m32f103vbt6 lqfp100 400 34
+110100201438x ic m32h7 50v bt6 lqfp 100 82 8
+110100201260x ic mcu m32f407zgt6 lqfp144 46 4
+110100201160x ic m8l152c6t6 qfp48 tqfp48 8 2
+110100201103x ic m8l152m8 lqfp80 lqfp80 0 0
+110100200471x cd 单片机 at89s51 44 pin plcc 1000 asap
+单片机 芯片 stm32f103c8t6 u1 tqfp48n 1 9
+m32f205rbt6 1.0
+53 10150002943 贴片 单片机 mcu fl lqfp48 m32f103c8t6 u2 1 lqfp48 7x7 10
+091805 127001 贴片 芯片 tms320f2812pgfa 10
+091805 127001 贴片 芯片 贴片 芯片 tms320f2812pgfa 20
+贴装 芯片 xc3s250e 4pq208i 120
+贴装 芯片 xc3s500e 4pq208i 30
+贴片 芯片 xc3s500e 4pq208i 10
+贴装 芯片 贴装 芯片 xc3s250e 4pq208i 10
+71 10 mcu arm 512kb flash mem 100 lqfp u12 497 6440 nd stm32f101vet6 each
+27 rfoa02 02 258 ic mcu tqfp64 atmega64a au farnell 2695361 atmega64a au 1 105
+65nm machxo2 cpld lcmxo2 1200uhc 5ftg256i gw1n uv2pg256c6 vccint 3.3 v userios 207 luts 1280 distributed ram 10kb ebr sram 64kb junction temperature 40 100 ° c 17x17mm lattice lcmxo2 1200uhc 5ftg256i gowin gw1n uv2pg256c6 1 300
+dspic30f5011 dspic30f5011 20i pt dspic30f5011 tqfp64 dspic30f5011 20i pt 300 9920 7000 1000
+30 贴片 ic xc95144 15tqg100c xc95144 15tqg100c qfp 100 10 u1 xilinx
+32 贴片 ic r5f21266nfp r5f21266nfp qfp 32 10 u7
+32 贴片 ic xc2s200e 6pqg208 xc2s200e 6pqg208 qfp 208 10 u7 xilinx
+11 u8 mcu m32f100rbt6b lqfp 64 1
+芯片 贴片 irc15w415s u1 1 3
+lqfp48 0.5 stm32f103c8t6 u11 1 200
+u5 stm32f103rct6 lqfp64 1 1 10
+11 u8 mcu m32f100rbt6b lqfp 64 1 3000
+64 集成电路 m32f407vet6 lqfp100 1 500 500 d1
+pic18lf45k50 i mv low power high performance microcontroller with xlp technology 48 mhz 36 i o 40 to 85 degc 40 pin uqfn mv40 tube u1 mchp uqfn mv40 n pic18lf45k50 i mv 1 loading ... pic18lf45k50 i mv nd
+52 1200 u101 mcu cortex m4f m32f407vgt6 critical
+27 贴片 ic hd64f2329bvf hd64f2329v qfp 128 10 u1
+31 贴片 ic xc2s200e 6pqg208 xc2s200e 6pqg208 qfp 208 10 u7 xilinx
+74 贴片 ic hd64f2329bvf hd64f2329v qfp 128 1000 u1
+78 贴片 ic xc2s200e 6pqg208 xc2s200e 6pqg208 qfp 208 1000 u7 xilinx
+82 stc12c5a60s2 u35 qfp44 1 1000
+22 贴装 电路 lpc824m201jhi33 quad32 500 u1 贴装
+21.0 贴装 电路 lpc1114fhn33 302 lpc1114fhn33 301 hvqfn 33 500 u1 贴装
+32 贴片 ic r5f21266nfp r5f21266nfp qfp 32 1 u7
+5 ic pic16f877a dip40 200
+stm32f103rct6 stm32f103rct6 u6 lqfp 64 10x10x05p stm32f103rct6 1 10
+13 d4 32 bit mcu stm32f103cbt6 stm lqfp48 n 1 50
+13 d1 32 bit mcu stm32f103vet6 lqfp100 l 1 5
+13 d1 32 bit mcu stm32f103vet6 lqfp100 l 1 50
+tqfp 64 14 14 08p atxmega643u au atxmage64a3u u7 tfqp 64 1 20
+55.0 1.0 u5 m8s003f3p6 m8s003f3p6 tssop20 300.0
+pic16f616 i sl 6000 2.7
+pic16f1937 i pt 6000 5.7
+cpu a1000 bst 10
+贴片 ic mcu stm32f103vct6 lqfp100 35.0
+39 m32f103rct6 m32f103rct6 u6 1 10
+1 20 u2 stm32f103cbt6tr 511 stm32f103cbt6tr ic mcu 32bit 128kb flash 48lqfp stm32f103cbt6tr lqfp48 48 pin 7 x 7 mm
+1 20 u1 tms320f28335pgfa 595 tms320f28335pgfa digital signal processors controllers dsp dsc digital signal controller tms320f28335pgfa pgf
+110100200251x ic msp430fe427ipmr 1000
+110100200295x ic mcu stc12c5410ad sop 28 stc 2500
+110100200395x ic 单片机 mc9s08ac32cfge lqfp 44 freescale 480
+110100200578x msp430g2202 ipw20r tssop 20 2000
+110100200997x ic mcu m32f103rbt6tr lqfp64 960
+110100201047x cd ic 微控制器 m32f072rbt6 lqfp64 960
+110100201139x ic mcu stm8l052c6t6 lqfp48 7200
+110100201182x ic msp430g2453ipw20r 20 tssop 2000
+110100201303x ic mcu mm32f031k6t6 lqfp32 灵动 15000
+m32f103v m32f103vbt6 半导体 u1 lqfp 100 14x14x05p 100 200 1 200
+23032 stm32f103rct6 lqfp64 1 100 u55
+u4 1 497 15825 nd m32f071cbt6 ic mcu 32bit 128kb flash 48lqfp 5000
+u1 1 digi key pic24fj64ga002 i ss nd pic24fj64ga002 i ss ic mcu 16bit 64kb flash 28ssop 5000.0
+u4 1 pic24fj64ga002 i ss nd pic24fj64ga002 i ss ic mcu 16bit 64kb flash 28ssop 5000.0
+50197 atmega2560 16au 11
+50210 atmega2560 16au 20
+50 n76e003at20 nuvoton ic mcu controller 1 1000 0
+u3 dspic33fj32mc202 smt soic microprocessor 520
+50197 atmega2560 16au 11
+50210 atmega2560 16au 20
+17 step down regulator vfb 0.925 v 3a 340khz vi 4.5 23v adj ap3503h 2 6000
+集成电路 cpu nhpxa270c5c520 marvell 4
+124 cpu stm32f373cct6 lqfp48 180
+ble mcu qfn7x7 48 3 cc2640r2frgzr 1.0 10.0
+mcu lqfp10x10 64 m32l452ret6tr 1.0 5.0
+lm3s6965 iqc qfp50p1600x1600x160 100n 5
+124 cpu stm32f373cct6 stm32f373cct6 lqfp48 180
+156000561 ic cpu mt6753v wahh 100k
+157000461 ic ts mt6169v bxd 100k
+157000031 ic ts mt6169v am 100k
+156001131 ic cpu mt6757v cdb 100k
+157000441 pmu ic cpu mt6355w a 100k
+157000371 ic ts mt6176v at 100k
+156001281 ic cpu mt6763v v 100k
+156001281 ic cpu mt6763v v 100k
+集成电路 stm32l151c8t6 lqfp48 1 u7
+芯片 mf103vbt6 m lqfp100 l 1 500
+贴片 控制器 芯片 msp430f5418aipn msp430f5418a 1 cpu 16bit 80pin qfp 80 贴片 u3 2000
+msp430f5132 1 mcu 16bit 40pin qfn40 贴片 u1 2000
+单片机 stm32l151c8t6 lqfp48 3050000145000 lqfp48 1 u1
+单片机 stm32l151c8t6 lqfp48 3050000145000 lqfp48 1 u1
+stm32f103re 32 位 stm 单片机 u1 lqfp64 10x10 m 1 5
+stm32f103c8 lqfp48 1 5
+52310 c8051f121 gq silicon labs 400.0
+单片机 半导体 m32f030c8t6 1 10
+63001000470 m32f103vct6 50
+63001000850 m32f103rdt6 30
+63001000890 atsamc21n18a ant 10
+ic mimxrt1021cag4a 144 lqfp 20x20 ic mimxrt1021cag4a lqfp 14 4 1 2000
+ic ic mcu kl27z256vfm4 32qfn kl27z256vfm4 mkl27z256vfm4 150 2 29.809912
+ic ic nxh3670 nxh3670 nxh3670uk a1z 100 2 64.866903
+ic mcu mkl27z256vmp4 bga mkl27z256vmp4 mkl27z256vmp4 freescale 150 2 28.395399 15
+30 mcu stm32l151c8t6 qfp48 0 5 7x7x1 6 1.0 u1 400.0
+5m80ze64c5n eqfp 64 1ep 7x7mm p0.4 mm 1 5m80ze64c5n 100
+2 贴片 主 ic sn93130cfg lqfp100 dsp 1 u7 3000
+16 p20304000003 lqfp48 m32f103c8t6 m32f103c8t6 集成电路 300
+xczu4ev 1fbvb900e xilinx 3996 42
+74 单片机 m32f103vct6 半导体 lqfp100 m 10
+113 贴片 ic m32f103zct6 半导体 lqfp144 20x20 m 10
+61 贴片 ic m32f103re lqfp64 10x10 n 10
+6260380 altera 10m04sce144c8g 60 2019 11 20
+626030350 altera ep4cgx50cf23c8n 1620 2019 12 16
+62603 xilinx xc6slx45 2fgg484c 3 2020 01 06
+6260380 altera 10m04sce144c8g 60 2020 03 02
+6260380 altera 10m04sce144c8g 60 2019 11 20
+626030350 altera ep4cgx50cf23c8n 1620 2019 12 16
+62603 xilinx xc6slx45 2fgg484c 3 2020 01 06
+6260380 altera 10m04sce144c8g 60 2020 03 02
+ic mcu 16bit 64kb flash 10x10mm 64lqfp mc56f8037vlhr qfp 400
+87.0 芯片 m32f103vgt6 m32f103vgt6 1.0
+ic01 0062 a smd ic cat812ttbi gt3 cat812ttbi t3 sot 143 sot 143 1 550
+ic01 0199 a smd ic stc89c54rd 40i stc90c54rd qfp44 0.8 12.6 x12.6 pqfp lqfp 1 550

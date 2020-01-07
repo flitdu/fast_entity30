@@ -1,0 +1,207 @@
+264.0 11104027 ne555 ne555 soic 8 0.0
+307.0 11302003 集成块 ne555 直插 0.0
+308.0 11302009 集成块 74hc595 32.0
+314.0 11302092 贴片 集成块 hef4011bt 3653.0
+315.0 11305006 贴片式 集成块 cd4051 0.0
+318.0 11305015 贴片 集成块 4013 so 14 0.0
+319.0 11305016 贴片 集成块 74hc123 60.0
+320.0 11305022 贴片 集成块 cd40106 1817.0
+321.0 11305024 贴片式 集成块 cd4052 2500 3196.0
+264.0 11104027 ne555 ne555 soic 8
+307.0 11302003 集成块 ne555 直插
+308.0 11302009 集成块 74hc595
+314.0 11302092 贴片 集成块 hef4011bt
+315.0 11305006 贴片式 集成块 cd4051
+318.0 11305015 贴片 集成块 4013 so 14
+319.0 11305016 贴片 集成块 74hc123
+320.0 11305022 贴片 集成块 cd40106
+321.0 11305024 贴片式 集成块 cd4052 2500
+sn74hc14dr 3600
+sa555dr 3600
+ne555p 1800
+贴片 移位 寄存器 74hc595pw nexperia tssop16 091805 142601 30
+贴片 触发器 74hc14d nexperia soic14 091805 143101 30
+贴片 移位 寄存器 74hc595pw nexperia tssop16 091805 142601 30
+贴片 触发器 74hc14d nexperia soic14 091805 143101 30
+74lvc2g17gw dck0006a n u19 1 2600
+74lvc1g17gw dck0005a n u20 1 2600
+23 e05ab044801 逻辑 ic am26c31idr 单端 转 差分 soic 16 3
+24 e05ab037901 逻辑 ic uln2803adwr 8 路 达林顿 晶体管 阵列 soic18 1
+25 e05ab024901 逻辑 ic sn74lvc4245apwr 8 路 总线 收发器 双向 接收 电压 3.3 v 5v qsop24 0 4
+21 c0100118 逻辑 ic sn74lvc2t45dcur 配置 电压 转换 三态 2 路 总线 收发器 双向 接收 电压 3.3 v 5v vssop8 40 85 ℃ vssop8 2 1000
+1 40.0 2008100005 ic 6 b 480 switch toshiba tc74hc4051af soic16
+37 贴片 电感 74ahc245pw tssop 20 2 u4 u10 n 74ahc245pw 118 nexperia 1005
+tca9535 逻辑 扩展 芯片 tssop24 30
+1 u4 ic trnsltr bidirectional sm8 2513 296 28108 1 nd sm8 p0.65 2.95 x2.8 x1.3 mm tca9406dctr no ok 520.0
+61 ic ic qfn48b s167h10 idt 9zxl0831aklf smt idt 9zxl0831aklf 1 40
+205 ic ic bus switch tssop 14pin 4 bit lvttl to gtl transceiver gtl2014pw smt gtl2014pw 6 240
+206 ic ic sc70 5 74lvc1g08gw smt 74lvc1g08gw 4 160
+208 ic ic tssop14 74cbtlv3126pw smt 74cbtlv3126pw 3 120
+210 ic ic sot353 5h11 nexperia 74lvc1g02gw smt nexperia 74lvc1g02gw 1 40
+219 ic ic soic 14 74vhc125m smt 74vhc125m 1 40
+220 ic ic soic 14 74lvx125m smt 74lvx125m 1 40
+223 ic ic sop14 1.65 v 3.6 v 24ma lvcmos 缓冲器 驱动器 sn74lvc07apwr smt sn74lvc07apwr 3 120
+5 ic ic dual unb uf fered inverter nl27wzu04dft2g sot363 on semi nl27wzu04dft2g 390
+1 analog swithc u4 74hc4053bq 16 vfqfn 74hc4053bq 115 nexperia usa inc 510
+芯片 u8 tssop14 txs0104epwr 1 10000
+u3 u9 u11 ic 芯片 sm74104ma nopb sm74104ma nopb so 8 3 15
+u27 ic 芯片 sn74lvc3g17dcur sn74lvc3g17dcur vssop 8 1 5
+u8 ic 芯片 sn74lvc8t245pw sn74lvc8t245pw tssop 24 1 15
+u12 u13 u18 u19 u21 u22 u23 u24 u25 u26 u28 u29 u30 u31 u34 u35 ic 芯片 sn74lvc3g17dcur sn74lvc3g17dcur vssop 8 16 240
+u14 ic 芯片 cd4072bpw cd4072bpw tssop 14 1 15
+u15 ic 芯片 cd74hc4051pwr cd74hc4051pwr tssop 16 1 15
+14 8 路 缓存器 sn74ls240dw sn74ls240dw 8 路 缓存器 表贴 ssop20 100
+35 非门 sn74ahct1g04dck sn74ahct1g04dck 非门 sc70 表贴 100
+1 sn74cb3q3245pwr sn74cb3q3245pwr u3 tssop 20 8 bit 2.5 v 3.3 v low voltage fet bus switch 20 tssop sn74cb3q3245pwr 20.0
+sn74alvc164245dl ssop − dl 48pin u10 u13 u14 u16 16 bit dual octal noninverng level shift 电平 转换 芯片 3.0 12.0
+29 4c7602d0 u03 s000860 ic trnsltr bidireconal 8vssop tca9800dgkr sop 1900
+30 4c7602d0 u03 s000860 ic trnsltr bidireconal 8vssop tca9800dgkr sop 100
+74hc14 so 14 1.0 3.9 mm 芯片 500.0
+74hc11 so 14 2.0 3.9 mm 芯片 1000.0
+74hc245d soic 20 2.0 7.2 mm 芯片 1000.0
+74lv245 soic 20 1.0 7.2 mm 芯片 500.0
+188 on 双通道 缓冲 变频器 1 u14 nl27wzu04dtt1g tsop6 3r00x3r10x1r10
+74hct14d sop14
+16 23034 74hct14d sop14 10 10
+000410 u2 u6 集成电路 ic 74lvc139 dual 2 to 4 decoder lvc sn74lvc139apwr 2 2240
+000450 u7 集成电路 ic 74hc251 mux 8 to 1 hc sn74hc251pwr 1 1120
+68 ic bu370001 txs0108epwr u33 u35 2 tssop 20 b uf fer 8 bits bidireconal voltage level translator for open drain applicaons 400
+69 ic bu660000 txs0104epwr u36 u38 41 u44 46 8 tssop pw 14 pin b uf fer 4 bits bidireconal voltage level translator for open drain applicaons 1600
+ic bu370001 txs0108epwr u33 u35 2 tssop 20 b uf fer 8 bits bidireconal voltage level translator for open drain applicaons 400
+ic bu660000 txs0104epwr u36 u38 41 u44 46 8 tssop pw 14 pin b uf fer 4 bits bidireconal voltage level translator for open drain applicaons 1600
+po20190026 3000016252 贴片 芯片 cd74hct27m so14 cd74hct27m 735
+1 05004 00476 集成电路 sn74hc595d 2 u19 u20 40
+3 05004 00472 1 集成电路 mc74hc00adr2g 2 u6 u12 on 40
+1 05004 00476 集成电路 sn74hc595d 2 u19 u20 40
+3 05004 00472 1 集成电路 mc74hc00adr2g 2 u6 u12 on 40
+41 u03 s000714 74ac74 dual d type flip flop with set and reset 40 ° c 85 ° c sn74ac74pwr sop 15540
+47 u16 s000033 ic b uf fer schmit trig sot23 5 sn74lvc1g17dbvr sot 14520
+58 u20 s000066 ic b uf fer trpl schmt trig us8 nc7nz17k8x 17613
+ls7184 ab phase decoder so 8 u75 8.0 350.0
+73 ic 74hc14d toshiba soic127p600x145 14m ws050009 1 9200
+700903010010.0 芯片 nc7sz126m5x sot23 5 smd on on nc7sz126m5x 2 200
+701401007610.0 芯片 74lcx125mtcx tssop14p on on 74lcx125mtcx 2 200
+701401007901.0 芯片 level shift gtl2005pw tssop14 smd philip gtl2005pw 7 700
+64 1 100 u12 74lvc1g17 sot353 1 74lvc1g17gw 同相 40 ℃ 125 ℃ ta drive 32ma 电源 电压 165 v 55 v item szlcsc 125568 html
+集成 ic high speed cmos logic quad 2 and gate ± 20ma 55 to 125 ° c cd74hc08m soic 14 20
+集成 ic high speed cmos logic quad b uf fer three state ± 20ma 55 to 125 ° c cd74hc126m soic 14 10
+集成 ic high speed cmos logic quad 2 nand gate ± 20ma 55 to 125 ° c cd74hct00m soic 14 10
+集成 ic 5.5 v 30v 55 to 125 ° c sn5406j dip 14 10
+集成 ic 5.5 v 30v 55 to 125 ° c sn55451bjg dip 8 18
+65 贴片 集成电路 txb0106pw u3 u10 u12 tssop 16 3 60
+091805 131301 贴片 芯片 贴片 芯片 74lvt16245mea 20
+091805 131301 贴装 芯片 74lvt16245mea ns ssop 48 40o 20
+091805 126001 贴装 芯片 hef4043bt mc14043bdr2g so 16 40 度 so 16 20
+091805 125801 贴片 芯片 cd74hc221m 10
+091805 125701 贴装 芯片 cd4071bm so 14 40 度 so 14 10
+ic schmitt trigger hex 14 soic u4 mc14106bdgos nd on semiconductor mc14106bdg each
+ic multivibratr dual cmos 16soic u5 mc14538bdr2gosdkr nd on semiconductor mc14538bdr2g each
+77 10 ic dual multivibratr mon 16 soic u25 296 17789 1 nd cd74hc221m96 each
+78 10 ic flip flop oct d clear 20 soic u28 mm74hc273wmxct nd mm74hc273wmx each
+80 40 ic inverter hex schmitt 14soic u22 u24 u27 u30 mc74hc14adr2gosct nd on semiconductor mc74hc14adr2g each
+81 30 ic quad 2 and gate 14 soic u23 u26 u32 296 1191 1 nd sn74hc08dr each
+82 30 ic gate or quad 2input 14 soic u29 u31 u34 mc74hc32adgos nd on semiconductor mc74hc32adg each
+22 rfoa02 02 128 ic logic soic 16 74hc138d e 絡盟 1201320 74hc138d 653
+23 rfoa02 02 114 ic logic d flip flop soic 20 74hc374d e 絡盟 1085342 74hc374d 653
+24 rfoa02 02 250 ic logic tssop 20 sn74hc244pwr e 絡盟 1621529 sn74hc244pwr 1 105
+25 rfoa02 02 249 ic logic d flip flop tssop 20 on semiconductor mc74hc273adtg e 絡盟 1104723 mc74hc273adtg on
+26 rfoa02 02 279 ic logic tssop 20 on semiconductor mc74hc373adtg farnell p n 1104724 rs p n 806 1533p mc74hc373adtg on
+方向 感应 4 位 双向 电压 电平 转换器 nlsx5014mutag txb0304rutr 电压 0.9 v 3.6 v 典型 时延 4.5 ns 速度 max.140 mbps 温度 40 ℃ 85 ℃ uqfn12 on nlsx5014mutag txb0304rutr 1 300
+wm8962ecsn r ultra low power stereo codec with audio enhancement dsp 2w stereo class d speaker drivers and ground referenced headphone drivers w csp49 wolfscon wm8962ecsn r 300 9920 7000 1000
+sn74lvc1g14dckr inverter single schmitt trig 5sc70 sc70 5 sn74lvc1g14dckr 600 9920 7000 1000
+txb0108pwr ic translator 8bit bidireconal 15kv esd tssop20 txb0108pwr 300 9920 7000 1000
+txs0102dcur 2 bit bidireconal voltage level translator vssop8 txs0102dcur 300 9920 7000 1000
+ic translator 8bit bidireconal txb0108pwr tssop20 txb0108pwr 80 9920 7000 0861
+inverter single schmitt trig 5sc70 sn74lvc1g14dckr sc70 5 sn74lvc1g14dckr 160 9920 7000 0861
+26 贴片 ic tc4s584f ca sot23 5 10 u2 toshiba
+27 贴片 ic tc7s08f e2 sot23 5 10 u6 toshiba
+so16 74hc595d u6 1 200
+u15 sn74lvc1g14dbv sn74lvc1g14dbv 1 10
+u3 4049ub cmos unb uf fered inverter 1 1200 cd4049ubd cd4049ubdr
+u12 4504b ttl cmos converter tssop16 1 1200 cd4504bpwr
+61 集成电路 fpga ep4ce15f23c8 fbga484 1 500 500 d3
+69 集成电路 ne555 so g8 1 500 500 n12
+44 2000 u203 single cmos inverter toshiba tc4s584f
+16 2400 u101 u102 u104 multiplexer 8ch sn74lv4051argyr
+17 6800 u101 u102 u104 multiplexer 16 to 1 cd74hc4067sm96 equivalent
+19 贴装 电路 tssop sn74lv4052apw 500 u2 贴装
+23 贴装 电路 tssop sn74lv4053apw 500 u3 u4 贴装
+26 贴片 ic tc4s584f ca sot23 5 1 u2 toshiba
+30 贴片 ic xc95144 15tqg100c xc95144 15tqg100c qfp 100 1 u1 xilinx
+2 ic cd4051 dip16 400
+15 fpga xc7z020 1clg484i clg484 1 2
+15 d3 d4 六 非门 带 触发器 sn74lv14a 2 10
+16 d5 d6 六 oc 门 缓冲器 sn74lvc07a soic 14 2 10
+18 d19 d20 d21 d22 d23 d24 sn74lvc8t245 tssop 24 6 30
+22 d28 sn74lvc1g14 sot23 5 m 1 5
+23 d29 sn75176 so8 m 1 5
+15 d3 d4 六 非门 带 触发器 sn74lv14a 2 100
+16 d5 d6 六 oc 门 缓冲器 sn74lvc07a soic 14 2 100
+18 d19 d20 d21 d22 d23 d24 sn74lvc8t245 tssop 24 6 300
+22 d28 sn74lvc1g14 sot23 5 m 1 50
+23 d29 sn75176 so8 m 1 50
+173 贴片 芯片 74hc14d 653 74hc14d 653 so14 74hc14d 100
+61 贴片 芯片 cd4051bm cd4051bm smd cd4051bm 300
+98 贴片 芯片 sn65lbc184d so8 800
+95 贴片 芯片 sn74ahc1g08dbvt sot23 5 200
+94 贴片 芯片 sn74ahc1g125dbvt sot23 5 400
+66 贴片 芯片 sn74aup2g08dcu dcu8 h08r 100
+96 贴片 芯片 sn74hc08dr so14 200
+97 贴片 芯片 sn74hc14dr so14 300
+01 ab gx lvc541 ic ic sn74lvc541argyr vqfn20 1 120 sn74lvc541argyr vqfn20
+01 ab gx v4t125 ic ic vqfn14 1 120 sn74lv4t125 qfn14
+01 ab gx es7210 ic ic everest semi es7210 qfn32 3 360 es7210 qfn32t 4x4 0p4 everest semi
+10 sn74ls245dw sn74ls245dw u3 1 10
+14 四路 异或门 cd4077bm96 u2 1 10
+15 sn74hc595dr sn74hc595dr u3 1 10
+1.0 da2 sn74lvc1g04drlr 10.0 ic inverter 1ch 1 inp 5sot drl r pdso n5
+1 20 u3 sn74lvc1g32dckrg4 595 74lvc1g32dckrg4 logic gates sngl 2 pos or gate sn74lvc1g32dckrg4 so5
+110100200051x ic hc74hc14dr so 10201602 500
+110100200054x ic cd4518bm96 10201703 5000
+110100200110x ic mc14082b on 10211606 2500
+110100200366x cd ic 4 1 高速 多路 复用器 opa4872idr soic 14 10000
+110100201357x ic 74hc4060d so16 2500
+110100200051x ic hc74hc14dr so 10201602 4000 asap
+9.0 36020298 1 传感器 2 激光 1 nc7s00p5x 4 200 ic b cmos logic 74vhc1g00 single 2 nand gate sc70 5
+23015 sn74lvc1g08dckr sc 70 1 100 u23
+23034 74hct14d sop14 1 100 u60
+5.0 ic sot 23 5p sn74ahc1g02dbvr smt 1 u7 100
+7 diodes incorporated 74ahc1g32se 7 ic gate or 1ch 2 inp sot353 u2 1 ea 10.0
+8 diodes incorporated 74ahc1g14se 7 ic inverter schmitt 1ch sot353 u6 1 ea 10.0
+22 diodes incorporated 74ahc1g32se 7 ic gate or 1ch 2 inp sot353 u2 1 ea 10000.0
+23 diodes incorporated 74ahc1g14se 7 ic inverter schmitt 1ch sot353 u6 1 ea 10000.0
+26 音频 编解码 wm8978 1 3000
+137 ic 74lvc2g14dw 7 sot363 200
+138 ic 74lvc1g80gw 125 sot363 200
+137 ic 74lvc2g14dw 7 74lvc2g14dw 7 sot363 200
+138 ic 74lvc1g80gw 125 74lvc1g80gw 125 sot363 200
+集成电路 lsf0204pwr tssop14 4 u3 u11 u12 u13
+tlc555 1 555 sop8 贴片 u5 2000
+33 芯片 es8388 1 10
+51972 sn74hc14d 300.0
+51985 74hc14d 653 300.0
+51998 74hc14dr2g onsemi 300.0
+52011 m74hc14rm13tr stmicro 300.0
+52024 sn74hc14dr 300.0
+52037 74hc14d 653 nexperia 300.0
+52258 mc14012bdg onsemi 400.0
+52271 mc14012bdr2g onsemi 400.0
+52284 74vhc123am 736.0
+62911002660 sn74hct244pw 300
+62911002670 sn74lvc2t45dctt 80
+62911005040 lsf0108qpwrq1 35
+sn74lvc8t245 tssop 24 4.4 x7.8 mm p0.65 mm 1 sn74lvc8t245pwr 100
+3 触发器 sn74hc273nsr sn74hc273nsr soic 20 208mil 200
+8 时基 集成 芯片 ne555dr ne555dr soic 8 150mil 600
+sn74lvc3g17dcur 30583
+cd40103be 24545
+75 串口 电平 转换 芯片 max3232ipwr tssop16 30
+77 串口 电平 转换 芯片 sn65hvd75dr sop8 11
+80 电平 转换 芯片 74hc245pw nexperia tssop20 40
+117 贴片 ic mc74hc04adr2g on sop14 n 20
+627021020 ne555dr 25 2019 12 16 0.39097096
+627021020 ne555dr 25 2019 12 16 0.39097096
+ic octal d transp latch 20tssop 74hct573pw 118 sop 400
+108.0 芯片 sn74ahc245pw 1.0
+109.0 芯片 sn74hc138d 1.0
+ic01 0016 a smd ic 74hc86d soic14 1.27 6 so 14 1 550

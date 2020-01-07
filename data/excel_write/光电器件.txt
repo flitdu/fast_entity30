@@ -1,0 +1,507 @@
+发光 二极管 白光 3.3 v 5ma smd 0603 36000
+267.0 11201001 禁止 发光 二极管 3 白色 0.0
+268.0 11201002 发光 二极管 3 红色 直插 632.0
+269.0 11201003 发光 二极管 3 绿色 405.0
+270.0 11201004 发光 二极管 3 黄色 719.0
+271.0 11201005 发光 二极管 5 红色 1040.0
+272.0 11201010 数码管 0.5 共阴 2.0
+273.0 11201017 禁止 发光 二极管 红 lst676 p2q2 1 0.0
+274.0 11201042 led 0805 红色 0.0
+275.0 11201043 led 0805 蓝色 3000.0
+276.0 11201044 led 0805 黄色 0.0
+277.0 11201045 led 0805 绿色 0.0
+278.0 11201052 白色 发光 二极管 0603 0.0
+310.0 11302050 光 藕 t2pc817 直插 85.0
+2 红外 发射管 ir204c l m 3 直插 3 d101 d102 d103
+3 红外 接收 管 pt204 6b 3 直插 3 q101 q102 q103
+4 红外 接收 头 irm3638t 3 u101 u102 u104
+2 红外 发射管 ir928 6c 直插 2 d201 d202
+3 红外 接收 管 pt928 6c 直插 2 q11 q201 q202
+24 发光 二极管 204 10sdrd 3 圆头 红光 3 d19 d20 d21
+1 红外 接收 头 irm3638t 1 焊线
+9 红外 发射管 墙检 3mm 发射管 ir204c l m 等级 透明 胶体 2 d4 d6
+10 红外 发射管 5mm 发射管 ir333c a 蓝色 透明 2 d5 d7
+11 发光 二极管 204 10sdrd 3 圆头 红光 1 d8
+12 发光 二极管 204 10sdrd 3 圆头 蓝光 1 d9
+267.0 11201001 禁止 发光 二极管 3 白色
+268.0 11201002 发光 二极管 3 红色 直插
+269.0 11201003 发光 二极管 3 绿色
+270.0 11201004 发光 二极管 3 黄色
+271.0 11201005 发光 二极管 5 红色
+272.0 11201010 数码管 0.5 共阴
+273.0 11201017 禁止 发光 二极管 红 lst676 p2q2 1
+274.0 11201042 led 0805 红色
+275.0 11201043 led 0805 蓝色
+276.0 11201044 led 0805 黄色
+277.0 11201045 led 0805 绿色
+278.0 11201052 白色 发光 二极管 0603
+310.0 11302050 光 藕 t2pc817 直插
+39 三色 led led1 5mm 白 黄绿 三色 1.0
+10.0 106060002 1.0 led 0603led aptd1608lcgck 1000.0
+fodm124r2 9000
+fod817 27000
+fod814asd 1800
+clm3c wkw cwbya153 36000
+tsal6200 10800
+lo t67f v1ab 24 3600
+bpv10nf 10800
+sfh4550 9000
+贴片 led 红光 标准 亮度 led 0603 091804 034401 1265
+贴片 led 蓝光 标准 亮度 led 0603 091804 034501 37
+贴片 光耦 hcpl 7840 smd 8 6.3 mm 091805 142001 31
+贴片 光耦 hcpl 0631 soic8 091805 142701 212
+贴片 光耦 ltv 247 liteon soic16 091805 141801 180
+贴片 光耦 hcpl 2531sd on smd 8 6.3 mm 091805 142801 31
+贴片 光耦 ltv 217 b liteon sop4 091805 143001 212
+贴片 led 红光 标准 亮度 led 0603 091804 034401 698
+贴片 led 绿光 标准 亮度 led 0603 091804 034601 100
+贴片 led 蓝光 标准 亮度 led 0603 091804 034501 37
+贴片 光耦 hcpl 061n soic8 091805 141901 61
+贴片 光耦 ltv 247 liteon soic16 091805 141801 30
+贴片 光耦 hcpl 7840 smd 8 6.3 mm 091805 142001 182
+贴片 led 红光 标准 亮度 led 0603 091804 034401 1265
+贴片 八段 数码管 hls 3911 br 虹 绿 光电 led 8 091804 034301 30
+贴片 led 蓝光 标准 亮度 led 0603 091804 034501 37
+贴片 光耦 hcpl 7840 smd 8 6.3 mm 091805 142001 31
+贴片 光耦 hcpl 0631 soic8 091805 142701 212
+贴片 光耦 ltv 247 liteon soic16 091805 141801 180
+贴片 光耦 hcpl 2531sd on smd 8 6.3 mm 091805 142801 31
+贴片 光耦 ltv 217 b liteon sop4 091805 143001 212
+贴片 led 红光 标准 亮度 led 0603 091804 034401 698
+贴片 led 绿光 标准 亮度 led 0603 091804 034601 100
+贴片 led 蓝光 标准 亮度 led 0603 091804 034501 37
+贴片 光耦 hcpl 061n soic8 091805 141901 61
+贴片 光耦 ltv 247 liteon soic16 091805 141801 30
+贴片 光耦 hcpl 7840 smd 8 6.3 mm 091805 142001 182
+15 贴片 红色 0402 led1 1
+16 贴片 蓝色 0402 led2 1
+15 贴片 红色 0402 1 400000
+16 贴片 蓝色 0402 1 400000
+led blue 0603 0603 led 1.0 10000.0
+25 a05 002003 003 led 黄色 led 贴片 0805 40 85 ° c 17 21uyc s530 a3 tr8 3000 d18 贴片
+86 a05 002003 010 led led 黄色 3mm 90 度 弯角 带座 a264b uy s530 a3 3000 d7
+87 a05 002005 003 led led 黄绿色 3mm 90 度 弯角 带座 a264b syg s530 e2 3000 d9
+88 a05 002001 014 led led 红色 3mm 90 度 弯角 带座 a264b sur s530 a3 3000 d11
+7 贴片 led 0805rgb 共阳 0805rgb 共阳 2 20000 led1 led2 贴片 方向
+7 贴片 led 0805rgb 共阳 0805rgb 共阳 2 20000 led1 led2 贴片 方向
+091804 023701 led 排灯 hlmp 2820 00c00 dip 2.54 mm 2 8 16pin green 996
+091804 023801 led 19 217 ghc yr1s2 3t 6000
+65 a05 002001 014 led led 红色 3mm 90 度 弯角 带座 a264b sur s530 a3 3000 d3
+66 a05 002003 010 led led 黄色 3mm 90 度 弯角 带座 a264b uy s530 a3 3000 d7
+67 a05 002005 003 led led 黄绿色 3mm 90 度 弯角 带座 a264b syg s530 e2 3000 d9
+9.1 光耦 直插 h11l1sm 2 8
+9.2 直插 光耦 tlp781 tels f b tlp785 tels f 17 68
+9.3 光耦 直插 tlp627 18 72
+9.4 直插 光耦 tlp781 tels f b tlp785 tels f 6 24
+19.4 直插 led 3mm 绿色 高亮 绿发 黄绿 长脚 9 36
+19.499999999999996 直插 led 3mm 红色 高亮 红 发红 长脚 15 60
+9 d 贴片 发光管 led3 led4 led5 led10 led11 led12 led13 led16 led17 led0603 m1608 450.0
+6 e1100r00001 发光 二极管 发 红光 0805 0 2
+14 e08a0015001 光耦 pc410 sso5 0 2
+15 e08a0013001 光耦 kpc357nt sop4 cosmos 4
+7 c0100107 光耦 elm611 10mbit s sop5 sop5 2 1000
+19 c0100116 光耦 el3h7 ssop4 ssop4 9 4500
+62 c0100158 发光 二极管 发 红光 0603 0603 1 500
+4 c0200103 光耦 kpc357nt sop4 sop4 cosmo 1 500
+5 c0200104 光耦 el3h7 ssop4 ssop4 3 1500
+6 c0200105 光耦 acpl c87h so 8 so 8 1 500
+7 c0200106 光耦 acpl p480 sop6 sop6 7 3500
+11 c0200109 发光 二极管 纯 绿光 1206 smd smd 1 500
+1 300.0 2007010034 led 5 b 400 led l 34sgd sz dip 50mcd 60 度 2.2 v 25ma 绿色
+1 320.0 3007010043 led 间隔 柱 35 b 2800 机械 led 间隔 柱 双坑 4mm h12mm
+1 370.0 2007010042 led 25 b 2000 led l 3a10d25 sz dip 800mcd 60 度 2.1 v 30ma 橙色
+30.0 pysd 0010 贴片 发光 二极管 led 发 红光 0805 1 50.0
+31.0 pysd 0018 贴片 发光 二极管 led 黄绿色 0805 1 50.0
+8.0 led 红色 0805 smd orh r35a 0805 红色 奥 伦德 410
+19 贴片 led 2835 白光 6000 7000k 3.1 3.3 v 60ma 24lm ra 70 50 300000 1.5 贴片 led 2835 白光 6000 7000k 3.1 3.3 v 60ma 24lm ra 70
+c107402 发光 二极管 翠绿 led 编带 0805 100.0 arkled
+c84256 发光 二极管 红灯 贴片 led iv 67 195mcd if 20ma 编带 0805 50.0 电
+19 led 二极管 3mm 草帽 白发 蓝光 超高亮 电压 3.0 3.2 v 电流 20ma 光通量 3lm ra70 80 发光 角度 120 ° 功率 0.06 w 1 led1 200000
+124 sxfc30000188 4de diode led n led housing tri level pinxin pwh51gaa 3n gre led1 amb led2 amb led3 h 15.3 mm 90d dip pinxin pwh51gaa 3n 1 500 2000
+125 sxfc30000187 4de diode led n led housing tri level pinxin pwh51srg 3n red led2 gre led3 h 15.3 mm 90d dip pinxin pwh51srg 3n 1 500 2000
+167 sxfc30000186 4de diode led led liteon ltst c190kgkt green 30ma smd 1.6 x0.8 mm liteon ltst c190kgkt 13 6500 26000
+1615 rgb led rgb diffused chip smd d3 d4 1615 2 20
+26.0 13010031 led green 25ma 5v thin 1.0 mm 20 80 ℃ 2.0 mmx1.25 mmx1.0 mm 17 215uyc s530 a6 tr8 3600 17 215uyc s530 a6 tr8 led 17 215uyc 1
+84.0 10120035 光耦 bv 2500vrms vceo 80v tr 3 μ s 5 μ s 55 100 ℃ ps2805 1 57600 ps2805 1 ps2805 1 16
+led rgb d1 d3 d4 d5 d6 d7 3528 6.0 6000
+72910000730 光电 耦合器 光耦 1.1 v 0.05 a 5pin dip sharp gp1a50hrj00f 5 7.0
+72910000270 光耦 光耦 gp1a51 单路 dip5 5pin dip sharp gp1a51hrj00f 5 7.0
+72910000820 光电 耦合器 光电 耦合器 6v 0.05 a 5pin dip sharp gp1a52hrj00f 10 6.5
+72910000820 光电 耦合器 光电 耦合器 6v 0.05 a 5pin dip sharp gp1a52hrj00f 10 6.5
+62910000130 光耦 光耦 ps2801 4 路 npnphototransistor 0.5 5us 2500vrms soic16 16pin smd cel ps2801 4 f3 a 5 4.5766
+fc da1608hrk 620d 0603 发光 二极管 红色 led0603 100 电
+白色 led 贴片 高亮 白色 0603 7 inh s1608baw65tp f1 9
+双色 led 贴片 高亮 红 正白 双色 0805 1 inh s2012chmrwtp f1 9
+91 绿 led d6 ll34 10
+led d1 0805c 红色 4
+16 发光 二极管 g jh cafd2ga b q yl20010 17 21 ghc xs1t2m 3t 10
+0101 140014 贴片 光耦 400 ltv247 sop 16 pin16d127
+1102 030008 光耦 400 fod817a 80 160%
+green 绿色 发光 二极管 led0603 15
+yellow 黄色 发光 二极管 led0603 15
+green 绿色 发光 二极管 d0402 1200
+red 红色 发光 二极管 d0402 60
+5 b010600034 lcd 显示屏 43mmx20mm 3.0 v tht 1 p6 43mmx20mm 3.0 v 6000.0
+6 b040110005 lcd 背光 53mmx15.8 mmx2.8 mm tht 1 p3 53mmx15.8 mmx2.8 mm 6000.0
+60402000650 发光 二极管 发光 二极管 蓝色 14.5 ^ 28.5 mcd 5ma 0805 2pin smd 17 21 bhc xl2m2ty 3t 42
+60402000411 发光 二极管 发光 二极管 红色 61mcd 25ma 0805 2pin smd 17 21surc s530 a2 tr8 18
+led 红色 led 0603 6.0 6000.0
+led tj s1615sw6tglccyrgb a5 togialed 统佳 s2 0603d 3.0 3000.0
+led 红色 led 0603 3.0 3000.0
+97 cmicc090500001 6n137 2 u30 u31 6n137 smd 8p 光耦 10mbps 高速 5kv el6n137 200.0
+62 贴片 发光 二极管 smd led 0603x2 蓝黄 双色 1 led1 62 me00012 1 2 7 0 0 0 客
+63 贴片 发光 二极管 smd led 0603 蓝色 2 led2 led3 63 mel7m13 m00022549 0603 蓝 2 33 43 00765 32895 3
+lr q396 p1q2 1 osram 5000 标准 led smd red 624nm 0603
+lt q39g q1oo 25 1 osram 5000 标准 led smd true green 0603
+10300 0004 发光 二极管 19 213sygc s530 e2 tr8 发光 二极管 贴片 0603 绿色 72mcd d1 d2 d3 d4 d5 d6 d7 d8 d12 d19 10 60
+10700 0001 光电 耦合器 hcpl m601 光电 耦合器 一路 三极管 开路 集电极 cmr10kv us 上升时间 24ns sop 5 u11 u12 u13 u14 u15 u16 u17 u18 u19 u24 u25 11 66
+40 光耦 moc3036 smd 6 led 触发 电流 ift max 5ma 过 零 电路 yes 断态 电压 600v 隔离 电压 5000vrms 单元 组数 1 triac
+42 贴片 灯珠 rgb 灯珠 1.6 1.5 0.6 mm rgb led 共阴 1.6 1.5 0.6 mm
+40 光耦 moc3036 smd 6 led 触发 电流 ift max 5ma 过 零 电路 yes 断态 电压 600v 隔离 电压 5000vrms 单元 组数 1 triac 1000
+42 贴片 灯珠 rgb 灯珠 1.6 1.5 0.6 mm rgb led 共阴 1.6 1.5 0.6 mm 1000
+6106 16213s00 led 16 213surc s530 a3 tr8 红色 0402 16 213surc s530 a3 tr8 200 16 213 surc s530 a3 tr8 200 3 0207841
+6106 16213b00 led 16 213 bhc an1p2 3t 蓝色 0402 16 213 bhc an1p2 3t 100 16 213 bhc an1p2 3t 100 3 30000 100 0204434
+76 发光 二极管 led 2p led0603 kphm sgc t smt kphm 1608sgc t 9 360
+77 发光 二极管 led 2p led0603 kphm 1608ec t smt kphm 1608ec t 1 40
+42 发光 二极管 led 2p led0603 kphm sgc t smt kphm 1608sgc t 14 560
+4 led led 3.0 mm round type led red dip a214b sur s530 a3 1 40
+5 led led 3.0 mm round type led green dip a214b syg s530 e2 2 80
+6 led led 3.0 mm round led lamp with holder blue harvatek hv 31210 260 sub dip harvatek hv 31210 260 sub 1 40
+15 发光 二极管 led green 0603 wenrun wr pb1608g l08 smt wenrun wr pb1608g l08 9 360
+16 led led red blue liteon lite on ltst c195tbjrkt smt liteon ltst c195tbjrkt 8 320
+19 发光 二极管 led green 0603 wenrun wr pb1608g l08 smt wenrun wr pb1608g l08 11 440
+20 led led red blue liteon lite on ltst c195tbjrkt smt liteon ltst c195tbjrkt 10 400
+贴片 led 贴片 led rohm sml d14u2w a 1608 0603
+贴片 led 贴片 led rohm sml p12y3t r 1006 0402
+11 050164 光耦 acpl 217 50be 100
+发光 二极管 d12 d13 d15 d16 603 led 红色 4 40000
+u12 u14 u18 u20 光耦 el817 s1 c ta v el817 s1 c ta v el357 4 co ltd 20
+d15 0603 表贴 led 橙色 0603d 1 5
+d13 d14 d16 d17 d18 d20 d21 d24 d31 d42 0603 表贴 led 黄绿色 0603d 10 50
+d23 d26 d28 d30 d3 d7 d12 0603 表贴 led 红色 0603d 7 35
+d3 d8 d9 d12 d13 d14 d15 d16 d17 d18 d20 d21 d23 d24 d25 d28 d29 d32 d33 d36 d37 d38 d40 d41 d42 d46 d47 d48 d49 d50 d53 d54 d56 d57 d77 d78 d6 d44 d10 d11 d19 d22 d26 d27 d30 d31 d34 d35 d39 d45 d51 d52 0603 表贴 led 黄绿色 0603d 52 780
+d43 0603 表贴 led 橙色 led 0603d 1 15
+1 700 2007010043 led led kp 1608cgck 0603 50mcd 120 度 2.1 v 30ma 绿色 v5 1 20 b 20 dlk
+8 发光 二极管 白色 4mm 8
+9 数码管 sp720562w 3 位共阴 0.56 寸 白色 1
+2 直插 发光 二极管 直插 发光 二极管 ledx2 3mm 绿色 绿色 带 灯座 50
+3 chip led red led1 led2 led3 0603 chip led red clear 0603 ltst c191krkt liteon 60.0
+1 tlp293 4 toshiba tlp293 4 ok1 soic 16 photocoupler gaas ired photo transistor soic 16 tlp293 4 gb tp e t toshiba 200
+25 chip led red led1 led2 led3 led4 led5 led6 led7 led8 led9 led10 led11 led12 led13 led14 led15 led16 led17 led18 led19 led20 led21 led22 led23 led24 led25 0603 chip led red clear 0603 ltst c191krkt liteon 500.0
+5 tlp293 4 toshiba tlp293 4 ok1 ok2 ok3 ok4 ok5 mini flat 16 photocoupler gaas ired photo transistor tlp293 4 gb tp e t toshiba 1000
+20 chip led red led1 led2 led3 led4 led5 led6 led7 led8 led9 led10 led11 led12 led13 led14 led15 led16 led17 led18 led19 led20 0603 chip led red clear 0603 ltst c191krkt liteon 400.0
+6 tlp293 4 toshiba tlp293 4 ok1 ok2 ok3 ok4 ok5 ok6 soic 16 photocoupler gaas ired photo transistor soic 16 tlp293 4 gb tp e t toshiba 1200
+sq9a180001 6012242 3mm 白发 红色 led 直插 3mm 直插 100
+sq9a180001 6012241 3mm 白发 绿色 led 直插 3mm 直插 100
+s85atr 红色 发光 led 二极管 均 红色 发光 led 二极管 英制 0805 d3 d5 d22 d23 d24 d422 发光 led 二极管 英制 0805 6.0 24.0
+ps2501l 2 smd 8 gull wg nec on semiconductor u0 u55 high isolation voltage dual photocoupler smd 8 gull wg 2.0 8.0
+3000 1 贴片 0603 绿色 led
+3000 1 贴片 0603 红色 led
+3000 1 贴片 0603 黄色 led
+3000 1 贴片 0603 绿色 led
+3000 1 贴片 0603 蓝色 led
+37 led red led0603 red 1 led1 led3 2100
+38 led green led0603 green 1 led2 2100
+96 key 红外 led hir89 01c 1r hir89 01c 1r j12p 0.5 1 ld1 2100
+绿色 led 中等 3000 1 贴片 0603 绿色 led
+红色 led 中等 3000 1 贴片 0603 红色 led
+黄色 led 中等 3000 1 贴片 0603 黄色 led
+绿色 led 中等 3000 1 贴片 0603 绿色 led
+蓝色 led 中等 3000 1 贴片 0603 蓝色 led
+54 ozt4180718017 1 u5 tlp293 4tpe toshiba tlp293 4 晶体管 光电 耦合器 4ch transistor opto coupler toshiba vendor cn 100
+28 11 0105 010 008 0603 红蓝 led d led d led smd 0603 高亮 白发 红 白发 蓝 led smd 0603 led1 1 10000.0
+29 11 0105 010 001 白光 led led w smd 0603 白光 高亮 lc 0603 led s1 d1 d2 d3 d4 4 40000.0
+4 11 0105 012 003 7 彩慢 闪灯 0805 慢闪 7 彩慢 闪灯 0805 r d1 d2 2 20000.0
+22 11 0105 010 002 贴片 发光 二极管 led 蓝 smd 0603 蓝光高 亮 0603 d4 1 10000.0
+3 11 0205 010 005 led 无边 高亮 白发 红 耐高温 2 脚 2.54 mm 3mm 无边 高亮 白发 红 耐高温 2 脚 2.54 mm 3mm dip 3mm 无边 d1 d2 d3 d4 d5 d6 1 10000.0 过炉 焊
+red 发光 二极管 led1 led2 led3 led4 led5 led6 led7 led8 led9 led10 1206 100 10
+28 0801 00031 led ltst c191kgkt led green clear 0603 smd lite on inc ltst c191kgkt lite on inc 10500
+29 0801 00032 led ltw c191ts5 led white 0603 smd lite on inc ltw c191ts5 lite on inc 1050
+30 0801 00089 led ltst c191tbkt led blue clear chip smd lite on inc ltst c191tbkt lite on inc 3150
+31 0801 00092 led 732 5001 1 nd led green red clear 3528 smd wurth inc 732 5001 1 nd wurth inc 1050
+32 1777 0 32 luckylight led thd super bright yellow lens coloryellow diffused 40 ℃ to 80 ℃ 592nm 210mcd typ 60deg 3mm round type 304yd2c 1b 1.0 10000
+33 1777 0 33 luckylight led thd super bright red lens colorred diffused 40 ℃ to 80 ℃ 632nm 270mcd typ 60deg 3mm round type 304vd2c 1b 1.0 10000
+34 1777 0 34 kem 7seg thd common anode seven segment 0.4 inch two 2 digits led display dip pins ʼ s height 16mm kem 4021 bsg 1.0 10000
+11 050165 光耦 hcpl2630 broadcom 5
+27 1 绿色 贴片 发光 二极管 dp1 绿色 贴片 发光 二极管 0603 led0603
+led 红灯 led smd0603
+led 绿灯 led smd0603
+16.0 贴片 光耦 ltv 0601 ltv 0601 u1 u2 u3 soic 8n 3.0 3000
+34 27008 led 红灯 l0603 20 50
+35 27009 led 绿灯 l0603 60 100
+35.0 贴片 光耦 ltv 356t tp1 c g 集电极 发射极 电压 80v u5 smd sop4 liteon 1.0 1000
+47.0 led 发光 二极管 y3ar4ud1k30 c 3mm 圆头 红色 led1 3mm 圆头 1.0 1000
+000120 d1 led status led led green clear 0805 smd ltst c170kgkt 1 lite on led 01000 0001 1120
+29 dl1 1.0 led led rectangular led 2 5mm through hole elec 523sygd s530 e2
+30 dl2 1.0 led led light emitting diodes led yellow 589nm 125mcd 20ma through hole through hole elec 264 10uyd s530 a3 l
+31 dl3 1.0 led led light emitting diodes led red 624nm 125mcd 20ma top view plugin3mm through hole elec 264 7surd s530 a3
+42 dsp1 1.0 7 segment 2 digits led display kem 4021 bsg common anode seven segment 0.4 inch two 2 digits led display through hole kem kem 4021 bsg
+50 dsp1 1.0 holder 7 segment holder 7 segment holder through hole 7 segment holder
+51 dl2 dl3 1.0 holder led holder led holder through hole led holder
+30 dl2 1.0 led led light emitting diodes led yellow 589nm 125mcd 20ma through hole through hole elec 264 10uyd s530 a3 l
+31 dl3 1.0 led led light emitting diodes led red 624nm 125mcd 20ma top view plugin3mm through hole elec 264 7surd s530 a3
+42 dsp1 1.0 7 segment 2 digits led display kem 4021 bsg common anode seven segment 0.4 inch two 2 digits led display through hole kem kem 4021 bsg
+50 dsp1 1.0 holder 7 segment holder 7 segment holder through hole 7 segment holder
+51 dl2 dl3 1.0 holder led holder led holder through hole led holder
+76 led aa0000 kp 2012hd led1 6 6 0805 if 20ma vf 2v io 25ma vr 5v red diffused smd 120 ° 1200
+77 led eg0001 19 217 t1d apqhy 3t led7 1 0603 if 25ma vf 2.7 3.15 v smd led yellow color 200
+po20190026 温度 3000004562 贴片 发光 二极管 0805 发光 二极管 白发 红 1630
+led aa0000 kp 2012hd led1 6 6 0805 if 20ma vf 2v io 25ma vr 5v red diffused smd 120 ° 1200
+led eg0001 19 217 t1d apqhy 3t led7 1 0603 if 25ma vf 2.7 3.15 v smd led yellow color 200
+490 495nm 青色 3w 3535 1000
+620 630 红色 3w 3535 1000
+520 530 绿光 3w 3535 1000
+465 480 蓝光 3w 3535 1000
+590 595 琥珀 3w 3535 1000
+po20190026 3000004562 贴片 发光 二极管 0805 发光 二极管 白发 红 5240
+po20190026 3000016862 贴片 发光 二极管 0805 发光 二极管 白发 绿 920
+po20190026 3000016863 贴片 发光 二极管 0805 发光 二极管 白发 黄 1640
+po20190026 3000001828 贴片 芯片 acpl332j acpl332j broadcom 1455
+po20190026 3000001983 贴片 光 耦合器 toshiba tlp181 11 4c1 tlp181 toshiba 735
+po20190026 温度 3000004562 贴片 发光 二极管 0805 发光 二极管 白发 红 1630
+u2 ic photo coupler pc817c 10000
+38.0 p521gb dip4 u3 op1 op2 op3 4.0 40.0 tlp521gb
+7 047w003100312 273 发光 二极管 led 綠 20ma 0805 smd hsmg c170 9 900 lio 53303 9.0
+40 047w003120311 274 700501140003 发光 二极管 led 绿 17 21sygc s530 e2 tr8 25ma 0805 smd 17 21sygc s530 e2 tr8 3 300 mbs 5330 3.0
+41 047w003122111 275 700521140010 发光 二极管 led 黄绿色 25ma 0603 smd 19 21sygc s530 e1 tr8 9 900 mbs 5330 9.0
+42 047w002120311 276 发光 二极管 green led 黃 25ma 0805 smd 17 21uyc s530 a2 tr8 9 900 lio 53303 9.0
+43 047w000120311 277 发光 二极管 green led 紅 25ma 0805 smd 17 21surc s530 a2 tr8 8 800 lio 53303 8.0
+79 047w000008000 278 700500140020 发光 二极管 led red ktl he136d trb 20ma 0603 1.6 x0.8 x0.8 smd kuang tien kuang tien ktl he136d trb 26 2600 mbs 5330 26.0
+80 047w002100311 279 700502140010 发光 二极管 led 黄 20ma 0805 smd kuang tien kuang tien ktl hy035a trb 2 200 mbs 5330 2.0
+81 047w203090109 280 700502011000 发光 二极管 green led holder 綠 30ma 3 dip kuang tien kuang tien klh 3n4g s9b 1 100 lio 53302 1.0
+82 047w207090103 281 700502011100 发光 二极管 green led holder 紅 綠 30ma 3 dip kuang tien kuang tien klh 3n9egw s9b 5 500 lio 53302 5.0
+13 05004 00482 贴片 光耦 6n137s so 8 2 u3 u4 40
+14 05035 01391 贴片 光耦 hcpl 2631 500e 光电 耦合器 数字 2 通道 375 kv 10 mbaud dip 8 3 u1 u8 u9 broadcom limited 60
+15 05004 00481 贴片 光耦 acpl 217 500e so 4 10 u34 u35 u39 u40 u41 u42 u43 u44 u45 u46 200
+21 05004 00485 led 绿色 150080gs75000 13 led1 led2 led3 led4 act led5 speed led6 led7 led8 led9 led10 led11 led12 led13 286
+22 05004 00486 led 红色 150080rs75000 8 led14 led15 led16 led17 led18 led19 led20 led21 176
+13 05004 00482 贴片 光耦 6n137s so 8 2 u3 u4 40
+14 05035 01391 贴片 光耦 hcpl 2631 500e 光电 耦合器 数字 2 通道 375 kv 10 mbaud dip 8 3 u1 u8 u9 broadcom limited 60
+15 05004 00481 贴片 光耦 acpl 217 500e so 4 10 u34 u35 u39 u40 u41 u42 u43 u44 u45 u46 200
+21 05004 00485 led 绿色 150080gs75000 13 led1 led2 led3 led4 act led5 speed led6 led7 led8 led9 led10 led11 led12 led13 286
+22 05004 00486 led 红色 150080rs75000 8 led14 led15 led16 led17 led18 led19 led20 led21 176
+ps2801 1 f3 a optoisolator transistor 2500vrms 1 channel 4 ssop 3d ssop4 u2 u8 u9 u14 u15 u20 u21 u26 u27 u32 u33 u46 u47 u48 u49 u50 u51 u52 u53 4.0 6650.0
+ps2801 4 f3 a optoisolator transistor 2500vrms 4 channel 16 ssop so 16 u56 u58 u66 u67 u70 u80 16.0 2100.0
+wi led 0012 d1 d4 red led 2 led red 1206 smd lite on inc ltst c150krkt 160 1405 2 nd 1206 1560
+wi led 0003 d21 d22 d23 d24 led green 4 led green 0402 smd lnj347w83ra lnj347w83ratr nd 0402 3120
+wi led 0011 d20 led blue 1 led blue 0402 smd lnj947w8cra lnj947w8cratr nd 0402 780
+wi ics 0016 u3 ltv 817s 1 optoisolatr 5kv transistor 4 smd lite on inc ltv 817s 160 1367 5 nd so8 650
+091805 132901 集成电路 lg240644 100
+091822 004401 led 0603 绿色 16
+32 二极管 发光 二极管 绿色 贴片 0805 led0805 ws070011 2 18400
+29 dl1 10 led led rectangular led 2 5mm through hole elec 523sygd s530 e2 10000 523sygd s530 e2 international corp 500 7 10working days 0275 1375
+30 dl2 1.0 led led light emitting diodes led yellow 589nm 125mcd 20ma through hole through hole elec 264 10uyd s530 a3 l 10000 264 10uyd s530 a3 l 100 1 3working days 1000.0 10.0 0.25556 25.56
+31 dl3 1.0 led led light emitting diodes led red 624nm 125mcd 20ma top view plugin3mm through hole elec 264 7surd s530 a3 10000 264 7surd s530 a3 100 1 3working days 1000.0 10.0 0.23251 23.25
+led 0805 led blue 2ma 3v 3d led 0805 d9 d10 d12 d13 d14 d15 d16 d17 d22 d24 d25 d27 d28 d29 d30 d31 d32 d37 d39 d40 d42 d43 d44 d45 d46 d47 d52 d54 d55 d57 d58 d59 d60 d61 d62 d67 d69 d70 d72 d73 d74 d75 d76 d77 d80 d81 d82 d83 d89 d91 d99 d103 d106 d109 d115 d116 d117 d118 d119 d120 d121 d151 d152 d153 d154 d155 d156 d157 d158 d159 d160 d161 d162 d163 d164 d197 d198 d199 d200 d201 d202 d203 d204 2.0 29100.0
+led green 2ma 3v 3d led 0805 d92 2.0 500.0
+led red 2ma 3v 3d led 0805 d11 d26 d41 d56 d71 d90 d97 d102 d105 d107 d130 d168 d173 d174 2.0 5000.0
+ps2801 1 f3 a optoisolator transistor 2500vrms 1 channel 4 ssop 3d ssop4 u2 u8 u9 u14 u15 u20 u21 u26 u27 u32 u33 u46 u47 u48 u49 u50 u51 u52 u53 4.0 6650.0
+ps2801 4 f3 a optoisolator transistor 2500vrms 4 channel 16 ssop so 16 u56 u58 u66 u67 u70 u80 16.0 2100.0
+6106 16213s00 led 16 213surc s530 a3 tr8 红色 0402 16 213surc s530 a3 tr8 200 16 213 surc s530 a3 tr8 200 3 0207841
+6106 16213b00 led 16 213 bhc an1p2 3t 蓝色 0402 16 213 bhc an1p2 3t 100 16 213 bhc an1p2 3t 100 3 30000 100 0204434
+线性光耦 40 to 105 ° c 5000vrms ± 0.5% 线性光耦 acpl c87b 500e soic 8 10
+光电 耦合器 toshiba 55 to 125 ° c tlp104 soic 6 70
+光电 耦合器 toshiba 55 to 125 ° c 电流 传输 100% to 600% tlp183gb 11 4m1s 35
+11 109 1701 0003 贴片 光耦 tlp181 sop 4 toshiba 6 00000
+led 直插 3mm 红 d3 d8 2 6
+数码管 直插 5651bh ledx1 1 3
+贴片 6n137 ic2 1 3
+贴片 el357n op5 op1 op2 op4 op7 op8 op9 op10 op11 op12 op13 op14 op15 op16 op17 op18 16 48
+贴片 led 0603 蓝色 d7 0603 1 4000
+贴片 led 0603 红色 d2 d8 0603 2 4000
+贴片 led 0603 黄色 d9 0603 1 4000
+贴片 led 0603 绿色 d11 0603 1 4000
+贴片 led 0805 红色 led1 0805 1 3000
+四路 光耦 ps2801c 4 f3 a u3 u4 sop 16 2 15
+贴片 光耦 tlp181 u8 u9 sop 4 2 15
+green 10 bright led elec
+green 10 bright led elec
+green 10 bright led elec
+ged 绿色 直插 发光管 de6 led 3mm 1.0 100.0 bottom
+yed 黄色 直插 发光管 de7 led 3mm 1.0 100.0 bottom
+red 红色 直插 发光管 de8 led 3mm 1.0 100.0 bottom
+fc da1608hrk 620d led1 led0603 fd 1 5
+091805 128401 插装 芯片 tlp521 1 4p dip4 光偶 dip14 50
+091805 128301 插装 芯片 tlp521 4 4p dip16 光偶 dip16 20
+091805 127401 光 继电器 tlp222a 10
+091804 029701 发光 二极管 smd 0805 黄 17 215uyc s530 a3 tr8 805 10
+091804 029701 发光 二极管 smd0805 黄 17 215uyc s530 a3 tr8 20
+091804 029701 发光 二极管 发光 二极管 smd0805 黄 17 215uyc s530 a3 tr8 40
+091804 029601 发光 二极管 smd0805 绿 17 21 ghc yr1t1 3t 翠绿 高亮 805 1780
+091804 029601 发光 二极管 发光 二极管 smd0805 绿 17 21 ghc yr1t1 3t 翠绿 高亮 140
+光纤 接头 hfbr2521z 660
+光纤 接头 hfbr1521z 660
+led red clear lens 1206 smd d3 d4 d5 160 1167 1 nd lite on ltst c150ckt each
+15 100 led red clear lens 1206 smd d1 d2 d3 d4 d5 d6 d7 d8 d9 d10 160 1167 1 nd lite on ltst c150ckt each
+30 rfoa02 02 003 ic phototransistor dip 6 4n26 e 絡盟 1021350 4n26m on 1 105
+34 rfoa02 24 120 led single digit 7 segment black surface red segment h 14.2 mm 5161bh bs a515rd compatible by wah fai welfare p n 04 04 0132 5161b 福启达 1 105
+35 rfoa02 24 105 led c1632vgc 1.6 x3.2 super green 1206 smd fc 3215ugk 520d nationstar 国星 16 1650
+贴片 绿色 发光 二极管 ltst c191kgkt l c191jgct pcn l c191jgct λ p 565 575nm if 20ma iv 3.6 33mcd 2.25 5mcd vf 2.0 2.8 v 1.6 x0.8 mm t 0.55 mm lnj312g8trao 1 300
+green sled green smd 20 ma 2.1 v 572 nm led 0603 broadcom limited hsme c191 6000 9920 7000 1000
+green 597 3301 507f led 1208 green farnell 151 9489 597 3301 507f led smd 1208 green farnell 146 1604 led 597 3xx1 5xx 1208 597 3301 507f 300 9920 7000 1000
+yellow 597 3301 507f led 1208 yollow led 597 3xx1 5xx 1208 597 3401 507f 300 9920 7000 1000
+red 597 3301 507f led smd 1208 green farnell 146 1604 led 597 3xx1 5xx 1208 597 3021 507f 300 9920 7000 1000
+tcmt4100 quad channels opto coupler sop 16 opto tcmt4100 so16 tcmt4100 1200 9920 7000 1000
+fod8523s optoisolator 5kv darlington 4smd opto fod8523s on semiconductor fod8523s 600 9920 7000 1000
+acpl 074 dual opti coupler soic8 0 15w technologies acpl 074 1500 9920 7000 1000
+tcmt1600 optocouplers phototransistor single ctr 80 300% opto tcmt1600 sop4 tcmt1600 300 9920 7000 1000
+aaa3528bgrs 129 c3 3.5 x2.8 mm surface mount led lamp aaa3528bgrs 129 c3 aaa3528bgrs 129 c3 900 9920 7000 1001
+green led led hmsx c191 led green 0603 broadcom hsme c191 3000 9920 7000 0988
+597 7701 series 597 7701 507f bi color red and green led 597 7701 507f 1800 9920 7000 0988
+led green 0603 hsme c191 led0603 technologies hsme c191 240 9920 7000 0861
+quad channels opto coupler sop 16 optocoupler transistor o p opto tcmt4100 so16 semiconductor tcmt4100 320 9920 7000 0861
+dual opti coupler acpl 074l soic8 0 15w technologies acpl 074l 000e 400 9920 7000 0861
+33 光耦 tlp281 4gb tlp281 4gb sop 16 40 p4 p5 p8 p15 toshiba
+34 光耦 tlp281 p281 sop 4 110 p2 p3 p6 p10 p11 p12 p14 p16 p17 p18 p19 toshiba
+35 光耦 tlp719 p719 sop 6 10 p7 toshiba
+33 贴片 ic tlp281 4gb tlp281 4gb sop 16 80 p1 p2 p3 p4 p5 p6 p7 p8 toshiba
+34 贴片 ic ps9821 2 t9821 2 sop 8 80 p9 p10 p11 p12 p13 p14 p15 p16 calmirco
+数码管 直插 5651bh ledx1 1 3
+红色 发光 二极管 3mm 直插 30 90
+led 0805 led smd d1 0805 贴片 红 1 200
+led 5mm led smd d2 d3 d4 d5 d6 d7 白发 红 直插 6 1200
+seg 3bit 5631 seg 3bit 5361as u5 0.56 寸 3 位共阴 数码管 5361as 1 200
+光耦 贴片 4p pc817a u13 u14 u15 u17 u19 4 pin 贴片 光耦 2 400
+sop8l hcpl2630 u2 8 pin 贴片 高速 光耦 2 400
+21 发光 二极管 红色 贴片 0805 1 d1 500
+22 发光 二极管 蓝色 贴片 0805 1 d2 500
+36 ic 芯片 tlp281 4 so 16p 1 u6 500
+74 发光 二极管 直插 绿色 led 3mm dip 1 500 500 d8
+21 贴片 光耦 el817 sop 4 1 4000
+22 贴片 光耦 h11l1 sop 6 3 on 12000
+16 12800 d302 d303 d304 d305 d306 d307 d308 d309 d310 d311 d312 d313 d314 d315 d316 led green 525nm 402.0 osram lt qh9g q2oo 25 2z4y 525nm led 570nm added wavelength requirement
+4 30000 d202 d203 d204 d205 d206 d207 d208 d209 d210 d211 d212 d213 d214 d215 d216 d219 d220 d221 d222 d223 d226 d227 d228 d229 d230 led rgb smd 1x1mm osram krtb ejlp41.32 ptpv fn qtqx hr lums pv b
+18 led 发 红光 0805 10 l1
+32 贴片 ic tlp281 4gb tlp281 4gb sop 16 80 p1 p2 p3 p4 p5 p6 p7 p8 toshiba
+33 贴片 ic ps9821 2 t9821 2 sop 8 80 p9 p10 p11 p12 p13 p14 p15 p16 calmirco
+65 led 发 红光 0805 1000 l1
+79 贴片 ic tlp281 4gb tlp281 4gb sop 16 8000 p1 p2 p3 p4 p5 p6 p7 p8 toshiba
+80 贴片 ic ps9821 2 t9821 2 sop 8 8000 p9 p10 p11 p12 p13 p14 p15 p16 calmirco
+tlp785 gr tp6 fc 200000
+15 work led d1 d11 led0603 g 2 2200
+20 贴片 发光 二极管 翠绿 0603 0603 翠绿 500 d3 贴装
+22.0 贴片 光耦 tlp280 4 tlp281 4 500 u8 贴装
+23.0 贴装 光耦 ltv 356t b tlp181 tlp181 2000 u6 u9 u5 u7 贴装
+23 led 发 红光 0805 18 l1 l2 l3 l6 l7 l8 l9 l20 l22 l23 l24 l25 l26 l27 l28 l29 l30 l31
+24 led 发 绿光 0805 13 l4 l5 l10 l11 l12 l13 l14 l15 l16 l17 l18 l19 l21
+33 光耦 tlp281 4gb tlp281 4gb sop 16 4 p4 p5 p8 p15 toshiba
+34 光耦 tlp281 p281 sop 4 11 p2 p3 p6 p10 p11 p12 p14 p16 p17 p18 p19 toshiba
+35 光耦 tlp719 p719 sop 6 1 p7 toshiba
+ltst c194tgkt 绿灯 0603 d2 d5 led0603 2 20
+58 led led2 led0805 3 6
+15 v1 贴片 发光 二极管 绿色 0805 c0805 l 1 5
+15 v1 贴片 发光 二极管 绿色 0805 c0805 l 1 50
+17 d7 d8 d9 d10 d11 d12 d13 d14 d15 d16 d17 d18 photomos aqy212s 60v 500ma sop 4 12 60
+24 e1 e2 e3 e4 e5 e6 e7 e8 e9 e10 e11 e12 光耦 tlp290 11 3c1 12 60
+51 v1 v2 v3 v4 贴片 发光 二极管 绿色 0805 c0805 l 4 20
+17 d7 d8 d9 d10 d11 d12 d13 d14 d15 d16 d17 d18 photomos aqy212s 60v 500ma sop 4 12 600
+24 e1 e2 e3 e4 e5 e6 e7 e8 e9 e10 e11 e12 光耦 tlp290 11 3c1 12 600
+51 v1 v2 v3 v4 贴片 发光 二极管 绿色 0805 c0805 l 4 200
+0603 led s1 绿灯 0603 0603 绿灯 d1 d2 d3 d4 d9 d12 发光 二极管 6 140
+0603 led s1 白灯 0603 0603 白灯 d5 d6 发光 二极管 2 60
+0603 led s1 红灯 0603 0603 红灯 d10 d11 发光 二极管 2 40
+14 贴片 发光管 17 21uyc s530 xx tr8 805 绿 500
+11 贴片 发光管 发光管 黄 0805 805 2400
+54 发光 二极管 19 21sygc s530 e1 tr8 led0603 300
+68 贴片 发光 二极管 19 21sygc s530 e1 tr8 led0603 600
+48 贴片 芯片 ltv354t ltv354t soic4 354t lite on 1500
+100 贴片 芯片 pc354ntj000f sharp soic4 1600
+60 贴片 芯片 pc354ntj000f ltv 352t 贴片 二选 一 sj8354 352t sharp 2750
+59 贴片 芯片 tlp785 gb smd p785 gb toshiba 12600
+14.0 1.0 d1 red led dioda rde č a 5mm tht led100 300.0
+15.0 2.0 d2 d6 green led dioda zelena 5mm tht led100 600.0
+贴片 光耦 photocouplers tlp2362 so6 400.0
+贴片 光耦 photocouplers ltv 356t sop 4 60.0
+0.96 寸 黄蓝 双色 12864 oled 显示屏 模块 oled 液晶屏 51 单片机 6 针 20.0
+10 共阳极 四位 数码管 红色 fj3461bh seg1 1 10
+13 四路 隔离 光耦 tlp293 4 gb e toshiba u1 1 10
+14 绿灯 0603 e6c0603vgac1uda d2 d5 2 20
+8.0 hl1 hl2 hl3 hl4 hl5 hl6 hl7 hl8 apt1608cgck 70.0 green 570nm led indication discrete 2.1 v 0603 1608 metric 1.6 mm x 0.8 mm smd led
+kp 1608src prv 6.0 1.6 x0.8 mm smd chip led lamp red 0603
+1 20 led1 led2 ltst c191kgkt 859 ltst c191kgkt lite on standard leds smd green clear 571nm green led 0603
+led0 蓝 19 217 bhc zl1m2ry 3t d3 0603 led s1 2 200 1 200
+led0 绿色 19 217 ghc yr1s2 3t d4 d6 0603 led s1 2 200 2 400
+蓝灯 0603 19 217 bhc zl1m2ry 3t d7 d15 d16 d17 d18 d19 d20 d33 d34 d35 d36 d37 d38 d51 d52 d53 d54 d55 d56 d69 d70 d71 d72 d73 d74 0603 led s1 2 200 25 5000
+sml p12ptt86 led verte picoled green 0402 rohm sml p12ptt86 10000
+7.0 15020069 传感器 2 激光 2 a214b syg s530 e2 4 200 led b led right angle single luminotron 3 green 32mcd 20ma
+8.0 39100125 el357nb ta g 3 150 ic b general optocoupler ltv 356 single channels ctr130% 260% if 5ma 25 ℃ 37 50v sop4 ul eu
+701409003602 光耦 pc817x1nip0f smd4a sharp pc817x1nip0f 14 420
+18 0205 0802 贴片 发光 二极管 0603 绿 贴片 绿色 0603 led4 1 20
+27008 led 红灯 led smd0603 2 200 led1 led8
+27009 led 绿灯 led smd0603 6 600 led2 led3 led4 led5 led6 led7
+6.0 贴片 二极管 3528 hir67 21c l11 tr8 smt 3 led1 led2 led3 300
+7.0 贴片 二极管 1206 hir26 21c l289 ct smt 2 led4 led5 200
+8.0 贴片 二极管 led 0603 19 117 bhc yj2k2tx 3t smt 1 led6 100
+led1 led5 led8 6 160 1427 2 nd lite on ltst c171krkt led red clear 0805 smd 30000
+led7 1 160 1426 2 nd lite on ltst c171kgkt led green clear 0805 smd 5000
+led1 led2 2 digi key 754 1121 1 nd corp apt1608sgc led 1.6 x0.8 mm 568nm grn clr smd 10000.0
+u3 1 digi key fodm2705r2tr nd fodm2705r2 optocoupler trans 3.75 kvrms 4smd 5000.0
+50681 l 7104fo 2id 11
+50693 l 7104fo 2id 20
+50705 l 710a8cb 1gd 11
+50717 l 710a8cb 1gd 20
+50729 l 710a8cb 1id 11
+50741 l 710a8cb 1id 20
+50753 l 710a8cb 1yd 11
+50765 l 710a8cb 1yd 20
+45 11 21 surc s530 a2 tr8 or a bright al hjd33a 001 or lucky light ll s3 50v c v1 2b led 1206 red 2 2000 0
+u4 technologies hdsp b03e 7 segment 4 digit display 520
+50681 l 7104fo 2id 11
+50693 l 7104fo 2id 20
+50705 l 710a8cb 1gd 11
+50717 l 710a8cb 1gd 20
+50729 l 710a8cb 1id 11
+50741 l 710a8cb 1id 20
+50753 l 710a8cb 1yd 11
+50765 l 710a8cb 1yd 20
+a44 d11 s000493 blue led 1206 smd 150120bs75000 wurth 发光 二极管 11
+125 光 藕 el3h7 b ta g so 4 200
+125 光 藕 el3h7 b ta g el3h7 b ta g so 4 200
+贴片 led 绿色 smd0805 1 500
+发光 二极管 led 3mm 红色 3043100002002 1 d3 指示灯 1mm 指示灯 体 顶端 pcb 距离 1mm
+发光 二极管 led 绿色 3mm 3043100001002 1 d2
+41.0 光耦 tlp291 so4 tlp291 toshiba
+发光 二极管 led 3mm 红色 3043100002002 1 d3 指示灯 1mm 指示灯 体 顶端 pcb 距离 1mm
+发光 二极管 led 绿色 3mm 3043100001002 1 d2
+贴片 led 红色 贴片 led 红色 led1 led2 led3 led4 led5 led6 led7 led8 led9 led10 led11 led12 led13 led14 led15 led16 led17 led18 led19 led20 led21 led22 led23 led24 led25 led26 led27 led28 led29 led30 led31 led 0805r 31 155
+23 6p7901b0 d11 s000457 led red clear 0603 smd aphd1608lsurck 发光 二极管 24
+67 6p7901b0 v02 s000080 optoisolator 4kv transistor 5 so acpl m49t 000e broadcom limited 光耦 6
+52388 tfdu4101 tr3 400.0
+音量 三色 发光 二极管 e6c1204rgbc3uda 1 10
+白色 发光 二极管 e6c1204cway1uda 3 30
+60402000650 17 21 bhc xl2m2ty 3t 30
+62010000000 hcpl2530s on 205
+62010000010 acpl 247 500e 120
+62911003550 tlp290 gb se toshiba 130
+led 16 213surc s530 a3 tr8 红色 0402 16 213surc s530 a3 tr8 16 213 surc s530 a3 tr8 200 3 0.207841
+led 16 213 bhc an1p2 3t 蓝色 0402 16 213 bhc an1p2 3t 16 213 bhc an1p2 3t 150 3 3000.0 10.0 0.204434
+13 led red d0805 1.0 d3 400.0
+69.0 ir 3.5 3.5 波长 940nm 功率 3w 1.0 d1 3000
+73.0 led 0603 red 1.0 d6 3000
+10 lcd 屏 1 3000
+59 贴片 led red 0603 smd 2 d12 led1 6000
+60 贴片 led blue 0603 smd 1 d15 3000
+61 贴片 led green 0603 smd 1 d16 3000
+17 p20306000004 d0603 luckylight s192vc 1bg red 贴片 发光 二极管 1
+cu16025ecpb uw6j 300
+20 贴片 led 绿色 pst 1608u51gc 光电 d0603 406
+21 贴片 led 红色 pt 1608s52fc l 光电 d0603 75
+22 贴片 led 蓝色 pst 1608h203bc 光电 d0603 21
+58 贴片 led 红色 led 0603r 96
+59 贴片 led 蓝色 led 0603b 21
+60 贴片 led 绿色 led 0603g 374
+30 贴片 led 黄绿色 19 217 g7c an1p2 3t led 0603 267
+32 贴片 led 蓝色 19 217 bhc zl1m2ry 3t led 0603 21
+33 贴片 led 红色 19 217 r6c al1m2vy 3t led 0603 43
+39 贴片 光耦 ltv 247 liteon sop 16 40
+40 贴片 光耦 ltv 217 liteon sop 4 11
+led green clear chip smd 3.20 mm 1.60 mm apt3216sgc 发光 二极管 400
+19 smd led f7 sod 123 10000
+49.0 led led red kpt 2012surck 1.0
+50.0 led led green kpt 2012sgc 4.0
+51.0 led led yellow kpt 2012syck 3.0
+90.0 芯片 tlp291 se tlp291 se 5.0 toshiba
+104.0 芯片 acpl c87bt 000e acpl c87bt 000e 1.0
+105.0 芯片 iso1540d iso1540d 1.0
+jt01 0019 a smd 发光 二极管 ht17 2102sygc 17 21sygc s530 e3 tr8 黄绿色 led 0805 0805 ht17 21sygc a1 tr8 黄绿色 ht17 2102sygc ht17 2102surc 17 21sygc s530 e3 tr8 黄绿色 1 550
+jt01 0032 a smd 发光 二极管 ht17 2102surc 17 21surc s530 a3 tr8 红色 led 0805 0805 ht17 21surc s530 a2 tr8 红色 ht17 2102surc 17 21surc s530 a3 tr8 红色 1 550

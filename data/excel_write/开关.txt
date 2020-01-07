@@ -1,0 +1,178 @@
+轻触 开关 6mm 6mm 8mm 侧 按 smd 1
+5 微动 开关 k9 1910f 2 焊线
+47 按键 w4 6 6 9 1.0
+48 按键 w1 6 6 6 贴片 1.0
+贴片 拨码 开关 dsic08lhget ke dip 16 091806 042101 30
+轻触 按键 轻触 开关 6x6x5 key dip 091806 041801 180
+贴片 拨码 开关 dsic02lhget ke dip 4 091806 042001 30
+轻触 按键 轻触 开关 6x6x5 key m 091806 041801 60
+贴片 拨码 开关 dsic08lhget ke dip 16 091806 042101 30
+轻触 按键 轻触 开关 6x6x5 key dip 091806 041801 180
+贴片 拨码 开关 dsic02lhget ke dip 4 091806 042001 30
+轻触 按键 轻触 开关 6x6x5 key m 091806 041801 60
+14 贴片 侧 按键 sw 2 4 k1 1
+14 贴片 侧 按键 sw 2 4 1 400000
+3 按键 4.2 3.2 2.5 平脚 skrpace010 alps 1 10000 sw1
+3 按键 4.2 3.2 2.5 平脚 skrpace010 alps 1 10000 sw1
+091806 021601 贴片 轻触 开关 key 2pin 3 6 2.5 mm sop2 1200
+20.0 开关 按键 方型 6 6 7.3 mm 9 36
+1 j 6x6x3 贴片 轻触 开关 k1 button6 6 50.0
+1 j sw01 单片 拨码 开关 s1 switch 1p 50.0
+1 电源 船型 开关 50.0
+1 开关 压片 50.0
+8 bl1551 转换开关 sc70 6 3 30000
+8 bl1551 转换开关 sc70 6 3 30000
+1 330.0 2009010005 开关 2 b 160 轻触 开关 omron b3f 4055 th 12x12mm
+1 750.0 2009010022 轻触 开关 1.0 b 80 轻触 开关 evqpf206k 1.6 n 直角 20ma
+17.0 拨码 开关 2 位 dip 4 dip 200 200
+1 位 dip 2 dip 400 200
+18 按钮开关 pbs1288bm 12 8 9mm 1 6000 0.17 按钮开关 pbs1288bm 12 8 9mm
+20 轻触 开关 ts 040 dip 4 1 s1 50
+c294566 轻触 开关 轻触 开关 6 6 6 250gf smd 40.0 bright
+c3663 拨码 开关 vdg s 08l h r 红色 管装 8 位 30.0 tonver
+44 贴片 按钮开关 skrkaee010 3 4 2 轻触 按键 2 脚位 1 10
+s1 1 switch pushbutton momentary thru hole 1241.1620 schurter bottom mounted thru hole 10000
+tl3315nf switch tactile spst no 0.05 a 15v sw1 sw2 e switch tl3315nf100q 4.50 mm x4.50 mm x 0.55 mm 2 20
+35.0 14050009 conn key 2 档 波动 开关 smt 6pin 6.7 x4.1 x3mm ss 3248s 7200 ss 3248s conn key ss 3248s 2
+60302000050 模拟开关 模拟开关 adg701 单路 模拟开关 sot236 6pin smd adg701brtz reel7 5 9.0
+轻触 开关 贴片 4 4 1.5 mm 铜头 250gf 1187fb150f g 2 1187fb150f g
+8 bl1551 转换开关 sc70 6 3 30000
+8 bl1551 转换开关 sc70 6 3 60
+bl1551 转换开关 sc70 6 3 60
+rpi 352 rohm rpi 352 槽式 光电开关 dip 4 64 42 30
+1 a030510065 轻触 按键 轻触 按键 6 6 10mm tht 4 k1 k2 k3 k4 a01 02 e03 6 6 10 插脚 黑 cnb 250g 24000.0
+64 cmswt0100 jiven it 1102v 250h7.0 1 s2 it 1102v 250h7.0 thd 4p 轻触 开关 侧 按 l 3.15 a 3.5 thd 4p 100
+80 cmicc1001 ts3a5018pwr 1 u39 ts3a5018pwr smd sop 16p 四 通道 单极 双投 spdt 模拟开关 1.8 3.6 v 10 ω sop 16p 0 65 100
+模拟开关 sn74lvc1g3157dbvr sot23 6 1.0 1000.0
+轻触 开关 tm 8764 2 xkb sw k5 1215sa 01 2.0 2000.0
+u2 u3 u4 u5 u8 u9 adg608bru 多路复用 开关 ic 8 1 22 ohm lc2mos high performance 60
+100 贴片 轻触 按键 smd key 3 4 2 250g 定位 柱 180 度 1 sw1 100 msmjd24 1 2 7 02875 20125 5
+101 贴片 轻触 按键 smd key 3 4 2 250g 定位 柱 180 度 1 sw2 101 msmjd25 1 2 7 02875 20125 5
+102 贴片 硅胶 按键 smd key 6.0 6.0 mm 方形 黑色 250g 841 12 sw6 sw7 sw8 sw9 sw10 sw11 sw12 sw13 sw14 sw15 sw16 sw18 102 ms00026 12 2 62 0 0 0
+103 贴片 轻触 按键 smd 5x3x2 侧式 to24e ao12drt30b 2 sw17 sw19 103 ms00027 2 2 12 0 0 0 客
+104 贴片 拨动 开关 smd 7x3x2 侧式 mo71e ao15rt13b 2 s1 s2 104 ms00028 2 0 10 0 0 0 客
+10805 0002 轻触 开关 sw pb4 轻触 开关 62 62 45 mm 蓝帽 4 脚 s1 1 6
+e08040044 拨码 开关 ds 02 红色 正拨 拨码 开关 2 位 dip 正位 24v 25ma 6.44 9.9 7.1 mm s2 1 6
+41 贴片 轻触 开关 key 6x6x6 key 6x6x6
+45 贴片 轻触 开关 key 6x6x4.3 key 6x6x4.3
+41 贴片 轻触 开关 key 6x6x6 key 6x6x6 1000
+45 贴片 轻触 开关 key 6x6x4.3 key 6x6x4.3
+7 开关 switch 6 6 9.5 h 9.5 dtsa 65k s v dip dtsa 65k s v 1 40
+p6 贴片 拨码 2.54 mm 4x2 switch bm smt 4p 1.0 30.0
+1 switch sw1 eg4389ct eg4389ct tl3330af260qg e switch 510
+s1 拨码 开关 4 位 1.27 ye dshp04tsget dshp04tsget switch cmd 4f 1 5
+s1 拨码 开关 4 位 1.27 ye dshp04tsget dshp04tsget switch cmd 4f 1 15
+1 switch c k pts525sm15smtr2lfs s1 tactile switch smd switch tactile spst no 0.02 a 15v pts525sm15smtr2lfs c k 20.0
+27 tact switch 侧边 按键 switch 6 6 woshi 2 k1 k4 4200
+28 行程开关 k5 1631d 01 k5 1631d 01 1 k3 2100
+97 key 贴片 按键 skrmaae010 alps skrmaae010 alps skrmaae010 alps 3 k1 k2 k3 6300
+1 ozt5180718002 1 j14 dhnf 04 v t r dhnf 04 v t r switch slide dip spst 25ma 24vswitch slide dip spst 25ma 24v szlcsc 100
+63305000050 按键 开关 430181038816 l4.5 w4.5 h3.8 4pin smd we 430181038816 68
+48 11 0115 001 011 微动 开关 jc ts10b 带 定位 柱 jc ts10b 带 定位 柱 jc ts10 s1 1 10000.0
+2 11 0115 001 013 微动 开关 aj 4 4 1.5 5mm 5mm aj 4 4 1.5 s1 s2 2 20000.0 mrs 电源 键
+2 11 0115 001 013 微动 开关 aj 4 4 1.5 5mm 5mm aj 4 4 1.5 s2 1 10000.0 mrs 电源 键
+3 11 0115 001 011 微动 开关 jc ts10b 带 定位 柱 jc ts10 s1 1 10000.0
+2 11 0115 001 013 微动 开关 aj 4 4 1.5 5mm 5mm aj 4 4 1.5 5mm 5mm aj 4 4 1.5 s2 1 10000.0 mrs 电源 键
+3 11 0115 001 011 微动 开关 jc ts10b 带 定位 柱 jc ts10b 带 定位 柱 jc ts10 s1 1 10000.0
+191 贴片 拨码 开关 拨码 开关 2 路 smt 1.27 2p dpc 常闭 超厚 2.3 mm zlj1272pdpccb dhnf 02 t v dhnf 02 t v 3 60 6000 90000
+25 0116 00126 开关 evq psr02k switch tactile spst no 005 a 12v 0116 80009 evq psr02k 2100
+44 1777 0 44 omron switch thd tactile switches 6x6 flat 5mm btn force 150g w grd dip 4pin 6x6 b3f 1022 0650ha 160g g switronics 3.0 30000
+19 编码器 pt65103l254 apem pt65103l254 apem 300
+72 4.5 4.5 轻触 按键 2 k1 k2 k2 1109sp d4sa 04 4.5 4.5 轻触 按键 smt spst 4r5x4r5 vol
+73 4.5 4.5 轻触 按键 1 k3 k2 1109sp d4sa 04 4.5 4.5 轻触 按键 smt spst 4r5x4r5 menu
+74 4.5 4.5 轻触 按键 1 k4 k2 1109sp d4sa 04 4.5 4.5 轻触 按键 smt spst 4r5x4r5 enter
+75 4.5 4.5 轻触 按键 1 k5 k2 1109sp d4sa 04 4.5 4.5 轻触 按键 smt spst 4r5x4r5 home
+76 4.5 4.5 轻触 按键 1 k6 k2 1109sp d4sa 04 4.5 4.5 轻触 按键 smt spst 4r5x4r5 pwron
+77 4.5 4.5 轻触 按键 1 k7 k2 1109sp d4sa 04 4.5 4.5 轻触 按键 smt spst 4r5x4r5 reset
+78 4.5 4.5 轻触 按键 1 k8 k2 1109sp d4sa 04 4.5 4.5 轻触 按键 smt spst 4r5x4r5 uboot
+18.0 直插 拨动 开关 2p2t 180 度脚 ss22e01 s1 直插 6p 2.54 mm 脚距 bottomlayer 1.0 1000
+000390 sw1 开关 sw dip 8 sm switch dip low pro 8 pos gold kae08lggt 1 e switch 1120
+41 sw1 sw2 sw3 3.0 tactile switch tactile switch spst no switch tactile spst no 0.05 a 24v through hole omron inc emc div b3f 1022
+41 sw1 sw2 sw3 3.0 tactile switch tactile switch spst no switch tactile spst no 0.05 a 24v through hole omron inc emc div b3f 1022
+33 swi d0000 ts808ld2 2012p sw1 1 d 6 pin switch ts series push button dip 200
+swi d0000 ts808ld2 2012p sw1 1 d 6 pin switch ts series push button dip 200
+64 045w000013000 3 700290312010 switch 开关 pb61349brfl 4 102 8p ra dip highly w led highly pb61349brfl 4 102 1 100 mbs 5330 1.0
+383 045w01040z001 4 700220002000 switch 开关 push sw 无段 数 ts 09pvy4 130 6 4p zeetek zeetek ts 09pvy4 130 6 2 200 mbs 5330 2.0
+384 045w11040z002 5 700290312020 switch 开关 tact sw 无段 数 ts 02psy6 130 6 6x6x5mm dip 4p zeetek zeetek ts 02psy6 130 6 1 100 mbs 5330 1.0
+65 045w000014000 290 开关 switch tact nolock pb6149l 1 102 6p 7.5 x10.3 x17.8 mm 180 ° dip highly w led red color gh ru1233ws 21e highly pb6149l 1 102 1 100 lio 53302 1.0
+66 045w000016000 291 开关 switch tact nolock pb6149l 4 102 6p 7.5 x10.3 x17.8 mm 180 ° dip highly w led blue color gh b51233wp 21h highly pb6149l 4 102 1 100 lio 53302 1.0
+67 045w000017000 292 开关 switch tact nolock pb6149l 23 6p 7.5 x7.5 x18mm 180 ° dip highly w led yg color ce mzd333wc 21e p highly pb6149l 23 1 100 lio 53302 1.0
+62 05003 00180 贴片 按键 430 152 043 826 1 key1 22
+62 05003 00180 贴片 按键 430 152 043 826 1 key1 22
+091805 133301 按键 5 5 1.5 mm tsa053g15 250t 464
+62 05003 00180 贴片 按键 430 152 043 826 1 key1 22
+41 sw1 sw2 sw3 3.0 tactile switch tactile switch spst no switch tactile spst no 0.05 a 24v through hole omron inc emc div b3f 1022 30000 b3f 1022 omron 300 1 3working days 1500.0 1.0 0.49005 147.02
+25 聚合 开关 mf sm050 f1 mf sm050 1 20
+按键 直插 k1 k2 k3 k4 4 12
+4 拨码 开关 12 位 贴片式 sw sop24 1 s1 1000 1000 0 1000 12 位 贴片式 拨码 开关 2.54 mm 1000.0 拨码 开关 12 位 贴片式 sw sop24 1.0 s1
+27 轻触 按键 12x12x7mm 4 脚 直插 轻触 开关 4 脚 1 k1 1000 1000 0 1000 轻触 开关 12x12x7mm 方头 gc 1000.0 轻触 按键 12x12x7mm 4 脚 直插 轻触 开关 4 脚 1.0 k1
+轻触 开关 3 6 2.5 mm 轻触 开关 贴片 2 脚 sw1 sw2 3 6 2.5 mm 2 15
+sw spdt spdt subminiature toggle switch right angle mounting vertical actuation s1 tl36ww15050 1 5
+45 rfoa02 13 001 switch dip switch rocker 1a 4 way p 2.54 mm eds104s99 1 105
+46 rfoa02 12 008 switch reset button ts 1 p 4.3 mm mec mts 1102 tc 1102 c a b xkb 1 105
+a6sn 4101 dip switch 4 pos smd a6sn 4101 omron a6sn 4101 600 9920 7000 1000
+a6sn 8101 a6t 8102 dip switch 8 pos smd omron a6t 8102 300 9920 7000 0991
+a6sn 8101 sw a6sn 8101 dip switch 8 pos smd omron a6sn 8101 600 9920 7000 0988
+dip switch 4 pos smd a6sn 4101 a6sn 4101 omron a6sn 4101 240 9920 7000 0861
+sip switch smd a6sn 1101 a6sn 1101 omron a6sn 1101 80 9920 7000 0861
+按键 直插 12x12x6 脚 5x12.5 k1 k2 k3 k4 4 12 12x12x6 引脚 5x13
+key 12 12 按键 k3 k4 k5 k6 k7 k8 k9 k10 12 12 15mm 直插 8 1600
+40 6800 sw301 pushbutton smd omron b3u 1000p
+37 轻触 开关 ts 020a sip2s 10 s3
+46 琴键 开关 a6tn 4101 dip 8 10 s2
+84 轻触 开关 ts 020a sip2s 1000 s3
+93 琴键 开关 a6tn 4101 dip 8 1000 s2
+66 powr switch s1 kcd1 2p 90 14.9 mm 11.6 mm 1 1050
+k2 6639sp c4sc 04 4 脚 贴片 按键 omron6 6 5 k1 button 6x6 smd 4 button 4 1 10
+72 2 位拨码 开关 2 位 顶 拨 黑色 dm 02 v1.4 smd 600
+67 直插 拨码 开关 sw dip8 dip switch dip 16 key 侧 拨 100
+71 8 位拨码 开关 顶 拨 sw dip8 dip16 500
+63 拨码 开关 wt11 smd 02 smd cwt 慈溪网 通 50
+40 拨码 开关 wt11 smd 04 smd cwt 慈溪网 通 100
+2 045w01040z001 700220002000 switch 开关 cas jason190814 push sw 段 数 ts 09pvy4 130 6 4p h 4 zeetek ts 09pvy4 130 6 1 500
+40 045w31121s201 700290312000 switch 开关 cas jason190816 slide sw 段 数 12p smd sh sh sop06 r 1 500
+4 轻触 开关 12 12 1 贴片 ts 1103s c q xkb k1 k2 k3 3 30
+11 按键 开关 k8 2213a l1 sw1 1 10
+18 4 脚 贴片 按键 omron6 6 5 k2 6639sp c4sc 04 k1 1 10
+2.0 s1 s2 1571610 2 25.0 tactile switch spst no side actuad through hole right angle 6.90 mm x 6.80 mm x 3.85 mm
+tl1015af160qg 5.0 e switch tactile switches 4mm x 3mm smt gull wing top act 4mm x 3mm x 5mm
+sw dip 8 vdg 08hg r tonver s1 csw dip 8p g 16 200 1 200
+sw pb4 k2 1102dp e4sw 04 s2 tsw dip 6 6 6 4 200 1 200
+sw1 1 7914j 000etr nd 7914j 1 000e switch tactile spst no 0.1 a 24v 5000
+sw1 sw2 2 digi key 7914j 000etr nd 7914j 1 000e switch tactile spst no 0.1 a 24v 10000.0
+50803 lra22h2fbbnn cherry zf 11
+50815 lra22h2fbbnn cherry zf 30
+66 eg 1313 e switch switch slider 1 1000 0
+s1 s2 s3 s4 s5 s6 s7 e switch ks 00q 01 push button switch 3640
+50803 lra22h2fbbnn cherry zf 11
+50815 lra22h2fbbnn cherry zf 30
+按键 sw4tm 6r2x6r2 1 dts 69k v 6.2 6.2 19.5 mm 4.0 20.0
+贴片 按键 sw4sm 4r5x4r5 pts 647 sm38 smtr2 lfstl3305af160qg 4.5 4.5 mm 4.0 20.0
+直插 轻触 开关 ts62h 7.5 ts62h 7.5 3 6mm x 6mm x 7.5 mm dip4 直插 ks1 ks2 ks3 6000
+拨动 开关 90 度 拨动 开关 3 脚 2 档 4mm 3092000009000 1 s1 引脚 2.0 mm 开关 拨到 off 端
+拨动 开关 90 度 拨动 开关 3 脚 2 档 4mm 3092000009000 1 s1 引脚 2.0 mm 开关 拨到 off 端
+sw sw1 bootm 1 5
+csw 5p 5 路 开关 sw2 csw dip 5p 1 5
+18 轻触 开关 k2 1177sw 2 20
+空格键 按压 按键 cpg142501d02 d03 1 10
+按键 按压 按键 cpg142501d02 d03 8 80
+手柄 方向键 开关 k1 1539sa 01 1 10
+按压 按键 cpg142501d02 d03 1 10
+手柄 方向键 开关 k1 1539sa 01 1 10
+按压 按键 cpg142501d02 d03 1 10
+游标 按键 轻触 开关 c k kmr221glfs 40 400
+轻触 开关 k2 1114um b4sw 06 3 30
+72.0 轻触 按制 4.7 x3.6 x2.5 mm 带 定位 柱 2.0 ks1 ks2 6000
+70 贴片 按键 4.7 x3.6 x2.5 mm 带 定位 柱 8 key1 － key8 24000
+71 贴片 按键 6.1 x4 带 定位 柱 2 key9 ks2 6000
+2pin 轻触 开关 pts635sl 1 sw1 8570
+34 贴片 按键 ts 1101a c r xkb key3.6 6 21
+69 拨码 开关 dsic01lhget ye dip2 10
+55 3x6 轻触 开关 贴片 3x6 轻触 开关 两脚 tsw smd 3 6 2.5 11
+107 贴片 6x6 轻触 开关 贴片 6x6x5 四脚 tsw smd 6 6 5 21
+108 1 路 拨码 开关 ds 01rp csw dip 1p g 开关 打向 非 on 档 10
+24 贴片 轻触 按键 ts3625a ht shou han key smt 11
+25 直插 轻触 按键 ts 1102 5016 sofng key 10
+58 直插 拨码 开关 dsic02lhget ye dip 4 10
+switch slide dip spst 100ma 20v 219 4mstr cts 拨码 开关 400
+jc04 0012 a smd 轻触 按键 6.6 l 6.3 w 5.0 mm ± 0.1 mm alps 开关 skpg 1 600

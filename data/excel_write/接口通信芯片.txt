@@ -1,0 +1,275 @@
+usb ttl 串口 ic ch340g smd 3000
+331.0 11703012 can 收发器 u20 tja1051t
+sn65lbc184d 1350
+贴片 隔离 can 收发器 iso1050dubr smd 8 6.3 mm 091805 142501 61
+贴片 隔离 485 收发器 adm2486brwz soic16 wide 091805 141601 30
+贴片 rs232 收发器 max3232ese soic16 091805 141701 30
+贴片 双通道 数字 隔离器 adum1201brz soic8 091805 142101 31
+贴片 八路 信号 收发器 74hc245pw nexperia tssop20 091805 142901 30
+贴片 ic rs485 adm2486brwz soic16 091805 141601 60
+贴片 ic rs422 sp3084een soic8 091805 141201 31
+贴片 rs232 收发器 max3232ese sop16 091805 141701 30
+贴片 双通道 数字 隔离器 adum1201 soic8 091805 142101 31
+贴片 以太网 ic w5500 wiznet lqfp 48 7x7x05p 091805 141501 30
+贴片 隔离 can 收发器 iso1050dubr smd 8 6.3 mm 091805 142501 61
+贴片 隔离 485 收发器 adm2486brwz soic16 wide 091805 141601 30
+贴片 rs232 收发器 max3232ese soic16 091805 141701 30
+贴片 双通道 数字 隔离器 adum1201brz soic8 091805 142101 31
+贴片 八路 信号 收发器 74hc245pw nexperia tssop20 091805 142901 30
+贴片 ic rs485 adm2486brwz soic16 091805 141601 60
+贴片 ic rs422 sp3084een soic8 091805 141201 31
+贴片 rs232 收发器 max3232ese sop16 091805 141701 30
+贴片 双通道 数字 隔离器 adum1201 soic8 091805 142101 31
+贴片 以太网 ic w5500 wiznet lqfp 48 7x7x05p 091805 141501 30
+18 贴片 ic max1487 soic 8 150mil 1 200 10000 u2
+ch340c sop16 1.0 10000.0
+18 贴片 ic max1487 soic 8 150mil 1 u2 max1487esa t 10000 3.4578 3 4d sop8 就 没错
+72 a07 001083 003 ic enc424j600 i qfn 44 enc424j600 i 3000 u6 贴片
+20 e05be006501 通信 ic max3232cse transceiver rs232 3v 5.5 v narrow so 16 1
+21 e05al056601 asic ds1302zn rtc 通信接口 sop8 1
+6 c0100106 通信 ic sn65176bdr bus 收发器 5v soic8 soic8 1 500
+14 c0100112 逻辑 ic am26c31ipwr 差分 芯片 tssop16 5v tssop16 1 500
+16 c0100113 逻辑 ic am26c32ipwr 4 路 差动 线路 接收器 差分 转单 端 5v tssop16 40 85 ℃ tssop16 1 500
+18 c0100115 通信 ic max3232eue rs232 收发器 3v 5.5 v tssop16 tssop16 maxin 1 500
+20 接口 器件 dp83848mphpep dp83848yb 2
+63202001110 63202.0 数据通讯 芯片 数据通讯 芯片 sn65lvds047 四路 驱动器 400mbps 3.6 v tssop16 16pin smd sn65lvds047pwr 12
+63202000700 数据通讯 芯片 数据通讯 芯片 cp2104 f03 gm i ocontrollerinterfaceic 3.3 v 17ma qfn24 24pin smd silicon cp2104 f03 gm 6
+63202000730 数据通讯 芯片 数据通讯 芯片 txs02612 interface i oexpanders qfn24 24pin smd txs02612rtwr 6
+10603 0001 接口 收发器 max487esa 接口 收发器 max487esa 5v 半双工 rs485 收发器 soic8 u20 u21 u22 3 18
+10603 0013 接口 收发器 max232acse 接口 收发器 max232acse 5v 半双工 rs232 收发器 soic16 u23 1 6
+6101 da721200 ic codec da7212 dialog da7212 100 da7212 01um2 dialog semiconductor 100 2 8353275
+207 ic ic tssop8fh pca9517adp smt pca9517adp 2 80
+217 ic ic qfn48 realtek rtl8211e vb cg smt realtek rtl8211e vb cg 1 40
+221 ic ic sbu rs 232 driver 260 c ssop 28p ad adm213earsz smt adm adm213earsz 1 40
+224 ic ic tssop20fa pca9545apw smt pca9545apw 2 80
+225 ic ic tssop8fh pca9617adp smt pca9617adp 5 200
+11 050161 usb 驱动 芯片 ftdi ft602q t 10
+11 050162 网 驱动 芯片 ksz9031rnxic 10
+11 050163 hdmi 驱动 芯片 adv7511kstz 10
+u4 ic 芯片 icl3232cvz t icl3232cvz t tssop 16 1 5
+u1 can 隔离 收发器 td301mcanfd td301mcanfd dip 5 1 5
+u4 ic 芯片 icl3232cvz t icl3232cvz t tssop 16 1 15
+u9 can 隔离 收发器 zlg td301mcanfd td301mcanfd ctm1051am 1 15
+u20 ic 芯片 sn65hvd230 sn65hvd230 so 8 1 15
+13 集成 芯片 lt1180acn 5 linear technology
+3 双通道 数字 隔离器 iso7321c iso7321c 双通道 数字 隔离器 soic8 表贴 100
+4 can 总线 收发器 tja1042t 3 tja1042t 3 can 总线 收发器 so8 贴装 100
+8 线路 接收器 ds26c32atmx ds26c32atmx 4 路 差分 线路 接收器 soic16 100
+10 通信 芯片 sp485een sp485een rs485 通信 芯片 soic 8 贴装 100
+1 ft4232hl ftdi ft4232hl ic2 lqfp 64 usb controller 4 channel 480mbit s usb 2.0 64 pin lqfp ft4232hl ftdi 20.0
+1 tca6424argjr tca6424argjr ic3 uqfn 32 low voltage 24 bit i2c and smbus i o expander 32 uqfn tca6424argjr 20.0
+1 tca6424argjr tca6424argjr ic1 uqfn 32 low voltage 24 bit i2c and smbus i o expander 32 uqfn tca6424argjr 20.0
+tle9278bqxxuma1 u4 pg vqfn 48 1 1 tle9278bqxxuma1 ifx 20
+79 ic usb2uart pl2303sa pl2303sa soic 8 3 u16 u18 u19 6300
+80 ic hub gl850g hhy22 gl850g hhy22 ssop 28 208mil 1 u17 2100
+tle9278bqxxuma1 u4 pg vqfn 48 1 1 tle9278bqxxuma1 ifx 20
+16 usb4500qtr ic usb4500 qfn24 4x4 5000 usb4500qtr 半导体 4000 7 10 days 1 1 1.1297 4518.8
+18 usb5807 kd ic usb5807 vqfn 100 5000 usb5807 kd 5000 5weeks 1 4 6.11 30550
+adm2483 收发器 u8 soic 16 宽体 10 1
+4 贴片 ic ttl 转 rs232 sp3232eey ssop16 exar sp3232e tssop16 1 exar 20 2000 30000
+12 贴片 ic 以太网 以太网 rtl8201cp 10 100mbps v 3.3 v 48 pin lqfp reltek rtl8201cp ip101a lqfp 48 c 1 reltek 20 2000 30000
+15 贴片 ic uart 转 max485esa sop8 max485 sop8 1 20 2000 30000
+179 贴片 ic tja1040t high speed can v 5.0 v sop 8 tja1040t so8nb 2 40 4000 60000
+bl3085 so 8 1.0 芯片 500.0
+189 toshiba hdmi mipi 桥接 芯片 1 u15 tc358749xbg bga80 7r00x7r00x1r00
+rtl8201f vb cg qfn32c 050 0505lh
+it66121fn it66121fn
+it6801fn qfn 76
+17.0 rs485 收发器 sn65hvd3082edr sn65hvd3082edr u4 soic 8n 1.0 1000
+2 23006 rtl8201f vb cg qfn32c 050 0505lh 20 20
+3 23007 it66121fn it66121fn 10 10
+12 23030 it6801fn qfn 76 10 10
+000470 u11 u12 u13 u14 u16 u17 u20 u21 集成电路 ic rs485 full dup rs 485 3.3 v iec61000 4 2 fail safe full duplex 5mbps minimum sn65hvd1474dr 8 8960
+000480 u19 u22 集成电路 ic ltm2881iy 3 pbf rs485 trans iso bga ltm2881iy 3 pbf 2 linear tech 2240
+41 1 u7 adv7513bswz 10 ad adv7513bswz adv7513bswz 10 3 22.75 227.5
+42 1 u8 phy dp83848cvv 10 phy dp83848cvv dp83848cvvx nopb 10 3 7.91 79.1 x nopb
+po20190026 温度 3000004249 贴片 磁耦 芯片 analog devices adum1201arz soic r 8 125
+po20190026 温度 3000001805 贴片 芯片 tja1040t so8 125
+po20190026 温度 3000001821 贴片 芯片 analog device st3232ectr tssop16a 125
+po20190026 温度 3000010889 贴片 芯片 ds2480b sop 8 455
+po20190026 温度 3000001806 磁耦 芯片 adum1250arz 455
+po20190026 3000004249 贴片 芯片 devices adum1201arz soic r 8 adum1201arz 735
+po20190026 3000001805 贴片 芯片 tja1040t so8 tja1040t 735
+po20190026 温度 3000004249 贴片 磁耦 芯片 analog devices adum1201arz soic r 8 adum1201arz 125
+po20190026 温度 3000001805 贴片 芯片 tja1040t so8 tja1040t 125
+po20190026 温度 3000001821 贴片 芯片 analog device st3232ectr tssop16a st3232ectr 125
+po20190026 温度 3000001806 磁耦 芯片 adum1250arz adum1250arz 455
+am26ls32acd 10
+max3232cdb 100
+36.0 max485esa so 8 uo1 1.0 10.0
+38.0 xtr115 so 8 u2 1.0 10.0 xtr115ua 2k5
+5 05004 00470 集成电路 sp3232ecy l tssop 16 2 u18 u38 exar 40
+5 05004 00470 集成电路 sp3232ecy l tssop 16 2 u18 u38 exar 40
+hcpl091j quad 2 bidirectional digital isolator so 16 opt12 16.0 350.0
+hcpl 090j 000e 2500vrms 4 channel 110mbd 15kv µ s cmti 16 soic 0.154 3.90 mm width so 16 opt4 opt5 opt6 opt7 opt8 opt10 16.0 2100.0
+iso1050dubr can bus isolator dub8 u43 u44 8.0 700.0
+lan8742a cz tr lan8742a cz tr small footprint rmii 10 100 ethernet sqfn 24 3d qfn24 4x4mm u55 25.0 350.0
+ltc2873i uf d pbf 1 1 transceiver half rs232 rs485 24 qfn 4x5 qfn50p400x500x75 24n u88 u90 u92 24.0 1050.0
+091805 132801 芯片 qfn28 5 5 cp2102 15
+72 ic tja1042t 3 soic8 es012255 1 9200
+700903010008.0 芯片 lan rtl8211e vb cg qfn48p smd realtek realtek rtl8211e vb cg 1 100
+701401007902.0 芯片 level shift pca9517adp tssop8 smd philip pca9517adp 2 200
+701401007903.0 芯片 8 channel i2c bus pca9548apw tssop24p pca9548apw 1 100
+adum1401crwz rl digital isolators digital quad ch rw 16 u89 u91 u93 16.0 1050.0
+am26ls32aidr 4 receiver rs422 rs423 16 soic d16 u74 16.0 350.0
+hcpl091j quad 2 bidirectional digital isolator so 16 opt12 16.0 350.0
+hcpl 090j 000e 2500vrms 4 channel 110mbd 15kv µ s cmti 16 soic 0.154 3.90 mm width so 16 opt4 opt5 opt6 opt7 opt8 opt10 16.0 2100.0
+iso1050dubr can bus isolator dub8 u43 u44 8.0 700.0
+lan8742a cz tr lan8742a cz tr small footprint rmii 10 100 ethernet sqfn 24 3d qfn24 4x4mm u55 25.0 350.0
+ltc2873i uf d pbf 1 1 transceiver half rs232 rs485 24 qfn 4x5 qfn50p400x500x75 24n u88 u90 u92 24.0 1050.0
+6101 da721200 ic codec da7212 dialog da7212 100 da7212 01um2 dialog semiconductor 100 2 8353275
+81 1 usb2514b ezgs1 集成电路 usb2514bi aezg usb2514bi aezg ic036am1 qfn36 12
+83 1 ds90cf38 opbs1 集成电路 ds90cf384amtdx nopb ds90cf384a ic056a tssop56 12
+4g2403b0 u06 s000208 贴片 ic 芯片 usb hub fe2.1 terminus lqfp48 qfp 996
+rs485 通讯 芯片 40 to 85 ° c 0.25 mbps 128bus ± 15kv esd protected max487eesa max soic 8 10
+67 贴片 集成电路 max3232id u5 so 16 1 20
+sop8 vp3082 u6 1 3
+25 芯片 max485eesa so8 1 u3 1000 1000 0 1000 max485eesa 1000.0 芯片 max485eesa so8 1.0 u3
+can 通信 芯片 sn65hvd230d u2 sop 8 1 9
+syn6658 u11 qfp64 1 1.0 100.0 top
+w5100s u13 qfp48 7x7 1.0 100.0 top
+091805 126401 贴片 芯片 贴片 芯片 adm2582ebrwz 20
+69 10 ic txrx 3 5.5 v rs232 lp 16 soic u1 497 3731 1 nd st3232cdr each
+29 rfoa02 02 230 ic logic octal bus transceiver 3.3 v to 5 v shifter tssop24 sn74lvc4245apw e 絡盟 1236393 sn74lvc4245apw 1 105
+31 rfoa02 02 081 ic transceiver 5v rs485 so 8 max485csa e 絡盟 2519495 max485csa t 2 205
+pcie 2.0 交换 芯片 pex8608 ba50bc g 8lane 8port 拥塞 pcie 交换 芯片 内核 电压 1.0 v serdes 电压 1.0 v i o 电压 2.5 v 8lane 8 端口 端口配置 支持 x1 x2 x4 通过 eeprom i2c 来 进行 配置 功率 2.87 w pbga 196 ball 15 15mm plx pex8608 ba50bc g 1 300
+pcie 四 通道 usb3.0 主 控制器 upd720201k8 701 bac a 工作电压 vdd33 3.3 v vdd10 1.05 v 总线 协议 pcie usb3.0 通讯 速度 low speed 1.5 mbps full speed 12mbps high speed 480 mbps super speed 5 gbps qfn9x9 upd720201k8 701 bac a 1 300
+单口 以太网 phy 88e1512 a0 nnp2c000 pcn 88e1512 a0 nnp2c000 1ge 电口 一 10m 100m 1000m base t 口 1 rgmii 1sgmii 1000base x 100base fx sgmii 支持 百兆 光口 低功耗 ieee 1588 qfn56 8x8mm marvell 88e1512 a0 nnp2c000 1 300
+14 2008090021 can 接口 芯片 20 sn65hvd234d soic 8 1mb s
+15 2008090022 音频接口 20 tlv320aic3007irsbt qfn 40 24bit 96khz
+16 2008090023 接口 芯片 20 max13433eesd soic 14 16 mb s
+17 2008090024 ic usb hub 50 usb2422 i mj sqfn 24 2 port
+tca9535 16bit i2c i o expander tca9535pwr tca9535pwr 900 9920 7000 1000
+adm3054 analog isolated can transceiver adm3054 soic16 0.3 w ad adm3054brwz rl7 300 9920 7000 1000
+max202 rs 232 driver max202 soic16 max202cd 300 9920 7000 1000
+sp339eer1 l rs232 422 interface ic chip qfn40 6x6 05p exar sp339eer1 l 300 9920 7000 1000
+iso1540 dgtl iso 2.5 kv 2ch i2c 8soic soic8 0 15w iso1540dr 300 9920 7000 1000
+sn65c3221pw rs232 driver tossop16 3 5v power supply tssop16 sn65c3221pw 600 9920 7000 1000
+adm241l line driv rcvr rs232 28 lead ssop rs28 analog devices adm241larsz 600 9920 7000 1000
+quad channel digital isolators quad channel digital isolators adum141e1 16 lead qsop analog devices adum141e1brqz 1200 9920 7000 1000
+ft2232hl r ft2232hl r dual high speed usb to multipurpose uart lqfp 64pin ftdi chip ft2232hl r 300 9920 7000 1000
+adm1491ebrmz full duplex rs485 rm 10 f0d analog devices adm1491ebrmz 600 9920 7000 1000
+nlas7222a dual opti coupler nlas7222a on semiconductor nlas7222a 600 9920 7000 1000
+adm3053brwz can bus can 3 v 5.5 v wsoic wsoic20 analog devices adm3053brwz 300 9920 7000 1000
+tpd12s016pwr tssop24 hdmi companion chip with i2c level shifng b uf fer 12 channel esd and current limit load switch tpd12s016pwr 600 9920 7000 0988
+sn65c3221pw sn65c3221 tssop16 rs232 driver tossop16 3 5v power supply sn65c3221pw 1200 9920 7000 0988
+tca9535 tca9535pwr 16bit i2c i o expander tca9535pwr 1200 9920 7000 0988
+rs232 driver tossop16 3 5v power supply sn65c3221pw tssop16 sn65c3221pw 240 9920 7000 0861
+16 bit i o expander with i2c interface mcp23017 mcp23017 e ml qfn 28 mcp23017 e ml 160 9920 7000 0861
+ultra low power stereo codec with audio enhancement dsp 2w stereo class d speaker drivers and ground referenced headphone drivers wm8962ecsn r w csp49 wolfscon wm8962ecsn r 80 9920 7000 0861
+rs232 422 interface ic chip sp339eer1 l qfn40 exar sp339eer1 l 80 9920 7000 0861
+23 贴片 ic adm3485earz adm3485earz soic 8 20 u14 u15 ad
+24 贴片 ic adm3491arz adm3491arz soic 14 10 u6 ad
+25 贴片 ic am26c31cdr am26c31c soic 16 20 u9 u10
+26 贴片 ic am26c32cdr am26c32c soic 16 20 u11 u12
+27 贴片 ic cy7c68013a 56lfxc cy7c68013a 56lfxc qfn 56 10 u20 cypress
+29 贴片 ic max3232ecae max3232ecae ssop 16 10 u5
+so16 ch340c u9 1 200
+u11 tp3232n sr tp3232n sr 1 10
+u16 adm2483 soic w adm2483 soic w 1 10
+u19 tca9535pwr remote 16 bit i2c and smbus low power i o expander with interrupt and config register 1.65 to 5.5 v 40 to 85 degc 24 pin tssop pw green no sb br 1 1200 tca9535pwr
+25 通信 芯片 sn65176bdr so 8 1 4000
+26 电源 芯片 dk106 so 8 1 dk 半导体 4000
+27 电源 芯片 ams1117 3.3 sot 223 1 ams 4000
+43 34400 u202 usbc controller tps65987ddhrshr critical
+22 贴片 ic adm3485earz adm3485earz soic 8 20 u14 u15 ad
+23 贴片 ic adm3491arz adm3491arz soic 14 10 u6 ad
+24 贴片 ic am26c31cdr am26c31c soic 16 20 u9 u10
+25 贴片 ic am26c32cdr am26c32c soic 16 20 u11 u12
+26 贴片 ic cy7c68013a 56lfxc cy7c68013a 56lfxc qfn 56 10 u20 cypress
+28 贴片 ic max3232ecae max3232ecae ssop 16 10 u5
+69 贴片 ic adm3485earz adm3485earz soic 8 2000 u14 u15 ad
+70 贴片 ic adm3491arz adm3491arz soic 14 1000 u6 ad
+71 贴片 ic am26c31cdr am26c31c soic 16 2000 u9 u10
+72 贴片 ic am26c32cdr am26c32c soic 16 2000 u11 u12
+73 贴片 ic cy7c68013a 56lfxc cy7c68013a 56lfxc qfn 56 1000 u20 cypress
+75 贴片 ic max3232ecae max3232ecae ssop 16 1000 u5
+4 ic 75176 dip8 200
+w5500 w5500 u7 lqfp 48 7x7x05p w5500 1 10
+max3232cdr max3232cdr u8 sop 16 3d max232 1 10
+17 收发器 hi 8571psi soic 8 16 32
+18 收发器 hi 8444psi tssop 20 4 8
+20 d26 max3221e 单通道 rs232 收发器 ssop16 l 1 5
+soic 8 150mil sp3485en l tr sp3485en l tr c8963 u1 u8 sp3485en l tr 2 40
+qfn 32 5x5 cy7c65215a 32ltxi cy7c65215a 32ltxi u2 cy7c65215a 32ltxi 1 20 订 1 2
+usb2514b usb2514b u3 usb2514b 1 20 usb2514bi aezg tr
+93 贴片 芯片 ksz9031rnxia ksz9031rnxia micrel qfn48 200
+107 贴片 芯片 mcp2515 i so soic18 900
+49 贴片 芯片 pca9554bpw tssop pa9554b 200
+105 贴片 芯片 si8640bd b is siliconlabs so16w 1300
+101 贴片 芯片 sp213ea exar ssop28 200
+104 贴片 芯片 sp3232een exar so16 200
+99 贴片 芯片 tja1040t so8 800
+109 贴片 芯片 wm8904cgefl rv wolfson qfn32 200
+01 ab gx gl852g ic ic genesys gl852g hhgxx ssop28 1 120 gl852g hhgxx ssop28 genesys
+01 ab gx sf2447 ic ic ppt psf 2447 so24 1 120 psf 2447 so24 psf 2447
+01 ab gx tl8211 ic ic realtek rtl8211fi cg qfn40 1 120 rtl8211fi cg qfn40 realtek
+01 ab gx x13235 ic ic max13235eeup tssop20 2 240 max13235eeup tssop20
+ds90ub954 lvds 摄像头 10
+adv7611 hdmi 10
+adv7513 hdmi 10
+lin phy tja1021tk 10
+以太网 接口 9 2304372 1 10
+贴片 ic sn65lbc184dr sop 8 6lb184 35.0
+40 w5500 w5500 wiznet u7 1 10
+41 max3232cdr max3232cdr u8 1 10
+1 20 u5 max3490eesa t 700 max3490eesat integrated rs 422 rs 485 interface ic 3.3 v powered 15kv esd protected 12mbps slew rate limited true rs 485 rs 422 transceivers max3490eesa t 8 soic
+4 80 u6 u7 u8 u9 iso7420fedr 595 iso7420fedr digital isolators lo pwr dual channel dig iso iso7420fedr 8 soic
+1 20 u13 max3160eap t 700 max3160eapt integrated rs 422 rs 485 interface ic 3.0 v to 5.5 v 1 a rs 232 rs 485 422 multiprotocol transceivers max3160eap t ssop 20pin
+2 40 u14 u15 max3488eesa t 700 max3488eesat integrated rs 422 rs 485 interface ic 3.3 v powered 15kv esd protected 12mbps slew rate limited true rs 485 rs 422 transceivers max3488eesa t 8 soic
+sp3485 sp3485en l tr exar ic1 soic 8 150mil 8 200 1 200
+11.0 38090062 isl8483eibz t 1 50 ic b interface transceiver adm483e rs485 5v 250kbps sop8
+14.0 43040065 ksz8995mai 1 50 ic micreal b ethernet ethernet switch controller ksz8995ma pqfp128
+23007 it66121fn it66121fn 1 100 u10
+23030 it6801fn qfn 76 1 100 u50
+50463 enc28j60 i ss 11
+50476 enc28j60 i ss 30
+50549 ft232rl ftdi 11
+50561 ft232rl ftdi 30
+50851 max232d 11
+50864 max232d 30
+50901 mcp23s17t e ss 62
+50914 mcp23s17t e ss 120
+51363 sn65hvd485e 21
+43 ip178g plus ic ethernet controller 1 1000 0
+50549 ft232rl ftdi 11
+50561 ft232rl ftdi 30
+50851 max232d 11
+50901 mcp23s17t e ss 62
+50914 mcp23s17t e ss 120
+ds90lv031atmtcxpb 2500 0.83
+139 ic max3490eesa so 8 100
+139 ic max3490eesa max3490eesa so 8 100
+144011692 ic sub pmu rt5081wsc 100k
+dp83848ksq dp83848ksq qfn40 1 u5
+23045 max3232ese sop16 2 200
+芯片 ch9120 wch qfn28 l 1 500
+贴片 hart modem ad5700acpz rl7 ad5700 1 fsk hart modem qfn 25 贴片 u2 2000
+adum1100 1 0.2 ma 1khz sop8 贴片 u3 2000
+sp3232 u3 sop16 m 1 5
+tja1050 can u4 sop 8p s 1 5
+22 芯片 xfs5152ce 1 10
+23 芯片 silicon labs cp2102n a01 gqfn28 1 10
+24 芯片 ts3usb221rse 1 10
+11 tja1041at cm 118 ic can 驱 u1 u2 so 14 tja1041a 20 tja1041at cm 118
+63202000940 sn65hvd233dr 10
+ic codec da7212 dialog da7212 da7212 01um2 dialog semiconductor 150 2 8.353275
+ft2232h lqfp 64 10x10mm p0.5 mm 1 ft2232hl reel ftdi 100
+adm3252eabcz ad 4
+tpic1021aqdrq1 33914
+iso7710fdw 9110
+adm2483brwz reel ad 4000
+adm3491arz reel7 ad 13014
+adm3054brwz ad 2556
+35 贴片 ic sn65hvd75dr sop8 m 11
+114 贴片 ic max3232ese sop16 n 30
+60 贴片 ic max3232ese so16 20
+62 贴片 ic adum1250 soic8 11
+69 贴片 ic sn65hvd75dr soic8 11
+632020280 upd720114ga yeu a 15 2019 12 16
+6030910 am26c32idr 25 2020 02 10 2.083042
+632020280 upd720114ga yeu a 15 2019 12 16
+89.0 芯片 max12931 max12931easa 1.0
+91.0 芯片 iso7341cqdw iso7341cqdw 2.0
+101.0 芯片 tja1052it tja1052it 2 1.0
+ic01 0129 a smd ic max487esa soic8 1.27 6 so 8 1 550

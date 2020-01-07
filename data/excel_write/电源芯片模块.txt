@@ -1,0 +1,792 @@
+dc dc 同步 降压 ic eup3482dir1 smd sop 8 1
+电源 降压 ic sgm2019 2.8 yn5g tr 2.8 v smd sot 23 5 1
+电源 降压 ic sgm2019 3.3 yn5g tr 3.3 v smd sot 23 5 2
+电源 降压 ic xc6201p332mr 3.3 v smd sot 25 1
+电源 降压 ic pl3500mr 3.3 v 300ma smd 3000
+电源 ic md5333 3.3 v500ma smd 3000
+258.0 11102003 禁止 三端 稳压 l7815 0.0
+259.0 11102004 三端 稳压 l7805 46.0
+260.0 11102008 禁止 三端 稳压 l7812 294.0
+323.0 11305056 贴片 集成块 ht7133 1 sot89 208586 0.0
+324.0 11305066 稳压器 lm 1117 3.3 v sot 223 娄红舟 2534.0
+330.0 11703011 低压 稳压器 tle4266 2g v5 50.0
+333.0 11703014 低压 降 稳压器 tle4274g v85 50.0 频率 负载
+6 qm mp1584en lf z mps 12500
+11 qm tps54318rter 6000
+7 贴片 ic mc34063ad soic 8 1 u7
+8 贴片 ic az1117h 3.3 trg1 sot 223 2 u8 u9
+1 贴片 ic 78m05 to 252 2 dpak 1 u1
+258.0 11102003 禁止 三端 稳压 l7815
+259.0 11102004 三端 稳压 l7805
+260.0 11102008 禁止 三端 稳压 l7812
+323.0 11305056 贴片 集成块 ht7133 1 sot89
+324.0 11305066 稳压器 lm 1117 3.3 v sot 223
+330.0 11703011 低压 稳压器 tle4266 2g v5
+333.0 11703014 低压 降 稳压器 tle4274g v85 频率 负载
+29 ic ic2 78m05 t0252 lm78m05 t0252 1.0
+31 ic ic10 ht7533 sot89 ht7533 sot89 1.0
+36 ic u4 tl432csf tl432csf 1.0
+35.0 105010069 2.0 r xbga n6tps22964cyzpt tps22964cyzpt 2000.0
+36.0 105010072 2.0 qfn 18mpm3822cgrh mpm3822cgrh 2000.0
+37.0 105010064 1.0 sc70 5tps71701dckr tps71701dckr 1000.0
+43.0 105010052 1.0 lfcsp 24adn8834acpz r2 adn8834acpz r2 1000.0
+tlv1117lv33dcyt 9000
+l7812ab to 220 1800
+l7824cd2t tr 27000
+l78l05abd13tr 18000
+l78l08abd13tr 10800
+l78m05abdt tr 18000
+mc33063adr 3600
+tps54260dgq 1800
+tl431idbzr 9000
+lm317 to220 900
+top269eg 4500
+dc dc 转换器 wrb2415s 3wr2 mornsun wrb2415s 091806 040901 30
+dc dc 转换器 b0505s 1wr2 mornsun b0505s 1w 091806 041001 90
+dc dc 转换器 vrb2405ymd 6wr3 mornsun vrb2405ymd 091806 041101 30
+贴片 稳压器 ams1117 3.3 admos sot 223 091805 142201 31
+贴片 电压 芯片 lm4040c25idbzr sot23 091805 140801 68
+dc dc 转换器 b0505s 2wr2 mornsun b0505s 2w 091806 041201 60
+dc dc 转换器 cn100a110 24 dc dc 24v 100w 出厂 电路板 上 m3 螺丝 弹簧 垫圈 固定 cn100a110 24 091806 041401 30
+贴片 dc dc 芯片 tps560430xdbvr sot 23 6 091806 041701 31
+贴片 高边 开关 iso1h812g infineon iso1h812g 091806 041901 31
+dc dc 转换器 b0505s 2wr2 mornsun b0505s 2w 091806 041201 30
+dc dc 转换器 b0505s 1wr2 mornsun b0505s 1w 091806 041001 30
+贴片 dc dc 转换器 mp2307 mps sop8 091806 041501 30
+贴片 电压 芯片 lm4040c25idbzr sot23 091805 140801 37
+贴片 ldo mstb53xxb ldo 5v mst 迈尔斯 通 sot 89 091805 147801 31
+dc dc 转换器 wrb2415s 3wr2 mornsun wrb2415s 091806 040901 30
+dc dc 转换器 b0505s 1wr2 mornsun b0505s 1w 091806 041001 90
+dc dc 转换器 vrb2405ymd 6wr3 mornsun vrb2405ymd 091806 041101 30
+贴片 稳压器 ams1117 3.3 admos sot 223 091805 142201 31
+贴片 电压 芯片 lm4040c25idbzr sot23 091805 140801 68
+dc dc 转换器 b0505s 2wr2 mornsun b0505s 2w 091806 041201 60
+dc dc 转换器 cn100a110 24 dc dc 24v 100w 出厂 电路板 上 m3 螺丝 弹簧 垫圈 固定 cn100a110 24 091806 041401 30
+贴片 dc dc 芯片 tps560430xdbvr sot 23 6 091806 041701 31
+贴片 高边 开关 iso1h812g infineon iso1h812g 091806 041901 31
+贴片 高边 开关 iso1h812g infineon iso1h812g 091806 041901 30
+dc dc 转换器 pdl09w 24s05m p duke pdl09 24s05m 091806 041301 30
+dc dc 转换器 b0505s 2wr2 mornsun b0505s 2w 091806 041201 30
+dc dc 转换器 b0505s 1wr2 mornsun b0505s 1w 091806 041001 30
+贴片 dc dc 转换器 mp2307 mps sop8 091806 041501 30
+贴片 电压 芯片 lm4040c25idbzr sot23 091805 140801 37
+16 稳压 ldo ht7550 1 vin30v vo5v io150ma sot89 3 2 400 20000 u1 u3
+17 稳压 ldo ams1117 vin15v vo3.3 io1a sot 223 1 200 10000 u4
+lp5907mfx 2.5 sot23 5an u11 1 2600
+mp2615 qfn16n u12 1 2600
+mp4460 qfn10n u14 1 2600
+lm2596t 5.0 to 220 5t 1.0 10000.0
+am1117 3.3 ams 1117 3.3 1.0 10000.0
+16 稳压 ldo ht7550 1 vin30v vo5v io150ma sot89 3 2 u1 u3 ht7550 1 hottech 20000 0.32243 1 2d
+17 稳压 ldo ams1117 vin15v vo3.3 io1a sot 223 1 u4 ams1117 3.3 umw 半导体 10000 0.17296 1 2d
+68 a07 001024 026 ldo tps73701dcqr sot223 6 40 125 ℃ tps73701dcqr 6000 u2 u9 贴片
+5 充电 芯片 dfn10 lp28013 1 10000 u4
+5 充电 芯片 dfn10 lp28013 1 10000 u4
+24 1 4000 adj boost converter ic4 sot23 mcp1640bt i chy mcp1640bt i chyct nd d
+25 1 4000 linear adj regulator ic1 8vssop lp3982imm adj nopbct lp3982imm adj nopbct nd d
+26 1 4000 linear fixed 3.3 v reg ic2 8vssop lp3982imm 3.3 nopbct lp3982imm 3.3 nopbct nd d
+091805 099001 silergy 降压 开关电源 芯片 sy8201abc sot23 6 2307
+50 a12 008002 025 电源 模块 14 26v 5v 3a 40 85 ℃ 3000 u5 贴片
+51 a07 001034 112 ldo sgm2036 33 yn5g tr 33 v 带 max 300ma sot 23 5 40 85 ℃ sgm2036 33 yn5g tr sgmicro 6000 u7 u8 贴片
+35 jw5052c tsot23 6 1.0 10.0 1000.0
+7.0 dc dc f0505s 1wr3 1 4
+17.59999999999999 电源 芯片 tps767d301pwp 1 4
+77 et53328 2.8 v ldo et53328 sot25 u1203 u1503 2 et53328 40
+1 dc12v 3a 电源适配器 50.0
+40 2005104000032 smd tssop38 40 125 ℃ lt8705efe 2.0 linear 400.0
+41 2005104000031 smd tssop16 lm5575qmhx 1.0 200.0
+19 e05bq012801 dcdc lm2596sx 5.0 buck vout 5v to 263 ns 1
+13 c0100111 dcdc tps62420drcr 1 线 接口 采用 qfn 双路 调节 600ma 1000ma 2.25 mhz 步降 转换器 qfn10 qfn10 1 500
+17 c0100114 ic ref3033aidbzr 3.3 v sot 23 sot 23 1 500
+2 c0200101 ldo ua78m05idcyr 5v 500ma sot 223 sot 223 1 500
+3 c0200102 ldo ua78l05acpk 5v 100ma sot 89 sot 89 2 1000
+9 c0200162 dcdc top244yn flyback to 220 7c to 220 7c power 1 500
+23 c0200172 稳压管 tl431aclpr 三端 可调 并联 稳压器 verf 至 36v to 92 to 92 better 1 500
+2 109 0101 0038 贴片 集成块 ncp551sn28t1 sot 25 on 10 00000 2019 09 06
+2 ams1117 adj 可调 稳压 芯片 sop89 3 1 10000
+3 bl1117 3.3 稳压 芯片 sot223 1 10000
+4 ht7550 稳压 芯片 sop89 3 1 10000
+5 me6208a 3.3 稳压 芯片 sop89 3 1 10000
+2 ams1117 adj 可调 稳压 芯片 sop89 3 1 10000
+3 bl1117 3.3 稳压 芯片 sot223 1 10000
+4 ht7550 稳压 芯片 sop89 3 1 10000
+5 me6208a 3.3 稳压 芯片 sop89 3 1 10000
+1 60.0 2008130002 ic 2 b 160 power linear lt1613cs5 pbf sot23 5
+78m05 to 252 smd l78m05abdt tr 三端 稳压器 l78m05abdt tr 三端 稳压器 5v 500ma 200
+tl431 sot 23 smd tl431g 电压 芯片 tl431g 电压 芯片 sot 23 200
+lm317m to 252 smd lm317mdt tr 稳压器 1.2 37v 200
+10020040001601.0 ic ice3ar2280jz 1.0 u10 电源 管理 ic 800v 100khz low emi pg dip 7 dip ice3ar2280jz 50000
+40.0 10020040000101.0 g200000215 ic sc8102qdjr 3.0 u7 u9 u14 电源 管理 芯片 4.6 v 36v 5v qfn 32 smd 南芯 sc8102qdjr southchip 南芯 150000
+50.0 10020040000501.0 g200000179 ic sc8815qder 2.0 u5 u6 电源 管理 芯片 controller syn buck qfn32 smd 南芯 sc8815qder 南芯 100000
+400.0 10020040000701.0 g160000103 ic tl431bidbzr 1.0 u12 电压 芯片 ± 0.5% 2.495 v 36v 100ma sot 23 3 smd tl431bidbzr 50000
+20.0 10020040001101.0 ic bq7694003dbtr 1.0 u1 电池 管理 芯片 15 串 锂离子 模拟 前端 tssop 44 smd bq7694003dbtr tssop 44 50000
+30.0 10020040001201.0 ic bq76200pwr 1.0 u2 电池 管理 芯片 高压 电池 前端 充 放电 高侧 neft 驱动器 tssop 16 smd bq76200pwr tssop 16 50000
+10020040001601.0 ic ice3ar2280jz 1.0 u10 电源 管理 ic 800v 100khz low emi pg dip 7 dip ice3ar2280jz 50000
+40.0 10020040000101.0 g200000215 ic sc8102qdjr 3.0 u7 u9 u14 电源 管理 芯片 4.6 v 36v 5v qfn 32 smd 南芯 sc8102qdjr southchip 南芯 150000
+50.0 10020040000501.0 g200000179 ic sc8815qder 2.0 u5 u6 电源 管理 芯片 controller syn buck qfn32 smd 南芯 sc8815qder 南芯 100000
+400.0 10020040000701.0 g160000103 ic tl431bidbzr 1.0 u12 电压 芯片 ± 0.5% 2.495 v 36v 100ma sot 23 3 smd tl431bidbzr 50000
+20.0 10020040001101.0 ic bq7694003dbtr 1.0 u1 电池 管理 芯片 15 串 锂离子 模拟 前端 tssop 44 smd bq7694003dbtr tssop 44 50000
+30.0 10020040001201.0 ic bq76200pwr 1.0 u2 电池 管理 芯片 高压 电池 前端 充 放电 高侧 neft 驱动器 tssop 16 smd bq76200pwr tssop 16 50000
+89.0 10030043 ic dcdc buck boost 4.5 42v 20a switch limit tssop 6.4 mmx6.5 mm lm25117pmhx 7200 lm25117 lm25117 2
+90.0 10030040 ic dcdc buck boost 4.5 28v 2a sot 23 6 3mmx3mm tps54202ddcr 7200 tps54202 tps54202 2
+电源 稳压 ic lm2596 5 u1 to263 5 1.0 1000
+电源 稳压 ic lm1117v3.3 u2 sot 223 1.0 1000
+2 ams1117 adj 可调 稳压 芯片 sop89 3 1 10000
+3 bl1117 3.3 稳压 芯片 sot223 1 10000
+4 ht7550 稳压 芯片 sop89 3 1 10000
+5 me6208a 3.3 稳压 芯片 sop89 3 1 10000
+2 ams1117 adj 可调 稳压 芯片 sop89 3 1 20
+3 bl1117 3.3 稳压 芯片 sot223 1 20
+4 ht7550 稳压 芯片 sop89 3 1 20
+5 me6208a 3.3 稳压 芯片 sop89 3 1 20
+pj pj5056 锂电池 充电 管理 芯片 sop8 p 15
+tcs tcs9208 dcdc 升压 芯片 sot23 6 15
+sy7152abc silergy sy7152abc dcdc 升压 芯片 sot23 6 15
+mt8600 marktech optoelectronics mt8600 dcdc 升压 芯片 sot23 6 15
+11 u060410143 电源 芯片 ams1117 3.3 sot223 1 u4 ams1117 3.3 6000.0
+70 cmpwr0106 h0505s 1w 1 u16 h0505s 1w dip 5v 电源 隔离 dc dc 模块 隔离 电压 6000vdc dip h0505s 1w 100
+电源 ic rt9169h 33pb richtek sot23 5 1.0 1000.0
+电源 ic bq25895rtwr qfn24 0 5 1.0 1000.0
+电源 ic tps22908yztr bga4 0 5 1 0 1.0 1000.0
+电源 ic sy6283 silergy dfn4 0 5 1.0 1000.0
+电源 ic bq27426yzfr bga9 0 5 1 5 1.0 1000.0
+电源 ic tps22976ndpur wson14 0 4 1.0 1000.0
+电源 ic rt9169h 30pb richtek sot23 5 2.0 2000.0
+电源 ic rt9013 30gb richtek sot23 5 1.0 1000.0
+电源 ic mp2162 mps mlf8m 0 5 1.0 1000.0
+电源 ic mp2122 mps tsot23 8 1.0 1000.0
+电源 ic sy6280aac sot 23 5 1.0 1000.0
+电源 ic rt9013 28gb richtek sot 23 5 1.0 1000.0
+电源 ic rt9193 18gb richtek sot 23 5 1.0 1000.0
+电源 ic rt9013 12gb richtek sot 23 5 3.0 3000.0
+电源 ic tp4056 sop8 1.0 1000.0
+电源 ic rt9179 richtek sot23 5 2.0 2000.0
+3 p20304000040 msop 10 tps54160dgqr 集成电路 1
+11901 0000 dcdc 电源 模块 b0505s 1w dcdc 电源 模块 5vdc 5vdc 1w dc1 dc2 2 12
+10600 0002 电压 调整器 spx1117m3 3 电压 调整器 lm1117m3 l 33 v 固定 sot223 800ma sipex u1 1 6 sipex
+电压 ref3033 – 3.3 v sot 23 电压 ref3033 功率 sot23 25ma 0.2% u2 1 6
+39 ic lp3669b sop7 sop7
+43 稳压 芯片 ht7333 3 sot89 电流 250ma 压降 值 300mv 30ma 温度 40 ℃ 85 ℃ 电压 30v 电压 3.3 v
+39 ic lp3669b sop7 sop7 3000
+43 稳压 芯片 ht7333 3 sot89 电流 250ma 压降 值 300mv 30ma 温度 40 ℃ 85 ℃ 电压 30v 电压 3.3 v 3000
+6101 lp599000 ic ldo ic lp5990tm 12 nopb dsbga vo 12 v lp5990tm 12 nopb 100 lp5990tm 12 nopb 100 2 4033275
+6101 llp59901 ic ldo ic lp5990tmx 18 nopb dsbga vo 18 v lp5990tmx 18 nopb 100 lp5990tmx 18 nopb 100
+6101 max77600 ic pmic max77650 04 mmpitch wlp max77650 100 max77650 100 2 25900885
+222 ic ic son10 05mm th tps2560drcr smt tps2560drcr 3 120
+4 ic ic buck ap2962b 10v 38v sop 8 390
+11 050057 电源 芯片 mp9447gl 40
+11 050027 电源 芯片 mp1494 40
+11 050028 电源 芯片 rt9065 40
+11 050042 电源 芯片 mp2162 40
+40.0 稳压 三极管 78m05 1.5 a d pak d pak 贴片 1 q1 5000.0
+u1 u3 u4 lm2596sx adj nop to 263 3.0 90.0
+1 ic charge pump u2 lm2767m5 nopb sot 23 5 lm2767m5 510
+1 ic charge management controller u3 mcp73832t 2aci ot sot 23 5 mcp73832t 2aci ot technology 505
+芯片 u1 sot 89 3 ht7833 1 ht 1 10000
+芯片 u3 sop 8 ep 150mil tps5430ddar 1 10000
+u16 u17 u28 芯片 btt6050 2eka btt6050 2eka pg dso 14 40 3 infineon technologies 15
+u22 ic 芯片 lm1117impx 3.3 nopb lm1117impx 3.3 nopb sot 223 1 5
+u23 ic 芯片 lm2842 lm2842 sot23 6 1 5
+u8 ic 芯片 ref3025aidbzr ref3025aidbzr sot 23 3 1 5
+u6 ic 芯片 lm2675 5.0 m lm2675 5.0 m so 8 1 15
+u7 ic 芯片 lm1117impx 3.3 nopb lm1117impx 3.3 nopb sot 223 1 15
+u10 ic 芯片 ref3025aidbzr ref3025aidbzr sot 23 3 1 15
+u11 ic 芯片 fdc6331l fdc6331l sot23 6 1 15
+u16 u17 u33 ic 芯片 btt6200 4ema btt6200 4ema pg ssop 24 3 45
+u32 ic 芯片 lm1085 adj lm1085 adj to 263 3 1 15
+1 670 2008070034 ic ldo power linear lt1963aefe pbf tssop 16 带 散热 焊盘 u648 u650 2 20 b 40 dlk
+1 680 2008070038 ic 负压 可调 ldo linear lt3015emse pbf 1.5 a msp 12 u663 u664 2 20 b 40 dlk
+1 690 2008070039 ic ldo power linear lt3083efe pbf tssop 16 带 散热 焊盘 u665 u666 u667 u668 4 20 b 80 dlk
+14 集成 芯片 lm2597n 5.0 5
+22 集成 芯片 ref5040aidg4 5
+23 集成 芯片 ltc1046cn8 pbf 5 linear technology
+5 ldo 稳压器 tlv1117lv25dcy tlv1117lv25dcy 3 端 ldo 稳压器 2.5 v 1a sot223 表贴 100
+34 电源 降压 芯片 tps54331dr tps54331dr 电源 降压 芯片 dc dc 电压可调 100
+1 lm2596adj on semiconductor lm2596adj ic1 to263 5 step down voltage regulator 20.0
+1 emc1701 2 aizl tr emc1701 2 aizl tr u1 msop 10 ic current sensor 1% 11 bit msop 10 20.0
+1 az1117h diodes inc az1117h 3.3 trg1 u2 sot 223 1a 3v3 fixed low dropout linear regulator az1117h 3.3 trg1 diodes 20.0
+sq9a180001 6012229 az1084 5.0 稳压器 az1084 5v 5
+sq9a180001 6012228 lm2940s 5.0 稳压器 lm2940s 5.0 10
+adr421br soic8 50 150 analog devices u3 ultraprecision low noise 2.5 v voltage references 1.0 4.0
+ref3020aidbz sot 23 sot 23 3 u5 2v voltage references sot23 3 2.92 mm 1.30 mm 1.0 4.0
+lm78l05acm soic8 50 150 u23 5v 稳压器 1.0 4.0
+mcp1726t adje sn mcp1726 1202e sn soic8 50 150 u37 低压 差 稳压器 1a cmos ldo 1a low voltage low quiescent current ldo regulator soic 8 1.0 4.0
+tps767d301qpwprq1 tps767d301pwp 28 pin powerpad tssop package u38 dsp 电源 3.3 v 1.9 v 管理 芯片 dual low dropout voltage regulators 1.0 4.0
+ncp565d2t33 to 263 d2pak on semiconductor u201 3.3 v 1.5 a fixed low dropout linear regulator 3.3 v 1.5 a 低压 差 稳压器 1.0 4.0
+卧式 不带 50.80 25.40 11.80 mm u33 u35 30w 9 36v 单路 隔离 稳压 15v 40 ℃ to 85 ℃ 属 4 2 8
+卧式 不带 50.80 25.40 11.80 mm u34 20w 9 36v 单路 隔离 稳压 5v 40 ℃ to 85 ℃ 属 4 1 4
+卧式 不带 25.40 25.40 11.70 mm u100 10w 9 36v 双路 隔离 稳压 ± 12v 40 ℃ to 85 ℃ 属 4 1 4
+小型 smd 5pin u30 1w 电压 隔离 非 稳压 单路 dcdc 模块 电源 隔离 电压 1500vdc 40 ℃ to 105 ℃ 4 1 4
+dip12 19.90 16.90 7.05 mm u8 3 3.6 v 双路 通用型 can 隔离 收发器 模块 4 1 4
+tp4056 3000 1 sop 8 tp4056
+rt9013 33gb richtek technology corporation 3000 1 sot23 5 rt9013 3v3
+69 36v 2a synchronous step down converter mp9942 tsot23 8 mp9942 tsot23 8 tsot23 8 1 u1 2100
+70 2a 6v 1.5 mhz sot23 8 mp2161 sot23 8 mp2161 sot23 8 tsot23 8 2 u2 u3 4200
+71 ic tc4056a tc4056a soic 8e 1 u4 2100
+72 ic mst9220b mst9220b tsot23 6 1 u5 2100
+76 back light dc at5160tp1u at5160tp1u tsot23 6 1 u14 2100
+87 ldo xc6228 1.8 v xc6228 1.8 v sot23 5 1 u25 2100
+88 sdram is42s16400j 7tli is42s16400j 7tli tsop 54 1 u26 2100
+tp4056 3000 1 sop 8 tp4056
+rt9013 33gb richtek technology corporation 3000 1 sot23 5 rt9013 3v3
+23 ozt4180718023 1 u1 mcp73811t 420i ot mcp73811 电池 管理 simple integr li ion li poly chrg vendor cn 100
+24 ozt4180718024 1 u15 tlv75533pdbvr tlv75533pdbvr 500ma 稳压器 vendor cn 100
+55 ozt4180718018 1 u4 tlv1117 33cdcyr tlv1117 33cdcyr 低压 差 稳压器 fixed ldo volt reg vendor cn 100
+56 ozt4180718020 1 u11 tps54232dr tps54232 开关 稳压器 2a 28v 1mhz step down swift dc dc vendor cn 100
+46 11 0103 002 017 移动 电源 ic ip5328p ppath lc qfn 40 6x6x05p lc qfn 40 6x6x05p u12 1 10000.0
+47 11 0103 002 018 保护 ic ip3005a lc sop 8 150mil lc hsop 8 带 衬底 u9 u15 2 20000.0
+16 11 0103 002 011 低压 差 稳压 ldo bl8075 bl8075cb5tr33 sot23 5l lc sot 23 5 bl1 1 10000.0
+22 11 0103 093 004 无线 充 芯片 ip6808 高控 亮灯 ip6808 a si2il yqh jhp0 bin lc qfn 32 5x5x05p u13 1 100000
+20 11 0103 002 027 ic tb5812a tb5812a sop7 sop7 u2 1 10000.0
+21 11 0103 002 028 ic tb8521 tb8521 sop8 so 08 u1 1 10000.0
+9 phkd13n03lt mosfet phkd13n03lt nexperia so8 25000 phkd13n03lt nexperia phkd13n03lt 25000
+13 mp8859 ic mp8859 monolithicpower mps qfn16 50000 mp8859 monolithicpower mps mp8859 50000
+15 dw01a ic dw01a fortune sot 23 6 50000 dw01a g fortune 5000 1 4 days 3000 5 0.04039 201.95
+19 tlv75901pdrvr ic tlv75901 wson 6p 10000 tlv75901pdrvr 4000 7 10 days 3000 1 0.44 1760
+20 mcp19035 baabe mf ic mcp19035 dfn 10 3x3 5000 mcp19035 baabe mf 5000 2weeks 1 1 1.2 6000
+21 mic23201yml tr ic mic23201 dfn 10 3x3 5000 mic23201yml tr 5000 8weeks 5000 0.35 1750
+7805a 三端 稳压器 u13 to 263 3 10 1
+79l08 三端 稳压器 u10 sot 89 10 1
+78l08 三端 稳压器 u14 sot 89 10 1
+ams1117 3.3 三端 稳压器 u11 sot 223 10 1
+b0505s 1w 隔离 dc dc u12 b0505s 1w 10 1
+2 贴片 ic 电源 pmu dc dc axp221s pmic voltage 2.9 v 6.3 v 8 8 0.75 mm 68 pin qfn axp221s qfn69p0 4b8x8 axp223 1 20 2000 30000
+3 c3141010001 贴片 ic 电源 ldo me6211c33m5g n sot23 5 me6211c33 sot 23 5 2 40 4000 60000
+6 贴片 ic 电源 dc dc sy6280aac i 0.4 2a sot23 5 silergy sy6280 sot 23 5 1 silergy 20 2000 30000
+10 贴片 ic 电源 贴片 升压 开关电源 芯片 sy7152abc sot 23 6 silergy sy7152abc sot23 6 1 silergy 20 2000 30000
+16 贴片 ic 电源 dc dc tps54540 4.5 v 42v 电流 5a 8 脚 hsoic tps54540 sop 8ep 2 40 4000 60000
+17 贴片 ic 电源 dc dc ap3032 sot23 6 diode ap3032 sot23 6 1 diode 20 2000 30000
+20 贴片 ic 电源 背光 led tps61500 vin 2.9 18v 3a htssop tps61500 hpssop14 1 20 2000 30000
+21 贴片 ic 电源 r1524h033b t1 ae 200 ma 36 v ultra low supply current vr for automotive applications sot 89 5 smd ricoh r1524h033b t1 ae sot 89 5 1 ricoh 20 2000 30000
+23 4c7602d0 u03 s000766 high side n ch fet drvr 16tssop bq76200pwr sop 1900
+24 4c7602d0 u03 s000766 high side n ch fet drvr 16tssop bq76200pwr sop 100
+25 4c7602d0 u03 s000767 ic battery mgmt ctrlr 30tssop bq78350dbtr r1 sop 1900
+26 4c7602d0 u03 s000767 ic battery mgmt ctrlr 30tssop bq78350dbtr r1 sop 100
+27 4c7602d0 u03 s000859 ic batt mgmt li ion afe 30tssop bq7693000dbtr sop 1900
+28 4c7602d0 u03 s000859 ic batt mgmt li ion afe 30tssop bq7693000dbtr sop 100
+31 4c7602d0 u16 s000821 ic reg linear 3.3 v 150ma sot25 ap7380 33w5 7 diodes sot 1900
+32 4c7602d0 u16 s000821 ic reg linear 3.3 v 150ma sot25 ap7380 33w5 7 diodes sot 100
+ams1117 3.3 ams1117 1.0 芯片 500.0
+lm319s so 14 1.0 芯片 500.0
+tl431 sot 23 tl431 1.0 芯片 500.0
+21 0114 00215 贴片 ic ap2210k 33 trg1 ic reg linear 33 v 300ma sot23 5 diodes incorporated ap2210k 33 trg1 diodes incorporated 1050
+22 0114 00223 贴片 ic mic2026 1ym ic pw dist sw dual 8soic technology mic2026 1ym technology 1050
+24 0114 00225 ic rac04 05sga conv ac dc 4w 85 305vin 05vout t recom power rac04 05sga recom power 1050
+177 will semiconductor 电流 切换器 2 u1 u4 ws4603e 5 tr sot 23 5
+179 2a 升压 转换器 1 u5 mt3608 sot23 6
+182 半导体 供电 芯片 1 u8 lp3102qvf dfn 10 3r00x3r00x0r5
+190 exar 稳压器 1 u17 spx3819m5 l 1 2 tr sot 23 5
+191 exar 稳压器 1 u18 spx3819m5 l 1 8 tr sot 23 5
+90 1 电源 模块 up1 axp15060 qfn53p40b600 600h75 a50 套片
+91 1 电源 模块 up2 axp2585 qfn33p40b500 500h75
+mp2122gj tsot23 8
+rt9013 33 sot25
+aoz1360ail sop8p 150
+mp2162gqh qfn8
+sy8089aac sot25
+mp1495s tsot23 8
+78m09 to 252
+7 23020 mp2122gj tsot23 8 30 30
+8 23021 mx25l12835fm2i 10g sop8 200mil 20 20
+9 23024 rt9013 33 sot25 40 40
+10 23026 aoz1360ail sop8p 150 10 10
+13 23031 mp2162gqh qfn8 30 30
+20 23068 sy8089aac sot25 20 20
+23 23071 mp1495s tsot23 8 20 20
+24 23096 78m09 to 252 10 10
+32.0 ldo 电源 芯片 tlv73333pdbvr u2 sot 23 5 1.0 1000
+40.0 ac dc 电源 模块 lo05 12b05 u1 lo05 12b05 1.0 1000
+000490 u23 集成电路 ic tps54336a buck reg 24v 3.3 v 3a i max tps54336adda 1 1120
+38 1 u4 lc1136a 10 lc1136a lc1136a 10
+43 1 u9 tps563209 10 tps563209 tps563209ddcr 10 3 3.64 36.4
+29 reg 0050ah01 lm2576s 5.0 u34 1 to 263 5 ns ts5b 12v regulator positive 正電壓 lm2576 lm2576hv series simple switcher 3a step down voltage regulator ns 200
+30 reg v000aa01 lm2576 adj u4 5 u10 11 u24 5 d2pak 5 pin vo regulator positive 正電壓 motorola 1000
+31 reg v000ab01 lm317aemp u37 u42 2 sot 223 vi vo 3v 40v io 1a regulator adjustable regulator ns mp04a ns 400
+32 reg v000c000006 tps65131rge u3 u43 2 qfn 24 vo positive and negative dc dc converter 400
+po20190026 温度 3000016179 隔离 电源 mornsun b0505ls mornsun 345
+po20190026 温度 3000025579 贴片 三端 稳压器 1.5 a 5v cj7805 to 252 2l 235
+po20190026 温度 3000004229 贴片 三端 稳压器 alpha as1117m3 3.3 v sot 223 alpha 125
+po20190026 温度 3000025596 隔离 电源 mornsun b0505s 1w mornsun 125
+reg 0050ah01 lm2576s 5.0 u34 1 to 263 5 ns ts5b 12v regulator positive 正電壓 lm2576 lm2576hv series simple switcher 3a step down voltage regulator ns 200
+reg v000aa01 lm2576 adj u4 5 u10 11 u24 5 d2pak 5 pin vo regulator positive 正電壓 motorola 1000
+reg v000ab01 lm317aemp u37 u42 2 sot 223 vi vo 3v 40v io 1a regulator adjustable regulator ns mp04a ns 400
+reg v000c000006 tps65131rge u3 u43 2 qfn 24 vo positive and negative dc dc converter 400
+po20190026 3000010879 贴片 稳压器 cj78l12 sot 89 3l cj78l12 735
+po20190026 3000010880 贴片 稳压器 cj79l12 sot 89 3l cj79l12 735
+po20190026 3000004229 贴片 稳压器 as1117m3 3.3 v sot 223 as1117m3 3.3 v alpha 735
+po20190026 3000020091 贴片 稳压管 tl431cd sop 8 tl431cd 735
+po20190026 3000004276 直插 电源 芯片 viper22adip dip 8 viper22adip 735
+po20190026 温度 3000016179 隔离 电源 mornsun b0505ls b0505ls mornsun 345
+po20190026 温度 3000025579 贴片 三端 稳压器 1.5 a 5v cj7805 to 252 2l cj7805 235
+po20190026 温度 3000004229 贴片 三端 稳压器 alpha as1117m3 3.3 v sot 223 as1117m3 3.3 v alpha 125
+po20190026 温度 3000025596 隔离 电源 mornsun b0505s 1w b0505s 1w mornsun 125
+u4 ic a431 sot 3 10000
+贴片 ic l7805cdt tr 5.0 v to252 2 半导体 1 u5
+u2 ltc4357ims8 pbf 1 linear technology no description available 10.0
+u3 ltc4151ims pbf 1 linear technology 10.0
+u4 ltc4357ims8 pbf 1 linear technology no description available 10.0
+u6 ltc4357ims8 pbf 1 linear technology no description available 10.0
+adr441brz 1370 24.34
+zr431f005ta diodes 300 1.21
+mic2026 2ym 400
+mic37101 2.5 ym 900 7.9
+29.0 78l05 sot 89 u4 u5 2.0 20.0 cj78l05
+37.0 ht7333 sot 89 u1 1.0 10.0 ht7333 a
+36.0 ht7333 sot 89 u1 1.0 10.0 ht7333 a
+2 05004 00468 集成电路 lm2576s 50 nopb to 263 1 u15 20
+4 05004 00469 集成电路 spx1117m3 l 3 3 sot 223 2 u13 u14 40
+7 05004 00473 集成电路 lm78m05cdt 1 u33 20
+8 05004 00474 集成电路 k7812t 500 1 u7 20
+12 05019 00030 dc dc 模块 电源 vrb2412ld 50wh 卧式 带 1 u5 20
+2 05004 00468 集成电路 lm2576s 50 nopb to 263 1 u15 20
+4 05004 00469 集成电路 spx1117m3 l 3 3 sot 223 2 u13 u14 40
+7 05004 00473 集成电路 lm78m05cdt 1 u33 20
+8 05004 00474 集成电路 k7812t 500 1 u7 20
+12 05019 00030 dc dc 模块 电源 vrb2412ld 50wh 卧式 带 1 u5 20
+48 u16 s000259 ic reg ldo 3.3 v 0.2 a sot23 5 ldk220m33r sot 8256
+ia2415s 24 to ± 15v ia2415s u64 5.0 350.0
+lm1117mpx 3.3 800 ma low dropout linear regulator with internal current limit 4 sot 223 zz311 u77 u78 4.0 700.0
+lm1117mpx 5.0 nopb 800ma low dropout positive regulator5v zz311 u7 u13 u19 u25 u31 u65 4.0 2100.0
+tps54202hddcr dc dc convertor ddc0006a n u76 6.0 350.0
+ys2405mvw dc dc convertor 5v 1a ys2405mvw reg1 7.0 350.0
+wi ics 0009 u1 tps2001c 1 ic pwr sw usb 2.87 a 1ch 8msop tps2001cdgn 296 29336 5 nd msop 650
+wi ics 0013 u4 ic power 1 ic dc dc regulator monolithic power systems mp175gs z 650
+wi ics 0041 u5 ic power 1 ic reg linear 3.3 v 800ma sot223 diodes az1117ch2 3.3 trg1 az1117ch2 3.3 trg1 nd to223 780
+wi ics 0014 u6 u7 ic power 2 ic energy meter 1phase 32qfn stpm33tr 497 14669 6 nd vqfn 1280
+wi ics 0026 u9 me8107 1 dc dc regulator nanjing micro one elec me8107bd7g 650
+wi ics 0027 u10 tl431cl3t 1 ic vref shunt adj sot23 3 tl431cl3t 497 11297 6 nd 650
+091805 027701 芯片 tps62130argt qfn16 3030 115
+091805 027901 芯片 lt3473edd dfn8 3 3 115
+091805 028101 芯片 tps62125dsg dfn8 2 2 215
+091805 132101 芯片 max6006aeur sot 23 100
+091805 132301 芯片 sot 23 max6008aeur 15
+70 ic tps54360dda hsop 8 ws050007 1 9200
+71 ic lm1117impx 3.3 v ns sot223 ws050008 1 9200
+76 ic mic29302wu micrel to 263 ws050012 1 9200
+701401008701.0 芯片 liner synchronous buck nb679gd z qfn 12p smd mps nb679gd z 1 100
+701401008702.0 芯片 liner synchronous buck mpq8633bgle z qfn 21p smd mps mpq8633bgle z 3 300
+701401008700.0 芯片 liner synchronous buck mp2276gd z qfn 14p smd mps mp2276gd z 2 200
+701421000702.0 芯片 regulator tps51200drcr son 10 smd tps51200drcr 4 400
+701421000703.0 芯片 regulator tps74801drcr son 10 smd tps74801drcr 1 100
+701401002500.0 芯片 ldo regulator mic5205ym5 sot23 5 micrel mic5205ym5 1 100
+701421000704.0 芯片 regulator rt9167a 18pb sot23 5 smd rich tek rich tek rt9167a 18pb 1 100
+ia2415s 24 to ± 15v ia2415s u64 5.0 350.0
+lm1117mpx 3.3 800 ma low dropout linear regulator with internal current limit 4 sot 223 zz311 u77 u78 4.0 700.0
+lm1117mpx 5.0 nopb 800ma low dropout positive regulator5v zz311 u7 u13 u19 u25 u31 u65 4.0 2100.0
+tps54202hddcr dc dc convertor ddc0006a n u76 6.0 350.0
+ys2405mvw dc dc convertor 5v 1a ys2405mvw reg1 7.0 350.0
+6101 lp599000 ic ldo ic lp5990tm 12 nopb dsbga vo 12 v lp5990tm 12 nopb 100 lp5990tm 12 nopb 100 2 4033275
+6101 llp59901 ic ldo ic lp5990tmx 18 nopb dsbga vo 18 v lp5990tmx 18 nopb 100 lp5990tmx 18 nopb 100
+6101 max77600 ic pmic max77650 04 mmpitch wlp max77650 100 max77650 100 2 25900885
+4g2403b0 u17 s000662 ic sw distribution 2chan mic2076 2ym 8soic soic 986
+62 4 400 u7 u8 u10 u11 sy8088aac sot23 5 sy8088aac dcdc 1a buck 正向 vol 25 v 55 v 15 mhz silergy item szlcsc 80451 html
+63 1 100 u9 tps54329 soic 8 tps54329ddar dcdc 3a buck 正向 vol 45 v 18v 650khz item szlcsc 38627 html
+电源 on semiconductor 300ma 40 to 125 ° c mc33275st − 3.3 t3g on semiconductor sot 223 10
+集成 ic 40 to 125 ° c 电压 芯片 1% tl432aqdbzr sot23 431 26
+63 贴片 集成电路 tps73733qdrbrq1 u1 1 20
+ic rt8543 gqw u1 1 wqfn 20l 4x4 90
+贴片 hym2576s 5.0 u2 u5 2 6
+贴片 top264vg u3 1 3
+贴片 ams1117 3.3 u7 1 3
+芯片 sop8 431ach u4 1 3
+26 芯片 mp1410 so8 1 u4 1000 1000 0 1000 mp1410es lf z mps 1000.0 芯片 mp1410 so8 1.0 u4
+110100200331x cd ic 低压 差 稳压器 lm1086isx adj nopb to 263 9000 asap
+110100201492x ic 降压 me3102bm5g sot23 5 4000 asap
+110100201493x ic 恒流 mel7136bm5g sot23 5 4000 asap
+电源 芯片 lm2596s 5.0 u6 to 263 1 9
+电源 芯片 as1117 3.3 u7 sot 223 1 9
+3.3 ldo ldo vout 3.3 v imax 300ma sot23 5 2.8 1.6 1.2 mm sgm2036 3.3 yn5g tr 启攀微 1 1000 u2006
+充电 ic 充电 管理 芯片 hl7057 开关 20v icharge 2500ma wlcsp 20p 2.02 1.97 0.59 mm 2kv 1 hl7057 希迪微 1 1000 u2
+电源 管理 芯片 电源 管理 芯片 mt6328v a vfbga 206 6.6000 6.6000 1.0000 mm 2 kv 3 mt6328v a mtk 1 1000 u2001
+ap7333 33sr 1.0 diodes
+m5135t11u 1.0 gmt
+g5723 1.0 gmt
+az2940d 3.3 e1 u7 to 252 1.0 100.0 top
+tlv62569dbv u8 sot 23 5 1.0 100.0 top
+mp2225gj u9 sot 23 8 0.65 1.0 100.0 top
+he12p24lrn mdu1 hb05n24 1.0 100.0 top
+34 top 贴片 芯片 mic29302wu micr1 reg adj to 263 5 pin mic29302wu 3a u1 1 10
+36 top 贴片 芯片 mic5205 3.0 ym5 sot 23 5 mic5205 3.0 ym5 sot 23 5 micr1 3v u5 1 10
+54 10150001777 贴片 电源 ic micr1 reg sot23 5 mic5205 3.3 ym5 0.32 a 3.3 v u3 1 sot23 5 10
+lm337lz three terminal adjustable negative voltage q1 q2 q5 q6 29 04 4 20
+lm317lz low current 3 terminal adjustable positive voltage regulator q3 q4 q7 q8 29 04 4 20
+a1205s 1w u1 u2 u3 dip 19.65 x6.0 x10.16 3 15
+adp1706ardz 1.8 u4 sop 8 1 5
+ams1117 3.3 u5 u6 sot223 2 10
+ref3212aidbvt 1.25 v 4 ppm degc 100 ua series bandgap voltage reference 40 to 125 degc 6 pin sot 23 dbv green no sb br u8 dbv6 n 1 5
+a1215s 1w u11 u19 dip 19.65 x6.0 x10.16 2 10
+ref3220aidbvt 2.048 v 4 ppm degc 100 ua series bandgap voltage reference 40 to 125 degc 6 pin sot 23 dbv green no sb br u15 u23 dbv6 n 2 10
+091805 131201 稳压管 tl431aipk 20
+091805 127701 dc dc 电源 模块 yd20 24d15 20
+091805 127101 贴片 芯片 tps767d301qpwp 10
+091805 127101 贴装 芯片 贴装 芯片 tps767d301qpwp 20
+091805 126201 贴装 芯片 lm1085isx adj lt1085im lm1085isx adj 200
+091805 126201 贴片 芯片 贴片 芯片 lm1085isx adj lt1085im 20
+091805 126101 贴片 芯片 imp706resa 10
+091805 126101 贴片 芯片 贴片 芯片 imp706resa 20
+091805 125401 贴装 芯片 reg1117a 2.5 160
+091805 125301 贴片 芯片 reg1117 5 顶标 bb11175 10
+091805 125201 贴装 芯片 reg1117 3.3 130
+ic prec v ref 2.5 v sot 23 u1 max6035baur25 tct nd integrated max6035baur25 t each
+75 10 ic reg ldo 800ma 5.0 v to220 3 u2 lm1117t 5.0 nd national semiconductor lm1117t 5.0 nopb each
+79 10 ic reg ldo 800ma 3.3 v to 252 u3 lm1117dt 3.3 nd national semiconductor lm1117dt 3.3 nopb each
+85 10 ic reg ldo 800ma 5.0 v to 252 u8 lm1117dt 5.0 nd national semiconductor lm1117dt 5.0 nopb each
+106 10 ic voltage ref 2.5 v 8 soic u35 700 max6143basa25 integrated max6143basa25 each
+20 rfoa02 02 243 ic ldo voltage regulator 15v 3.3 v 800ma dpak ld1117dt33ctr e 絡盟 1261189 ld1117dt33ctr
+32 rfoa02 02 222 ic switching voltage regulator 5v 1000ma to 263 national semiconductor lm2575s 5.0 mobicon farnell 1150073 lm2575s 5.0 ns 1 105
+dc dc 电源 芯片 jw5068aqfnf trpbf 无铅 具体型号 工作电压 min4 v max23 v 电流 max8000 ma 工作频率 max500 khz qfn20 jw5068a 矽力 sy8288 1 300
+多相 电源 控制器 pcn tps53667rtar tps53667rtar topology reducon voltage vref qfn tps53667rtar 1 300
+ddr3 ram 终端 调节器 pcn tps51200drcr tps51200drcr ncp51200mntxg 3.3 v vldoin 1.1 v 3.5 v 使能 控制 支持 拉 灌 电流 vtt 电流 可达 3a vref 电流 10ma son 10 tps51200drcr 1 300
+9 2008070012 ic 开关电源 10 power linear lt3480emse pbf msop 10
+10 2008070052 电池 管理 10 ic 电池 管理 bq24770ruyt wqfn 28 1s 4s
+11 2008070053 ic 开关电源 25 power tps54341dprt vson 10 step down 3.5 a
+12 2008070061 ic ldo 电源 30 torex xc6206p182mr g sot23 ldo 200ma
+13 2008070062 电源开关 40 tps2052bdr soic 8 500ma
+ve 1205sh motien 2w 5v to 5v isolated dc dc ve xxxx sil4 motien ve 1205sh 1200 9920 7000 1000
+tlv1117 50idcy ldo 12v to 5v 800ma regulator tlv1117 50idcy sot 223 tlv1117 50idcy 300 9920 7000 1000
+mic2102yml dc dc converter qfn16 3x3 p0.5 ep micrel mic2102yml 300 9920 7000 1000
+mic22400yml ic reg buck adj 4a sync 20mlf ml20 3x4mm p0.5 ep micrel mic22400yml 300 9920 7000 1000
+tps76818qpwp ic reg linear 1.8 v 1a 20htssop htssop20 6.5 x6.4 np0.65 wp5.6 tps76818qpwp 300 9920 7000 1000
+wra1212cs 3w 3w wide isolated regulated dual single dc dc converter wra1212cs 3w mornsun wra1212cs 3wr2 300 9920 7000 1000
+mp2365 ic reg buck adj 3a so8 ep mp2365 monolithic power systems inc mp2365dn lf z 300 9920 7000 1000
+mic5209ym ic reg lin pos adj 500ma 8soic so8 np1.27 wp5.5 micrel mic5209ym 300 9920 7000 1000
+tps2051bdbvr current limited power distribuon switches tps2051 sot23 5 tps2051bdbvr 300 9920 7000 1000
+ad8436acpz r7 analog device rms to dc converter cp 20 10 p n ad8436jcpz cp 20 10 ad ad8436acpz r7 1200 9920 7000 1000
+ltc3639 1 50v to12v 100ma dc dc regulator ltc3639 linear technology ltc3639imse pbf 600 9920 7000 1000
+ltc7138imse pbf 140v to5v 400ma dc dc regulator ltc7138 linear technology ltc7138imse pbf 300 9920 7000 1000
+ame8500aeetaf26z uprocessor supervisory 2.63 v ame sot23 ame ame8500aeetaf26z 300 9920 7000 1000
+tlc59116ipwr tlc59116 16 channel fm i2c bus constant current led sink driver tssop28 tlc59116ipwr 300 9920 7000 1001
+3 port sw 3 port sw wa smsi smt steel spacer m2.5 threadinternal l 3mm wurth 9774030151r 2400 9920 7000 0988
+tps2051bdbvr tps2051 sot23 5 current limited power distribuon switches tps2051bdbvr 600 9920 7000 0988
+12v dc dc 12v dc dc rq1bxxxqmxxx rail grade dc dc power supply 50w 40 110deg synqor rq1b120qmc04nrs g 600 9920 7000 0988
+tps563200ddct tps563200 step down voltage regulator 5 17v vin tps563200ddct 600 9920 7000 0988
+tps563200 tps563200 step down voltage regulator 5 17v vin tps563200 600 9920 7000 0988
+mosfet n ch 40v 25a power56 fdms8460 fdms8460 farchid fdms8460 160 9920 7000 0861
+3.5 a 28v 1mhz step down dc dc converter tps54332ddar pdso g8 tps54332ddar 80 9920 7000 0861
+high efficiency 4a intigrated switch synchronous buck regulator mic22400yml mlf 20 micrel mic22400yml 80 9920 7000 0861
+ldo adj 0.5 a mic5209ym sop8 micrel mic5209ym 80 9920 7000 0861
+dc dc converter mic2102yml qfn16 micrel mic2102yml 80 9920 7000 0861
+current limited power distribuon switches tps2051bdbvr pdso 5 tps2051bdbvr 160 9920 7000 0861
+mornsun isolated regulated dc dc converter sip package wrb2424s 3wr2 wrb2424s 3wr2 mornsun wrb2424s 3wr2 160 9920 7000 0861
+1 10v dc dc 24v dc dc rq1bxxxqmxxx rail grade dc dc power supply 50w 40 110deg synqor rq1b240qmc02nrs g 80 9920 7000 0916
+28 贴片 ic ua78l15acpk ff sot 89 10 u3
+31 贴片 ic tps3809i50dbvr pdci sot 23 10 u5
+20 贴片 ic ta48018bf 48018bf to 252 10 u8 toshiba
+21 贴片 ic ta48033f 48033f to 252 10 u16 toshiba
+芯片 sop8 431ach u4 1 3
+sot223 ams1117 3.3 v u1 1 200
+to263 lm2596s 5.0 v u4 1 200
+32 ic 芯片 xl1509 12e1 sop 8 150mil 1 u2 500
+33 ic 芯片 xl4016 to 220 5 1 u3 配 500
+34 ic 芯片 cj7812 to 252 2 1 u4 500
+35 ic 芯片 tps5420 sop 8 150mil 1 u5 500
+u13 u20 tps793 tps793 2 20
+u14 tps5430ddar tps5430ddar 1 10
+u20 ua78m33ikvu linear voltage regulators 3 4 pin 500ma fixed 3.3 v voltage regulat 1 1200 ua78m33ikvurg3
+u26 lm43601 switching voltage regulators automotive qualified 3.5 v to 36v 1a synchronous step down voltage converter 16 htssop 40 to 125 1 1200 lm43601pwpt
+u27 l78l33abutr positive voltage regulator 3.3 v 4 pin sot 89 tape and reel 1 1200 l78l33abutr
+65 集成电路 max1873s qsop 16 1 500 500 n13
+66 集成电路 sgm48001ys8g tr sop8 sgmicro 1 500 500 d17
+70 集成电路 tps5450dda hsop8 2 500 1000 d20 d21
+71 集成电路 tps65150rger qfn 24 1 500 500 d15
+72 集成电路 uc3843 so g8 1 500 500 d19
+84 三端 稳压器 lm78l05 to 92b 1 500 500 d22
+85 稳压器 bl1117 12cx sot 223 1 500 500 d14
+86 稳压器 bl1117 25cx sot 223 1 500 500 d13
+23 稳压 芯片 78l05 sot 89 1 4000
+24 三端 可调 稳压 芯片 tl431 sot 89 1 4000
+28 稳压 芯片 7812 to 220 1 半导体 4000
+46 3200 u205 buck controller tps563200ddcr critical
+47 1600 u301 battery manager bq40z50rsmr r2 critical
+48 38400 u401 battery charger bq25703arsnr critical
+56 1200 u203 boost converter controller tps61088rhlr critical
+57 1200 u205 boost converter controller lm3478mm nopb critical
+68 54400 u402 battery charger bq25883rget critical
+17 1200 u103 ldo 1a 10v tps73801dcqr equivalent
+18 1200 u105 ldo 150ma 5v lp2985 50dbvr equivalent
+19 贴片 ic ta48018bf 48018bf to 252 10 u8 toshiba
+20 贴片 ic ta48033f 48033f to 252 10 u16 toshiba
+66 贴片 ic ta48018bf 48018bf to 252 1000 u8 toshiba
+67 贴片 ic ta48033f 48033f to 252 1000 u16 toshiba
+68 mp1482ds u1 u4 u6 u7 soic 8 p1.27 w4.80 4 4000
+69 lm1117 adj u2 u27 sot 223 2 2000
+71 lm317 adj u9 to 252 3 1 1000
+73 mp1542 msop8 u11 msop 8 p0.65 w4.6 1 1000
+75 mp1584 u13 soic 8g p1.27 w5.4 1 1000
+76 lm337 u15 to 252 3 1 1000
+79 lm1117 2.85 u23 sot 223 1 1000
+80 lm1117 3.3 v u023 sot 223 1 1000
+87 电压 模块 p001 dd1718pa 正负 12v 布不带 针 出货 1 item item htm spm a230r1 1427 20ba5363wyea1b id 590050755520 ns 1 abbucket 6 detail 1000
+26 贴装 电路 tlv70033ddcr 500 u9 贴装
+16.0 贴装 电路 ams1117 3.3 v 1117 500 u2 贴装
+20.0 贴装 电路 icl 7660 so 8 500 u4 贴装
+13 贴装 电路 lm2576 5v 0n 500 u2 贴装
+15 贴装 电路 l7824cd2t tr 500 u3 贴装
+28 贴片 ic ua78l15acpk ff sot 89 1 u3
+51 模块 sus1r52405 sus1r52405 dip 5 1 p1
+lv2842xlvddcr lv2842xlvddcr u5 sot 23 6 3d lv2842xlvddcr 1 10
+lm2596s 5.0 lm2596s 5.0 u9 to 263 5 3d lm2596s 5.0 1 10
+ams1117 3.3 v ams1117 3.3 v u10 sot 223 lm1117 1 10
+19 电源 ref3012aidbzr sot23 1 2
+24 电源 lm2776dbvt sot 23 4 8
+25 电源 ltc3618ife pbf tssop 1 2
+26 电源 tps74401mrgwrep qfn 20 3 6
+27 电源 tps75533ktt kttt 1 2
+49 u1 开关电源 控制器 tps54260dgq hvsop 10 hvsop 10 1 5
+50 u2 ldo 电源 lm1117 3.3 sot 223 sot 223 m 1 5
+61 z1 电压 直插 to 92 lm285 2.5 1.5% to 92 1 5
+49 u1 开关电源 控制器 tps54260dgq hvsop 10 hvsop 10 1 50
+50 u2 ldo 电源 lm1117 3.3 sot 223 sot 223 m 1 50
+61 z1 电压 直插 to 92 lm285 2.5 1.5% to 92 1 50
+sot 23 6 tps2553dbvr tps2553dbvr u4 u5 u6 u21 sot 23 6 4 80
+tsot 23 6 lm5050 lm5050 u12 lm5050 1 20 lm5050mk 1
+sop 8 150mil mp2560d mp2560d u13 mp2560d soic 8 ep 150mil 1 20 mp2560dn lf z
+tssop 20 mp4575 mp4575 u15 mp4575 tssop 20 1 20 mp4575gf z 订 1 2
+vssop 10 lm5060q1mm lm5060q1mm u17 lm5060q1mm 1 20
+sot 23 3 mcp1700t 3302e tt mcp1700t 3302e tt ldo 3.3 v u20 mcp1700t 3302e tt 1 20
+sot 223 ams1117 3.3 sot 223 ams1117 3.3 vr1 低压 差 稳压 ldo 1 20
+sot 23 3 zxtr2105fq 7 zxtr2105fq 7 vr2 稳压 芯片 60v 89ma 1 20 1 2
+108 贴片 芯片 ams1117 1.8 ams1117 1.8 ams sot 223 200
+54 贴片 芯片 ams1117 3.3 v ams1117 3.3 v smd ams1117 3.3 ams c 700
+53 贴片 芯片 ams1117 5.0 v ams1117 5.0 v smd ams1117 5.0 ams c 600
+103 贴片 芯片 aoz1051pi aoz1051pi aos so8 700
+89 贴片 芯片 mp2105dj – lf – z mps sot23 5 400 滤波器
+102 贴片 芯片 pt7a7514we pti soic8 300
+166 贴片 芯片 ref3020aidbzr sot 23 r30b 50
+50 贴片 芯片 ref3033aidbzr sot 23 r30d 900
+57 贴片 芯片 tl431aidbzr tai sot 23 chw 1900
+159 贴片 芯片 tps51200drc smd 1200 100
+70 贴片 芯片 tps65910a3a1rsl smd t65910 100
+88 贴片 芯片 urb2405ymd 10wr3 mornsun dip 150
+87 贴片 芯片 urb2405ymd 6wr3 mornsun dip 200
+52.0 1.0 u1 lm2591hvs adj lm2591hvs adj to263 300.0
+53.0 1.0 u2 lt1121cs8 3.3 lt1121cs8 3.3 pbf soic8 300.0
+54.0 1.0 u3 tc7660coa tc7660coa soic8 300.0
+56.0 1.0 u6 ina271 ina271aid soic8 300.0
+01 ab gx pt5108 ic ic powertech pt5108e23e 33 sot 23 5 1 120 pt5108e23e 33 sot 23 5 powertech
+01 ab gx sy8105 ic ic silergy sy8105adc tsot23 6 1 120 sy8105adc sot23 6 silergy
+01 ab gx sy6280 ic ic silergy sy6280aac sot23 5 2 240 sy6280aac sot23 5 silergy
+ht7133 1 umw 6000 0.33
+pmic bd71837amwv 10
+ams1117 3.3 linear regulator 3v3 sot 223 170.0
+模块 电源 b0505lm 1w b0505ls 1wr3 105.0
+urb4812ld 20wr3 18 75vdc 12vdc 1667ma 20.0
+模块 电源 a1212s 1wr2 20.0
+ic st1s10phr sop8 20.0
+9 ap5177 ap5177 半导体 u1 u2 u4 u5 4 40
+38 lv2842xlvddcr lv2842xlvddcr u5 1 10
+42 lm2596s 5.0 lm2596s 12 tr hgc u9 1 10
+43 ams1117 3.3 v ams1117 3.3 ams u10 1 10
+1 20 u1 reg104ga a 595 reg104ga a ldo voltage regulators dmos 1a low dropout regulator reg104ga a sot 223 6pin
+1.0 da1 st1s14phr 12.0 switching voltage regulators up to 3a step down 3a dc 5.5 48v 850mhz hsop8 powerso 8
+1.0 da3 mic29302wu tr 10.0 technology linear voltage regulator ic positive adjustable 1 1.25 v 26 v 3a to 263 5
+1.0 dd1 mcp73831t 2aci ot 10.0 technology ic controllr li ion 4.2 v sot23 5 sot 23 5
+1 20 dc dc1 mjwi20 24s05 minmax dc dc converter 20w mjwi20 24s05 mjwi20
+1 20 dc dc2 m78ar12 1 minmax dc dc convertor single 12.0 v 1a m78ar12 1 m78ar 1
+1 20 dc dc3 m78ar033 1 minmax dc dc convertor single 3.3 v 1a m78ar033 1 m78ar 1
+1 20 u2 ref3020aidbzr 595 ref3020aidbzr voltage references 2.048 v 50ppm degc 50ua sot23 3 series ref3020aidbzr sot 23 3
+1 20 u5 tps767d301pwpr 595 tps767d301pwpr 1 a dual low dropout voltage regulator tps767d301pwpr pwp
+1 20 u21 tps61087qdrcrq1 595 tps61087qdrcrq1 automotive 2.5 v to 6v range 650khz 1.2 mhz 3.2 a boost converter 10 vson 3x3 tps61087 q1 qfn10 drc
+110100200155x ic dc dc 变换器 lm2651micx 3.3 tssop16 2500
+110100200015x ic max6190aesa soic 10200210 1000
+110100500016x 贴片 稳压器 regulator lm385mx 1.2 v 20ppm so 8 2500
+110100200298x ic max660csa so 8 max 5000
+110100200318x cd 电源开关 控制器 ltc2950cts8 2 trmpbf tsot23 8 凌特 1500
+110100200320x cd 稳压 ic lt1964es5 5 trmpbf sot23 5 凌特 2000
+110100200331x cd ic 低压 差 稳压器 lm1086isx adj nopb to 263 6000
+110100200355x cd 隔离 电源 ic is05f05 1w sip7 tst 耐压 3000v 1000
+110100200619x 低压 差 稳压器 ldo ce6201a36p sot 89 1000
+110100200668x ic 正压 ldo tps7a4901dgnr msop 8 500
+110100500046x 低压 差 稳压器 ldo tlv70036ddcr sot23 5 3000
+110100200757x ic 负压 ldo tps7a3001dgnr msop 8 500
+110100200963x cd 贴片 电源 管理 芯片 hfc0300 soic 7 mps 2500
+110100201051x cd ic 电压 ref3030aidbzr 3v sot23 3 600
+110100201066x ic lt3495beddb trmpbf dc dc 升压 dfn 10 lt 500
+110100500061x cd 贴片 低压 差 三端 稳压器 ldo lm2937impx 15 nopb sot 223 500
+110100500063x 贴片 三端 稳压器 volage regulator 79l09 sot 89 1000
+110100201118x ic mic5205 3.0 ym5 3.0 v 降压 ldo sot 23 5 500
+110100201284x cd 电源 管理 ic hfc0100 soic8 mps 2500
+110100200409x ic ad736jrz s08 ad 500 asap
+110100200389x cd 贴片 ic tl431bidbzt sot 23 5000 asap
+24 5v u3 24 5v 24 15v 1 24v 转 5v 电源 模块
+mp2303adn lf z mp2303adn lf z mps u2 soic 8 ep 150mil 8 200 1 200
+ams1117 3.3 ams1117 3.3 ams vr1 sot 223 3 200 1 200
+3.0 39110287 az1117d 3.3 tre1 1 50 ic diodes a voltage regulator az1117 fixed ldo 3.3 v 0.8 a to 252
+4.0 39110288 az1117d 1.8 tre1 1 50 ic dioes a voltage regulator az1117 fixed ldo 1.8 v 0.8 a to 252
+33.0 asc0301 1 1 asc0301 2 100 ic 电池 管理
+701409001301 电源 芯片 ncp630ad2t r4 3a max12v 可调 40 125 ℃ on d2pak 5 on ncp630ad2t r4g 1 30
+701409001300 芯片 lm22676tje 5.0 3a 电源 4.5 42v 5v 40 125 ℃ to 263 lm22676tje 5.0 nopb 1 30
+23014 adm809rart reel 7 sot23 2 200 u21 u58
+23026 aoz1360ail sop8p 150 1 100 u42
+23071 mp1495s tsot23 8 2 200 u41 u62
+u5 1 497 16417 1 nd stmicro stlq015m21r ic reg linear 2.1 v 150ma sot23 5 5000
+26.0 ic qfn20 300x300x80 p40 ea3036 smt 1 u1 100
+28.0 ic utdfn 1x1 4l sgm2036 2.5 yudh4g tr smt 1 u3 100
+29.0 ic utdfn 1x1 4l sgm2036 3.3 yudh4g tr smt 1 u4 100
+32.0 ic utdfn 1x1 4l sgm2036 3.0 yudh4g tr smt 1 u10 100
+u1 1 296 18865 1 nd tl431bcdbvr shunt reference 2.495 v 0.5% sot23 5 5000
+u2 1 1589 1120 1 nd monolithic power mp2456gj p ic reg buck adj 0.5 a 6ssop 5000
+ps1 1 electo irm 03 12 meanwell irm 03 12 ac dc power modules 85 305vac 12vout 250ma 3w pcm mnt 50000
+u5 1 digi key 296 39451 1 nd tps62175dqcr buck buck boost switching regulator ic positive 5000.0
+u2 1 mcp1804t a002i otct nd mcp1804t a002i ot ic reg ldo 10v 0.15 a sot23 5 5000.0
+u5 1 296 30169 2 nd tlv70133dbvt ic reg ldo 3.3 v 0.15 a sot23 5 5000.0
+50645 its41k0smen infineon 245
+50657 its41k0smen infineon 500
+50777 lm1117mp 3.3 11
+50790 lm1117mp 3.3 30
+51572 xl4015e1 dc dc converter xlsemi 31
+51584 xl4015e1 dc dc converter xlsemi 60
+70 tps54160adgqr ic soic tps54160adgqr 2 2000
+10 technology mcp1755st 3302e db ic reg lin 3.3 v 300ma sot223 3 u3 1 ea 10.0
+25 technology mcp1755st 3302e db ic reg lin 3.3 v 300ma sot223 3 u3 1 ea 10000.0
+50645 its41k0smen infineon 245
+50657 its41k0smen infineon 500
+50777 lm1117mp 3.3 11
+50790 lm1117mp 3.3 30
+19 ldo vo adj vfb 1.2 v 1a lf ztp1117sa 1 3000
+20 ldo vo adj 300ma lf ap2127k – adj 1 3000
+21 step down regulator vfb 0.6 v 1.5 a 1.4 mhz adj ap3418 1 3000
+mp2359dj lf z 3000.0
+集成电路 电流 高速 ldo 稳压器 xc6210c502pr torex 4
+126 电源 ic ucc2808a 2 tssop tssop8 160
+127 电源 ic rt7272bgsp so 8ep 200
+128 电源 ic az431an atre1 sot23 200
+129 电源 ic ref3320aidbz sot23 160
+130 电源 ic ap2204k 3.3 trg1 sot23 5 250
+131 电源 ic mp1469gj z sot23 6 160
+141 ic ap3211 sot23 6 50
+142 ic ap2204 5.0 sot23 5 100
+143 ic 79l05 sot 89 50
+电源 qfn4r5x3r5 20 p tps61088rhlr 1.0 10.0
+电源 wson3x2 12 1 tps62740dssr 1.0 10.0
+126 电源 ic ucc2808a 2 tssop ucc2808a 2 tssop tssop8 160
+127 电源 ic rt7272bgsp rt7272bgsp so 8ep 200
+128 电源 ic az431an atre1 az431an atre1 sot23 200
+129 电源 ic ref3320aidbz ref3320aidbz sot23 160
+130 电源 ic ap2204k 3.3 trg1 ap2204k 3.3 trg1 sot23 5 250
+131 电源 ic mp1469gj z mp1469gj z sot23 6 160
+141 ic ap3211 ap3211 sot23 6 50
+142 ic ap2204 5.0 ap2204 5.0 sot23 5 100
+143 ic 79l05 79l05 sot 89 50
+144 ic ad8032 ad8032 vssop8 _. 65 100
+157000381 ic mt6631n a 100k
+157000571 电源 管理器 ic pmu mt6357crv a 100k
+157000641 电源 管理器 ic pmu mt6357crv an 100k
+157000651 电源 管理器 ic pmu mt6356w and 100k
+157000551 电源 管理器 ic pmu mt6356w ao 100k
+157000481 ic sub pmu mt6370p a 100k
+157000651 电源 管理器 ic pmu mt6356w and 100k
+157000551 电源 管理器 ic pmu mt6356w ao 100k
+157000691 电源 管理器 ic sub pmu mt6370p ab 100k
+太阳能 充电 芯片 cn3795 ssop 10 1 u14
+电源 芯片 tps562200ddcr sot 23 6 3 u15 u16 u17
+23022 syr827pkc wlcsp 20 1 50 u35
+23023 syr828pkc wlcsp 20 1 50 u36
+23025 mp1484en sop8 1 2 100 u41 u62
+23029 act8846qm490 t qfn48 6x6 1 50 u46
+23039 pt5108e23e 33 rt9013 33 sot23 5 2 200
+23040 sgm2019 adj sot23 5 1 100
+23048 tps79301dbvr sot23 6 3 300
+电源 芯片 cj7805 jcet to 252 1 500
+电源 芯片 asm1117 3.3 sot 223 1 500
+tps77030 1 ldo 3.0 v sot23 5 贴片 u2 2000
+ref3325aidbzr sot 23 3 3095000100000 sot 23 3 1 q1
+36.0 控制 芯片 lm5026mtx tssop16 lm5026mtx
+37.0 控制 芯片 ucc24610 soic 1.75 ucc24610
+38.0 控制 芯片 ucc28c40d msop8 ucc28c40d
+39.0 控制 芯片 ncp12700 msop10 ncp12700 on
+40.0 控制 芯片 lm5021 1 msop8 lm5021 1
+43.0 芯片 az431an atre1 sot23 123 az431an atre1 diodes
+ref3325aidbzr sot 23 3 3095000100000 sot 23 3 1 q1
+ams1117 3.3 u2 ams1117 1 5
+25 芯片 max668eub t 1 10
+26 芯片 bq25895rtw 1 10
+27 芯片 tlv62565dbv 1 10
+31 芯片 bq27441drzr g1a 1 10
+32 芯片 lp5907mfx 3.3 nopb 2 20
+59 6p7901b0 u16 s000761 ic vref shunt adj sot23 3 tl432aqdbzrq1 sot 6
+60 6p7901b0 u16 s000762 ic b uf fer non invert 5.5 v sc88 nlv27wz17dft2g on sot 24
+64 6p7901b0 u17 s001044 ic reg ctrlr mult topology 8soic ucc2800qdrq1 soic 6
+65 6p7901b0 u20 s000139 ic reg linear 5v 30ma sct595 5 tle4296gv50htsa1 infineon 6
+52336 max640esa 400.0
+62911002650 tps54531dda 100
+62911006370 tps79633dcqr 20
+62911006380 tps79601dcqr 20
+ic ldo ic lp5990tm 1.2 nopb dsbga vo 1.2 v lp5990tm 1.2 nopb lp5990tm 1.2 nopb 150 2 4.033275
+ic ldo ic lp5990tmx 1.8 nopb dsbga vo 1.8 v lp5990tmx 1.8 nopb lp5990tmx 1.8 nopb 100
+ic pmic max77650 0.4 mmpitch wlp max77650 max77650aewv t 150 2 25.900885
+31 mc33063 soic 8 150mil 1.0 u2 400.0
+32 tps7a49 msop 8 ep 1.0 u3 400.0
+33 tlv1117lv33 sot223 4 1.0 u4 400.0
+3.0 ldo s 1206b28 m3t1g sot 23 2.8 v 1.0 u2 3000
+5.0 ldo rt9193 33 sot23 5 3.3 v 1.0 u4 3000
+lt1461ccs8 3 soic 8 3.9 x4.9 mm p1.27 mm 1 lt1461ccs8 3 pbf linear 100
+lt1613 tsot 23 5 1 lt1613cs5 trmpbf linear 100
+lt1931 tsot 23 5 1 lt1931es5 trpbf linear 100
+tlv70218 sot23 5 sot 23 5 1 tlv70218dbvt 300 ma low dropout voltage regulator fixed 1.8 v sot 23 5 100
+tlv70225 sot23 5 sot 23 5 1 tlv70225dbvt 300 ma low dropout voltage regulator fixed 2.5 v sot 23 5 100
+4 ldo s 1206b33 m3t1g sot 23 1 u9 3000
+5 ld0 s 1132b33 m5t1g sot23 5 1 u10 3000
+7 充电 管理 ic tp4054 sot23 5 1 u12 3000
+20 p20304000004 sop8 tps54560dda tps54560dda 集成电路 60
+贴片类 dc dc ap1501 adj to263 5l 3 u12 u14 u15 25710
+贴片类 dc dc sti3408b sot23 5 2 u8 u11 17140
+uc2843d8tr 69607
+tps62293drvr 22320
+tps54240dgqr 22820
+tps70202pwpr 5993
+tl431bidbzr 107370
+lm431cim3 nopb 107370
+tps61026drct 13656
+lm4040dim3 5.0 nopb 62604
+lm2594mx 5.0 nopb 11731
+lm2594m 5.0 nopb 11731
+ucc3580dtr 3 6178
+lm1086ct adj nopb 13851
+lm7815ct nopb 72197
+72 dc dc 芯片 tps54383pwpr htssop 14 10
+73 ldo 芯片 ams1117 3.3 ams sot 223 11
+84 稳压器 芯片 tl431idbzr sot 23 16
+111 三端 稳压 芯片 ams1117 3v3 ams sot223 n 11
+118 贴片 ic ref3033aidbzr sot23 3m 16
+119 贴片 ic tps54383pwpr tssop14 n pad 10
+65 贴片 ic ams1117 3.3 ams ams1117 11
+68 贴片 ic tps5430 tps5430 11
+6291118 bq24123rhlr 60 2019 12 02 11.21638
+729113180 tlv431ailp 25 2019 12 16
+614150430 tps511dgq 25 2019 12 16
+629114330 lm7805s nopb 9 2019 12 16 6.108128
+629114340 tps7a4533kttr 15 2019 12 16 10.95279507
+629114270 adr441brz 1078 2019 12 16 23.874866
+6291118 bq24123rhlr 60 2019 12 02 11.21638
+729113180 tlv431ailp 25 2019 12 16
+614150430 tps511dgq 25 2019 12 16
+629114330 lm7805s nopb 9 2019 12 16 6.108128
+629114340 tps7a4533kttr 15 2019 12 16 10.95279507
+629114270 adr441brz 1078 2019 12 16 23.874866
+低压 差 稳压器 3.3 v 0.8 a positive dpak 3 ld1117dt33tr dpak 400
+rec3.5 0505srw r10 c recom 5
+mgfs302412 cosel 5
+sucs1r52405c cosel 5
+mee1s0505sc power solutions 5
+pds1 s5 s5 s cui 5
+mgfs302415 cosel 5
+mgs6243r3 cosel 5
+v24c24c100bg vicor 5
+sucs1r5243r3c cosel 5
+mgfs302412 cosel 5
+sucs1r52405c cosel 5
+pla150f 24 c cosel 5
+17 integrated circuit ic l6561d sop8 10000
+55.0 cmos 电压 ref3133aidbzt ref3133aidbzt 1.0
+57.0 芯片 lm4040d10idbzr lm4040d10idbzr 1.0
+92.0 模块 mslu302 mslu302 1.0 minmax
+93.0 模块 miw03 05d15h miw03 05d15h 1.0 minmax
+94.0 芯片 xl7005 xl7005a 1.0 xlsemi
+95.0 芯片 ld1085d2t33r ld1085d2t33r 1.0
+96.0 模块 miw3012 miw3012 1.0 minmax
+97.0 芯片 ldl1117s33r ldl1117s33r 2.0
+98.0 模块 maw01 05s05 maw01 05s05 1.0 minmax
+99.0 模块 miw03 05s05 miw03 05s05 1.0 minmax
+ic01 0152 a smd ic mp1591dn soic8 1.27 6 1 soic 8n 1 550
+ic01 0154 a smd ic ncp1403snt1 tsop 5 1 550
