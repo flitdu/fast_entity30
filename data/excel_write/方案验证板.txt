@@ -1,0 +1,54 @@
+zigbee 模块 zigbee 模块 tyzs5 smd 3000
+电机 驱动 模块 sd20m60ac 士兰微 spm27 ja 091805 143201 30
+贴片 无线 lora 射频 模块 外置 天线 lm400tu 立功 lm400tu 091806 042601 30
+贴片 模块 外置 天线 zlg52810p0 1 c tc 立功 zlg52810p0 1 c tc 091806 042701 30
+98 pcb pcb 空 99 80 1.6 mm 四层 沉金 阻抗 测试 通孔 pcb 空 99 80 1.6 mm 1 6377 8108
+34 1 4000 blue tooth mdbt42q1 mastercool to provide mastercool to provide
+73 a02 200001 003 r20 dm r20 dm v10 sample 20190605 3000 pcb 光板
+1 pcb 6056lcd v03 2019 04 27 沉金 碳油 抗氧化 1.0 10.0 1000.0
+68 e07011149 pcb ver b 四层 1.6 mm 1oz 154 190 fr 4 单 加 2 5mm 工艺 边 154 200 沉金 0 1
+3 c0100103 pcb qxf0 07 ver b 4 层 1.6 mm 1oz 151.3 76 fr 4 1 2 拼 加 2 5mm 工艺 边 165.4 154.0 mm 2 沉金 块 1 500
+41.0 yhp 0164 pcb 空板 tp tyn15w v1.1 双层 fr4 58.5 87 1.6 mm 块 1 50.0
+1 pcb 428 395 10 mm 工艺 22f 10 mm 单面 1 1oz 铜皮 osp 抗氧化 白色 丝印 双面 蓝油 pcb ds 052a raj pcb 丝印 g2 logo 1 0
+按键 pcb 74mm 39mm 厚 1.0 绿油 白字 keyv0.3
+pcb doorcontrov0.8 121mm 76mm 厚 1.0 绿油 白字 拼 0
+1 a020381702 印制板 xxj nw20190621v1.0 1 6000.0
+8 q010103471 成品 三索 wifi 版 香薰 机
+102 pcb 印制板 pcb x2 227 426 2mm osp 10l 绿色 丝印 白色 拼板 单板 板材 s7439 purley switch pcb 印制 1 40
+模组 u6 ec200t cn ec200t cn 1 10000
+81 wifi 模块 mt7688an mt7688an 32m 1 u20 2100
+82 z wave 模块 zw5002 lt v0.3 zw5002 lt v0.3 zw5002 lt v0.3 1 u21 2100
+83 ble 模块 bg13 bg13 bg13 1 u23 2100
+84 lte 模块 hl7800 hl7800 hl7800 1 u24 2100
+2 ozt5180718003 1 u3 as32 ttl 100 as32 ttl 100 433mhz 无线 模块 100
+3 ozt4180718003 1 u5 atgm336h 5n 31 0 atgm336h 定位 芯片 25 米 100
+18 ozt4190121002 1 u4 jdy 32 jdy 30 32 模块 100
+4 ozt5180718003 1 u1 as32 ttl 100 as32 ttl 100 433mhz 无线 模块 100
+5 ozt4180718003 1 u2 atgm336h 5n 31 0 atgm336h 定位 芯片 25 米 100
+20 13 0400 016 003 nb 模块 bc20 nb 模块 bc20na 04 std nb 模块 bc20na 04 std bc20 ic1 1 10000.0
+7 贴片 模块 贴片 模块 wi fi 模块 ap6212 sop44 ampak ap6212 apxx 12x12 1 20 2000 30000
+total pcb t3 核心 6 层 fr 4 沉金 阻焊 黑色 170mm 132mm 1.6 mm cp003 1 20 2000 30000
+23 0114 00224 控制 模块 cc wmx jn58 ne connectcore wi i mx6ul som 802 digi international cc wmx jn58 ne digi international 1050
+176 1 uw1 ap6356s md44 ap6xxx 13rx15rx1r5
+19.0 dc dc 电源 模块 b0505s 1wr2 pw1 b s 1wr2 bottomlayer 1.0 1000
+9 05004 00478 can 模块 ctm8251t 2 u22 u23 40
+10 05004 00479 485 模块 rsm3485cht 2 u16 u17 40
+9 05004 00478 can 模块 ctm8251t 2 u22 u23 40
+10 05004 00479 485 模块 rsm3485cht 2 u16 u17 40
+75 ic sim868 simcom sim868 ws050011 1 9200
+umts 功放 模块 umts 功放 模块 band5 815 849mhz sky77765 11 skyworks sky77765 11 skyworks 1 1000 pa3901
+射频 功放 模组 射频 功放 模组 sky77643 11 wcdma td scdma fdd lte tdd lte 1 2 3 4 5 7 8 9 12 13 17 20 sky77643 11 skyworks 1 1000 u3203
+20 2016100013 wifi 模组 20 lbwa1kl1fx 875 2.4 g 65mpbs sdio
+51 模块 sus1r52405 sus1r52405 dip 5 10 p1
+58 1200 u301 wifi ble module espressif esp32 wroom 32 critical
+lora 16mmx26mm e22 900t22s lora e22 900t22s lora u11 e22 900t22s lora 1 20
+110 贴片 芯片 ctm1051am ctm1051am zlg dip 8 400
+gnss 接收 模块 bds glonass atgm332d5n71 10
+can fd phy ata6563 10
+can 扩展 mcp2515 tja1050 10
+ec20 15.0 multi band lte module l32xw29xh2.3 mm
+27 gsm 模块 air208s 1 3000
+38 lora aithinker ra02 smd16 1.0 u6 400.0 模组
+9.0 2.4 g 模块 a7121 15dbm rf module 24.5 19.7 1.0 cn14 3000
+9 2.4 g 模块 a7121 15dbm rf module 24.5 19.7 1 cn14 3000
+100.0 模块 td301d232h td301d232h 1.0 minmax

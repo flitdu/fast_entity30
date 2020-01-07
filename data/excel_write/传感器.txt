@@ -1,0 +1,71 @@
+322.0 11305038 霍尔 元件 a1101llhlt t sot 23w 3000 包 0.0
+326.0 11305088 集成电路 ds18b20u usop 吉庆 50.0
+322.0 11305038 霍尔 元件 a1101llhlt t sot 23w 3000 包
+326.0 11305088 集成电路 ds18b20u usop
+acs712elctr 20a t 3600
+贴片 ic 电流 传感器 acs712elctr 20a t allegro soic8 091805 143301 31
+贴片 ic 电流 传感器 acs712elctr 20a t allegro soic8 091805 143301 91
+贴片 ic 电流 传感器 acs712elctr 20a t allegro soic8 091805 143301 31
+贴片 ic 电流 传感器 acs712elctr 20a t allegro soic8 091805 143301 91
+mpxm2053gs 1320a 02 u7 u8 u15 3 7800
+091804 023301 气压 传感器 hscdlnd1 6ba2a3 dip 8 1000
+32 贴片 心率 ic hl8059 ssop24 1.0 10.0 1000.0
+ct512va is3 crocus 15000 板机 接口 霍耳效应 磁性 传感器 tmr digital push pull switch sot 23 3
+2 u2 u3 mlx90393slw aba 011 re 836 mlx90393slw aba 011 rect nd qfn16 p0.5 3x3x1 mm ep melexis technologies nv mlx90393slw aba 011 re no ok 1040.0
+u1 tlv493d package to sot smd sot 23 6 sensor rotary 360deg smd tlv493da1b6htsa2 2030
+5 集成电路 s16006 5
+lis3dshtr stm 3000 1 lga 16 lis3dshtr
+74 ic sht31 dis sht31 dis qfn 8 sht31 1 u12 2100
+95 key ic si1141 si1141 qfn 10 1 u1 2100
+lis3dshtr stm 3000 1 lga 16 lis3dshtr
+8 ozt4180718005 1 u3 bno055 bno055 imu 惯性 测量 单元 absolute orientation 9 axis sensor bosch vendor cn 100
+63606000320 2smpp 03 压力 传感器 2smpp 03 43mv 42mv 50kpa 6pin smd omron 212
+44 11 0103 001 058 角度 加速度 芯片 qma6981 lga 2 2 0.95 qma6891 u11 1 10000.0
+9 贴片 ic g sensor bma250 v 1.2 3.6 v 3轴 加速度 传感器 bosch bma250e qfn12 2 2 1mm bosch bma250 1 bosch 20 2000 30000
+183 goodix 电容 触摸 控制器 1 u9 gt911 qfn6 6 0.4 p qfn52 6r00x6r00x0r40
+184 霍尔 霍尔 元件 1 u10 hal248twcl sot 23
+185 3轴 加速度 陀螺仪 1 u11 lsm6ds3 qfn50p300x250x86 14n
+186 liteon 光感 传感器 1 u12 ltr 579als 01 son8 210x394x80x97p 8n
+41.0 电压 传感器 zpt311f 2ma 2ma cpt1 cpt2 cpt3 19 10 18.2 mm 3.0 3000
+po20190026 配件 3000027085 直插 芯片 ds18b20 可编程 数字 温度 传感器 to92 830
+po20190026 配件 3000027085 直插 芯片 ds18b20 可编程 数字 温度 传感器 to92 ds18b20 830
+35 s09 s000006 photodiode 880nm w filter smd bp 104 fasr z osram 光学 传感器 8256
+700903010012.0 芯片 temperature sensor adm1032arz reel smd sop 8p on on adm1032arz reel 1 100
+63601000000 acs712elctr 20a t 电磁 传感器 acs712elctr 20 ac dc openloop soic8 8pin smd allegro 20
+63606000010 adpd2211acpz r7 光电 传感器 adpd2211 smd8 8pin smd 15
+61 贴片 温度 传感器 ntcs0603e3103fmt rt1 j1 0603 1 100
+电流 芯片 acs712 20a u10 u11 sop 8 2 15
+陀螺仪 陀螺仪 加速度 传感器 lsm6ds3tr 1.62 3.6 v ± 2000dps 16 bit 16 bit spi i2c lga 14 3 2.5 0.86 mm 2 kv 3 lsm6ds3tr 1 1000 u6305
+数字 脉冲 温度 传感器 nst1001 qdnr 电源 电压 1.65 to 5.5 v 温度 50 to 150 ℃ ± 0.75 ℃ 脉冲数 数字 ad 转换 单子 温度 转换 间 50ms 转换 电流 30ua 0 待机 功耗 dfn2l novosense nst1001 qdnr 1 300
+19 2008170013 加速度 传感器 20 mma8653fcr1 dfn 10 10bit
+at42qt1040 vqfn four key qtouch sensor ic at42qt1040 mmh 160 9920 7000 0860
+58 贴片 芯片 ds18b20 ds18b20 to 92a ds18b20 dallas 100
+isl29023iroz t7 6000 2.75
+imu 模块 icm20602 10
+2 40 gy1 gy3 scc2130 d08 05 490 12143 1 nd accelerometer gyroscope 3 axis sensor spi scc2130 d08 scc2130 d08
+1 20 gy2 scc2230 d08 05 490 12142 1 nd accelerometer gyroscope 3 axis sensor spi scc2230 d08 scc2130 d08
+2 40 u10 u12 acs714elctr 20a t 620 1259 1 nd allegro microsystems current sensor 20a 1 channel hall effect open loop bidirectional 8 soic 0.154 3.90 mm width acs714elctr 20a t 8 soic
+1 20 u17 max6673axk t 700 max6673axkt tegrated mount temperature sensors pwm temperature sensors sc70 packages max6673axk sc 70 5
+1 20 u20 mpxh6400ac6u 841 mpxh6400ac6u semiconductors mount pressure sensors ssop integ with port mpxh6400a mpxh64
+110100200664x ic tmp112aidrlr sot563 500
+110100201097x 电阻 湿度 传感器 号 sjl31 31k ω 5000
+110100201116x 数字 温湿度 传感器 模块 htu21d dfn 200
+110100201174x 传感器 cm1106 dip 量程 5000ppm ± 5% 50ppm 嵌入式 传感器 3 10 光电 200
+2.0 43000004 bma253 1 50 ic bosch accelerator
+u2 1 sht20 sensor humid temp 3v i2c 3% smd 5000
+4.0 ic sot 23 6p bs812a smt 1 u6 100
+140 ic acs712elctr 05 so 8 60
+140 ic acs712elctr 05 acs712elctr 05 so 8 60
+145010511 ic gyro gsensor bmi160 100k
+157000161 ic pmu mt6328v an 100k
+157000451 ic pmu mt6328v ad 100k
+145010811 重力 陀螺仪 传感器 ic gyro gsensor lsm6ds3tr c 100k
+157000471 ic pmu mt6356w a 100k
+sim 78800 0001 1 jp4
+测温 芯片 tmp112aidrlr sot 563 3050000146000 sot 563 1 u2
+ds18b20 500
+测温 芯片 tmp112aidrlr sot 563 3050000146000 sot 563 1 u2
+54 6p7901b0 s10 d000016 sensor current hall 200a ac dc acs770ecb 200b pff t allegro microsystems llc 传感器 12
+82 电流 传感器 芯片 acs712elctr 05b t allegro sop8 11
+33 贴片 霍尔 传感器 cc6902so 5a crosschip sop8 m 21
+67 贴片 ic acs712elctr 05b t allegro soic8 11

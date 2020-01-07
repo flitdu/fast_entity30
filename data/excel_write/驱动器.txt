@@ -1,0 +1,65 @@
+7 qm tps61500pwpr 2000
+贴片 单通道 驱动器 ir2127s infineon soic8 091805 143401 61
+贴片 单通道 驱动器 ir2127s infineon soic8 091805 143401 61
+mp3302 sot23 5an u10 1 2600
+a4988 qfn28 4.0 40000.0
+34 tm1621 lcd 显示 驱动 ic qfp44 1.0 10.0 1000.0
+85.0 10230028 4 port constant current led driver and i o expander with pwm intensity control tssop10 3x5.1 x1.1 mm pca9633dp2 3600 pca9633dp2 pca9633dp2 1
+10 u060010578 lcd 驱动 aip1722 sop 24 1 u1 aip1722 6000.0
+ic1 ic2 ic3 ic4 ic5 ic6 ic7 ic 芯片 tmc5160 ta tmc5160 ta tqfp48 7 105
+sq9a180001 6011433 电机 驱动 芯片 mc33886 tssop 20 10
+73 ic bl8023d bl8023d tsot23 6 6 u6 u7 u8 u9 u10 u11 12600
+41 11 0103 001 005 马达 ic rz7889 sop8 rz7889 马达 驱动 芯片 lc soic 8 150mil u5 1 10000.0
+181 半导体 led 驱动器 1 u7 lp3380 sot23 6 sot23 6
+l6470h htssop28
+6 23010 l6470h htssop28 20 20
+70 ic dr780001 tps61181arter u6 u8 u13 u15 u17 u19 u22 23 8 wqfn 16l 3x3 w type fosc 0.9 1.2 mhz driver wled driver for notebook display 1600
+82 ic diba0001 ssd2828qn4 u26 u29 u27 u30u2 u25 u28u31 8 68 qfn ep tray form mipi mastar bridge 4lane d phy bridge ic solomon 1600
+ic dr780001 tps61181arter u6 u8 u13 u15 u17 u19 u22 23 8 wqfn 16l 3x3 w type fosc 0.9 1.2 mhz driver wled driver for notebook display 1600
+ic diba0001 ssd2828qn4 u26 u29 u27 u30u2 u25 u28u31 8 68 qfn ep tray form mipi mastar bridge 4lane d phy bridge ic solomon 1600
+po20190026 温度 3000010889 贴片 芯片 ds2480b sop 8 ds2480b 455
+thb6128 tlm h on 2720 13.125
+iso1h811g isolated high side switch pg dso 36 u82 37.0 350.0
+701421000302.0 芯片 liner pwm pxm1310cdm 蓝点 qfn 40p smd infineon pxm1310cdm 蓝点 4 400 烧录 image 烧入 里面
+701421000301.0 芯片 liner pwm pxe1610cdn 红点 qfn 48p smd infineon pxe1610cdn 红点 2 200 烧录 image 烧入 里面
+iso1h811g isolated high side switch pg dso 36 u82 37.0 350.0
+ulq2003l high voltage high current darlington array l16 n u12 u18 u24 u30 u36 u60 u71 16.0 2450.0
+69 贴片 集成电路 drv8301dca u7 dca 56p 1 20
+ic tc358768xbg u3 u5 2 p vfbga72 0404 0.40 a3 bga 包裝 72pin 150
+23 芯片 tm1637 sop20 1 u1 1000 1000 0 1000 tm1637 tm 1000.0 芯片 tm1637 sop20 1.0 u1
+闪光灯 驱动 ic flash led driver ic flash imax 720ma torch imax 170ma vbatmin 3.25 v 1.6 2.1 0.55 mm utdfn 1.5 2 6l sgm37892ayudt6g tr 1 1000 u1
+21 rfoa02 02 127 ic logic so18 uln2803lw uln2803 g s18 r utc 1 105
+drmos module csd95372bq5m topology drmos io 60a fosc 1.25 mhz 5mm 6mm csd95372bq5m 1 300
+31 贴片 ic td62084afg td62084afg sop 18 20 u13 u19 toshiba
+n1022202346 无铅 表贴 控制器 drv8353rsrgzt 电机 驱动器 电机 步进 多相 无刷 dc bldc 控制器 换向 方向 管理 半桥 3 稳压 3.3 v 350ma spi 通信 电流 25ma 6 v 95 v 40 ° c 125 ° c ta 48 vfqfn 7.0 mmx7.0 mmx1.0 mm 100
+31 ic 芯片 xl3005 to 263 5 1 u1 500
+u1 u2 u3 hr4988 qfn28 hr4988 qfn28 3 30
+67 集成电路 mc1413d so g16 1 500 500 d18
+12 2400 u201 u202 28 channel led driver issi is31fl3235a qfls2 tr
+19 8400 u401 u601 u801 u1001 mosfet h bridge driver md1822k6 g
+30 贴片 ic td62084afg td62084afg sop 18 20 u13 u19 toshiba
+77 贴片 ic td62084afg td62084afg sop 18 2000 u13 u19 toshiba
+84 tps61081 u 1 drc0010j 1 1000
+3 ic max7219cng dip24 200
+51 贴片 芯片 bl8023hcb6tr bl8023hcb6tr sot23 6 ru 1000
+01 ab gx ta1617 ic ic eta eta1617s2g sot23 6 1 120 eta1617s2g sot23 6 eta
+mic4422ym 9a peak low side mosfet driver soic 8 80.0
+1 20 u11 drv8432dkdr 595 drv8432dkdr motor motion ignition controllers drivers dual full bridge pwm motor drivers drv8432 36 hssop
+110100200397x ic pcf85176h 1 tqfp64 3000
+110100200894x cd ic led 背光 驱动 管理 芯片 lt3474efe pbf tssop 16 linear 卷带 2090
+23010 l6470h htssop28 2 200 u14 u61
+9.0 ic semtch qfn16 300x300x80 p50 sc620ultrt smt 1 u1 100
+46 lp5018anl smd magnetics 4port 1 1000 0
+9 akm semiconductor inc ap1013den ic motor driver 18v 16qfn u7 1 ea 100
+24 akm semiconductor inc ap1013den ic motor driver 18v 16qfn u7 1 ea 100000
+电机 驱动器 wson2x2 8 2 drv8837dsgr 1.0 10.0
+cat4002a sot26a 6n 15
+cat4101 to 263 10
+段码 驱动器 ht1622 ht1622 1 1 8duty 256seg qfp64 贴片 u1 2000
+62 6p7901b0 u17 s000976 dgtl iso 5.7 kv gate drvr 16soic iso5851qdwrq1 soic 24
+led 驱动 芯片 awinic aw9106btqr 1 10
+10 p20304000013 htqfp 4 drv8305nphpr drv8305nphpr 集成电路 250
+ucc27201ad 9200
+83 电机 驱动 芯片 drv8876pwpr htssop16 20
+112 贴片 ic drv8876pwpr tssop16 n pad 40
+6030910 am26c32idr 25 2020 02 10 2.083042

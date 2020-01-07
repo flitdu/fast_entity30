@@ -1,0 +1,151 @@
+354.0 11802047 自恢复 保险 bk60 110 s2p2 0.0
+354.0 11802047 自恢复 保险 bk60 110 s2p2
+保险丝 座 fy 520sk 密封 保险丝 座 5x20mm 带 littlefuse 021606.3 mxp 6.3 a 2 50v 5x20 快断 保险丝 富宽源 fuse 22 091807 040501 30
+贴片 自恢复 保险丝 smd2920p185tf ruilon 2920 091806 042401 61
+保险丝 座 fy 520sk 密封 保险丝 座 5x20mm 带 littlefuse 0216002 mxp 2a 2 50v 5x20 快断 保险丝 富宽源 fuse 22 091807 043601 30
+贴片 自恢复 保险丝 smd2920p185tf ruilon 2920 091806 042401 31
+保险丝 座 fy 520sk 密封 保险丝 座 5x20mm keyge 凯集 fuse 22 091807 040501 31
+陶瓷 保险丝 管 1a 2 50v 5 20mm 5 20 091804 034101 31
+贴片 自恢复 保险丝 smd0603 005 24v 50ma 24v 0603 r 091806 044901 107
+贴片 自恢复 保险丝 0603l020yr 200ma 9v 0603 r 091806 044801 43
+保险丝 座 fy 520sk 密封 保险丝 座 5x20mm 带 littlefuse 021606.3 mxp 6.3 a 2 50v 5x20 快断 保险丝 富宽源 fuse 22 091807 040501 30
+贴片 自恢复 保险丝 smd2920p185tf ruilon 2920 091806 042401 61
+保险丝 座 fy 520sk 密封 保险丝 座 5x20mm 带 littlefuse 0216002 mxp 2a 2 50v 5x20 快断 保险丝 富宽源 fuse 22 091807 043601 30
+贴片 自恢复 保险丝 smd2920p185tf ruilon 2920 091806 042401 31
+保险丝 座 fy 520sk 密封 保险丝 座 5x20mm keyge 凯集 fuse 22 091807 040501 31
+陶瓷 保险丝 管 1a 2 50v 5 20mm 5 20 091804 034101 31
+贴片 自恢复 保险丝 smd0603 005 24v 50ma 24v 0603 r 091806 044901 107
+贴片 自恢复 保险丝 0603l020yr 200ma 9v 0603 r 091806 044801 43
+自恢复 保险丝 3a24v scf300 24 2920r 2920 r 1.0 10000.0
+27 a14 002001 004 保险丝 014 a 1812 msmd014 12000 f1 f2 f3 f4 贴片
+1 d 贴片 保险管 smd1210p110tft 2a f1 c1210 m3225 50.0
+2 c0200158 保险管 10a 2 50v 4 11mm 速断 玻璃 带 管脚 dip 4 2000
+3 c0200159 保险管 392 方形 保险丝 3.15 a 2 50v 8.5 4.0 8.0 慢 熔 dip 盘装 dip 1 500
+6.0 保险丝 0.5 a 6v 0805 0805 smd jk smd0805 050 贴片 保险丝 0805 0.5 a 610
+47 sxfc30000190 4f fuse h polyswitch fuse raychem minismdc110f 2 1.1 a 8v smd 4.73 x3.41 mm raychem minismdc110f 2 1 500 2000
+rst 2 bulk fuse mount 2a 2 50v ac rad slow f1 bel fuse inc rst 2 bulk 80 x40 x77 1 10
+82.0 12090011 ptc ih 0.05 a it 0.15 a vmax 60v imax 10a 3.6 50 ω 1206 smd1206r005sf 32400 smd1206r005sf nsmd1206 9
+0101 150017 保险丝 160 uda a 8a 2 50v 5h20
+0101 150029 保险丝 400 15a 2 50v d23l21w45 h45 52nm
+fuse 自恢复 保险丝 l1812 15
+f1 f31 incorporated 16r900gf 自恢复 保险丝 pptc ptc 16v 9a poly radial leads 20
+f2 16 aem f1206hi2000v063t 保险丝 1206 2.0 a 63v 152
+玻璃 保险丝 5 20 220v6a 100 0.05
+71 保险管 fuse r0603 467.002 smt 467.002 1 40
+72 保险管 tf fuse fast blow sbu 000465 ohm 63v 10adc 1206 3216 0458010 dr smt 0458010 dr 8 320
+73 保险管 tf fuse fast blow sbu ibm 78p2133 0027 ohm 75v 5adc 1206 3216 0458005 dr smt 0458005 dr 2 80
+40 保险管 tf fuse fast blow sbu 000465 ohm 63v 10adc 1206 3216 0458010 dr smt 0458010 dr 19 760
+11 130001 保险丝 lf4a 50
+11 130004 自恢复 保险丝 mf nsmf110 2 6v 1206 11 a 100
+自恢复 保险丝 r1 1210 smd1210p050tf 1 10000
+f1 保险丝 minismdc200f 2 minismdc200f 2 1812 fuse 1 inc 6
+f1 f3 f4 f5 f6 f7 f9 0805 保险丝 5v 100ma 5v 100ma 0805l 7 105
+f2 保险丝 minismdc200f 2 minismdc200f 2 1812 fuse 1 15
+f8 自恢复 保险丝 ruef300 ruef300 ruef300 1 15
+2 24v 0.5 a f1 f2 1206 resettable fuse pptc 24v 500ma 1206 nsmd050 24v 40.0
+4 12v 0.5 a f1 f2 f3 f4 1206 resettable fuse pptc 12v 500ma 1206 nsmd050 12v 80.0
+21 保险丝 5v 2a 6v scf200 1206r f1206 1 f1 2100
+60601000440 0603l050yr ptc 复位 保险丝 6vdc 0.5 a 0603 2pin smd 90
+60601000450 1812l110 33 限流 保护器 ptc 复位 保险丝 33vdc 1.1 a 1812 2pin smd 80
+60601001190 2920l300 15dr 限流 保护器 ptc 自恢复 保险丝 15v 3a 2920 2pin smd 870
+60601001200 2920l500 16mr 限流 保护器 ptc 自恢复 保险丝 16v 5a 2920 2pin smd 1775
+5 11 0111 013 010 方型 保险 t1a 2 50v 8 4mm f1 1 10000.0
+26 0118 00055 保险 fuse 300v tl te5 ll ammo 1a fuse 300v tl te5 ll ammo 1a 1050
+16 熔丝 1812l020pr littlefuse 1812l020pr 1812 littlefuse 1500
+48.0 直插 方形 保险 39212000000 t2a 2 50v 慢 熔 f1 5.08 mm 1.0 1000
+67 smd1812p260tf 12 f1 1 1812 ihold 26 a vmax 12vd c imax 100a smd1812 hf series surface mount ptc devices polytronics 200
+po20190026 温度 3000017693 保险丝 塑封 慢 熔断 2008.001 额定电流 1a 额定 电压 2 50v 130
+smd1812p260tf 12 f1 1 1812 ihold 26 a vmax 12vd c imax 100a smd1812 hf series surface mount ptc devices polytronics 200
+po20190026 温度 3000017693 保险丝 塑封 慢 熔断 2008.001 额定电流 1a 额定 电压 2 50v 130
+f1 fuse 2a2 50v 10000
+f1 34030284 23 1 schurter schurter 10a 电流 t 熔度 贴装 熔断器 154 x 535 x 535 mm 100
+f2 34030284 23 1 schurter schurter 10a 电流 t 熔度 贴装 熔断器 154 x 535 x 535 mm 100
+7.0 msmd100 60v 1206 f1 f2 2.0 20.0
+130 046w100616311 6 703300000001 保险丝 polyswitch minismdc260f 2 6v 2.6 a smd raychem minismdc260f 3 300 mbs 5330 3.0
+55 05007 00275 自复型 引线 端接 熔断器 mf r050 1 f4 22
+56 05035 01392 自复型 引线 端接 熔断器 mf r110 3 f1 f2 f5 66
+57 05035 01394 自恢复 保险丝 rxef375 径向 引线 375 a 72vdc 1 f3 22
+55 05007 00275 自复型 引线 端接 熔断器 mf r050 1 f4 44
+56 05035 01392 自复型 引线 端接 熔断器 mf r110 3 f1 f2 f5 66
+57 05035 01394 自恢复 保险丝 rxef375 径向 引线 375 a 72vdc 1 f3 22
+wi fse 0001 f1 f2 240v 330ma 2 resettable fuse littlefuse lvr033s 2 lvr033s 2ct nd 1560
+091806 034201 保险 座 ptf 77a 2 50v 1.5 a 16
+55 05007 00275 自复型 引线 端接 熔断器 mf r050 1 f4 44
+56 05035 01392 自复型 引线 端接 熔断器 mf r110 3 f1 f2 f5 66
+57 05035 01394 自恢复 保险丝 rxef375 径向 引线 375 a 72vdc 1 f3 22
+60r300x overcurrent protection 3d rad0.4 f8 f9 2.0 750.0
+0805l010 24 littlefuse resettable ptcs 3d res 0805 f1 f2 f3 f4 f5 f7 r33 r34 r35 r36 r37 r38 r39 r40 r41 r42 r43 r44 r65 r66 r67 r68 r69 r70 r71 r72 r73 r74 r75 r76 r97 r98 r99 r100 r101 r102 r103 r104 r105 r106 r107 r108 r129 r130 r131 r132 r133 r134 r135 r136 r137 r138 r139 r140 r161 r162 r163 r164 r165 r166 r167 r168 r169 r170 r171 r172 r338 r339 r340 r341 r342 r343 r346 r347 r348 r349 r350 r351 r352 r353 r354 r356 r357 r358 r359 2.0 29750.0
+1812l010 60 littelefuse 100ma resettable ptc 1812 rt3 rt5 rt6 rt7 rt8 rt9 rt10 rt11 rt12 rt13 2.0 3500.0
+1812l110 33 littelefuse 2a trip resettable ptc 1812 rt2 2.0 350.0
+4g2403b0 f03 s52 2a multicomp mc12ct cc12h2a 63v liteelefuse 1206 保险丝 986
+24 1 100 f1 15 a 1812 24v c142805 1812l150 24 保持 电流 15 a 触发 电流 3a 耐压 24v rmax012 ω item szlcsc 154136 html
+9 109 130001 保险管 熔断 保险丝 管 05 a 3 00000
+2 0101 150017 保险丝 uda a 8a 2 50v # 5h20 速断 500 0216008 mxep 1300
+5 0101 150029 保险丝 15a 2 50v d23l21w45 h45 52nm 1000 abp a 15a 2 50v 1300
+f1 1.1 amp ptcfuse 1812 1812 ptc fuses 20
+保险丝 1a 2 50v 2410 贴片 f1 3012r 1.0 100.0 bottom
+5a 贴片 陶瓷 保险管 0437005 wr cq12lh005 额定电流 5a 额定 电压 32v 分断 能力 50a32vac 50a35vdc 32 163 082 mm 熔断 特性 快速 熔断 陶瓷 fuse2 0437005 wr 优恩 半导体 un1206 1500ts 1 300
+1812l110 33mr resettable fuse 2.5 a 1812 smd 1812 1812l110 33mr 300 9920 7000 1000
+1812l110 33mr 1812 resettable fuse 2.5 a 1812 smd 1812l110 33mr 600 9920 7000 0988
+f060 直插 pptc 自恢复 保险丝 30 90
+跨距 5mm 30v 1.1 a pptc r44 30v 1.1 a pptc 直插 自恢复 保险丝 保险管 1 200
+u21 lsmd300 lsmd300 1 10
+103 自恢复 保险丝 smd050 1206 0.5 a 6v 1206 伯恩斯 1 500 500 f1
+104 自恢复 保险丝 1812 minismdc260f 16 1812 raychem 2 500 1000 f3 f4
+36 自恢复 保险丝 tr250 090 2 brightking 8000
+15 1200 f101 pptc 1.5 a trip 6v 1206.0 bel f 0zcj0075ff2e
+16 6400 f102 f 100v 250ma 2512 bel f 0679l0250 05
+19 15200 f102 f 125v 160ma 2512 sf 2410fp016t 2
+60601000810 mf msmf020 2 限流 保护 器件 ptc 30v 0.2 a 1812 2pin smd 20
+60601001300 nsmd012 限流 保护 器件 ptc 自恢复 保险丝 30v 120ma 1206 2pin smd 竞沃 100
+60601001330 mf msmf150 2 限流 保护 器件 ptc 自恢复 保险丝 6v 1.5 a 1812 2pin smd 20
+cfs12v3t2r50 cfs12v3t2r50 f1 r1206 3d 1 10
+25 f1 bk60 090 rad 0.2 1 5
+25 f1 bk60 090 rad 0.2 1 50
+0603 r 200ma 200ma ptc1 ptc2 ptc 自恢复 保险丝 2 60 9v
+36 贴片 装 保险 1206l012 0.125 a 30v a 利特 f 700
+46 贴片 装 保险 1206l025 0.25 a 16v d 300
+113 贴片 保险丝 jk nsmd025 jk nsmd025 r1206 jf jk 200
+54 贴片 保险丝 smd1812p014tf brightking smd 4100
+25 贴片 保险丝 smd1812p110tf 33 smd 1133 pttc 250
+55 贴片 保险丝 smd1812p150tf 24 brightking smd 400
+44 贴片 装 保险 1812l110 33 1.1 a 33v lf110 33 100
+49 贴片 装 保险 smd1812p200tf 16 smd jk 200 pttc 50
+27 贴片 保险丝 smd2920 250 15 smd jk 250l pttc 50
+116 贴片 保险丝 smd2920b250tf smd pttc 50
+200 10 f1 15a 32v pudenz 1786165 0002 fuse 15a pudenz pudenz 178 6165 3000
+15 cfs12v3t2r50 cfs12v3t2r50 f1 1 10
+0.75 a 33v msmd075 33v f0 1812 r 2 200 1 200
+6a 24v f1206sb6000v024tm aem f1 1206 r 2 200 1 200
+27.0 19040137 50ct t5h 2 50v p 1 50 保险丝 b fuse time lag fuse 2 50v ac 5a 5 20mm with lead iec ul eu cn
+28.0 19040320 50ct p t15ah 2 50v 1 50 保险丝 b fuse time lag fuse 2 50v 15a ￠ 5.8 22.5 mm axial leaded iec ul
+49823 0697h1600 01 bel fuse 164
+49835 0697h1600 01 bel fuse 320
+49847 0697h3150 01 bel fuse 11
+49859 0697h3150 01 bel fuse 20
+49871 0697h5000 01 bel fuse 21
+49883 0697h5000 01 bel fuse 40
+49955 08b0 1x1t 36 f bel fuse 11
+49967 08b0 1x1t 36 f bel fuse 20
+49823 0697h1600 01 bel fuse 164
+49835 0697h1600 01 bel fuse 320
+49847 0697h3150 01 bel fuse 11
+49859 0697h3150 01 bel fuse 20
+49871 0697h5000 01 bel fuse 21
+49883 0697h5000 01 bel fuse 40
+49955 08b0 1x1t 36 f bel fuse 11
+49967 08b0 1x1t 36 f bel fuse 20
+51743 trf250 184 littlefuse 2140
+保险管 f1 fuse 1812 1 5
+4 ptc 自恢复 保险丝 30v 0.5 a smd1812b050tf 30 brightking 1812 2000
+24 保险丝 座 01550900m 01550900m 0154005 保险丝 11
+25 贴片 自恢复 保险丝 asmd1812 300 jdtfuse 电通 1812 11
+87 贴片 保险丝 154005 smd f1 上 11
+27 5 10 贴片 保险丝 盒 10a 01550900m 01550900m 11
+28 5 10 贴片 保险丝 盒 10a 01550900m 01550900m 11
+29 贴片 保险丝 045201.5 smd 保险丝 座 f1 上 11
+30 贴片 保险丝 0452003 smd 保险丝 座 f2 上 11
+16 一体化 保险丝 0154002 dr smd 01550900m 11
+36.0 保险丝 4.5 a 12v microsmd450lr c 2 1.0
+37.0 保险丝 0.05 a 60v 0zrr0005ff1e 7.0 bel fuse
+15 保险丝 pptc 自恢复 f1 0.25 a 135v lvr025s 1 20

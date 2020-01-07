@@ -1,0 +1,336 @@
+晶体 27.120 mhz ± 20ppm 20pf 20 ℃ 70 ℃ smd3225 1
+晶体 32.768 khz ± 10ppm 12.5 pf 45 ℃ 85 ℃ smd 3215 1
+晶体 8.000 mhz ± 20ppm 20pf 20 ℃ 70 ℃ smd 5032 1
+334.0 11801003 晶震 8m 直插 0.0
+335.0 11801009 贴片 有源 晶振 5v 4m 7050 0.0
+336.0 11801011 贴片 晶振 8m xtal 49s 0.0
+337.0 11801014 晶振 4.096 m 直插 49.0
+338.0 11801019 晶振 3.6864 mhz hc49 4h smx 208586 0.0
+339.0 11801025 贴片 晶振 12mhz 3225 娄红舟 200.0
+340.0 11801026 贴片 晶振 32.768 khz xtal2 3p2x1p5 sm 娄红舟 200.0
+341.0 11801027 晶振 直插 8m 无源 pin 5mm 201290 娄红舟 380.0
+355.0 11803004 贴片 晶振 8m 蓝 50.0
+2 晶振 32.768 khz ± 20ppm 圆形 双脚 直插 2 6mm 1 y1
+334.0 11801003 晶震 8m 直插
+335.0 11801009 贴片 有源 晶振 5v 4m 7050
+336.0 11801011 贴片 晶振 8m xtal 49s
+337.0 11801014 晶振 4.096 m 直插
+338.0 11801019 晶振 3.6864 mhz hc49 4h smx
+339.0 11801025 贴片 晶振 12mhz 3225
+340.0 11801026 贴片 晶振 32.768 khz xtal2 3p2x1p5 sm
+341.0 11801027 晶振 直插 8m 无源 pin 5mm
+355.0 11803004 贴片 晶振 8m 蓝
+37 晶振 x2 12m 49s 20pf 5ppm 1.0
+38 晶振 x1 32678 2 6 15pf 1.0
+贴片 晶振 8mhz ecs 80 18 5px tr esc cyr1 091809 014001 31
+贴片 晶振 25mhz 20pf sjk xtal3225 091809 014101 61
+贴片 晶振 32.768 khz 7.0 pf sjk xtal3215 091809 014201 31
+贴片 晶振 8mhz ecs 80 18 5px tr esc cyr1 091809 014001 31
+贴片 晶振 25mhz 20pf sjk xtal3225 091809 014101 61
+贴片 晶振 32.768 khz 7.0 pf sjk xtal3215 091809 014201 31
+15 贴片 晶体 27.12 mhz 10ppm smd 2520 4p 1 200 10000 y1
+fc 135 7pf fc 135 y1 1 2600
+12mhz cfpx 5 y2 1 2600
+12 晶振 dsx3225 24mhz 10ppm dsx3225 y2 1 伦茨
+12 晶振 24mhz 10ppm dsx3225 1 400000
+晶振 hc 49s 8mhz 20ppm crystall hc 49s 1.0 10000.0
+91 贴片 晶振 rs crystal 0 8m 8m 1 6377 8108
+92 贴片 晶振 crystal smd 24mhz 20ppm 24mhz 1 6377 8108
+93 贴片 晶振 crystal smd 27mhz 20ppm 27mhz 1 6377 8108
+94 贴片 晶振 crystal smd 32.768 khz 20ppm 32.768 khz 1 6377 8108
+15 贴片 晶体 27.12 mhz 10ppm smd 2520 4p 1 y1 sx25y027120ba1t tkd 10000 0.7 1 2d 27.12 mhz 10pf ± 10ppm smd 2520 4p
+80 a08 001015 003 晶体 谐振器 晶体 谐振器 8mhz ± 20ppm smd 49s 40 ℃ 85 ℃ 49smd8ecmq1f 3000 y1 贴片
+81 a08 001017 001 晶体 谐振器 晶体 谐振器 25mhz 5 32 mm ± 20ppm 20 ℃ 70 ℃ sjk 7i2 25000 12 20 40 f b 30 3000 y2 贴片
+82 a08 001016 005 晶振 32768 m 20ppm 3225 12pf 40 ω max 40 85 ℃ smd322532768 eemm1f 3000 y3 贴片
+29 1 4000 crystal resonator 37.768 khz cmr200t32768dzft 300 8340 1 nd d
+60 a08 001015 003 晶体 谐振器 晶体 谐振器 8mhz ± 20ppm smd 49s 40 ℃ 85 ℃ 49smd8ecmq1f 3000 y1 贴片
+61 a08 001017 001 晶体 谐振器 晶体 谐振器 25mhz 5 32 mm ± 20ppm 20 ℃ 70 ℃ sjk 7i2 25000 12 20 40 f b 30 3000 y2 贴片
+62 a08 001016 005 晶振 32768 m 20ppm 3225 12pf 40 ω max 40 85 ℃ smd322532768 eemm1f 3000 y3 贴片
+10.1 有源 3.3 v 贴片 晶振 hxo 36b 30.000 m 5 7 帖片 3v 1 4 真空 kds
+10.2 插脚 晶振 20.0000 mhz hc 49s 1 4 以太网 1 真空 kds
+10.3 插脚 晶振 11.0592 mhz hc 49s 插脚 3v 1 4 真空 kds
+10.4 插脚 晶体 32.768 khz 2 6mm 插脚 3v 1 4 真空 kds
+69 tz1689a 晶体 无源 26mhz 7.3 p 3225 7v26000028 crystal 26mhz u201 1 7v26000028 20
+80 fcx 05 晶体 无源 26mhz 2520 crystal 2520 u1501 1 fcx 05 20
+12 e09011005 贴片 晶振 32.768 khz ± 20ppm 9pf 4.1 1.5 mm smd 3.3 mm 2pin 方形 无源 1
+13 e0900200001 贴片 晶振 20.000 mhz 10pf ± 30ppm smd5032 2pin 0 1
+9 c0100109 贴片 晶振 za9 smd2025 20.000 mhz 3.3 v 方型 ± 30ppm smd2025 smd2025 1 500
+18 109 0602 0002 直插 晶振 32768 khz 石英 晶体振荡器 双脚 直插 10 00000 2019 09 06
+12 smd5032 2p 晶振 8mhz 20ppm smd5032 2p 1 10000
+32.768 khz 12.5 pf 晶振 y1 xtal 3215 1.0 ndk nx3215sa 32.768 k std mus 2 100
+fa 238 32mhz 3225 晶振 32mhz 3225 9pf 晶振 y2 y 3225 1.0 希华 xtl571150 s417 004 100
+12 smd5032 2p 晶振 8mhz 20ppm smd5032 2p 1 10000
+1 1120.0 2005020009 钟振 1.0 b 80 振荡器 8m smd7050 3.3 v
+1 1130.0 2005020015 钟振 1.0 b 80 振荡器 25.000 mhz cxo smd7050 3.3 v
+23 无源 晶振 12.000 mhz hc 49 sip 2 1 cx1 50
+c295075 49s 晶振 16mhz 20pf30ppm 40 ℃ 85 ℃ dip hc 49s 30.0 taitien
+c295080 49s 晶振 3.6864 mhz 20pf30ppm 40 ℃ 85 ℃ dip hc 49s 30.0 taitien
+42 贴片 无源 晶振 16mhz 3225 1 10
+43 mc 146 贴片 无源 晶振 32.768 k 4 脚 18mm 78mm 1 10
+70 贴片 无源 晶振 32.768 khz smd 3215 2p 1 y2 n q13fc1350000400 1050
+121 sxfc30000045 3x osc xtal h x tal 14.318 mhz aker cxa 014318 5d4d41 smd 5x3.2 20pf 20ppm 40 85d aker cxa 014318 5d4d41 1 500 2000
+136 sxfc30000044 3x osc xtal 3x osc xtal 1 500 2000
+171 sxfc30000046 3x osc xtal osc 24mhz sg 5032can 24mhz tjga 3.3 v smd 5x3.2 15pf 50ppm 40 85 ° c sg 5032can 24mhz tjga 1 500 2000
+200 sxfc30000048 3x osc xtal x tal 16mhz aker cxa 016000 3d7d40 smd 3.2 x2.5 12pf 20ppm aker cxa 016000 3d7d40 1 500 2000
+201 sxfc30000047 3x osc xtal x tal 25mhz x1e000021067700 smd 3.2 x2.5 12pf 10ppm 40 85 c x1e000021067700 8 4000 16000
+贴片 晶振 16m x1 x4 x6 m2520 3.0 smd 2520 16mhz 8pf ± 15ppm ndk 3000
+贴片 晶振 32.768 k x2 x5 x7 fc 135 3.0 fc 135 32.768 khz ± 20ppm 9.0 pf toyocom 3000
+贴片 晶振 27.12 m x3 m3225 1.0 27.1200 mhz ± 30ppm 1000
+62501001090 晶振 晶振 24mhz 3.3 v smd4 3.2 2.5 4pin smd xo32 yactc 24.000 mhz 5 1.0
+84 8mhz 晶振 y1 osc 2 10
+12 smd5032 2p 晶振 8mhz 20ppm smd5032 2p 1 10000
+12 smd5032 2p 晶振 8mhz 20ppm smd5032 2p 1 20
+63 晶振 wg3q 16mhz mil std 883b sit8924ba 33 33n 16 4
+105 贴片 晶振 14.7456 5v 有源 晶振 5070 10
+smd5032 2p 晶振 8mhz 20ppm smd5032 2p 1 20
+32m xtal3225 txc 4 脚无源 晶振 3225 15
+105 贴片 晶振 14.7456 5v 有源 晶振 5070 10
+7 a010110159 圆柱体 晶振 yt 26 32.768 khz 12.5 pf 10ppm 2x6 tht 1 y1 yt 26 32.768 khz 12.5 pf 10ppm 2x6 6000.0
+62501000650 晶振 晶振 dsc1001di1 025.0000 25.000 mhz 2520 4pin smd dsc1001di1 025.0000 12
+62501000660 晶振 晶振 dsc1001di1 033.3300 33.3300 mhz 2520 4pin smd dsc1001di1 033.3300 12
+62501001620 62501.0 晶体振荡器 晶体振荡器 200mhz 2.25 ^ 3.63 v 25ppm 3.2 2.5 6pin smd dsc1103ci2 200.0000 6
+62501001630 62501.0 晶体振荡器 晶体振荡器 125mhz 2.25 ^ 3.63 v 20ppm 3.2 2.5 6pin smd dsc1103ci3 125.0000 6
+62501000950 无源 晶振 无源 晶振 32.768 khz ± 20ppm 12.5 pf 3.2 1.5 0.8 2pin smd fc 135 32.768 khz 12.5 pf 20ppm 7
+98 贴片 晶体 smd 24mhz 12pf 20ppm 3225 1 y1 98 mxmfm22 7v24000020 txc 1 2 7 1127 7889 5
+99 贴片 晶体 smd 12mhz 12pf 10ppm 3225 1 y2 99 mxmfm23 sx32y012000bc1t tkd 1 2 7 0805 5635 5
+11001 0000 晶振 x3s012000bk1h 石英 晶体 谐振器 12mhz 20pf 4pin 温度 频差 ± 30ppm 温度 40 ℃ 85 ℃ 3225 y1 1 6
+11001 0002 石英 晶体 谐振器 nx3215sa 石英 晶体 谐振器 32768 khz 2pin 125 pf 频差 ± 20ppm 温度 频差 ± 10ppm 温度 40 ℃ 85 ℃ 3215 ndk y2 1 6 ndk
+1 x1 conn heade 4pos 1.25 mm vert smd 65 wm7608ct nd 53398 04 53398 0471 ok 520.0
+1 x5 conn header 1mm 4pos ra smd tin 2275 wm7895ct nd 5015680407 5015680407 ok 520.0
+1 x7 conn header 1mm 4pos smd tin 1668 wm7881ct nd 5013310407 5013310407 ok 520.0
+33 贴片 晶振 16mhz smd2520 4p smd2520 4p 16mhz 9pf 10ppm
+33 贴片 晶振 16mhz smd2520 4p smd2520 4p 16mhz 9pf 10ppm 1000
+6107 s16m0002 晶体 crystal 16mhz ± 10ppm 12pf 2016 ael x16m000000s217 txc 8y16000001 100 7f16000e12ucg sjk 100 3 0690265 smd 2016 4p
+6107 s24m5705 晶体 crystal 24576 mhz ± 10ppm 20pf 1612 harmony x1c024576bc1h x harmony x1c024576bc1h x 100 x503224576msb4si yxc 100 3 0936638 smd 5032 4p
+6107 s16m0002 晶振 crystal 16mhz ± 10ppm 12pf 2016 ael x16m000000s217 x16m000000s217 100 7f16000e12ucg sjk 100 3 0707257
+240 晶振 crystal 24mhz 50ppm 15pf 3.2 2.5 mm x4s32x25h11 txc 7x24000005 smt txc 7x24000005 1 40
+241 晶振 crystal 50mhz ± 25ppm 15pf diodes fk5000037 3.2 2.5 smt diodes fk5000037 1 40
+243 晶振 crystal 48mhz ± 20ppm 10pf 70kohm x4s32x25 txc 7v48000017 smt txc 7v48000017 1 40
+244 晶振 crystal 32.768 khz ± 20ppm cl 12.5 pf 40 85c 3.2 1.5 mm 2p txc 9h03200031 smt txc 9h03200031 1 40
+245 晶振 crystal 25mhz cl 20pf ± 10ppm x4s32x25 txc 7v25000018 smt txc 7v25000018 2 80
+6107 s16m0002 晶体 crystal 16mhz ± 10ppm 12pf 2016 ael x16m000000s217 txc 8y16000001 1000 7f16000e12ucg sjk 1000 3 0690265 smd 2016 4p
+6107 s24m5705 晶体 crystal 24576 mhz ± 10ppm 20pf 1612 harmony x1c024576bc1h x harmony x1c024576bc1h x 1000 x503224576msb4si yxc 1000 3 0936638 smd 5032 4p
+6107 s16m0002 晶振 crystal 16mhz ± 10ppm 12pf 2016 ael x16m000000s217 x16m000000s217 1000 7f16000e12ucg sjk 1000 3 0707257
+11 060026 有源 晶振 sit9121ai 2b3 33e15000000 y 20
+11 060027 有源 晶振 sit9121ai 2b3 33e148500000 y 20
+11 060028 无源 晶振 416f30022ckr 30mhz 10
+晶振 y1 smd 5032 2p 温漂 20 负载 12 8m txc 1 10000
+y1 2 脚无源 晶振 abm3 25mhz abm3 25mhz xtal 5x3.2 1 5
+y1 有源 晶振 16m 625l3c016m00000 625l3c016m00000 osc cts 625 1 15
+y2 二脚 无源 晶振 25m abm3 25mhz abm3 25mhz xtal 5x3.2 1 15
+1 有源 振荡器 有源 振荡器 65.536 mhz 3.3 v 3225 贴装 ± 30ppm 1000
+1 12mhz y1 smd 3.2 x2.5 mm crystal clock oscillator smt 3.2 x 2.5 mm x322512msb4si yxc 20.0
+nx3225sa 20.000 m cry4 3225 smd 3.2 mm 2.5 mm ndk x1 x2 crystal 4pin dsp 旋变 无源 晶体振荡器 2.0 8.0
+nx3225sa 30.000 m cry4 3225 smd 3.2 mm 2.5 mm ndk y1 crystal 4pin dsp 旋变 无源 晶体振荡器 1.0 4.0
+sg 310 scf c 20.0 mhz sg 310 scf 20.4800 ml0 cry4 3225 smd 3.2 mm 2.5 mm y2 标准 时钟 有源 振荡器 20.48 mhz 3.3 volt 50ppm 40c 85c 1.0 4.0
+8m 3000 1 5032 8m
+90 贴片 晶振 25m 5032 xtal 5032 1 x1 2100
+91 贴片 晶振 12m 3225 xtal 3225 1 x3 2100
+x50328msb2gi yxc 3000 1 5032 8m
+62502000251 x322525mrb4si 晶体 谐振器 无源 25mhz 18pf ± 10ppm 3.2 2.5 mm 4pin smd yxc 50
+72502000221 49s 25.000 mhz 20pf 晶体 谐振器 25.000 mhz 11.05 4.65 p4.88 2pin dip 5
+24 ecs 120 10 36b cwy tr crystal 12mhz ecs smd 5000 ecs 120 10 36b cwy tr ecs 990 5 7 days 1 1 0.27 267.3
+25 ecs 240 10 36b ctn tr crystal 24mhz ecs smd 5000 ecs 240 10 36b ctn tr ecs 950 5 7 days 1 1 0.23 218.5
+26 ecs 250 10 36b ctn tr crystal 25mhz ecs smd 10000 ecs 250 10 36b ctn tr ecs 900 5 7 days 1 1 0.23 207
+27 ecs 270 10 36q aes tr crystal 27mhz ecs smd 5000 ecs 270 10 36q aes tr ecs 2500 5 7 days 1 1 0.51 1275
+8m 20pf 20ppm 晶振 y1 5032 2p 10 1 txc
+200 贴片 晶体 32.768 khz ± 20ppm 12.5 pf 基频 6.9 1.4 1.3 mm 40 85 ℃ 32.768 khz osd mc146 1 20 2000 30000
+201 贴片 晶体 贴片 晶振 24.000 mhz ± 20ppm smd3225 txc 24mhz 30 ℃ 85 ℃ 24m 10p 3225 1 20 2000 30000
+202 贴片 晶体 贴片 晶振 26.000 mhz ± 20ppm smd3225 txc 26mhz 30 ℃ 85 ℃ 26m 7.5 pf ± 10p 3225 1 20 2000 30000
+203 贴片 晶体 25mhz ± 10ppm 20pf s3225000201060 smd3225 s3225000201060 3225 1 20 2000 30000
+204 贴片 有源 晶体 32.768 khz ± 30ppm v 3.3 v osc32327683350 smd3225 d3sx00327000qe 3.3 v hosonic tcxo 3225 s 1 20 2000 30000
+205 贴片 晶体 8m 20pf 20ppm smd5032 pns53080002020100 8mhz 20ppm 20 si5032 1 20 2000 30000
+43 1777 0 43 ecs resonator thd resonators sip 3 cer res 4.0 mh dip 3pin ztt 4.00 mg 1.0 10000
+194 hosonic 无源 晶体 谐振器 1 yw1 e3sb 3225 37.4 mhz 12pf ± 10ppm cry4 3r20x2r50x0r80
+195 hosonic 无源 晶体 谐振器 1 y1 e3sb 3225 27mhz 10pf 10ppm cry d3225 27mhz 10ppm smd3225 无源
+93 1 晶体 谐振器 y1 tsx 3225 24.000000 mhz 12pf ± 10ppm cry4 3r20x2r50x0r80 24m 12pf 10ppm 无源
+95 1 citizen 晶体 谐振器 y3 cmr200t32768dzft cry2 6r90x1r40x1r30 32.768 k 12pf 20ppm
+37.0 无源 晶振 xiheecnanf 8.192000 mhz x1 11.1 4.68 mm 1.0 1000
+38.0 无源 晶振 xiheecnanf 6.553600 mhz y1 11.1 4.68 mm 1.0 1000
+000440 u5 集成电路 ic 12mhz osc clock osc 12mhz 33 v asemb 12000 mhz lc t 1 abracon 1120
+40 x1 10 resonator 4mhz ceramic resonator 4mhz ceramic resonator built capacitor 30pf ± 03% 30 ohms 20 ° c 80 ° c through hole through hole ecs c ztt 400 mg
+40 x1 10 resonator 4mhz ceramic resonator 4mhz ceramic resonator built capacitor 30pf ± 03% 30 ohms 20 ° c 80 ° c through hole through hole ecs c ztt 400 mg
+703514000100.0 晶振 green 25mhz 20ppm 20pf 5x3.2 mm 4p 750uw smd mercury mercury mj 25.000 20 20y d 1.0 100.0
+703514000300.0 晶振 48 mhz 30ppm 20pf 5x3.2 mm smd mercury mercury mj 48.000 20 1.0 100.0
+703514000200.0 晶振 25.00075 mhz 20ppm 20pf 5x3.2 mm 4p smd mercury mercury mj 25.00075 20 20 30y 4.0 400.0
+703514000500.0 晶振 osc 32.768 khz 3.3 v 50ppm cmos 4p 7x5 smd mercury 3ha57 et 32.768 k mercury 3ha57 et 32.768 k 2.0 200.0
+703514000400.0 晶振 green 24mhz 3.3 v 50ppm 5x3.2 mm 4p smd mercury mercury 3h53 bt 24.000 1.0 100.0
+44 1 x1 smd 3215 2p32.768 khz12.5 pf10ppm 10 yxc smd 3215 2p32.768 khz12.5 pf10ppm smd 3215 2p32.768 khz12.5 pf10ppm tae 10 3 0.74 7.4 tae
+45 1 y1 25m 晶振 sm7745hev 25.0 m 10 pletronics 25m 晶振 sm7745hev 25.0 m sm7745hev 25.0 m pletronics 10 7 12 9.4397 94.4
+46 1 gj1 26m 晶振 7l26002009 10 txc 26m 晶振 7l26002009 7l26002009 txc 10 3 2.86 28.6
+80 osc d0406a txc 7c series 40 y1 8 8 txc 7c series 5 3.2 mm 40mhz 3.3 v oscillator txc 7c series 5 3.2 mm cmos 1600
+po20190026 温度 3000020090 贴片 无源 晶振 无源 贴片 晶振 cpx53gb 8mhz 2pads smd 5.0 3.2 1.2 140
+osc d0406a txc 7c series 40 y1 8 8 txc 7c series 5 3.2 mm 40mhz 3.3 v oscillator txc 7c series 5 3.2 mm cmos 1600
+po20190026 3000020090 贴片 无源 晶振 无源 贴片 晶振 cpx53gb 8mhz 2pads smd 5.0 3.2 1.2 cpx53gb 770
+po20190026 温度 3000020090 贴片 无源 晶振 无源 贴片 晶振 cpx53gb 8mhz 2pads smd 5.0 3.2 1.2 cpx53gb 140
+贴片 晶体 32.768 khz ± 20ppm 3215 2p 3215 两 引脚 1 xt1
+21.0 1.8432 mc rad0.2 xt1 1.0 10.0 直插
+14.0 1.0 mc 贴片 xt1 1.0 10.0
+22.0 晶振 3.6864 mhz 直插 xth1 1.0 10.0
+38 065w0327011a1 282 703514000700 晶振 32.768 khz 20ppm 12.5 pf 6.9 x1.4 x1.3 mm mc 146 smd q13mc14620002xx 1 100 mbs 5330 1.0
+39 065w000007000 283 晶振 xtal 25 mhz 10ppm 12pf 3.2 x2.5 4p smd tsx3225 25m 12pf 10ppm 4085 1 100 lio 53303 1.0
+97 065w000015000 284 703514000600 晶振 xtal 25.000375 mhz 15ppm 20pf 5x3.2 4p smd mercury mj 25.000375 20 15 15 y 4 400 mbs 5330 4.0
+98 065w025011281 285 703514000100 晶振 25mhz 20ppm 20pf 5x3.2 mm 4p 750uw smd mercury mercury mj 25.000 20 20 y d 1 100 mbs 5330 1.0
+99 065w025111281 286 703514000200 晶振 25.00075 mhz 20ppm 20pf 5x3.2 mm 4p smd mercury mercury mj 25.00075 20 20 30 y 1 100 mbs 5330 1.0
+100 065w048013281 287 703514000300 晶振 48 mhz 30ppm 20pf 5x3.2 mm smd mercury mercury mj 48.000 20 1 100 mbs 5330 1.0
+101 066w000015000 288 703514000500 晶振 osc 32.768 khz 3.3 v 50ppm cmos 4p 7x5 smd mercury mercury 3ha57 et 32.768 k 2 200 mbs 5330 2.0
+102 066w240141001 289 703514000400 晶振 24mhz 3.3 v 50ppm 5x3.2 mm 4p smd mercury mercury 3h53 bt 24.000 1 100 mbs 5330 1.0
+5 066w000035000 349 有源 晶振 osc 1.8432 mhz 3.3 v 50ppm cmos 4p 3.2 x2.5 smd argo wt type argo agxo 1.8432 m 3.3 v s3225 cs c z o tr 1 100 lio 53303 1.0
+wi xtl 0002 y1 y2 16mhz 10pf 2 crystal 16.000 mhz 10pf smd ecs international ecs 160 10 37 rwm tr xc2119ct nd smd smt 1560
+091809 013501 晶振 dsx321g 8m 3225 117
+77 晶振 hc 49smd 8mhz txc sm49 xtal ws090001 1 9200
+40 x1 10 resonator 4mhz ceramic resonator 4mhz ceramic resonator built capacitor 30pf ± 03% 30 ohms 20 ° c 80 ° c through hole through hole ecs c ztt 400 mg 10000 ztt 400 mg ecs 100 8 12workg days 3014 3014 shortage
+dst311s 32.768 khz xtal 1808 x2 2.0 350.0
+hx7011c0025.000000 standard clock oscillators 3.3 v cmos xo 25.000000 mhz 25ppm osc 4sm 2r5x2r0 x1 x3 4.0 700.0
+6107 s16m0002 晶体 crystal 16mhz ± 10ppm 12pf 2016 ael x16m000000s217 txc 8y16000001 100 7f16000e12ucg sjk 100 3 0690265 smd 2016 4p
+6107 s24m5705 晶体 crystal 24576 mhz ± 10ppm 20pf 1612 harmony x1c024576bc1h x harmony x1c024576bc1h x 100 x503224576msb4si yxc 100 3 0936638 smd 5032 4p
+6107 s16m0002 晶振 crystal 16mhz ± 10ppm 12pf 2016 ael x16m000000s217 x16m000000s217 100 7f16000e12ucg sjk 100 3 0707257
+58 1 100 u2 12mhz osc3225 txm12m0004322lbb10o00t 12mhz 无源 晶振 smd3225 4pin 雅晶鑫 item szlcsc 144638 html
+无源 晶振 yxc 杨兴 40 to 85 ° c 20pf ± 20ppm 11.5 4.5 3.68 mm 8m 杨兴 hc 49smd 10
+62502000540 cstne16m0vh3c000r0 晶体 谐振器 16mhz 15pf 3.2 x1.3 x1.0 2pin smd 410
+73 贴片 晶振 cstce20m0v53c r0 y1 ceralock 1 20
+贴片 晶振 8mhz 无源 y1 3225 1 9
+贴片 晶振 32.768 khz ± 5pp y2 3215 1 9
+晶体 晶体 26.0 mhz 10ppm 10 ppm 7.5 pf 30 ω 5 pf 100 uw 3.2 2.5 0.8 mm 1 7m26000028 txc 1 1000 x3701
+1 0101 170007 贴片 无源 晶振 12m 5032 txc 1000 txc 7a12000009 1300
+6 0101 170010 贴片 晶振 2712 m xtal4 pin4l32 w25 txc 1000 txc 7m27100009 1300
+8mhz 1.0 sunny
+12mhz 1.0 sunny
+q1 8mhz csm 7x du csm 7x du csm 7x du smd crystal unknown unknown 20
+fa 238v 12m 12pf 15ppm y1 无源 smd3225 4 1.0 100.0 top
+32.768 khz 6pf 5ppm 圆柱 2x6 y5 严格 按照 参数 选料 xtal32khz 1.0 100.0 top
+38 top 贴片 晶振 32mhz 2520 tj xtal smd2.5 2 0.55 32mhz sx 2520 10ppm cl 10pf sx25032000ba1t x1 x3 2 20
+39 top 贴片 晶振 32.768 khz 3215 2p kds xtal smd3.2 1.5 32.768 khz dst310s cl 12.5 pf x2 x4 2 20
+18 bot 贴片 晶振 32mhz 2520 tj xtal smd2.5 2 0.55 32mhz sx 2520 10ppm cl 10pf sx25032000ba1t x1 1 120
+19 bot 贴片 晶振 32.768 khz 3215 2p kds xtal smd3.2 1.5 32.768 khz dst310s cl 12.5 pf x2 1 120
+56 10180000452 贴片 晶振 tj xtal smd5032 8mhz 20ppm 80 ω cl 20pf tsmd50328m20p x1 1 smd5032 10
+sg 8002ca 80.000000 mhz u9 smd 7050 4p 1 5
+091806 033501 晶振 fn5000118 50m 160
+091806 033501 晶振 晶振 fn5000118 50m 10
+091806 033401 晶振 fn3000041 30m 10
+091806 033401 晶振 晶振 fn3000041 30m 20
+87 10 crystal 32768 khz 125 pf smd y1 xc1617ct nd ecs inc ecs 327 125 34b each
+88 10 osc 1.5440 mhz 3.3 v smd y2 ctx290lvct nd cts frequency controls cb3lv 3c 1m5440 each
+89 10 crystal 8.00 mhz 20pf smd y3 xc1010ct nd ecs inc ecs 80 20 20a tr each
+14 rfoa02 04 001 crystal 32.768 khz 20ppm load capacitance 12.5 pf d 2mm h 6mm p 0.7 mm rad tfzbk0327060d e 絡盟 1701100 mcrj332768f1220how multicomp 1 110
+15 rfoa02 04 031 crystal 7.3728 mhz 30ppm smd 49s 16pf short lfxtal003334reel iqd 1 110
+32768 k 贴片 晶体 谐振器 系统 产品 mc 146 32768000 khz 125 200 200 标称 频率 32768 khz 频差 ± 20ppm 温度 频差 ± 20ppm 温度 40 85 ℃ 串联 谐振 电阻 65k ω max cl 125 pf 振动模式 at 切 基频 驱动 功率 1uwmax 老化 率 ± 5ppm 70 15 14 max epsontoyocom mc 146 32768000 khz 125 200 200 sii ssp t7 f 32768 khz 125 pf 20ppm 1 300
+48m 贴片 晶体振荡器 sit8103ai 21 18e 48.00000 x 标称 频率 48mhz 频率 稳定度 ± 20ppm 温度 40 85 ℃ 逻辑 cmos 电压 1.8 v ± 5% 占空比 45 55% 上升 下降时间 4.6 nsmax 老化 率 ± 1ppm 形式 smd3.2 2.5 3225 sitime sit8103ai 21 18e 48.00000 x 1 300
+贴片 晶体振荡器 1631 24003 btbqya iqg 7x24002001 txc sg 310scn 24mhz j oxetelkanf 24.000000 mhz taitien 标称 频率 24mhz 频率 稳定度 ± 50ppm 温度 40 125 ℃ 逻辑 cmos 电压 3.3 v ± 10% 占空比 45 55% 上升 下降时间 3nsmax 老化 率 ± 5ppm 形式 smd3.2 2.5 3.2 2.5 txc 7x24002001 taitien oxetelkanf 24.000000 mhz 1 300
+贴片 晶体振荡器 jyod3h7h3c5y 25.000 oxetghjanf 25.000000 mhz 7x25002011 l 3 5 25.000 m 50 40125 d3sx25e00000te 标称 频率 25mhz 频率 稳定度 ± 50ppm 温度 40 125 ℃ 逻辑 cmos 电压 3.3 v ± 10% 占空比 45 55% 上升 下降时间 3nsmax 老化 率 ± 5ppm 形式 smd3.2 2.5 3.2 2.5 txc 7x25002011 hlx l 3 5 25.000 m 50 40125 1 300
+7m 12.000 meeq t crystal unit 12mhz cl 10pf 7m 12.000 meeq t txc 7m 12.000 meeq t 300 9920 7000 1000
+10.0 mhz crystal 10.0000 mhz 18pf smd xtal hc49smx txc 9c 10.000 maaj t 300 9920 7000 1000
+8y 48.000 maaj t 2 x 1.6 mm smd seam crystal 8y series xtal 8y 2x1.6 txc corporation 8y 48.000 maaj t 300 9920 7000 1000
+15 y1 贴片 晶振 q13fc1350000400 32.768 khz xd3215 1
+17 xtal1 插装 晶振 8.192 mhz hc 49s 1
+49smd 8m y2 49smd 贴片 1 200
+u7 abs07 32.768 khz abs07 32.768 khz 1 10
+u8 smd 5032 4p 8m 20pf 20ppm smd 5032 4p 8m 20pf 20ppm 1 10
+u18 30m 7050 30m 7050 1 10
+15 y1 贴片 晶振 q13fc1350000400 32.768 khz xd3215 1 3000
+17 xtal1 插装 晶振 8.192 mhz hc 49s 1 3000
+107 晶体振荡器 50mhz 3.3 v smd0705 1 500 500 b4
+108 晶体振荡 体 25mhz 表贴 hc 49smd 电波 1 500 500 b2
+109 晶体振荡 体 32.768 khz 表贴 mc306 1 500 500 b1
+59 1200 y101 crystal 16mhz 3.2 x2.5 mm abracon abm8aig 16.000 mhz 12 2z t3
+60 1200 y102 crystal 32768hz 2.0 x1.2 mm cts tf202p32k7680
+34 无源 晶振 24.000 mhz cpx 84 smd 2 10 x2
+35 无源 晶振 24.576 mhz cpx 49sp smd 2 10 x4
+36 有源 晶振 32.768 khz sc0 700 smd 4 10 x1
+81 无源 晶振 24.000 mhz cpx 84 smd 2 1000 x2
+82 无源 晶振 24.576 mhz cpx 49sp smd 2 1000 x4
+83 有源 晶振 32.768 khz sc0 700 smd 4 1000 x1
+q sc32s03220c5aaaf seiko 200000
+86 22.1184 mhz y1 tx 8m 5.0 x 3.2 x 1.2 1 1100
+36 晶振 19.660 mhz gpx 53gb smd 2 1 x6
+m25000j089 m25000j089 y1 osc 3225 crystal 1 10
+m12000e058 m12000e058 y2 osc 3225 crystal 1 10
+23 晶振 50mhz 5 7 1 2
+16 xt1 晶振 贴片 5032 8mhz 1% 50ppm e5fa 1 5
+16 xt1 晶振 贴片 5032 8mhz 1% 50ppm e5fa 1 50
+60 xt1 晶振 贴片 5032 8mhz 1% 50ppm e5fa 1 5
+60 xt1 晶振 贴片 5032 8mhz 1% 50ppm e5fa 1 50
+smd 3225 4p osc 24m osc 24m y1 晶振 1 20 无源
+113 有源 晶振 ovetgljanf 16mhz ovetgljanf 16.00 mhz smd 4p 500
+185 晶振 ovetgljanf 50mhz smd 50mhz taitien 100
+111 晶体 xsdeelnanf 12.000 mhz taitien smd 2p 200
+114 晶体 xsdeelnanf 25.000 mhz taitien smd 2p 200
+183 晶振 xvdbblnanf24.000 smd 24mhz taitien 100
+186 晶振 xvdbblnanf8.000 smd 8mhz taitien 50
+184 晶振 zm206 smd 32.768 khz c 306 taitien 100
+112 晶体 zm206 32.768 k taitien smd 200
+55 066w480141010 703524348000 oscillator 震荡 cas jason190816 osc 48 mhz 3.3 v 50ppm 5x3.2 s fujicom fco536b 48.000000 mba 1 500
+晶振 quartzcrystal dip hc 49s 9b 8.192 mhz 无源 晶振 80.0
+晶振 quartzcrystal dip hc 49s 9b 8mhz 无源 晶振 20.0
+44 m25000j089 m25000j089 y1 1 10
+45 m12000e058 m12000e058 y2 1 10
+1 20 u3 cb3lv 5i 16m0000 774 cb3lv 5i 16m0000 cts standard clock oscillators 16.0 mhz 3.3 v 40c 85c 25ppm 16.000 mhz cb3lv
+1 20 u4 cb3lv 5i 30m0000 774 cb3lv 5i 30m0000 cts osc xo 30.000 mhz hcmos ttl smd 30mhz cb3lv
+xtal x50328msb2gi yxc y1 smd 5032 2p 2 200 1 200
+23.0 12010203 a8 hlx l 3 6 50.000 m 50 4085 1 tr 1 50 晶振 晶体振荡器 50mhz 3.3 v smd4 3.2 2.5
+24.0 12020139 a8 hlx k f 24.0000 m 20 3050 4085 1 50 晶振 b crystal resonator 24.000 mhz smd4 3.2 2.5
+25.0 12020104 hlx m f 6.0000 m 20 3050 4085 1 50 晶振 b crystal resonator 6.000 mhz smd2 49sm
+26.0 12020111 hlx k f 25.0000 m 10 3050 4085 1 50 晶振 b crystal resonator 25.000 mhz smd4 3.2 2.5
+24007 27mhz ± 10ppm 20pf cry d3225 1 100 y8
+33.0 晶振 cry 3 2x2 5 hsx321s 24.000 mhz 12pf 20ppm smt 1 y1 100
+34.0 晶振 cry 3 2x1 5 nx3215sa 32.768 khz std mua 8 smt 1 y2 100
+x1 1 520 csm403 20 ecs ecs 40.3 20 5p tr crystal 4.032 mhz 20pf smd 5000
+x2 1 631 1002 1 nd fox fx135a 327 crystal 32.7680 khz 12.5 pf smd 5000
+50149 abm3 16.000 mhz d2y t abracon 11
+50161 abm3 16.000 mhz d2y t abracon 20
+50173 abm3 25.000 mhz d2y t abracon 11
+50185 abm3 25.000 mhz d2y t abracon 20
+19 nxl25.000 ae09f kab5 nsk smd crystal 2520 25mhz 1 1000 0
+50149 abm3 16.000 mhz d2y t abracon 11
+50161 abm3 16.000 mhz d2y t abracon 20
+50173 abm3 25.000 mhz d2y t abracon 11
+50185 abm3 25.000 mhz d2y t abracon 20
+5 xtal 25mhz cl 20pf 20ppm fund dip tz1274a 1 3000
+6 xtal 40mhz cl 11.5 pf 7ppm lf 高溫 規格 85 度 fundamental tz2746a 2 6000
+7 xtal 40mhz cl 15pf 7ppm lf 高溫 規格 85 度 xtl571100 r79 116 1 3000
+a44 x01 s000500 crystal 8.0000 mhz 8pf smd 5.00 mm x 3.20 mm aa 8.000 malv t txc 晶振 10
+a44 x01 s000501 30mhz 10ppm 40c 105c 1.8 v 3.3 v 3.5 mm x 2.5 mm asemb 30.000 mhz xy t abracon 晶振 10
+16m 晶振 x322516mlb4si 12000.0
+3215 2p 32.768 k 无源 晶振 seiko sc 32s smd3215 2p 32.768 khz 12.5 pf 20ppm 9000.0
+101 贴片 无源 晶振 16.000 mhz 9pf ± 10ppm cy2016 150
+晶体 co4 2r5x3r2 s kyocera cx3225gb24000p0hpqcc 24mhz 24mh 20ppm 1.0 20.0
+晶体 co4 2r5x3r2 s kyocera cx3225gb12000p0hpqcc 12mhz 12mh 20ppm 1.0 20.0
+8mhz xtal d 10
+12mhz xtal d 10
+101 贴片 无源 晶振 16.000 mhz 9pf ± 10ppm cy2016 150
+无源 晶振 32.768 k xtal fc135 1 x1
+无源 晶振 32.768 k xtal fc135 1 x3 x3
+无源 晶振 8m xtal osc 5032 2p 1 x2
+24004 32.768 khz ± 20ppm 12pf cry mc146 1 50 y4
+24007 27mhz ± 10ppm 20pf cry d3225 3 300
+贴片 晶体 { esb49152 f20e33f hc49sma 49152 mhz ± 30ppm } { ssl4915220aehhf0 } 49152 mhz 1 crystal unit honsic tol ± 30ppm cload 20pf xtal02 贴片 x1 honsic 2000
+4.9152 mhz 1 ± 30ppm sx2 4518 贴片 x1 hosnic 2000
+贴片 无源 晶振 32.768 khz 12.5 pf 20ppm 3215 3040000033002 3215 1 y1
+贴片 无源 晶振 32.768 khz 12.5 pf 20ppm 3215 3040000033002 3215 1 y1
+8mhz 晶振 y1 xtal 49smd 1 5
+34 晶振 q24fa20h0068700 1 10
+35 晶振 q13fc1350000400 1 10
+36 晶振 q22fa12800101 1 10
+52219 abs25 32.768 khz t abracon 10.0
+52401 abls3 7.3728 mhz d4y t abracon 390.0
+晶振 3225 晶体 振 荡器 24mhz 土 10ppm 8pf 40 ° c 85 ° c smd 322 5 yxc 1 2000
+晶振 sc 32s32.768 khz20ppm7pf 3215 晶体 振 荡器 sc 32s 7pf smd 321 5 seiko 1 2000
+晶体 crystal 16mhz ± 10ppm 12pf 2016 ael x16m000000s217 txc 8y16000001 7f16000e12ucg sjk 100 3 0.690265 smd 2016 4p
+晶体 crystal 24.576 mhz ± 10ppm 20pf 1612 harmony x1c024576bc1h x harmony x1c024576bc1h x x503224576msb4si yxc 100 3 0.936638 smd 5032 4p
+晶振 crystal 16mhz ± 10ppm 12pf 2016 ael x16m000000s217 x16m000000s217 7f16000e12ucg sjk 100 3 0.707257
+35 32.768 khz 6pf smd 3215 2p 1.0 y1 400.0
+36 8mhz 20pf 20ppm smd 5032 2p 1.0 y2 400.0
+71.0 石英 晶振 12m 3 5.2 mm 两脚 smd 1.0 y1 3000
+64mhz oscillator smd txc 7c 4pin 5.0 x3.2 mm 1 kc5032a64.0000 c10e00 kyocera 50ppm crystal oscillator low profile high stability spxo 100
+crystal 12mhz crystal smd 2520 4pin 2.5 x2.0 mm 1 abm10 166 12.000 mhz t3 abracon 10ppm 10ppm four pin crystal gnd on pins 2 and 4 100
+68 石英 晶振 12m 3 5.2 mm 两脚 smd 1 y2 3000
+69 石英 晶振 32.768 2 6mm dip 1 y3 3000
+贴片 晶振 12mhz xtals 2 5x3 2mm 1 x1 8570
+86 贴片 晶振 x49sm8msd2si yxc hc 49smd 11
+122 2 脚 晶振 vt 200 f 32.768 khz 5ppm 12.5 pf seiko xtal 2x6h 11
+123 2 脚 晶振 x49sm8msd2si 8mhz 20pf 10ppm yxc xtal 49s smd 11
+72 贴片 无源 晶振 8mhz x49sm8msd2si yxc hc 49smd 11
+crystal 12.2880 mhz 18pf smd abls 12.288 mhz b4 t abracon llc 晶振 400
+110.0 晶振 8mhz as 8.000 mahk b 1.0 txc corporation
+111.0 晶体 32.768 khz fc 135 32.7680 ka a3 1.0
+jt09 0007 a smd 晶振 22.1184 mhz x2 8x4.5 s 8l 4w 1 550

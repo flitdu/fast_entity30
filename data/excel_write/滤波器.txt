@@ -1,0 +1,296 @@
+0402 磁珠 100 ω 101 ± 25% 100mhz 0.25 ω 300ma smd 0402 4
+0603 磁珠 30 ω 300 ± 25% 100mhz 0.04 ω 3a smd 0603 3
+0402 磁珠 100 ω 101 ± 25% 100mhz 0.25 ω 300ma smd 0402 12000
+345.0 11802024 磁珠 1000r 1000mhz 300ma 208586 blm21ag102sn1 8200.0
+346.0 11802025 磁珠 blm31pg601sn1l 1206 208586 4000.0
+352.0 11802045 贴片 磁珠 30r 1a 0603 201190 娄红舟 4000.0
+4 贴片 磁珠 100r 100mhz ± 25% 400ma 1210 4 l201 l202 l203 l204
+345.0 11802024 磁珠 1000r 1000mhz 300ma
+346.0 11802025 磁珠 blm31pg601sn1l 1206
+12.0 102040018 7.0 0402lblm15eg221sn1d blm15eg221sn1d 7000.0
+13.0 102040019 4.0 0603lblm18eg121sn1d blm18eg121sn1d 4000.0
+贴片 磁珠 blm21ag102sn1d 0805 l 091803 036601 171
+共模电感 t25 15 10 1.3 线 12a 4mh 长宽 29 15mm 脚距 17 13mm 091803 036201 31
+贴片 共模电感 b82793s513n201 b82793s513n201 091803 036101 61
+贴片 磁珠 blm21ag102sn1d 0805 l 091803 036601 1487
+贴片 磁珠 blm41pg600sn1l l1806 091803 036701 203
+贴片 磁珠 blm21ag102sn 0805 l 091803 036601 685
+共模电感 uu10.5 10mh 1a 091803 036301 31
+贴片 磁珠 blm21ag102sn1d 0805 l 091803 036601 171
+共模电感 t25 15 10 1.3 线 12a 4mh 长宽 29 15mm 脚距 17 13mm 091803 036201 31
+贴片 共模电感 b82793s513n201 b82793s513n201 091803 036101 61
+贴片 磁珠 blm21ag102sn1d 0805 l 091803 036601 1487
+贴片 磁珠 blm41pg600sn1l l1806 091803 036701 203
+贴片 磁珠 blm21ag102sn 0805 l 091803 036601 685
+共模电感 uu10.5 10mh 1a 091803 036301 31
+nfe31pt222 nfe31p lc1 1 2600
+28 a10 001036 003 贴片 磁珠 0805 60ohm ± 25% blm21pg600sn1d 6000 fb1 fb3 贴片
+29 a10 001036 034 贴片 磁珠 blm15ag121sn1 120 ω ± 25% 0402 55 ℃ 125 ℃ blm15ag121sn1d 3000 fb2 贴片
+091803 025601 贴片 磁珠 mpz1608s601atd25 24000
+091803 025701 贴片 磁珠 mpz1608s101atdh5 16000
+091803 025901 贴片 磁珠 74279252 6194
+22 a10 001036 003 贴片 磁珠 0805 60ohm ± 25% blm21pg600sn1d 6000 fb1 fb3 贴片
+23 a10 001036 034 贴片 磁珠 blm15ag121sn1 120 ω ± 25% 0402 55 ℃ 125 ℃ blm15ag121sn1d 9000 fb2 fb4 fb5 贴片 湘海
+63 hcb1608kf 601t10 磁珠 0603 600 ω 100mhz 1000ma hcb1608kf 601t10 0603 b1400 1 hcb1608kf 601t10 30
+64 sz1005k601 磁珠 0402 600 ω 100mhz 250ma mggb1005m601ht lf 0402 b1500 b1501 2 mggb1005m601ht lf 50
+87 fb2012 05n2r4gt balun wifi 滤波器 fb2012 05n2r4gt fb2012 05n2r4g u1402 1 fb2012 05n2r4gt 20
+1 l 150r 100mhz nc l6 l0603 m1608 50.0
+1 l 150r 100mhz l1 l0603 m1608 50.0
+27 e03014005 磁珠 cbw160808u500t 50 ω ± 30% 100mhz dcr 8m ω 1.0 a 0603 61.6 0.8 0.8 mm 6
+28 e03014003 磁珠 mbw201209u601pt lf 600 ω 100mhz ± 25% max 0.25 ω max 2a 0805 0 6
+5 c0100105 磁珠 100mhz 600 ω 4a 0805 0805 2 1000
+58 c0100154 磁珠 100mhz 60 ω ± 25% 3a 0805 dcr 0.05 r 0805 aolsz 2 1000
+59 c0100155 磁珠 100mhz 220 ω ± 25% 2.5 a 0805 dcr 0.05 r 0805 aolsz 3 1500
+79 c0100175 电感 cm2 2012mcin 121t 贴片 共模电感 120mhz 0.4 ω 400ma 0805 0805 kingcore 7 3500
+14 c0200112 磁珠 600 ω 100mhz 1a 0603 0603 6 3000
+15 c0200113 磁珠 cbw160808u500t 50 ω ± 30% 100mhz dcr 8m ω 1.0 a 0603 61.6 0.8 0.8 mm 0603 2 1000
+33 磁珠 0603 120 ω ± 25% 100mhz 0603 1 10000
+33 磁珠 0603 120 ω ± 25% 100mhz 0603 1 10000
+1 340.0 2004010002 滤波器 16.0 0.05 b 1344 filter nfe61pt472c1h9l 2706
+1 350.0 2004010007 滤波器 1.0 0.05 b 84 filter nfm41pc204f1h3l 4.5 1.6 1mm
+1 360.0 2004010014 滤波器 1.0 b 80 filter mem2012s25r0 0805
+1 390.0 2004010003 共模电感 1.0 0.05 b 84 filter acm2520 301 2p 2520 300 ω 20v 0.4 a
+1 440.0 2004010005 滤波器 1.0 b 80 filter bnx002 01 dip
+26 贴片 磁珠 600r 100mhz lc 0603 r 3 30
+49 贴片 磁珠 120r 100mhz 25% 0603 1 bd1 y pz1608d121 2r0tf 1050
+65 贴片 磁珠 120r 100mhz 25% 0603 1 bd1 y pz1608d121 2r0tf 1050
+1.0 12080035 bead ferrite 1206 120ohm 100mhz 6a 0.009 ohm blm31kn121sn1l 7200 blm31kn121sn1l b1206 2
+37.0 12070359 common mode filters 60ohm 10mhz 1000ohm 100mhz 0.034 ohm 50v 6a 5x5x2.35 mm dlw5btm101tq2b 3600 dlw5btm101tq2b ind 5000x5000x2350 1
+38.0 12070360 common mode filters 10ohm 700ohm 100mhz 80v 5a 9x7x4.5 mm acm9070 701 2pl tl01 3600 acm9070 701 2pl tl01 ind 9000x7000x4500 1
+60504000100 共模电感 共模电感 dlw5btn101sq2l 2 线路 100r 6a 50v 100mhz 5 5mm 4pin smd dlw5btn101sq2 5 3.5
+62205000050 emi 滤波器 emi 滤波器 nfe31pt222z1e9 3pin smd nfe31pt222z1e9 20 1.5
+act45b 510 2p 共模 滤波 电感 act45b 100
+34 磁珠 0603 120 ω ± 25% 100mhz 0603 1 10000
+34 磁珠 0603 120 ω ± 25% 100mhz 0603 1 20
+磁珠 0603 120 ω ± 25% 100mhz 0603 1 10000
+磁珠 0603 120 ω ± 25% 100mhz 0603 1 20
+60507000130 emi 磁珠 emi 磁珠 blm21pg331sn1 330ohm 0.07 ohm 1.5 a 0805 2pin smd blm21pg331sn1d 78
+45 cmind020100016 mpz2012s221atd25 2 l1 l8 220r 3a bead smd 0805 片式 磁珠 电源 220r100mhz ± 25% 3a 0.04 r 1ln l0805 200.0
+mpz2012s221a 贴片 磁珠 b0805 60 ± 20% aec q200
+74 贴片 磁珠 smd 120r 0805 1000ma 2 fb2 fb3 74 mll4g1e m00025569 gz2012d121tf sunlord 2 33 43 0051 2193 3
+75 贴片 磁珠 smd 600r 100mhz 0603 500ma 25% well wlb1608 601t05 4 l7300 l7301 l7303 l7304 75 mll7m1f fcm1608kf 601t05 4 35 55 0023 1265 3
+76 贴片 磁珠 smd 180r 100mhz 0603 500ma 25% well wlb1608 181t05 2 l7302 l7306 76 mll7m1g blm18ag121sn1d 2 33 43 0051175 2200525 3
+11229 0000 贴片 电感 pby160808t 磁珠 pby160808t 100mhz 600ohm ± 25% 1a 0603 l1 l2 2 12
+11229 0000 pby160808t 磁珠 磁珠 pby160808t 100mhz 600ohm ± 25% 1a 0603 l4 1 6
+13 hpz1608e152 r50tf sunlord ferrite bead 1.5 kohm 0603 1ln 2 400000
+49 61.0 h.04021200 贴片 磁珠 贴片 磁珠 man uf acturing blm15pd121sn1 0402 120r 25% 电流 1300ma blm15pd121sn 400 quad
+50 61.0 h.06031000 贴片 磁珠 贴片 磁珠 man uf acturing nfl18st107h1a3 0603 1000mhz 电流 75ma nfl18st107h1a3 640 quad
+51 61.0 h.20123570 贴片 磁珠 贴片 磁珠 man uf acturing blm21pg600sn1 2012 h 1.05 max 60r 25% 电流 3500ma blm21pg600sn 160 quad
+6101 dea10200 ic ic balun lpf dea102500lt 9052a1 dea102500lt 9052a1 100 dea102500lt 9052a1 100 2 1586549 17
+6101 dea10200 ic ic balun lpf dea102500lt 9052a1 dea102500lt 9052a1 100 dea102500lt 9052a1 100 2 1586549 6%
+l1 l5 470x inductors smd l 0603 ferrite bead 470 ohm 0603 1ln blm18eg471sn1d 12000
+62 磁珠 fb 90ohm 400ma 100mhz fb0805 4p tai tech wcm2012f2sf 900t04 smt tai tech wcm2012f2sf 900t04 6 240
+63 磁珠 fb sbu 90ohm ± 20% 1.4 ohm 0.15 a 100mhz 0504 1210 choke smd4p 1 25x1 dlp11sa900hl2l smt dlp11sa900hl2l 12 480
+64 磁珠 fb 120ohm 2a ± 25% r0603 blm18pg121sn1d smt blm18pg121sn1d 9 360
+65 磁珠 fb 80ohm 3a ± 25% 100mhz 0603 tai tech hcb1608kf 800t30 smt tai tech hcb1608kf 800t30 11 440
+66 磁珠 fb 25ohm 3a ± 25% 100mhz b 0603 gotrend gbd 160808 gh 250n smt gotrend gbd 160808 gh 250n 3 120
+67 磁珠 fb 120ohm 3a ± 25% 100mhz b 0603 microgate mglb1608e121t3r0 lf smt microgate mglb1608e121t3r0 lf 3 120
+68 磁珠 fb 600ohm ± 20% 100mhz b 0603 tai tech hcb1608kf 601t20 smt tai tech hcb1608kf 601t20 2 80
+69 贴片 磁珠 fb 100ohm 4000ma 25% 100mhz 0805 mpz2012s101a smt mpz2012s101a 10 400
+70 贴片 磁珠 fb 600ohm 1000ma 25% 100mhz 0603 mpz1608s601ata00 smt mpz1608s601ata00 1 40
+39 贴片 磁珠 fb 600ohm 1000ma 25% 100mhz 0603 mpz1608s601ata00 smt mpz1608s601ata00 2 80
+45 贴片 磁珠 fb bead 30ohm 100mhz ± 25% 6a 0805 sunlord upz2012e300 6r0tf smt sunlord upz2012e300 6r0tf 2 80
+2 贴片 磁珠 fb 100ohm 4000ma 25% 100mhz 0805 mpz2012s101a smt mpz2012s101a 2 80
+44.0 贴片 磁珠 acms321611a301 100m 120r 1206 1206 贴片 4 l3 l6 20000.0
+l1 0805 磁珠 0805 磁珠 0805l 1 5
+l1 0805 磁珠 blm21pg221sn1d blm21pg221sn1d 0805l 1 15
+u5 静噪 滤波器 bnx002 01 bnx002 01 bnx002 01 1 15
+1 10 2003020001 磁珠 bead blm18pg471sn1 0603 470 ω 1a 25% b101 b102 b103 b104 b105 b106 b107 b108 b109 b110 b112 b113 b114 b115 b116 b117 b118 b119 b120 b121 b417 b418 b419 b420 b444 b445 b457 b458 28 20 0.3 b 560 dlk
+1 20 2003020003 磁珠 bead blm18gg471sn1 0603 470 ω 0.2 a 25% b111 b122 2 20 0.3 b 40 dlk
+1 30 2003020006 磁珠 bead mpz1608s101atah0 0603 100 ω 3a 25% b426 b428 b430 b436 b437 b438 b439 b440 b441 b442 b443 11 20 0.3 b 220 dlk
+1 40 2003020005 磁珠 bead nic ncb1612k480tr500f 1612 48 ω 5a 25% b433 b453 b454 3 20 0.3 b 60
+3 b1 b2 b3 b4 b5 b6 b7 b8 b9 b10 b11 b12 b13 b14 b15 b16 ferit bead bead for jumper coil 1206 3216 matric 16.0 2444
+1 10 2003020006 磁珠 bead mpz1608s101atah0 0603 100 ω 3a 25% b1 b2 b3 b4 b5 b6 b7 b8 b10 b11 10 0.3 b dlk
+11 054w712114021 054 bead core green f bead 120 ohm 500ma 0402 smd mura blm15ag121sn1d 4 400
+12 054w060012031 054 bead core f bead 60 ohm 3a 0603 smd ageneral ageneral cb160808n 3a 600y 6 600
+13 054w712111031 054 beadcore f bead 120 ohm 2a 0603 smd blm18pg121sn1d 6 600
+14 054w012113031 054 beadcore f bead 120 ohm 06 a 0603 smd ageneral ageneral cb160808n 121y 8 800
+acm1513 551 2pl smd 15mm 13mm l6 10a 4m ω 共模电感 滤波器 共模 扼流圈 commonchoke 1.0 4.0
+b82793c0475n265 smd l2 l3 共模电感 滤波器 共模 扼流圈 commonchoke 2.0 8.0
+29 共模 滤波器 acp3225 501 2p t000 1.5 a acp3225 1 l1 2100
+34 磁珠 blm15eg221sn1b 0.7 a l0402 2 l7 l8 4200
+2 ozt4180718001 2 l8 l14 acm7060 301 2pl tl01 acm7060 共模 扼流圈 滤波器 300ohms mhz 5a 70 mm x 60 mm vendor cn 200
+62205000110 emi 滤波器 16vdc 150ma 0805 2pin smd nfl21sp506x1c3 1505
+62205000120 emi 滤波器 200ohm 100mhz ± 20% 0.1 a 1206 8pin smd dlp31dn201ml4 95
+60503002371 贴片 电感器 贴片 电感器 9.1 nh 500ma 260mr 0402 2pin smd lqg15hs9n1h02d 100
+60507000380 emi 磁珠 铁氧体 120ohm 100mhz ± 25% 3a 0.03 ohm 0805 2pin smd blm21pg121sn1d 2600
+60507000100 emi 磁珠 mpz1608s101a 100ohm ± 25% 0.03 ohm 3a 0603 2pin smd mpz1608s101atdh5 400
+60507000590 emi 磁珠 120r ± 25% 100mhz 0.05 r 2a 0603 2pin smd sunlord pz1608u121 2r0tf 52000
+60503001990 emi 磁珠 300r 100mhz 5a 1210 2pin smd bead1210s301a50t 2210
+9 11 0106 003 003 共模电感 ee8.3 ee8.3 l1 1 10000.0
+96 c3041010002 贴片 磁珠 贴片 磁珠 120 ω 100mhz blm15pg121sn1 2000ma chip 0402 40 ℃ 125 ℃ blm15pg121sn1 o402 5 100 10000 150000
+150 贴片 磁珠 贴片 磁珠 220 ω 100mhz blm15pg221sn1 2000ma chip 0402 40 ℃ 125 ℃ blm15ag221sn1d o402 2 40 4000 60000
+151 贴片 磁珠 贴片 磁珠 300 ω 100mhz blm18pg301sn1 2000ma chip 0603 40 ℃ 125 ℃ blm18pg300sn1 o603 2 40 4000 60000
+152 c3041010001 贴片 磁珠 贴片 磁珠 600 ω 100mhz blm18pg601sn1 2000ma chip 0603 40 ℃ 125 ℃ blm18pg601sn1 o603 2 40 4000 60000
+2 磁珠 及磁环 blm18ag102sn1b blm18ag102sn1b 0603 3600
+55 磁珠 6 l1 fb1 l2 fb2 l3 l5 cvb1608e601t l0603
+81 磁珠 1 l4 cvb2012e601t l0805
+82 共模电感 2 l6 l8 sdmm0806h 2 900t sdmm0806
+36.0 共模电感 ct1065 10mh min lh 10 6 5mm 1.0 1000
+000130 fb1 fb2 磁珠 blm21p221sn1d ferrite chip 0805 220 ohm 100mhz 2a blm21p221sn1d 2 2240
+000140 fb4 fb5 fb6 fb7 fb8 fb9 fb10 fb11 fb12 fb13 fb14 fb15 fb17 fb18 fb19 fb20 磁珠 cmc 90 ohm acm2012 900 2p t002 16 corp 17920
+000150 fb16 fb21 磁珠 blm21pg221sn1d ferrite chip 0805 220 ohm 100mhz 2a blm21pg221sn1d 2 2240
+000160 fb22 fb23 fb24 fb25 fb26 fb27 fb28 fb29 磁珠 cmc 250 ohm dlw5btm251sq2l 8 8960
+1 bea 0000000 blm21pg300sn1 l3 4 l6 l9 l16 17 6 blm21p series 0805 size impedance 30 typ 3000ma blm21p series 0805 size 1200
+2 bea b00013 blm18pg330sn1d bea1 32 32 0603 size blm18p series 3000ma 0.025 ohm 0603 blm18p series 6400
+66 fil l0000 dlw21sn900sq2 fir1 40 40 dlw21s series 0805 size 90 ohm 330ma 50v dc 25% filter common mode choke coil wire wound type dlw21s series 40 度 c 85 度 c 8000
+bea 0000000 blm21pg300sn1 l3 4 l6 l9 l16 17 6 blm21p series 0805 size impedance 30 typ 3000ma blm21p series 0805 size 1200
+bea b00013 blm18pg330sn1d bea1 32 32 0603 size blm18p series 3000ma 0.025 ohm 0603 blm18p series 6400
+fil l0000 dlw21sn900sq2 fir1 40 40 dlw21s series 0805 size 90 ohm 330ma 50v dc 25% filter common mode choke coil wire wound type dlw21s series 40 度 c 85 度 c 8000
+po20190026 3000004278 共模电感 uf 9.8 30mh 720
+lf1 uu9.8 chock 20mh 0.30 mm 70ts 10000
+2003010064 共模电感 200 acm2012e 900 2p t01
+2003010075 共模电感 50 act45b 510 2p tl003
+2003010076 共模电感 20 coilcraft msd1260 472mlb
+2004010003 共模电感 150 acm2520 301 2p
+2004010017 滤波器 25 ybx yb11p1 1a s 5
+23 05004 00496 磁珠 cbg201209u151b 3 fb1 fb2 fb3 150
+25 05035 00603 共模 扼流圈 acm7060 701 2pl tl01 共模 滤波器 电源线 smd 1 l7 22
+26 05004 00500 共模 扼流圈 part no 744 242 510 2 m1 m2 44
+23 05004 00496 磁珠 cbg201209u151b 3 fb1 fb2 fb3 66
+25 05035 00603 共模 扼流圈 acm7060 701 2pl tl01 共模 滤波器 电源线 smd 1 l7 44
+26 05004 00500 共模 扼流圈 part no 744 242 510 2 m1 m2 22
+z0805c101asmst kemet ferrite beads 100ohms 900ma 25% dcr 100mohms 3d ind 0805 l11 l12 l13 l14 l15 2.0 1750.0
+wi ind 0012 t2 ac choke 1 common mode choke 1a 2ln smd pulse pe 53913nlt 553 2024 1 nd smd smt 650
+091803 034001 磁珠 blm15eg221sz1 0402 705
+35 磁珠 100r 100mhz 3a ± 25% fb0603 ws0a0001 1 9200 mpz1608s101a
+bnx002 01 power filter bnx002 1 bnx002 01 fl21 6.0 350.0
+nfe31pt222z1e9l nfe series 1206 2200 pf 6 a 25 v smt lc combined type emi filter nfe31pt222z1e9l fl1 fl2 fl3 fl4 fl5 fl6 fl7 fl8 fl9 fl10 fl11 fl12 fl13 fl14 fl15 fl19 fl20 fl22 fl24 6650.0
+z0805c101asmst kemet ferrite beads 100ohms 900ma 25% dcr 100mohms 3d ind 0805 l11 l12 l13 l14 l15 2.0 1750.0
+6101 dea10200 ic ic balun lpf dea102500lt 9052a1 dea102500lt 9052a1 100 dea102500lt 9052a1 100 2 1586549 17
+6101 dea10200 ic ic balun lpf dea102500lt 9052a1 dea102500lt 9052a1 100 dea102500lt 9052a1 100 2 1586549 6%
+22 4 400 fb1 fb5 fb6 fb7 80r f0603 cbm160808u800t 80 ohm 100mhz 60 mohm 25 a 0603 fh item szlcsc 63767 html
+23 3 300 fb2 fb3 fb4 120r 100mhz 2a f0603 cbm160808u121t 120 ohm 100mhz 65 mohm 2a 0603 fh item szlcsc 63768 html
+31 1 100 l2 choke acm2012 2p acm2012 900 2p t002 额定电流 400ma 90r 100mhz 额定 电压 50v dcr190mr 25 ℃ 85 ℃ ydk item szlcsc 20681 html
+28 贴片 磁珠 bkp2125hs600 t l2 l3 l4 l5 l6 l7 l8 l9 2012 0805 8 taiyo yuden 160
+磁珠 贴片 磁珠 75ohm 100mhz 300ma 0402 blm15bb750sn1b 5 5000 b1504 b1505 bead5001 r808 r809
+滤波器 n filter saw rx 单端 band40 2350mhz 1.1 x0.9 x0.5 m sfhg52aa002 wison 1 1000 u3403
+滤波器 n filter saw rx 单端 band41 2545 2655mhz 1.1 x0.9 x0.5 m sfhg05aa002 wison 1 1000 u3402
+滤波器 t saw dual filter center freq 1900 2017.5 mhz sfwg00lb002 wison 1 1000 u3309
+滤波器 t saw duplexer for band1 balanced lr center freq 1950 2140mhz 2016 sayrf1g95hq0f0arxx 1 1000 u3301
+滤波器 t saw duplexer for band2 unbalanced lr center freq 1880 1960mhz sayey1g88ba0b0a 1 1000 u3302
+滤波器 t saw duplexer for band3 balanced lr center freq 2535 2655mhz sayey2g53ca0f0a 1 1000 u3307
+滤波器 t saw duplexer for band3 unbalanced lr center freq 1747.5 1842.5 mhz 2016 sayfh1g74ba0b0a 1 1000 u3303
+滤波器 t saw duplexer for band5 balanced lr center freq 836.5 881.5 mhz sfx836uz102 wison 2 2000 dpx3802 u606
+滤波器 t saw duplexer for band8 balanced lr center freq 897.5 942.5 mhz sfx897wyf02 wison 1 1000 u3308
+滤波器 t saw wifi filter for lte 2402.5 2481.5 mhz 2441.0 mhz sfdg45dq102 wison 1 1000 u5005
+滤波器 t 滤波器 saw rx 差分 band1 4 2140mhz sfhg40ya002 wison 1 1000 u3405
+滤波器 t 滤波器 saw rx 差分 band8 942.5 mhz sfh942pa002 wisol 1 1000 u703
+滤波器 t 滤波器 saw rx 差分 band39 1900mhz saffb1g90fb0f0a 1 1000 u3409
+滤波器 t 滤波器 saw rx 差分 band3 1842.5 mhz sfhg42ya002 wison 1 1000 u3406
+滤波器 t 滤波器 saw rx 差分 band7 2650mhz sfhg56ja002 wison 1 1000 u3407
+滤波器 t 滤波器 saw tx 单端 band40 2350mhz 1.4 x1.1 x0.5 mm safea2g35mc0f0a safea2g35mc0f0a 1 1000 u3215
+滤波器 t 滤波器 saw tx 单端 band41 2555 2655mhz 1.4 x1.1 x0.5 mm safea2g60ma0f0ar15 safea2g60ma0f0ar15 1 1000 u3225
+滤波器 multilayer low pass filter for lte b40 b41 rflpf16082g5wm0t29 1 1000 u3211
+滤波器 multilayer ceramic triplexer 1.5 ghz wlan 2.4 g 5ghz rftip2109btm5t62 1 1000 f5001
+uu9.8 20mh 1a t2 严格 按照 参数 选料 trains uu9.8 7x8 1.0 100.0 top
+20 top 贴片 磁珠 磁珠 100r 0603 mura bead 0603 blm18tg601tn1d z 600r 25% fb1 fb2 2 20
+600 ω ± 25% 100mhz 贴片 磁珠 fb1 fb2 0805 l 2 10
+acm7060 701 2pl tl01 fl1 filter smd l7.20 w6.20 1 5
+091805 127201 贴片 芯片 uaf42au 10
+片式 磁珠 blm18pg181sn1d pz1608u181 1r5tf cbw160808u181t 阻抗 180 ω ± 25% 100mhz 0.1 v 额定电流 1500ma 直流电 阻 0.09 ω max 0603 taiyo 300 90000
+片式 磁珠 blm31pg121sn1l pz3216d121 2r0tf 阻抗 120 ω ± 25% 100mhz 0.1 v 额定电流 2000ma 直流电 阻 0.06 ω max 1206 sunlord 300 90000
+片式 磁珠 bk2125lm152 t gz2012d152tf 阻抗 1500 ω ± 25% 100mhz 额定电流 500mamin 直流电 阻 0.35 ω max 0805 chilisin 300 90000
+片式 磁珠 pby201209t 331y n mpz2012s331at cbm201209u331t 阻抗 330 ω ± 25% 100mhz 额定电流 2a 直流电 阻 0.08 ω 0805 300 90000
+blm31pg601sn1 chip ferrite bead for dc power line blm31 blm31pg601sn1 6000 9920 7000 1000
+blm18pg181sn1d ferrite bead 0.09 ohm 100m dc 1.5 a 180 ohm 0603 1ln l0603 blm18pg181sn1d 3000 9920 7000 1000
+fb 180 ohm 1.5 a ferrite bead l0603 blm18pg181sn1d 600 9920 7000 1000
+blm31pg121sn1l ferrite bead 120 ohm 1206 1ln l1206 blm31pg121sn1l 1200 9920 7000 1000
+czb2agtte601p ferr cb 0805 czb 600 ohm 100mhz 0.3 ohm dcr 200ma czb2a 0805 koa speer czb2agtte601p 900 9920 7000 1000
+blm41pg750sn1 blm41pg450sn1 75 ohm 100mhz blm41p 1806 blm41pg750sn1 900 9920 7000 1000
+blm18pg471sn1d ferrite bead 470 ohm 0603 1ln l0603 blm18pg471sn1d 600 9920 7000 1000
+acm2012h 900 2p common mode filter ind acm2012h 0805 acm2012h 900 2p t 600 9920 7000 1000
+acm7060 701 2p choke common mode 700ohm 100mhz acm7060 acm7060 701 2p 300 9920 7000 1000
+common mode 1mh 6a 1mh 10khz 2 line common mode choke through hole 6a dcr 13 mohm choke 744823601 wuerth 744823601 300 9920 7000 1000
+value blm31 chip ferrite bead for dc power line blm31pg121sn1l 600 9920 7000 0988
+blm18pg181sn1d l0603 ferrite bead 0.09 ohm dc 1.5 a 0603 blm18pg181sn1d 600 9920 7000 0988
+acm2012h 900 2p ind acm2012h 0805 common mode filter acm2012h 900 2p t 3000 9920 7000 0988
+1.17 mh 1.22 a p0354nl choke common mode 1.17 mh 1.22 a schaffner p0354nl 600 9920 7000 0988
+ferrite bead 0.09 ohm dc 1.5 a 0603 blm18pg181sn1d l0603 blm18pg181sn1d 2320 9920 7000 0861
+common mode filter acm2012h 900 2p fb0805 acm2012h 900 2p t 560 9920 7000 0861
+choke common mode 700ohm 100mhz acm1211 102 2pl acm7060 acm7060 701 2pl 80 9920 7000 0861
+1.6 mh 1.5 a ind rn102 choke common mode 1.6 mh 1.5 a schaffner rn102 1.5 02 80 9920 7000 0916
+5 l1 贴片 磁珠 0 ω 0603 1 3000
+91 emi 磁珠 mpz2012s601at000 2012 20 500 10000 l1 l2 l3 l4 l5 l6 l11 l12 l13 l15 l18 l19 l20 l21 l22 l28 l30 l31 l32 l33
+27 贴片 磁珠 电感 磁珠 0805 1000 fb2 fb1 贴装
+7 共模电感 60mh 500 l1 电装
+48 滤波器 bnx002 01 bnx002 01 dip 6 2 f1 f2
+upz2012e102 1r5tf upz2012e102 1r5tf l5 r0805 3d inductor 1 10
+21 磁珠 120 100mhz l0805 1 2
+22 磁珠 800 2a l0805 2 4
+12 l1 l2 l3 l4 贴片 磁珠 0805 600 ω 100mhz 25% 600ma r0805 4 20
+12 l1 l2 l3 l4 贴片 磁珠 0805 600 ω 100mhz 25% 600ma r0805 4 200
+26 l1 贴片 磁珠 0805 600 ω 100mhz 25% 600ma r0805 l 1 5
+26 l1 贴片 磁珠 0805 600 ω 100mhz 25% 600ma r0805 l 1 50
+64 电感 变压器 act45b 510 2p tl003 act45b 510 2p tl003 smd 400
+127 贴片 磁珠 blm18pg330sn1d blm18pg330sn1d l0603 blm18pg330sn1d 5950
+128 贴片 磁珠 blm31pg330sh1 blm31pg330sh1 l1206 blm31pg330sh1 1200
+60 电感 变压器 dlw31sn900sq2l dlw31sn900sq2l l1206 400
+13 贴片 共模电感 zjys81r5 2p24t g01 smd zjy2401 1700
+20 磁珠 1k ω ± 25% 1.5 a upz2012e102 1r5tf l5 1 10
+1 20 bd2 blm18ag121sz1d 81 blm18ag121sz1d ferrite beads 0603 120ohms 500ma auto infotainment blm18 blm 18 0603
+1 20 bd1 blm31pg121sn1l 81 blm31pg121sn1l ferrite beads 1206 120 ohm blm31 blm 1206
+4 80 bd2 bd3 bd4 bd5 blm21ag121sz1d 81 blm21ag121sz1d ferrite beads 0805 120ohms 1000ma auto infotainment blm21 blm 21 0805
+3 60 bd6 bd7 bd8 blm18ag121sz1d 81 blm18ag121sz1d ferrite beads 0603 120ohms 500ma auto infotainment blm18 blm 18 0603
+1 20 bd9 blm41pg750sn1l 81 blm41p750s ferrite beads 1806 75 ohm blm41 blm 1806
+110104200009x cd 三端子 电容型 滤波器 nfm41pc155b1e3 1806 1.5 uf ± 20% 25v 6a 4000
+110103200069x cd 片状 共横 扼流圈 dlw5btm102sq2 共模 阻抗 1k 50v 2a 1400
+18.0 10070008 a8 mmz2012y601bt 6 300 磁珠 b emi bead 600 ω 25% 0.1 ω 500ma 0805
+35.0 10070007 主控 14 传感器 4 3 hcb3216k 501t30 21 1050 磁珠 b emi bead hcb3216 501t30 0.5 k ω ± 25% 100m ω 3000ma 1206
+26006 blm15hg102sn1d 0.25 a sl0402 23 2300 lb1 lb2 lb3 lb4 lb5 lb6 lb7 lb8 lb9 lb10 lb11 lb12 lb13 lb16 lb25 lb26 lb27 lb28 lb29 lb30 lb31 lb32 lb35
+26017 blm18pg181sn1 1.5 a l0603 21 2100 lb14 lb15 lb17 lb18 lb19 lb20 lb21 lb22 lb36 lb37 fb17 fb18 fb19 fb20 fb21 fb22 fb23 fb24 fb25 fb26 fb27
+26019 blm21pg331sn1 l0805 18 1800 l18 l19 l20 l21 l22 l23 l24 l25 l26 l27 l28 l29 l30 l31 l32 l33 lb33 lb34
+fb1 1 240 2384 1 nd laird products li0805h151r 10 ferrite 800ma 150 ohm 0805 smd 5000
+50597 grm21br60j106ke19k 153
+50609 grm21br60j106ke19k 300
+a44 l01 s000344 ferrite bead 120r 0805 1ln 2508051217y0 fair rite 磁珠 40
+0603 60r 磁珠 cbg160808u600t 12000.0
+50 0402 磁珠 100r 0402 1
+51 0603 磁珠 100r 0603 1
+149 磁环 磁环 6 3 3 锰 锌 磁导率 10k t t6 3 2a 1000
+150 磁环 磁环 9 3 3 锰 锌 磁导率 10k t t8 3 7p 1000
+贴片 磁珠 1608l c blm18pg121sn1 0603 120ohm 2a 8.0 100.0
+50 0402 磁珠 100r 0402 1
+51 0603 磁珠 100r 0603 1
+149 磁环 磁环 6 3 3 锰 锌 磁导率 10k t t6 3 2a 1000
+150 磁环 磁环 9 3 3 锰 锌 磁导率 10k t t8 3 7p 1000
+26018 blm21pg600sn1 l0805 6 300 l18 l19 l20 l21 lb33 lb34
+26004 blm18ag102sn1 0.4 a l0603 23 2300
+26005 blm21pg221sn1 2a sl0805 16 1600
+贴片 磁珠 fcm2012hf 202t10 acm201209b202 2k 2 sl0805 贴片 bl1 bl2 tai tech 4000
+贴片 磁珠 fbma 11 160808 601a10 0603 3030000018002 0603 1 l2
+58.0 磁珠 skr1a 磁珠 skr1a 磁珠
+59.0 磁芯 feir 20 7 9 14c feir 20 7 9 14c
+60.0 磁芯 p46er13 p46er13
+61.0 磁芯 feer 12.8 feer 12.8
+贴片 磁珠 fbma 11 160808 601a10 0603 3030000018002 0603 1 l2
+51938 blm15bd221sn1d 6000
+51945 blm15bd221sn1d 10000
+51952 blm18eg221sn1d 4000
+51938 blm15bd221sn1d 6000
+51945 blm15bd221sn1d 10000
+51952 blm18eg221sn1d 4000
+8 b82789c0104n001 chokes for data and signal lines l1 l2 l3 l4 l5 l6 b82789 b82789c0104n001 60 b82789c0104n001
+60504000130 共模电感 acm70v 701 2pl tl00 700r 100mhz 4a 4pin smd acm70v 701 2pl tl00 10
+ic ic balun lpf dea102500lt 9052a1 dea102500lt 9052a1 dea102500lt 9052a1 300 2 1.586549 17
+ic ic balun lpf dea102500lt 9052a1 dea102500lt 9052a1 dea102500lt 9052a1 300 2 1.586549 6%
+fb l 0805 2012metric 14 742792097 ferrite bead 1400
+贴片类 fb 60ohm fb0805 15 l11 l12 l13 l14 l15 l16 l18 l19 l20 l21 l22 l23 l24 l25 fb1 128550
+贴片类 fb 120ohm l0603 1 fb2 8570
+贴片类 blm31pg121sn1 l 1206 4 l5 l7 l9 r75 34280
+26 贴片 磁珠 gz1608e601tf sunlord 0603 53
+31 贴片 磁珠 gz2012d601tf 600 ω 100mhz sunlord l 0805 21
+32 贴片 磁珠 gz1608e601tf 600 ω 100mhz sunlord l 0603 139
+26 磁珠 gz1608e601tf sunlord l0603 75
+27 磁珠 blm31pg601sn1l 1206 32
+ferrite bead 50 ohm 1ln 1206 hi1206t500r 10 laird 贴片 磁珠 790
+bre50 80 25 kitagawa co ltd 5
+rfc 20 kitagawa co ltd 5
+33 filter inductor uu9.8 vertical 2 0.28 15mh 10000
+43.0 共模电感 0.7 mh 5a 7448225007 2.0
+45.0 共模电感 1mh 0.8 a 744222 13.0
+47.0 共模电感 2.2 k 200ma 744232222 1.0
+48.0 共模电感 100uh 275ma 744766920 6.0
+16 共模电感 l1 10mh 0.7 a we 744821110 1 20
+17 共模电感 l2 100uh 1.5 a we 744841210 1 20
+cc12 0001 a emi 静噪 滤波器 471 100v dss6nc52a471q93a sip3 2.54 d v m 脚位 2.54 mm 2 1100

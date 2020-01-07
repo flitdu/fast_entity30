@@ -1,0 +1,215 @@
+309.0 11302012 集成块 lm224 直插 0.0
+311.0 11302060 集成块 直插 ne5532p 0.0
+312.0 11302064 集成块 直插 lm386d 1543.0
+313.0 11302085 贴片 集成块 ne5532 so 8 70.0
+316.0 11305010 贴片式 集成块 lm393 45.0
+317.0 11305013 lm224 贴片 s0ic14 12.0
+325.0 11305068 贴片 运放 ic lmv324id 4 组运放 tssop14 208648 娄红舟 542.0
+9 qm max4389ext t 7500
+4 贴片 ic lm358 sop 8 1 u2
+309.0 11302012 集成块 lm224 直插
+311.0 11302060 集成块 直插 ne5532p
+312.0 11302064 集成块 直插 lm386d
+313.0 11302085 贴片 集成块 ne5532 so 8
+316.0 11305010 贴片式 集成块 lm393
+317.0 11305013 lm224 贴片 s0ic14
+325.0 11305068 贴片 运放 ic lmv324id 4 组运放 tssop14
+lm2904dt 18000
+贴片 ic 运算 放大器 mcp6001t e ot sot 23 5 091805 140901 152
+贴片 ic 运算 放大器 mcp6001t e ot sot23 5 091805 140901 212
+贴片 ic 运算 放大器 mcp6001t e ot sot 23 5 091805 140901 152
+贴片 ic 运算 放大器 mcp6001t e ot sot23 5 091805 140901 212
+ina333aidgkr dgk8 n u5 u6 2 5200
+lmv321idbvr mf05a n u17 1 2600
+19 1 4000 lmv324mz ic3 tssop14 lmv324ipwr 296 9570 1 nd d
+58 a07 001023 061 低噪声 放大器 grf2501 49 6ghz 169 db 增益 grf2501 guerrilla 3000 u12 贴片 电子技术
+59 a07 001023 052 放大器 se5004l qfn20 40 85 ℃ se5004l skyworks 3000 u16 贴片 电子技术
+33 功放 ht6819 tssop20 1.0 10.0 1000.0
+17.799999999999986 运放 tlc2274aid so14 1 4 tp1284l1 sr
+82 rdaln16 max2659 dfn6 smd dallas max2659 dfn6 smd dallas max2659 u1504 1 rdaln16 20
+17 e05cq033701 ldo az1117h 1.8 trg1 1.8 v 1a sot 223 diodes 1
+18 e05cq032201 ldo az1117h 3.3 trg1 3.3 v 1a sot 223 diodes 1
+20 c0100117 运放 sgm721xn5 tr 单路 运放 11mhz 轨对轨 sot 23 5 卷装 sot 23 5 sgmicro 1 500
+1 109 0101 0029 贴片 集成块 ad8605artz sot 25 10 00000 2019 09 06
+6 lmv331 idbvr 比较 器 sot23 5 1 10000
+7 lmv358 运算 放大器 msop8 1 10000
+6 lmv331 idbvr 比较 器 sot23 5 1 10000
+7 lmv358 运算 放大器 msop8 1 10000
+1 30.0 2008060005 ic 1 b 80 amp op282gsz so g8
+1 50.0 2008060006 ic 29 b 2320 amp tlc2254aidr so g14
+1 80.0 2008060004 ic 1 b 80 amp ad822arz so g8
+1 90.0 2008060007 ic 运放 1 b 80 amp tlc2252aid sop8
+1 100.0 2008060019 ic 1 b 80 amp iso122p 16 pin dip
+70.0 10020070000301.0 g280000481 ic tp5532 sr 2.0 u10 u13 运算 放大器 双通道 1.8 v 5.5 v 130db 350khz soic 8 150mil smd 3peak tp5532 sr 3peak 100000
+30.0 10020070001101.0 ic tp2412 sr 5.0 u3 u4 u5 u7 u9 运算 放大器 2 通道 ± 2.2 vto ± 5.5 v 88db 10mhz so 8 150mil smd 3peak tp2412 sr 3peak so 8 250000
+70.0 10020070000301.0 g280000481 ic tp5532 sr 2.0 u10 u13 运算 放大器 双通道 1.8 v 5.5 v 130db 350khz soic 8 150mil smd 3peak tp5532 sr 3peak 100000
+30.0 10020070001101.0 ic tp2412 sr 5.0 u3 u4 u5 u7 u9 运算 放大器 2 通道 ± 2.2 vto ± 5.5 v 88db 10mhz so 8 150mil smd 3peak tp2412 sr 3peak so 8 250000
+62908000380 运算 放大器 运算 放大器 lt1789cs8 1 单路 0.026 v us soic8 8pin smd linear lt1789cs8 1 pbf 5 28.0
+62908000790 运算 放大器 运算 放大器 tlc4501aidr 单路 4.7 mhz 4v 6v 2.5 v μ s soic8 8pin － smd tlc4501aidr 5 18.0
+62908000790 运算 放大器 运算 放大器 tlc4501aidr 单路 4.7 mhz 4v 6v 2.5 v μ s soic8 8pin － smd tlc4501aidr 5 18.0
+62908000420 运算 放大器 运算 放大器 tlc4502 2 路 2.5 v us soic8 8pin smd tlc4502acdrg4 soic8 10 20.0
+6 lmv331 idbvr 比较 器 sot23 5 1 10000
+7 lmv358 运算 放大器 msop8 1 10000
+6 lmv331 idbvr 比较 器 sot23 5 1 20
+7 lmv358 运算 放大器 msop8 1 20
+lmv358 运算 放大器 msop8 1 20
+75 cmicc0902 lm2904d 1 u30 lm2904d smd sop 8p 双路 运算 放大器 0.3 v μ s 700khz max vcc 26v 1ma sop 8p 1 27 100
+运放 ad8542armz reel msop8 1.0 1000.0
+41.0 贴片 ic jrc4558 sop8 贴片 1 u3 5000.0
+42.0 贴片 ic jrc4558 sop8 贴片 1 u4 5000.0
+u27 运放 ic opa376aidbvr opa376aidbvr sot23 5 1 15
+1 620 2008060018 ic amp el2125csz soic 8 u103 u114 2 20 b 40 dlk
+1 630 2008060013 ic amp opa2822u soic 8 u104 u105 u107 u109 u619 u620 u621 u622 8 20 b 160 dlk
+1 660 2008060021 ic 双通道 运放 amp opa2209aidr soic 8 u617 1 20 b 20 dlk
+2 u1 u2 u3 u4 u5 u6 u7 u8 u9 u10 u11 u12 u13 u14 u15 u16 jrc4560 smd8a smd8a 16.0 2444
+6 集成电路 ltc2050hs5 10 linear technology
+12 集成 芯片 ad629an 10
+9 双路 运放 lm2904dr lm2904dr 双路 运放 soic 8 表贴 100
+lmv393qdrq1 lmv393idr soic8 50 150 u17 u18 u21 u24 u25 u28 u29 u32 general purpose low voltage dual comparators 2.7 v to 5.5 v soic 8 8.0 32.0
+ad8662arz soic8 50 150 analog devices u19 u20 u26 u27 u41 u42 u43 u45 u46 u49 u50 u54 16v low cost high performancecmos rail to rail dual operational amplifiers 40 ° to 125 ° c soic 8 12.0 48.0
+acpl c87bt stretched so 8 package sso 8 broadcom d20 precision optically isolated voltage sensor 光 隔离 放大器 1.0 4.0
+43 11 0103 001 066 功放 ic dhst5301v1 lc hsop 8 lc hsop 8 u10 1 10000.0
+23 11 0103 001 044 集成 运放 lm321 lc sot 23 5 u14 1 10000.0
+njm4558m 运放器 u1 so 8 宽体 10 1 jrc
+op07c 运放器 u5 u7 so 8 20 2
+ad549kh 电流 运算 放大器 u6 to 99 h 10 1
+13 贴片 ic 功放 音频 d 功放 aw8010afcr 1.5 mm 1.5 mm fc 9 aw8010afcr tpa2010 bga 6p 1 20 2000 30000
+upc4074g so 14 4.0 芯片 2000.0
+opa277ua so 8 1.0 芯片 500.0
+178 功放 2 u2 u3 ns4150 sop soic8 50 150
+njm4558 sic8
+22 23070 njm4558 sic8 20 20
+po20190026 3000004273 贴片 芯片 opa4171aid so 14 opa4171aid 735
+ad8642arz 1000 8.99
+33.0 ad7799bruz ad7799 us1 1.0 10.0 ad7799bruz reel
+52 u17 s000382 ic opamp gp 10mhz 14soic tlc084cdr soic 8246
+opa188aidbvr opamp dbv5 u11 u17 u23 u29 u35 u69 5.0 2100.0
+091805 027801 芯片 opa379aidbv sot 23 5 115
+opa188aidbvr opamp dbv5 u11 u17 u23 u29 u35 u69 5.0 2100.0
+运算 放大器 analog device 40 to 85 ° c 25v 差分 运算 ad620arz soic 8 10
+线性光耦 40 to 85 ° c 2652vrms 线性光耦 hcpl 788j 500e sop16 10
+比较 器 2v 36v 65 to 150 ° c lm2903drg4 soic 8 10
+运算 放大器 ± 20v ± 10ma 40 to 150 ° c opa2171aid soic 8 20
+1 109 0101 0082 贴片 集成块 lm393dr soic 8 3 00000
+70 贴片 集成电路 opa365aidbvr u8 sot 23 5 1 20
+71 贴片 集成电路 opa4364aqdrq1 u9 inf pg dso 14 24 m 1 20
+110100201140x ic 运算 放大器 mcp606 sot 23 5 1000 asap
+滤波器 lna for gnss gain 20db df6l 1.5 1.0 0.5 mm aw5005dnr awinic 1 1000 u5004
+lm4871m u12 sop 8 1.0 100.0 top
+ad8021arz single channel low power operational amplifier 490 mhz bw 120 v us sr industrial 8 pin soic r 8 tube u12 u20 r 8 n 2 10
+ad8055art r2 single channel low power operational amplifier 300 mhz bw 1.4 kv us sr industrial 5 pin sot23 rj 5 reel u13 u21 rj 5 n 2 10
+lm7301im5 low power 4 mhz gbw rail to rail operational amplifier 5 pin sot 23 u16 u24 mf05a n 2 10
+opa890idbvt low power wideband voltage feedback operaonal amplifier with disable 3 to 12 v 40 to 85 degc 6 pin sot23 dbv6 green no sb br u17 u25 dbv6 n 2 10
+ada4938 1 ada4938 1 u18 u26 lfcsp 16 l3.0 w3.0 p0.50 tl ep 2 10
+091805 143501 贴片 芯片 lm258d 10
+091805 126901 贴装 芯片 op213fs so 8 so 8 150
+091805 126701 贴装 芯片 lm239d so 14 lm239d so 14 10
+091805 126601 贴片 芯片 lm211d so 8 10
+091805 125501 芯片 acpl c87a acpl c87a 500e 光偶 40 度 10
+ic opamp gp 430khz dual 8soic u2 opa2244ua nd opa2244ua each
+ic comp dual lo pwr 8 soic u3 926 lm393mx nopb lm393mx nopb each
+72 40 ic comp prec w p pop lv sot23 6 u13 u17 u18 u20 lmv761mfct nd national semiconductor lmv761mf nopb each
+73 20 ic logarithmic amp 92db 8 soic u14 u16 ad8307arz nd analog devices ad8307arz each
+83 10 ic amp audio pwr 325w ab 8soic u4 lm386m 1 nd national semiconductor lm386m 1 nopb each
+84 60 ic op amp cmos dual 8 soic lm6482 u5 u6 u7 u10 u15 u33 lmc6482aimx nopbct nd lmc6482aimx nopb each
+lm833m ic opamp audio 15mhz 8soic lm833m soic8 lm833mx nopb 2700 9920 7000 1000
+ne5534ad ic opamp gp 10mhz 8soic ne5534ad soic8 ne5534ad 300 9920 7000 1000
+ts922idt ic opamp gp 4mhz rro 8so lm833m soic8 ts922idt 900 9920 7000 1000
+lm4950 7.5 w audio amplifier mono btl element14 818 1225 lm4950 d2pak 9 to 263 9 lm4950ts 300 9920 7000 1000
+ltc6102hvhms8 pbf linear technology ltc6102hvhms8 pbf amp current sense precision smd ltc6102cms8 msop8 linear technology ltc6102hvhms8 pbf 600 9920 7000 1000
+op amp low noise smd 5534 soic8 ne5534ad ne5534ad soic8 ne5534ad 160 9920 7000 0861
+dual audio operational amplifier ts922idt lm833m soic8 ts922idt 240 9920 7000 0861
+29 贴片 ic tlv2371idbvr vbgi sot23 5 30 u8 u10 u11
+u4 rs324xp rs324xp 1 10
+u19 adl5530 adl5530 1 10
+u1 u13 tl072 operational amplifiers op amps dual low noise jfet soic8 2 2400 tl072cd tl072cdt
+u2 u6 mc33178 operational amplifiers op amps 2 18v dual low power industrial temp soic8 2 2400 mc33178dr2g
+u4 ba4560f e2 operational amplifiers op amps op amp generic 4560 dual 8 pin soic8 1 1200 ba4560f e2
+u5 u16 ba4560f e2 operational amplifiers op amps op amp generic 4560 dual 8 pin soic8 2 2400 ba4560f e2
+u7 u10 u17 mc33179 operational amplifiers op amps 2 18v quad low power industrial temp soic14 3 3600 mc33179dr2g
+u8 tlv2171idr operational amplifiers op amps 36v low power op amp soic8 1 1200 tlv2171idr
+u9 u14 u22 tl072 operational amplifiers op amps dual low noise jfet soic8 3 3600 tl072cd tl072cdt
+u11 mc33178 operational amplifiers op amps 2 18v dual low power industrial temp soic8 1 1200 mc33178dr2g
+u15 mc33178 operational amplifiers op amps 2 18v dual low power industrial temp soic8 1 1200 mc33178dr2g
+u18 u24 tl072 operational amplifiers op amps dual low noise jfet soic8 2 2400 tl072cd tl072cdt
+58 集成电路 ad8332ar tsop65p640x120 28n 1 500 500 d10
+59 集成电路 ada4851 2 msop 8 1 500 500 d16
+20 8400 u402 u602 u802 u1002 operational amplifier sot23 5 lmv821m5 nopb
+74 lm324 u12 u16 tssop 14 p0.65 w5.6 2 2000
+81 lm358 tssop u31 u32 u33 u34 msop 8 p0.65 w4.6 4 4000
+24 贴装 电路 opa170aidbvt 500 u6 贴装
+25 贴装 电路 4 运放 tssop pw tl064cpwr pw 4 运放 500 u5 贴装
+29 贴片 ic tlv2371idbvr vbgi sot23 5 3 u8 u10 u11
+19 d25 d30 运算 放大器 tlv9002 soic 8 so8 m 2 10
+21 d27 运算 放大器 lm358 soic 8 so8 m 1 5
+19 d25 d30 运算 放大器 tlv9002 soic 8 so8 m 2 100
+20 d26 max3221e 单通道 rs232 收发器 ssop16 l 1 50
+21 d27 运算 放大器 lm358 soic 8 so8 m 1 50
+sop 8 150mil opa2376 opa2376 u18 运放 opa2376 1 20 opa2376aidr
+52 贴片 芯片 lm258d lm258d so g8 lm258 600
+56 贴片 芯片 lm2903avqdr lm2903avqdr so g8 l2903av e 650
+55 贴片 芯片 lm2904avqdr lm2904avqdr so g8 l2904av e 5100
+1 20 u19 max4222esd 700 max4222esd integrated high speed operational amplifiers high speed single supply gain of 2 closed loop rail to rail b uf fers with enablec max4222esd 14 soic
+110100200086x ic tl061c 10211441 500
+23033 ka339d sop14 1 100 u59
+u5 u6 u7 3 497 14071 1 nd tsx9292i ic opamp r r 16mhz 8msop 15000
+u7 1 digi key lmc6484aimx nopbtr nd lmc6484aimx nopb ic opamp gp 1.5 mhz rro 14soic 5000.0
+u3 1 lmc6482imx nopbct nd lmc6482imx nopb ic opamp gp 1.5 mhz rro 8soic 5000.0
+132 运放 ic lmp7718mm nopb vssop8 65 200
+133 运放 ic lmp7716mm nopb vssop8 65 160
+134 运放 ic opa188aidbvr sot23 5 650
+135 运放 ic sgm8581 sot23 5 600
+136 运放 ic sgm8743 sot23 5 500
+144 ic ad8032 vssop8 _. 65 100
+放大器 vson 8 3x3 drb tpa2005d1drb 1.0 5.0
+132 运放 ic lmp7718mm nopb lmp7718mm nopb vssop8 65 200
+133 运放 ic lmp7716mm nopb lmp7716mm nopb vssop8 65 160
+134 运放 ic opa188aidbvr opa188aidbvr sot23 5 650
+135 运放 ic sgm8581 sgm8581 sot23 5 600
+136 运放 ic sgm8743 sgm8743 sot23 5 500
+143011951 功率 放大器 mmmb w td lte qm56020 100k
+143011951 功率 放大器 mmmb w td lte qm56020 100k
+op37 sop8 500
+lm393 sop8 500
+lmv358 sop8 500
+42.0 运放 lm2903dgkr msop8 lm2903dgkr
+51878 ad526jn ad 50
+51914 lf353m nopb 50
+51926 lf353m nat semi 50
+30 芯片 awinic aw8735tqr 2 20
+61 6p7901b0 u16 s000763 ic opamp gp 1 circuit sot23 5 tlv2471qdbvrq1 sot 12
+63 6p7901b0 u17 s000977 ic opamp isolation 1 circ 8sso acpl c87bt 000e broadcom limited soic 12
+62908000660 opa348aidbvt 100
+34 gs8632 sr soic 8 1.0 u5 400.0
+4.0 贴片 功放 ic snap01a sop 8 1.0 u3 3000
+ad8422arz soic 8 3.9 x4.9 mm p1.27 mm 2 ad8422arz analog devices low power instumentation amplifier msop 8 200
+opa333xxdbv sot 23 5 1 opa333aidbvr single 1.8 v micropower cmos operational amplifiers zero drift series sot 23 5 100
+ths4281dbvt sot 23 5 4 ths4281dbvt single 1.8 v micropower cmos operational amplifiers zero drift series sot 23 5 400
+ths4521 soic 8 3.9 x4.9 mm p1.27 mm 2 ths4521idr 200
+ths4631dr soic 8 3.9 x4.9 mm p1.27 mm 1 ths4631dr single soundplus high performance audio operational amplifiers dip 8 soic 8 100
+tlv07 soic 8 3.9 x4.9 mm p1.27 mm 1 tlv07idr 100
+8 贴片 功放 ic snap01a sop 8 1 u13 3000
+21 p20304000005 htssop 28 tpa3112d1qpwprq1 tpa3112d1qpwprq1 集成电路 120
+opa336n 13556
+lmv358id 60666
+lmc6482im nopb 60666
+lmv324ipwr 85140
+ad8554arz ad 2257
+adcmp600bksz reel7 ad 96057
+ad8276arz ad 6569
+85 运放 芯片 lm258dt 半导体 sop8 21
+34 双路 运放 ic lm258dr2g on sop8 m 31
+66 贴片 ic lm258dt soic8 21
+629081030 ad8641arz 2352 2019 12 16 10.014625
+629081040 ad8672arz 980 2019 12 16 11.056146
+6290380 lm339dt 25 2019 12 30
+629081030 ad8641arz 2352 2019 12 16 10.014625
+629081040 ad8672arz 980 2019 12 16 11.056146
+6290380 lm339dt 25 2019 12 30
+102.0 芯片 mcp6022 mcp6022t e sn 4.0
+107.0 芯片 ina118u ina118u 2k5 2.0
+ic01 0128 a smd ic max4467eka t sot 23 8 sot23 8 1 550
+ic01 0140 a smd ic mc34119d sop8 1.27 6 so 8 1 550
+ic01 0156 a smd ic ne5532d sop8 1.27 6 soic 8 3 1650
+ic01 0159 a smd ic njm2761rb2 tvsp10 0.5 4 tvsp 10 1 550
+ic01 0501 a smd ic lm4866mte tssop20 0.65 6.4 1 tssop20 1 550

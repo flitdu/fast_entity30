@@ -1,0 +1,55 @@
+327.0 11402017 电磁 蜂鸣器 tmb12a24 12 9.5 mm 202102 377.0
+1 蜂鸣器 5vdc 有源 12 6.5 mm 1 b1
+327.0 11402017 电磁 蜂鸣器 tmb12a24 12 9.5 mm
+51 蜂鸣器 bz2 fd1205 10 12 5v 1.0
+17 贴片 咪头 4013 42db 4013 mic1 1
+17 贴片 咪头 42db 4013 4013 1 400000
+68 a09 001001 007 电磁 蜂鸣器 电磁 蜂鸣器 2 600 ± 300hz min 85db max30 ma 50 vdc 20 ℃ 70 ℃ mb1295 2305pf sweet 3000 b1
+40 5v 无源 一体 蜂鸣器 脚距 6.5 mm 1.0 10.0 1000.0
+1 j 有源 蜂鸣器 9 5.5 3v3 ls1 beel 9 5.5 50.0
+a01011200 e20011001 有源 蜂鸣器 电磁 有源 蜂鸣器 9 5.5 mm 脚 5mm 声压 85db 0 1
+142 sxfc30000241 4zb buzzer buzzer aatc ac 905i h2 1 5.0 v 80ma h 5.5 mm dip aatc ac 905i h2 1 1 500 2000
+蜂鸣器 有源 蜂鸣器 3.3 v j2 mlt 9032 1.0 侧 发音 脚距 5.5 1000
+蜂鸣器 klj7525 buzzer klj7525 1.0 1000.0
+mems 麦克风 s08ot421 025 goertek sensor mic 3x3 8 1.0 1000.0
+7bb 20 3 5000 buzzer element std 3.6 khz 0.787 20.00 mm
+218 ic ic qsop 16 isl59833iaz smt isl59833iaz 2 80
+2 蜂鸣器 buzzer ac 1205g lf dip ac 1205g lf 1 40
+43.0 贴片 ic tpa3118d2 sop 32 dap 贴片 2 u1 u2 10000.0
+k1 蜂鸣器 hmb1275 05b hmb1275 05b dip 2 1 12 7.5 mm 5v 电磁 有源 一体 蜂鸣器 5
+1 20 2016150005 蜂鸣器 magnetic buzzer kingstate kssgj4b20 2.73 khz 3.6 v bz1 1 b dlk
+40 1777 0 40 buzzer thd audio indicators alerts recommended alt 81 pkm22epph4001 b0 dip 2pin pkm22epph 4001 b0 4khz 1.0 10000
+86 麦克风 咪头 2 mic2500 mic2501 mic 4020 mic smt2 4020
+192 realtek 音频芯片 1 u22 alc5651 qfn40 5r00x5r00x1r00
+193 diodes 音频 放大器 1 u23 pam8303dbsc msop8 3r00x3r00x1r10
+37 bz1 1.0 small buzzer dip small buzzer audio piezo transducer 30v th through hole p 10mm cre sound lpt2270 2 tb 03 4.0 15 10.0 r
+37 bz1 1.0 small buzzer dip small buzzer audio piezo transducer 30v th through hole p 10mm cre sound lpt2270 2 tb 03 4.0 15 10.0 r
+贴片 蜂鸣器 mlt 8530 8.5 8.5 3mm 1 spk1
+69 05004 00501 蜂鸣器 tmb12a05 1 b1 22
+69 05004 00501 蜂鸣器 tmb12a05 1 b1 22
+sd1614t5 b5me audio indicators alerts radial buzzer 5v 7.6 mm 85db auto buzzer ls1 2.0 350.0
+69 05004 00501 蜂鸣器 tmb12a05 1 b1 22
+83 蜂鸣器 hn 1206 无源 2k 12mm pitch6.5 mm d12xp6 5 ws0d0001 1 9200
+37 bz1 1.0 small buzzer dip small buzzer audio piezo transducer 30v th through hole p 10mm cre sound lpt2270 2 tb 03 4.0 15 10.0 r 10000 lpt2270 2 tb 03 4.0 15 10.0 r cre sound 100
+sd1614t5 b5me audio indicators alerts radial buzzer 5v 7.6 mm 85db auto buzzer ls1 2.0 350.0
+3.3 v 蜂鸣器 9mm bl1 bell small 1.0 100.0 top
+irs2092spbf ir class d audio amplifier driver soic16n international rectifier irs2092spbf 600 9920 7000 1000
+irfi4020h 117p ir digital audio mosfet irfi4020h to220 5 international rectifier irfi4020h 117p 600 9920 7000 1000
+cx20709 21z ic qfn 76ep cx20709 audio voice processor qfn76 9x9 np0.4 wp9 cx20709 21z cx20709 21z 300 9920 7000 1000
+7.5 w audio amplifier mono btl lm4950 lm4950 d2pak 9 to 263 9 lm4950ts nopb 160 9920 7000 0861
+94 蜂鸣器 5v 电磁 有源 蜂鸣器 ks 0955d05ya 9 5.5 dip 1 500 500 spk1
+1 1200 bz101 buzzer smd 9x9mm pui smt 0940 t 3v r
+25.0 压电 蜂鸣器 无源 压电 蜂鸣器 4khz 最高 可到 30v 500 fmq1 电装
+直插 5.0 9 5.5 mm b buzz buzz1 蜂鸣器 1 20 有源 5v
+拾音 硅麦 ics ‐ 43432 10
+蜂鸣器 dip 2 5v 有源 蜂鸣器 7 12mm 20.0
+tda7294 u2 u17 tda7294 sun tda7294 2 tda7294
+集成电路 音频 解码 芯片 wm9712lgefl wolfson 4
+192010321 mic si 300 ω 38 ± 1db 3.76 3.0 1.1 goer 100k
+192010411 麦克风 si 200 ω 38 ± 1db 3.76 2.95 1.1 mxw 100k
+dc5v 蜂鸣器 ls1 beep 5x9x5.5 1 5
+80.0 喇叭 8r 0.5 w 28 4.5 mm awg28 1571 一头 带 1.25 端子 50mm 1.0 3000
+buzzer buzzer 12x95 rm76 1 wst 1205s soberton inc buzzer polarized 100
+72 咪头 mic 1 mic1 3000
+77 喇叭 8r 0.5 w 28 4.5 mm awg28 1571 一头 带 1.25 端子 50mm 1 3000
+mpeg audio codec soic28 vs1011e vlsi soic 400

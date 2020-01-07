@@ -1,0 +1,1390 @@
+ffc fpc 插座 接口 0.5 mm 1 24pin smd 1
+ffc fpc 插座 上 接口 0.5 mm 1 40pin smd 1
+ffc fpc 插座 接口 0.5 mm 1 8pin smd 1
+插座 1.25 mm 1 2pin 90 º smd 1
+插座 1.25 mm 1 6pin 180 ° smd 1
+插座 2.0 mm 1 2pin 180 º smd 2
+插座 2.0 mm 1 2pin 90 º smd 3
+插座 2.0 mm 1 3pin 90 º smd 1
+双插线 双插线 2.0 mm 1 6pin 180 º dip 390mm 1
+双插线 双插线 2.0 mm 1 5pin 180 º dip 390mm 1
+micro usb 插座 micro usb 两脚 插板 带柱 g f 5pin 90 ° dip 1
+单插线 单插线 2.0 mm 1 3pin 190mm 1
+usb 座 usb a f 4pin 180 º dip 1
+插座 1.25 mm 1 2pin smd 立贴 3000
+插座 2.0 mm 1 2pin smd 卧贴 3000
+插座 1.25 mm 1 6pin smd 立贴 3000
+插座 1.25 mm 1 4pin smd 立贴 3000
+插针 1.27 mm 2 7pin 插针 smd 立贴 3000
+插座 1.25 mm 1 6pin smd 立贴 3000
+插座 1.25 mm 1 5pin smd 立贴 3000
+插座 1.27 mm 2 7pin smd 立贴 3000
+micro usb 插座 micro usb b 有柱 g f 5pin 90 ° smd 3000
+插座 1.25 mm 1 4pin smd 立贴 3000
+插座 1.25 mm 1 5pin smd 立贴 3000
+26 zqk sm10b pass tbt lf sn jst 1000
+32 zc 130299 0100 860
+34 zc 87832 1420 3200
+1 连接器 zh 5a 3 p101 p102 p103
+1 连接器 xh 4aw 1 p201
+51 连接器 phd 2 6aw 1 p1
+52 连接器 phd 2 10aw 1 p2
+53 连接器 xh 6awd 1 p3
+54 连接器 ph 7aw 2 p5 p6
+55 连接器 zh 4awd 1 p7
+56 连接器 xh 2aw 2 p9 p10
+21 连接器 xh 2aw 2 p1 p2
+42 usb 插座 j1 miniusb 5pin 直插 1.0
+44 插座 cn2 b2p vh 2pin 3.75 1.0
+45 插座 j2 b8b xh a 8pin 2.54 1.0
+46 插座 m1 b2b xh a 2pin 2.54 1.0
+49 排针 jp1 2pin 2.54 1.0
+50 排针 j5 4pin 2.54 1.0
+端子 776087 1 776087 1 091806 039001 30
+端子 776163 1 776163 1 091806 039101 30
+端子 776280 2 776280 2 091806 039201 30
+端子 mstbv 2 5 9 gf 5 08 no 1777141 1777141 091806 039301 60
+端子 mstbv 2 5 7 gf 5 08 no 1777125 1777125 091806 039401 30
+端子 mstbv 2 5 12 gf 5 08 no 1777170 1777170 091806 039501 30
+端子 mdstbv 2 5 12 gf 5 08 no 1845730 1845730 091806 039601 30
+端子 mstbv 2 5 8 gf 5 08 no 1777138 1777138 091806 039701 30
+端子 mdstbv 2 5 8 gf 5 08 no 1845691 1845691 091806 039801 30
+端子 mstbv 2 5 4 gf 5 08 no 1777099 1777099 091806 039901 60
+端子 105309 2 2pin 直插 105309 2 091806 044701 30
+插头 fkc 2 5 7 stf 5.08 no 1873252 091806 044301 30
+插头 fkc 2 5 12 stf 5.08 no 1873304 091806 044401 90
+插头 fkc 2 5 8 stf 5.08 no 1873265 091806 044501 90
+插头 fkc 2 5 4 stf 5.08 no 1873223 091806 044601 90
+贴片 ph2.0 带扣 针座 b6b ph sm4 tb jst ph2.0 6 091807 040801 30
+端子 776267 1 776267 1 091806 040101 30
+凤凰 端子 emcv 1 5 4 g 3 5 f83 5 3.5 4p 091806 040001 90
+端子 776280 1 776280 1 091806 040201 30
+端子 776280 2 776280 2 091806 039201 0
+端子 776087 1 776087 1 091806 039001 30
+端子 776163 1 776163 1 091806 039101 30
+ic 座 2 8p 2.54 mm dip 16 091807 040401 30
+ic 座 2 2p 2.54 mm dip 4 091807 040301 30
+端子 776280 2 776280 1 091806 039201 30
+端子 776087 1 776087 1 091806 039001 30
+2.54 mm 排针 2.54 mm 4p 直针 091807 032401 30
+插座 6pin ech3 50v 06p 町洋 091806 040401 30
+以太网 rj45 hy951180a rj45 light 90 091806 042301 30
+贴片 sd 卡座 大卡 26.5 mm 25.0 mm 3.0 mm sofng 硕方 sdcard l 091807 040601 30
+sma 射频 连接器 5 1814832 1 直插 091806 040301 30
+贴片 usb 连接器 带 高温 贴胶 usb mini 精拓金 usb sm0.8 6h5 091806 042201 30
+贴片 ph2.0 带扣 针座 b6b ph sm4 tb jst ph2.0 6 091807 040801 30
+端子 776087 1 776087 1 091806 039001 30
+端子 776163 1 776163 1 091806 039101 30
+端子 776280 2 776280 2 091806 039201 30
+端子 mstbv 2 5 9 gf 5 08 no 1777141 1777141 091806 039301 60
+端子 mstbv 2 5 7 gf 5 08 no 1777125 1777125 091806 039401 30
+端子 mstbv 2 5 12 gf 5 08 no 1777170 1777170 091806 039501 30
+端子 mdstbv 2 5 12 gf 5 08 no 1845730 1845730 091806 039601 30
+端子 mstbv 2 5 8 gf 5 08 no 1777138 1777138 091806 039701 30
+端子 mdstbv 2 5 8 gf 5 08 no 1845691 1845691 091806 039801 30
+端子 mstbv 2 5 4 gf 5 08 no 1777099 1777099 091806 039901 60
+端子 105309 2 2pin 直插 105309 2 091806 044701 30
+插头 60
+插头 fkc 2 5 7 stf 5.08 no 1873252 091806 044301 30
+插头 fkc 2 5 12 stf 5.08 no 1873304 091806 044401 90
+插头 fkc 2 5 8 stf 5.08 no 1873265 091806 044501 90
+插头 fkc 2 5 4 stf 5.08 no 1873223 091806 044601 90
+贴片 ph2.0 带扣 针座 b6b ph sm4 tb jst ph2.0 6 091807 040801 30
+端子 776267 1 776267 1 091806 040101 30
+凤凰 端子 emcv 1 5 4 g 3 5 f83 5 3.5 4p 091806 040001 90
+端子 776280 1 776280 1 091806 040201 30
+端子 776280 2 776280 2 091806 039201 0
+端子 776087 1 776087 1 091806 039001 30
+端子 776163 1 776163 1 091806 039101 30
+ic 座 2 8p 2.54 mm dip 16 091807 040401 30
+ic 座 2 2p 2.54 mm dip 4 091807 040301 30
+端子 776280 2 776280 1 091806 039201 30
+端子 776087 1 776087 1 091806 039001 30
+2.54 mm 排针 2.54 mm 4p 直针 091807 032401 30
+插座 6pin ech3 50v 06p 町洋 091806 040401 30
+以太网 rj45 hy951180a rj45 light 90 091806 042301 30
+贴片 sd 卡座 大卡 26.5 mm 25.0 mm 3.0 mm sofng 硕方 sdcard l 091807 040601 30
+sma 射频 连接器 5 1814832 1 直插 091806 040301 30
+贴片 usb 连接器 带 高温 贴胶 usb mini 精拓金 usb sm0.8 6h5 091806 042201 30
+贴片 ph2.0 带扣 针座 b6b ph sm4 tb jst ph2.0 6 091807 040801 30
+21 直插 连接器 hy2.0 mm 带 锁扣 5p 直针 座 hx 5p 2.0 2 400 20000 连接 p1 p2
+22 直插 连接器 ph2.0 mm 白色 直针 连接 端子 hx 2p 2.0 1 200 10000 连接 p3
+23 直插 连接器 单排 弯针 2.0 mm 3p 1 200 10000 连接 p4
+5 贴片 连接器 2.0 mm 1x3p 立贴 蜈蚣 脚 排母 单排 座 错位 脚 贴片 2.0 1 3p 1 200 10000 连接 p5
+fh26 39s 0.3 shw fh26 39s 0.3 shw p2 1 2600
+18 充电 焊点 5v gnd 2
+19 耳机 焊点 l l 2
+20 电池 焊点 b b 2
+2.54 mm 直立 排针 5pin hdr1x5 1.0 10000.0
+2.54 mm 直立 插座 4pin xh2.54 4p 4.0 40000.0
+b usb 母座 usb2.5 2h4d 1.0 10000.0
+2.54 mm 直立 插座 2pin xh2.54 2p a 11.0 110000.0
+上 翻下 接 0.5 mm 40pin ffc sm0.5 2h40a 1.0 10000.0
+5.08 mm 插头 弯脚 插座 2pin 16a300v 5.08 mm 2.0 20000.0
+3.50 mm 插头 弯脚 插座 2pin 8a300v 3.50 mm 1.0 10000.0
+自弹 tf 卡座 tf card 1.0 10000.0
+95 sd 卡座 cn30 15 conn9 conn9 1 6377 8108
+96 mcu 升级 座 con5p 2 5 4p 2.54 mm 排针 1 6377 8108
+97 socket conn smt straight 12pin white iriso imsa 13065b 2 12a tr 1 6377 8108
+640545 1 9k
+1 640509 0 5k
+770442 1 10k
+350416 1 30k
+770361 1 10k
+179227 1 60k
+179228 3 20k
+03062061 21k
+02061101 40k
+03061062 10k
+1 480281 0 5k
+350628 1 21k
+21 直插 连接器 hy2.0 mm 带 锁扣 5p 直针 座 hx 5p 2.0 2 p1 p2 hy 5a 米 boomele 20000 0.11 3 4d
+22 直插 连接器 ph2.0 mm 白色 直针 连接 端子 hx 2p 2.0 1 p3 ph 2a boomele 10000 0.02232 3 4d
+23 直插 连接器 单排 弯针 2.0 mm 3p 1 p4 a2005wr 3p 10000 0.2266 3 4d
+5 贴片 连接器 2.0 mm 1x3p 立贴 蜈蚣 脚 排母 单排 座 错位 脚 贴片 2.0 1 3p 1 p5 200 识别
+32 a26 002003 021 sim 卡座 sd 91228 3001 配合 a26 002003 022 sd 91228 3001 6000 j7 j8 贴片
+33 a26 003009 094 5pin 插座 5pin 125 mm smd 卧式 a1251awr 05 i1ca r 3000 j9 贴片
+89 a26 003002 039 插座 4 脚 单排 插座 4pin 25 mm xh25 4a 直针 3000 j1
+90 a26 003002 038 插座 9 脚 单排 9pin 25 mm xh25 9a 直针 3000 j2
+91 a26 003001 015 插针 单排 插针 1 24 254 短针 30 mm 长针 60 mm 313 1 24 s111 115 leyconn 750 j5 5pin 1 4
+2 usb 座子 smd 贴片 type c 1 10000 usb1
+2 usb 座子 smd 贴片 type c 1 10000 usb1
+31 1 4000 conn header 4 pos j2 thru hole jst b4b zr lf sn 455 1659 nd d
+32 1 4000 conn header 14 pos j1 thru hole 0901310127 wm50035 14 nd d
+33 1 4000 conn bottom j3 smt fh12 5s 1sh hfb105ct nd d
+35 1 4000 conn header 2 pos p1 thru hole b2b ph sm4 tb 455 1734 1 nd d
+091806 024401 ph 连接器 connector side jst s6b ph k s 1 6pin 6pin 2.0 mm white 2260
+091806 024501 ph 连接器 connector side jst s12b ph k s 1 12pin 12pin 2.0 mm white 1130
+091806 024901 vh 连接器 b3p vh 1000
+24 a26 002002 007 psam 卡座 2990 l 1735 w 25 h 40 85 ℃ mup c705 mup 6000 j7 j8 贴片
+25 a26 003009 094 5pin 插座 5pin 125 mm smd 卧式 a1251awr 05 i1ca r 3000 j2 贴片
+64 a26 003025 021 rj45 座 rj45 hr871156c hr871156c 3000 j6
+69 a26 003002 011 插座 2 脚 单排 插座 sip2 254 mm 61021 2 1130 leyconn 3000 j4
+70 a26 003002 039 插座 4 脚 单排 插座 4pin 25 mm xh25 4a 直针 3000 j1
+71 a26 003001 015 插针 单排 插针 1 24 254 短针 30 mm 长针 60 mm 313 1 24 s111 115 leyconn 750 j5 5pin 1 4
+72 a26 003014 005 印制板 连接器 sma ke1 sma ke1 3000 j3
+41 180 ° 白色 针 插座 带扣 b2b xhs a 2pins 脚距 2.54 mm 5.0 50.0 5000.0
+42 180 ° 白色 针 插座 带扣 b3b xhs a 3pins 脚距 2.54 mm 3.0 30.0 3000.0
+43 180 ° 白色 针 插座 带扣 b4b xhs a 4pins 脚距 2.54 mm 1.0 10.0 1000.0
+44 180 ° 黑色 针 插座 带扣 b4b xhs a 4pins 脚距 2.54 mm 1.0 10.0 1000.0
+43 180 ° 白色 针 插座 带扣 b5b xhs a 5pins 脚距 2.54 mm 1.0 10.0 1000.0
+43 180 ° 白色 针 插座 带扣 b6b xhs a 6pins 脚距 2.54 mm 1.0 10.0 1000.0
+45 4p 直针 1.0 10.0 1000.0
+6.1 smt 双排 贯通 排母 2 8 2.54 5.0 u 孔 1 4
+6.2 单排 插针 1 18 2.54 23.5 针 1 4
+6.300000000000001 smt 单排 贯通 排母 1 18 2.54 5.0 1 4
+6.400000000000001 单排 插针 1 18 2.54 23.5 针 1 4
+6.500000000000002 smt 单排 贯通 排母 1 18 2.54 5.0 1 4
+6.600000000000002 双排 扁针 2 8 2.54 mm l 3.0 18mm 针 1 4
+6.700000000000003 双排 扁针 2 10 2.54 3.0 mm 针 1 4
+6.800000000000003 双排 扁针 2 5 2.54 3.0 mm 针 1 4
+6.900000000000004 双排 扁针 2 7 2.54 mm l 3.0 6.0 mm 针 1 4
+8.1 连接器 j0923 248 6824b 1 4
+8.2 连接器 j0903 296 6824b 4 16
+8.299999999999999 连接器 j0923 148 6921b 1 4
+8.399999999999999 连接器 j0903 196 6921b 4 16
+11.1 端子 座 2ehdrm 8p 1 4 插头 插座
+11.2 端子 2esdsm 8p 1 4
+11.3 端子 座 2ehdrm 12p 1 4 插头 插座
+11.4 端子 2esdsm 12p 1 4
+11.5 端子 座 3ehdrm 03p 1 4 插头 插座
+11.6 端子 3esdpm 03p 1 4
+11.7 端子 座 2ehdrm 16p 2 8 插头 插座
+11.8 端子 2esdsm 16p 2 8
+11.9 端子 座 2ehdrm 14p 2 8 插头 插座
+11.1 端子 2esdsm 14p 2 8
+11.11 电流 端子 jp13c2 24 1 4 带 测试 孔
+18.3 rj45 网口 座 双联 带灯 双联 带灯 1 4
+88 cable con rfcnn 母座 1.7 1.7 rf cable con u1505 u1202 j1401 3 c89p104 0001 h 60
+89 micro usb micro 5pin usb 母座 板上 平贴 tip 脚 卷 边 uaf95 05254 1500 u805 1 uaf95 05254 1500 20
+90 caf99 06153 1503 sim 卡座 小卡 翻盖 1.5 h cah99 08153 0105 u1102 1 sa0801254150 57 20
+91 pad 3pin 电池 连接器 喇叭 连接器 电池 连接器 对线 1.2 pitch 1.2 h 3pin w101 a03gb 3zl2 bat5 x5 j700 j701 j800 3 w101 a03gb 3zl2 60
+1 j 2.54 单排 4 直插 针 nc j23 sip4 50.0
+1 j dc2.5 j16 jack 2.5 mm b 50.0
+1 j fpc40 接式 j14 fpc40lcd 50.0
+3 j ipex ipex 转 sma10cm 天线 插头 nc j12 j17 j18 ant9 15 150.0
+1 j ipex ipex 转 sma10cm 天线 插头 nc j3 ipex smd 50.0
+7 j relay hk4100f 5v k2 k3 k4 k5 k7 k8 k9 relay5v 350.0
+1 j rj45 座 hr911105a u5 rj 45a12 50.0
+1 j sdcard kmsd18 j1 tf card 50.0
+1 j usb b 侧立型 usb 1 usb short streit 50.0
+1 j usb miniusb j4 miniusb 50.0
+1 j xh2 直针 j5 hx2.54 2p 50.0
+1 j xh3 弯针 j11 ph3 50.0
+1 j 测试 端子 焊锡 不要 堵孔 nc j28 idc10s 1 50.0
+1 j 测试 端子 焊锡 不要 堵孔 nc j29 idc12s 1 50.0
+1 j 单排 针 2.54 1 nc j27 sip4 50.0
+1 j 弹片 6 脚 sim 卡座 j2 sim6 50.0
+7 j 双排 4 插座 5557 j8 j9 j10 j13 j19 j24 j25 cas2 2 350.0
+1 usb 堵头 50.0
+42 dip 单塑 塑料 2.0 mm 180 度脚 双排 2 5pin 2.0 mm 322210501 4.0 800.0
+44 2.5 mm 3pin 180 度脚 白色 xh 3a 1.0 红星 电业 200.0
+13 塑料 4.3 mm pa6t female 2.0 mm 10pins 带 定位 柱 2242103501 4.0 800.0 2.0
+a01011200 e5001120001 usb 插座 usb a 4pin 直脚 单 接口 扁口 dip 0 1
+a01011200 e63am152102 db 头 母头 15 针 弯脚 半金 带 铆螺 黑服 焊 板式 三排 孔 0 1
+a01011200 e63ag092101 db 头 公头 9 针 弯脚 半金 带 铆螺 黑服 焊 板式 0 1
+a01011200 e53a2210001 牛角 插座 弯脚 脚 2.54 mm 10pin 黑色 dip 0 1
+a01011200 e4901210001 网络 插座 弯脚 带 指示灯 单层 网口 接口 dip 0 1
+a01011200 e27012015 双排 插座 b14b phdss 总高 9.5 mm 塑高 6.5 mm 2 7pin 脚 2.0 mm 直脚 白色 公座 dip jst 1
+a01011200 e4801130405 单排 插座 4pin 脚 3.96 mm 直脚 公座 白色 后背 带锁 vh 0 1
+a01011200 e47a1140501 单排 母 总高 12mm 5pin 直脚 脚 2.0 mm 黑色 dip 0 1
+a01011200 e4702147201 双排 母 总高 7mm 2 36pin 直脚 脚 2.0 mm 塑高 4.3 mm 黑色 dip 0 2
+a01011200 e4702142401 双排 母 总高 7mm 2 12pin 直脚 脚 2.00 mm 塑高 4.3 mm 黑色 dip 0 1
+a01011200 e29011142 双排 插座 b12b phdss 总高 9.5 mm 塑高 6.5 mm 2 6pin 脚 2.0 mm 直脚 白色 公座 dip jst 4
+a01011200 e30011015 db 头 1200 018 001 210 rc 母头 双层 2 9 针 弯脚 半金 带 铆螺 黑服 焊 板式 盒装 0 1
+a01011200 e27017005 牛角 插座 弯脚 脚 2.54 mm 12pin 公头 黑色 28mm dip 盒装 0 1
+1 c0100176 单排 针 总高 5.95 mm 6pin 弯脚 脚 2.0 mm 塑高 2.0 mm 上 针长 4.0 mm 针长 2.8 mm 黑色 smd dip 1 500
+4 c0100177 连接器 1394 10p 公头 10 针 弯脚 焊 板式 scr 板座 端子 盘装 dip 1 500
+5 c0100178 网络 插座 rj450005300 弯脚 铁壳 不带 指示灯 单层 网口 接口 带 纽扣 rj45 dip 21.10 15.9 13.55 mm dip atom 2 500
+6 c0100179 db 头 scsi ca 50p 母头 50 针 弯脚 半金 不带 铆螺 黑服 四排 针 焊 板式 dip 管装 dip 1 500
+14 c0200165 单排 插座 2pin 脚 2.54 mm 直脚 公座 白色 两侧 开口 dip dip lcc 1 500
+19 c0200170 单排 插座 2pin 脚 2.0 mm 直脚 公座 白色 dip 袋装 dip 1 500
+22 c0200171 四排 三塑针 总 31mm 4 11pin 直脚 脚 2mm 塑 2mm 上针 28mm 下针 3mm 黑色 dip 1 500
+1 500.0 2012040003 连接器 3 b 240 插座 omron xh4a 4031 2a dip 40pin 2.54
+1 510.0 2012040007 连接器 1 b 80 插座 omron xh4a 6031 2a dip 60pin 2.54
+1 200.0 2012040006 连接器 1 b 80 插座 honda pcr e50lmd sl th 50pin 1.27
+1 210.0 2012040007 连接器 1 b 80 插座 omron xh4a 6031 2a dip 60pin 2.54
+1 290.0 2012040156 连接器 1 b 80 插座 541323462 smt 34pins 0.5 mm
+2012040038 连接器 1 b 80 插座 6305r smt 34p smd 34pin
+1 210.0 2012040003 连接器 3.0 b 240 插座 omron xh4a 4031 2a dip 40pin 2.54
+1 220.0 2012040156 连接器 1.0 b 80 插座 541323462 smt 34pins 0.5 mm
+16.0 接线 端子 5.08 mm dip 3 dip 1500
+5.08 mm dip
+19 connector pin header dual row 10p 2.54 mm 2 6pin 2 0.2 1420
+1 电源 连接器 atx 电源插座 2x12p atx 电源插座 hm3512e 2x12p dip 50
+2 电源 连接器 atx 电源插座 hm3504e 2x4p atx 电源插座 hm3504e 2x4p dip 50
+3 印制板 连接器 pcie x16 插槽 pcie x16 插槽 2eg08211 d2d df 带 卡扣 16 50
+5 印制板 连接器 db9 db15 dm10191 h551 4f 50
+6 印制板 连接器 ddr4 插槽 ah08813 a9b2 4m 50
+7 印制板 连接器 hf0804e hf0804e 50
+8 印制板 连接器 2.0 mm 2x10p 直针 2.0 mm 2x10p 直针 50
+9 印制板 连接器 双层 rj45 jfm38a1a 0175 4f dip 50
+10 印制板 连接器 双层 usb3.0 uea1112c 8hd1 4f 50
+11 印制板 连接器 sata 座 le18077 s5b 50
+c11215 pcb 连接器 针座 公 插针 2.54 mm 2 7p 直 2x7 30.0 boomele
+c113597 pcb 连接器 针座 公 插针 2.54 排针 单排 1 40p 直针 袋装 直插 200.0 nextron
+c158007 pcb 连接器 针座 公 插针 vh 插座 1 2p 3.96 mm 弯针 盒装 30.0 jst
+c3412 pcb 连接器 针座 公 插针 2.0 mm 2 40p 直 排针 袋装 15.0 boomele
+c57369 pcb 连接器 针座 公 插针 排针 2.54 mm 1 10p 袋装 2.54 1 10 30.0
+21 usb 母座 270 度 usb 母座 10mm 插 直口 2 usb1 usb2 400000
+123 sxfc3218 4nc connector internal cable connector n fiber con 20p s3s101 g1 female 90d smd 7.55 x11x5.4 mm s3s101 g1 2 10 40
+127 sxfc30000216 4nb connector export connector n phone jack rj45 1x2 port rcb210 5752 y0 30.5 x25.3 x13.6 mm 90d 6u dip w tf led l g r g y rcb210 5752 y0 3 1500 6000
+128 sxfc30000215 4nb connector export connector n phone jack rj45 single port ht3156091 081b s001 1590 x1650 x1315 mm 90d gold flash dip ht3156091 081b s001 1 500 2000
+129 sxfc30000217 4nb connector export connector n phone jack rj45 single port rca111 5752 y1 21.35 x15.95 x13.60 mm 90d 6u dip w tf led l g r g y rca111 5752 y1 2 1000 4000
+133 sxfc30000227 4nc connector internal cable connector t wafer 1x4 catch 1198 700 04s 2.54 mm male 180d dip catch 1198 700 04s 2 1000 4000
+137 sxfc30000224 4nc connector internal cable connector atx power con 2x12 hometom pw24w52dar111 4.2 mm female 180d dip white w 4pin cover hometom pw24w52dar111 1 500 2000
+138 sxfc30000220 4nc connector internal cable connector atx power con 2x4 anytronic 25118a0800b0 9lf 4.2 mm male 180d dip white anytronic 25118a0800b0 9lf 1 500 2000
+140 sxfc30000221 4nc connector internal cable connector box header 2x5 catch 1147 000 10s gp 2.0 mm male 180d dip catch 1147 000 10s gp 2 1000 4000
+141 sxfc30000223 4nc connector internal cable connector box header 2x8 catch 1147 000 16s gp 2.0 mm male 180d dip catch 1147 000 16s gp 1 500 2000
+168 sxfc30000231 4nc connector internal cable connector mini jumper 1x2 catch 1132 001 02 2.54 mm female 180d dip catch 1132 001 02 3 1500 6000
+174 sxfc30000222 4nc connector internal cable connector pin header 1x2 catch 1130 000 02sn 2.54 mm male 180d dip catch 1130 000 02sn 3 1500 6000
+175 sxfc30000229 4nc connector internal cable connector pin header 1x3 catch 1130 000 03sn 2.54 mm male 180d dip catch 1130 000 03sn 4 2000 8000
+176 sxfc30000228 4nc connector internal cable connector pin header 1x4 catch 1130 000 04sn 2.54 mm male 180d dip catch 1130 000 04sn 1 500 2000
+177 sxfc30000230 4nc connector internal cable connector pin header 2x5 catch 1140 010 10sn 2.0 mm male 180d dip catch 1140 010 10sn 1 500 2000
+188 sxfc30000232 4nc connector internal cable connector sata3 con 7p win win wat3m 07a1g1bu4w 1.27 mm h 8.4 mm male 180d dip black w lock win wat3m 07a1g1bu4w 2 1000 4000
+198 sxfc30000214 4nb connector export connector usb con dual port a type techbest usaf 8d hnr0spj 8p 90d female dip 15.3 x17.15 x16.6 mm techbest usaf 8d hnr0spj 1 500 2000
+199 sxfc30000226 4nc connector internal cable connector wafer 1x4 techbest w2 03i104132s1wt a l 2.54 mm male 180d dip wide 5.08 mm techbest w2 03i104132s1wt a l 4 2000 8000
+kf350 3.5 4p 2x2p term blk 4pos 2x2p 3.5 mm screw t1 cixi kefa co kf350 3.5 04p 2x2p 1 10
+kf350 3.5 03p term blk 3pos 3.5 mm screw t2 cixi kefa co kf350 3.5 03p 1 10
+xk8500 8.5 mm conn barrier strip 4circ 8.5 mm 20a 300v t4 cixi xinke xk8500 1 10
+32.0 14010090 conn btb 100pin 0.635 mm pitch female 39.62 mmx6.4 mmx4.2 mm 52885 1074 3600 52885 1074 conn btb 52885 1074 1
+单排 母座 2.45 3.5 mm con5 接 单排 母座 2.54 mm 排母 5p 1.0 5p 母座 1000.0
+单排 插针 3.5 mmm 排母 con5 2.54 mm 5p 1.0 1000
+接线 端子 4p 带 ph2.0 端子 卧式 1.0 1000
+70810002050 插座 针座 14pin 2 排 直式 2.5 mm 方形 dip jst b14b xadss n lf sn 5 4.3983
+70805001300 矩形 连接器 矩形 连接器 针座 公 插针 2 位 接头 连接器 0.079 2.00 mm 2pin dip jst b2b ph k s lf sn 25 0.8928
+70820002610 矩形 连接器 矩形 连接器 针座 公 插针 单排 2.0 mm 3pin dip jst b3b ph k s lf sn 35 1.1231
+70805001280 矩形 连接器 矩形 连接器 针座 公 插针 4 位 接头 连接器 1 4pin 0.079 2.00 mm 4pin dip jst b4b ph k s lf sn 20 1.471
+70820002630 矩形 连接器 矩形 连接器 针座 公 插针 单排 2.0 mm 6pin dip jst b6b ph k s lf sn 10 2.0
+70820002600 矩形 连接器 矩形 连接器 针座 公 插针 单排 2.0 mm 7pin dip jst b7b ph k s lf sn 10 2.0
+70820002620 矩形 连接器 矩形 连接器 针座 公 插针 单排 2.0 mm 8pin dip jst b8b ph k s lf sn 10 2.0
+85 1 40p 2.54 弯 接插件 j1 2510s 4 10
+86 2erjvc 3.81 4p 接插件 p1 2erjvc 3.81 4p 10
+87 2erjvc 3.81 2p 接插件 p2 2erjvc 3.81 2p 10
+连接器 2.0 mm 单排 排母 10p 50
+0301 020046 接插件 400 dg243 板载 直头 单排 d50 灰
+0301 030047 接插件 800 63080 直头 板载 单排 公 镀金 pin3d63
+0301 040026 接插件 600 5557 弯头 板载 双排 公 白 镀金 pin2 2d42
+0301 040030 接插件 400 2edgk 弯头 板载 单排 公 灰色 pin4d50
+0301 060027 接插件 820 molex30 直头 板载 双排 公 黑 镀金 pin2 3d3
+0301 060028 接插件 1720 molex30 弯头 板载 双排 公 黑 镀金 pin2 3d3
+0301 080008 接插件 400 排针 直头 板载 双排 公 镀金 pin2 4d254
+0301 080011 接插件 620 molex30 连接器 弯针 板载 公座 黑 5557 镀金 pin2 4d3
+0301 090011 接插件 200 db9 板载 弯头 双排 母 镀金 pin9d277
+0301 100002 接插件 150 排针 板载 直头 双排 pin5 2d200
+0301 100003 接插件 100 5557 弯头 板载 双排 公 白 镀金 pin2 5d42
+0301 120002 接插件 100 5557 弯头 板载 双排 公 白 镀金 pin2 6d42
+0301 120005 接插件 100 5557 弯头 板载 双排 公 黑 镀金 pin2 6d42
+0301 120006 接插件 300 5557 直头 非 板载 双排 母 黑 胶壳 pin2 6d42
+0301 120007 接插件 300 5557 直头 非 板载 双排 母 白 胶壳 pin2 6d42
+0301 200010 接插件 405 scsi 连接器 弯头 板载 四排 公 pin20
+4 d010110227 直针 带锁 插座 xh2.54 2p 2.54 mm tht 3 p1 p2 p5 xh2.54 2p 2.54 mm 18000.0
+78 cmcon0302 f83 7 3.5 09p 1 u35 3.5 9p male thd 电源 连接器 电源 接线 端子 9p pitch 3.5 mm 弯公 额定 电压 300v r 额定电流 12a ac 2.5 kv 1min thd 9p 100
+83 cmcon0302 f73 b 3.5 09p 1 3.5 9p female thd 电源 连接器 电源 接线 端子 9p pitch 3.5 mm 弯母 额定 电压 300v r 额定电流 12a ac 2.5 kv 1min 100
+板对板 连接器 502430 4010 2.0 2000.0
+板对板 连接器 502426 4010 2.0 2000.0
+板对板 连接器 df12 3.0 50ds 0.5 v 86 hrs 1.0 1000.0
+板对板 连接器 df12 3.0 10ds 0.5 v 86 hrs 1.0 1000.0
+板对板 连接器 df12 3.0 10dp 0.5 v 86 hrs 1.0 1000.0
+板对板 连接器 df12 3.0 50dp 0.5 v 86 hrs 1.0 1000.0
+板对板 连接器 aa07 p030va1 jae 1.0 1000.0
+板对板 连接器 axk6f12347yg 1.0 1000.0
+板对板 连接器 axk5f12347yg 1.0 1000.0
+电池 连接器 3pgn 2.0 ph a 贴片 2.0 2000.0
+电池 连接器 con battery 3a 2 0 m con battery 3a 2 0 m 1.0 1000.0
+105 耳机 座 smd ph 3.5 3 段 kj381ays 01rj03b 1 cn1 105 mjkz829 1 2 7 0 0 0 客
+106 usb 座 dip micro usb 牛角 直边 不锈钢 不带 定位 柱 1 j2 106 mjkz82a 1 0 5 0 0 0 客
+107 hdmi 座 dip type a 4dip smd hdmi 插座 全铜 镀金 带 hdmi 认证 1 j6 107 mjkz82b 1 0 5 0 0 0 客
+108 ic 手机 屏蔽罩 卡座 shield can clip 5pin pocons 10 j11 j12 j16 j17 j18 j19 j22 j24 j25 j26 108 mjmp32c 10 0 50 0 0 0 客
+109 座子 dip 3pin 2.0 mm 1 j15 109 mjmor2d 1 2 7 0 0 0
+110 fpc 座 smd 50pin 05 mm 插 盖式 h 26 mm 1 j5000 110 mjmhu2e 1 0 5 23 115 5
+111 卡座 dip 卡槽 62pin 180 ° 直 1 j7301 111 mjmlk2f 1 0 5 0 0 0
+112 卡座 dip 世嘉卡槽 64pin 真 双簧 卡座 90 ° 弯 1 j3 112 mjkz82g 1 0 5 0 0 0
+4 p20313000031 22p 1.0 mm mintron lw10252 22 fpc 1.0 x22p 接插件 50
+5 p20313000028 30p 1.0 mm mintron lw10252 30 fpc 1.0 x30p 接插件 50
+13403 0009 603ar1 40 90 度 单排 弯针 40p 254 mm j1 1 6
+13403 0016 usb 连接器 usb af s 4p pcb 连接 插座 usb 20 mm 1 4p j2 1 6
+13403 0000 单排 直针 xh254 1 40 5p 插针 方脚 插针 40pin 单排 直针 254 mm 总长 11mm j3 1 6
+13405 0018 pcb 连接 插座 tp381h 00v 8p pcb 连接 插座 水平 弯针 381 8p 单排 300v 8a j4 1 6
+13405 0001 pcb 连接 插座 tp381h 00v 3p pcb 连接 插座 水平 弯针 381 3p 单排 300v 8a j8 j9 j10 j11 4 24
+13405 0060 单排 直针 604as 1 4p 单排 母座 4p 254 mm 塑高 85 mm j12 1 6
+13405 0059 单排 直针 604as 1 3p 单排 母座 3p 254 mm 塑高 85 mm j13 1 6
+13405 0063 单排 直插 604bs 1 7p 单排 母座 7p 200 mm 塑高 43 mm j14 j15 2 12
+t05030008 单排 直针 xh2.54 1 40 12p 插针 方脚 插针 40pin 单排 直针 2.54 mm 总长 11mm j16 1 6
+13403 0000 单排 直针 xh254 1 40 10p 插针 方脚 插针 40pin 单排 直针 254 mm 总长 11mm j17 1 6
+44 贴片 端子 6pin 贴片 端子 1.25 mm 1.25 mm 卧式 端子 6p
+44 贴片 端子 6pin 贴片 端子 1.25 mm 1.25 mm 卧式 端子 6p 1000
+j1 conn 01x05 connector jst jst ph b5b ph k 1x05 p2.00 mm vertical hand solder conn header vert 5pos 2mm b5b ph k s lf sn 510
+j4 jst pa inventorytech sm04b pass tb conn header pa 4pos side smd sm04b pass tbt lf sn 2030
+j1 conn 01x05 inventorytech sm05b pass tb conn header smd r a 5pos 2mm sm05b pass tbt lf sn 530
+1 bios 座子 socket sbu spi 16pin socket soic16j lotes ap aca spl 006 smt lotes ap aca spl 006 2 80
+2 cpu 座子 socket lga3647 socket p0 foxconn pe36473 01nk3 1h pe36473 01nk4 1h smt foxconn pe36473 01nk3 1h pe36473 01nk4 1h 2 80
+74 连接器 conn hms2x30cz samtec bsh 030 01 l d a tr smt samtec bsh 030 01 l d a tr 1 40
+75 连接器 conn conn fci 61082 120p black fci 61082 123402lf smt fci 61082 123402lf 1 40
+92 连接器 conn m2 67cz smd np2 bellwether 80159 8521 smt bellwether 80159 8521 1 40
+203 连接器 conn mini sas 36pin 1 1 foxconn ly50363 n7s0 7h smt foxconn ly50363 n7s0 7h 3 120
+249 连接器 conn oculink p42 g2 171983 2042 smt 171983 2042 2 80
+6 连接器 conn ddr4 udimm p288 lotes addr0142 k088c dip lotes addr0142 k088c 12 480
+7 连接器 conn ddr4 udimm p288 lotes addr0142 k081c dip lotes addr0142 k081c 12 480
+8 连接器 conn 1 4p winconn wa 1003 04 4t11 br dip winconn wa 1003 04 4t11 br 12 480
+9 插针 header 4pin 2mm gap 3.4 mm leg foxconn hf5504e dip foxconn hf5504e 5 200
+10 插针 header 2x8 cut16 pin header connector 2.54 pitch winconn ph 2003 16 4g1b br 16 dip winconn ph 2003 16 4g1b br 16 1 40
+11 插针 header 3pin winconn ph 2002 03 4gcb br dip winconn ph 2002 03 4gcb br 22 880
+13 插针 header 2x6 11pin 8pin missing winconn ph 2003 12 4g1b br 08 dip winconn ph 2003 12 4g1b br 08 1 40
+14 插针 header tpm 2 10 19 pin 4 missing 2.54 mm winconn ph 2003 20 4gcb br 04 dip winconn ph 2003 20 4gcb br 04 2 80
+15 插针 header 1 2p2 0mm winconn ph 2011 02 4g1b br dip winconn ph 2011 02 4g1b br 2 80
+16 连接器 conn tf con sbu d vga port 15p 3r 9p fm 2.29 mm r a blue db9p15p foxconn dm10197 h553 4f dip foxconn dm10197 h553 4f 1 40
+17 连接器 conn usb rj45 jfm38u1f u3h1 4h foxconn jfm38u1f u3h1 4h dip foxconn jfm38u1f u3h1 4h 1 40
+18 插针 header usb3.0 box 2.0 mm winconn bh 2006 20 4g42 tr dip winconn bh 2006 20 4g42 tr 1 40
+19 连接器 conn usb3 0 foxconn uea0112c 4fh1 4f dip foxconn uea0112c 4fh1 4f 2 80
+20 连接器 conn h1x8mh88 winconn ph 2002 08 4gcb br dip winconn ph 2002 08 4gcb br 1 40
+21 连接器 conn 50pin 2.54 mm psu a25 b25 black amphenol gpcp145000111hr dip amphenol gpcp145000111hr 4 160
+22 连接器 conn hm3504e hp1 hd8 4 2 atxpw foxconn hm3504e hp1 dip foxconn hm3504e hp1 11 440
+23 连接器 conn 1 4 2mm 53290 0480 dip 53290 0480 1 40
+24 插针 header usb2.0 2.54 mm 9pin missing winconn ph 2003 10 4gcb br 09 dip winconn ph 2003 10 4gcb br 09 1 40
+25 连接器 conn tf con sbu pcie164 x16 164pin 1.0 mm s2676 foxccon 2eg08237 dad df dip foxccon 2eg08237 dad df 2 80
+26 连接器 conn pcie230 x24 foxccon 2eg0b517 d2d df dip foxccon 2eg0b517 d2d df 2 80
+27 电源接口 conn 电源接口 atx 2x3pin 5.5 mm lotes aba pow 004 k10 dip lotes aba pow 004 k10 1 40
+3 跳线 帽 跳线 帽 2.54 mm 1 2 142270 5 142270 5 16 640
+4 cpu 座子 cpu socket skylake narrow non fabric carrier foxconn wnmel00 82n00 eh foxconn wnmel00 82n00 eh 2 80
+5 cpu 座子 cpu socket skylake narrow non fabric bolster cover foxconn wnmel60 80n00 eh foxconn wnmel60 80n00 eh 2 80
+6 cpu 座子 cpu socket skylake narrow backplane foxconn pt44p11 4801 foxconn pt44p11 4801 2 80
+41 插针 header 2 3 black 2.54 mm fci 95278 101a06lf smt fci 95278 101a06lf 4 160
+105 连接器 conn ocplink42 x4 42pin 0.5 mm 银色 171982 1142 smt 171982 1142 2 80
+2 连接器 conn tf con sbu pcie164 x16 164pin 1.0 mm s2676 foxccon 2eg08237 dad df dip foxccon 2eg08237 dad df 14 560
+3 连接器 conn pcie230 x24 foxccon 2eg0b517 d2d df dip foxccon 2eg0b517 d2d df 2 80
+4 连接器 conn 2 3pin foxconn hm3603e lp2 dip foxconn hm3603e lp2 1 40
+2 插针 header 2 9 right angle header cut pin9 2.0 mm pin pitch winconn ph 2012 18 3g1b br 09 dip winconn ph 2012 18 3g1b br 09 1 40
+3 连接器 conn usb3.0 single gf usb3 p9 lutuo uf 003 09p301t a dip lutuo uf 003 09p301t a 4 160
+8 连接器 conn switch push button 5pin green yellow led dip foxconn 1bt016 11230 006 4f 1 40
+1 c621 2s 01 fbp pcba di fan backplane 2 4 pin header x1 pcba dip c621 2s 1 40
+1 连接器 conn 4pin 2.54 mm 10.16 5.72 15.85 mm white winconn wa 1013 04 4t11 br dip winconn wa 1013 04 4t11 br 1 40
+2 连接器 conn 1 4p winconn wa 1003 04 4t11 br dip winconn wa 1003 04 4t11 br 1 40
+1 c621 2s 01 hbp 8 pcba dip hdd backplane c621 2s 01 hbp 8 8 sata sas 3.5 inch x1 pcba dip c621 2s 1 40
+1 c621 2s 01 hbp 8 pcba smt hdd backplane c621 2s 01 hbp 8 8 sata sas 3.5 inch x1 pcba smt c621 2s 1 40
+13 连接器 conn mini sas 36pin 1 1 foxconn ly50363 n7s0 7h smt foxconn ly50363 n7s0 7h 2 80
+14 连接器 conn 29pin foxconn ld2529h a08l1h ax4 sm foxconn ld2529h a08l1h ax4 8 320
+2 插针 header 3pin winconn ph 2002 03 4gcb br dip winconn ph 2002 03 4gcb br 6 240
+3 风扇 座子 conn 公座 4pin 180 ° pitch 2.0 mm wafer w housing 1011 00201 dip wafer 1011 00201 1 40
+4 连接器 conn pwr2x2nw np1 winconn at 2003 04 4t1w br dip winconn at 2003 04 4t1w br 1 40
+2 跳线 帽 跳线 帽 2.54 mm 1 2 142270 5 142270 5 4 160
+1 c621 2s 01 hbp 10 pcba dip hdd backplane c621 2s 01 hbp 10 10 sata sas 8 sata sas 2nvme 2.5 inch x1 pcba dip c621 2s 1 40
+2 c621 2s 01 hbp 10 pcba smt hdd backplane c621 2s 01 hbp 10 10 sata sas 8 sata sas 2nvme 2.5 inch x1 pcba smt c621 2s 1 40
+15 连接器 conn mini sas 36pin 1 1 foxconn ly50363 n7s0 7h smt foxconn ly50363 n7s0 7h 3 120
+16 连接器 conn 29pin foxconn ld2529h a08l1h ax4 sm foxconn ld2529h a08l1h ax4 8 320
+17 连接器 conn 8639 pcie sas foxconn ldp2683 53a60 9h smt foxconn ldp2683 53a60 9h 2 80
+18 连接器 conn oculink p42 g2 171983 2042 smt 171983 2042 2 80
+52 插针 header 3pin winconn ph 2002 03 4gcb br dip winconn ph 2002 03 4gcb br 6 240
+53 风扇 座子 conn 公座 4pin 180 ° pitch 2.0 mm wafer w housing 1011 00201 dip wafer 1011 00201 1 40
+54 连接器 conn pwr2x2nw np1 winconn at 2003 04 4t1w br dip winconn at 2003 04 4t1w br 1 40
+55 跳线 帽 跳线 帽 2.54 mm 1 2 142270 5 142270 5 4 160
+贴片 耳机 插座 3.5 mm 耳机 插座 cui inc sj 3552b msmt tr 67 6pin 贴片 外壳 14.2 8 5mm
+type c 插座 type c 插座 2305018 2
+贴片 端子 插座 贴片 端子 插座 j s t mfg bm08b surs tf 8pin 08 mm 插座
+贴片 端子 插座 贴片 端子 插座 j s t mfg sm04b srss tb 4pin 10 mm 插座
+贴片 端子 插座 贴片 端子 插座 j s t mfg sm06b srss tb 6pin 10 mm 插座
+贴片 端子 插座 贴片 端子 插座 j s t mfg b2b ph sm4 tb 2pin 20 mm 插座
+端子 插座 端子 插座 j s t mfg b3b xh a 2pin 25 mm 插座
+贴片 端子 插座 贴片 端子 插座 j s t mfg bm02b srss tb 2pin 10 mm 插座
+贴片 端子 插座 贴片 端子 插座 j s t mfg bm08b surs tf 8pin 0 8mm 插座
+11 090078 板对板 连接器 axk620337yg 20
+11 090079 板对板 连接器 fx23 120p 05 sv20 40
+11 090080 板对板 连接器 fx23 120s 05 sv 20 40
+11 090081 连接器 a1251wr s 4p 50
+11 090082 连接器 df40hc 30 70ds 04 v 51 40
+11 090083 连接器 df40c 70dp 04 v 51 40
+11 090085 m12 连接器 kinsun 4002bc0010 m12 前锁式 接头 10
+11 090086 连接器 wurth 692622420101 micro usb 30 10p 10
+11 090074 hdmi 连接器 476591010 19p 垂直 10
+46.0 直插 针座 ph 11a 直插 2.0 mm 手 1 c0n1 5000.0
+47.0 vh3.96 a 2 直插 3.96 mm 手 2 j2 j3 10000.0
+48.0 dc 座 dc 005 手 1 dc1 5000.0
+49.0 五位 莲花座 av5 8.4 13a 密封 白白 黄 红红 空 白白 黄 红红 空 手 1 av1 5 位 10 脚 不共地 5000.0
+p3 2pin 直针 2.54 mm hdr1x2 1.0 30.0
+p10 p15 10pin 直针 2.54 mm hdr1x10 2.0 60.0
+p11 8pin 直针 2.54 mm hdr1x8 1.0 30.0
+p12 4pin 立贴 sh mx1.25 m smt sh125 4p 1.0 30.0
+p13 xt30upb f 母头 xt30upb f 1.0 30.0
+p14 p17 p19 p20 2pin 直针 2.54 m 2.54 排针 1x2 5.0 150.0
+p18 xt30upb m 公头 xt30upb f 1.0 30.0
+1 connector usb j1 47346 0001 47346 0001 473460001 505
+sim 卡槽 u12 usim mup 自弹 6p usim mup 自弹 6p 1 10000
+ipex 底座 j1 ipex 底座 ipex 底座 1 10000
+插针 j2 2.54 单排 针 10pin 排针 1 10000
+插针 j2 2.54 单排 针 5pin 排针 1 10000
+j15 j20 j21 2.5 连接器 座 a2512wv 4p a2512wv 4p 2.5 4pin 3 15
+j16 j19 2.5 连接器 座 a2512wv 4p a2512wv 4p 2.5 4pin 2 10
+j14 2.0 双排 连接器 座 b10b phdss b10b phdss 2.0 10pin 1 jst 5
+j1 j2 j6 j7 j9 j10 j11 cn1 4.2 连接器 座 c4210wva 2 1p c4210wva 2 1p melex5557 2p 8 40
+j4 j8 4.2 连接器 座 c4210wva 2 3p c4210wva 2 3p melex5557 6p 2 10
+j5 2.0 双排 连接器 座 b8b phdss b8b phdss 2.0 2x4pin 1 5
+j12 j13 j3 2.0 双排 连接器 座 b12b phdss b12b phdss 2.0 2x6pin 3 15
+j18 插针 排针 2.54 2 排针 2.54 2 1 5
+cn1 连接器 座 c4210wva 2 2p c4210wva 2 2p dip 4 1 连接器 15
+j1 j4 2.0 双排 连接器 b8b ph k s b8b ph k s 2.0 8pin 2 连接器 30
+j2 j11 j18 2.5 连接器 座 a2512wv 4p a2512wv 4p 2.5 4pin 3 连接器 45
+j3 j40 2.0 双排 连接器 b24b phdss b24b phdss 2.0 2x12p 2 连接器 30
+j5 2.5 连接器 座 a2512wv 5p a2512wv 5p 2.5 5pin 1 连接器 15
+j6 j9 j12 j15 j17 j20 j22 j24 2.0 双排 连接器 b16b phdss b16b phdss 2.0 2x8pin 8 连接器 120
+j7 2.0 连接器 座 a2001wv 7p a2001wv 7p 2.0 7pin 1 连接器 15
+j8 排针 2.54 2 排针 2.54 2 排针 2.54 2 排针 2.54 2 1 15
+j10 j14 j16 j19 j21 j23 j25 2.0 连接器 座 a2001wv 4p a2001wv 4p 2.0 4pin 7 连接器 105
+j13 2.0 双排 连接器 b8b phdss b8b phdss 2.0 2x4pin 1 连接器 15
+1 240 2012040146 插座 插座 samtec sfc 120 t2 l d a 贴片 20 2pin 1.27 直 j12 1 20 b 20 dlk
+1 610 2012030028 插针 插针 5125 直插 棕色 tp50 tp51 tp52 tp101 tp201 5 20 b 100 dlk
+18 插片 4 250 6.3 带 定位 双脚 线路板 插片
+19 5 插座 1 xh2.54 mm 5p
+11 2.54 mm 2p 1 弯头
+12 2.54 mm 5p 1 弯头
+18 插片 4 4000000 250 6.3 带 定位 双脚 线路板 插片
+19 5 插座 1 1000000 xh2.54 mm 5p
+1 header male cn1 header 12 position single row vertical 2.54 mm pitch male a2541wv 12p 连接器 20.0
+1 header female cn2 header 12 position single row vertical 2.54 mm pitch female a2541hwv 12p 连接器 20.0
+1 jstb8b xh a jst b8b xh a lf sn j1 8 way jstb8b xh a lf sn p compliant 20.0
+2 header female cn1 cn4 header 12 position single row vertical 2.54 mm pitch female a2541hwv 12p 连接器 40.0
+2 header male cn2 cn3 header 12 position single row vertical 2.54 mm pitch male a2541wv 12p 连接器 40.0
+1 header female samtech esq 112 44 t d cn5 header 24 position dual row vertical 2.54 mm pitch elevated female 18.67 mm body 4.57 mm tail 20.0
+2 22 27 2021 02 22 27 2021 j1 j18 conn header 2pos 100 vert tin 22 27 2021 400
+2 jumper 3 pin male header jp1 jp2 3 pin male header pins 2.54 mm pitch 40.0
+1 1734035 2 1734035 2 j2 conn mini usb rcpt ra type b smd 1734035 2 20.0
+5 95009 7441 95009 7441 j3 j4 j5 j6 j7 ra thru hole 8 pos 2.54 mm solder ra thru hole 8 terminal 1 port cat 3 95009 7441 100.0
+5 22 27 2081 08 22 27 2081 j8 j9 j10 j11 j12 conn header vert 8pos 2.54 mm 22 27 2081 100.0
+1 awhw 10a 0202 t assmann wsw awhw 10a 0202 t sv1 idc 10 way male 10 way 2.54 mm idc 90 deg 20.0
+4 mstba2 on shore technology edstlz950 2 x1 x2 x3 x4 term block hdr 2pos 90deg 5.08 mm 80.0
+1 header female samtec esq 112 34 t d cn1 header 24 position dual row vertical 2.54 mm pitch extended length female body 16.13 mm tail 7.11 mm 20.0
+1 95009 7881 95009 7881 j1 95009 7881 right angle 8 8 panel stops palladium nickel 95009 7881 20.0
+3 95009 7661 95009 7661 j2 j3 j4 520250 3 6 pos 1.27 mm solder ra thru hole 6 terminal 1 port tray cat 3 95009 7661 60.0
+7 95009 7441 95009 7441 j5 j6 j7 j8 j9 j10 j11 equ 520250 2 8 pos 2.54 mm solder ra thru hole 8 terminal 1 port cat 3 95009 7441 140.0
+1 header male sl1 header 2 position single row vertical 2.54 mm pitch male a2541wv 2p 连接器 20.0
+sq9a180001 6012232 db15 双排 90 度 弯 针座 db15 双排 90 度 弯 针座 20
+sq9a180001 6011275 db9 母头 座 db9 母头 带 鱼叉 引脚 10
+sq9a180001 6011282 db15 母头 带 鱼叉 180 度 直插 10
+sq9a180001 6012234 ph2.0 4p 弯针 座 ph2.0 4p 弯针 座 200
+sq9a180001 6012233 xh2.54 4p 弯针 座 xh2.54 4p 弯针 座 200
+hdr2x7 1.27 mm 座子 header 7 pin dual row p1 hdr2x7 1.27 mm header 7x2 1 hdr2x7 1.27 mm 座子 20
+3000 1 贴片 ipex 1 代 gprs 天线 底座
+3000 1 贴片 hy2.0 贴片 插座 带扣 卧式 14 脚
+6 脚 自弹 sim 卡座 3000 1 贴片 6 脚 自弹 sim 卡座
+3000 1 microusb 母座 5p
+3000 1 hy2.0 贴片 插座 带扣 卧式 2 脚
+22 贴片 排针 10p 2 5 j10p 2 5 2 54 smt 1 j1 2100
+23 2.5 针座 3p 卧式 sip 2.50 mm 3p h4.9 1 j2 2100
+24 fpc fpc 0.5 mm 40p j40p 0.5 1 j4 2100
+25 microsim 卡座 microsim sim 01a sim 01a 1 j6 2100
+26 fpc fpc 0.5 mm 12p h1.0 翻盖式 接 j12p 0.5 1 j7 2100
+89 mini usb usb straight 7p usb straight 7p usb straight 1 usb 2100
+94 key fpc fpc 0.5 mm 12p h1.0 翻盖式 接 j12p 0.5 1 j1 2100
+3000 1 贴片 ipex 1 代 gprs 天线 底座
+3000 1 贴片 hy2.0 贴片 插座 带扣 卧式 14 脚
+smc 202 7sc xunpu 3000 1 贴片 air208s
+29 ozt5180718005 1 j12 73412 0110 mcrf rf 连接器 同轴 连接器 mcx v pcb jack smt 125 mm mnt hgt vendor cn 100
+hdr2x7 1.27 mm 座子 header 7 pin dual row p1 hdr2x7 1.27 mm header 7x2 1 hdr2x7 1.27 mm 座子 20
+60820002820 插座 receptacle 内凸 双排 0.5 mm 49.1 7.3 mm 168pin smd hrs fx10a 168s sv 7
+60809000410 fpc 连接器 单排 0.5 mm 6pin smd jst 06flz sm2 tb lf sn 900
+60810003130 接插件 插座 单排 2.0 mm 4pin smd jst b4b ph sm4 tb lf sn 400
+60811000110 接插件 插座 2p 2.0 mm 2a smd2 2pin smd jst b2b ph sm4 tb lf sn 825
+60820002870 矩形 连接器 插座 弯脚 90 ° 单排 2.0 mm 6pin smd jst b6b ph sm4 tb lf sn 8
+70805001280 矩形 连接器 针座 公 插针 4 位 接头 连接器 1 4pin 0.079 2.00 mm 4pin dip jst b4b ph k s lf sn 2905
+70805001290 矩形 连接器 针座 公 插针 5 位 接头 连接器 0079 2.00 mm 5pin dip jst b5b ph k s lf sn 2340
+70805001300 矩形 连接器 针座 公 插针 2 位 接头 连接器 0.079 2.00 mm 2pin dip jst b2b ph k s lf sn 850
+70805001320 矩形 连接器 针座 公 插针 14 位 接头 连接器 0.079 2.00 mm 14pin dip jst b14b phdss b lf sn 1075
+70810000420 接插件 插座 3p 2 50v 3a 2.5 mm 单列 3p dip3 3pin dip jst bs3p shf 1aa lf sn 480
+70810000430 接插件 插座 2p 2 50v 3a 2.5 mm 单列 2p dip2 2pin dip jst bs2p shf 1aa lf sn 80
+70810003370 带框 插针 单排 直脚 1.5 mm 10pin dip jst b10b zr lf sn 400
+70820002130 矩形 连接器 针座 公 插针 4pin 接头 公形 引脚 1 排 2.5 mm 4pin dip jst bs4p shf 1aa lf sn 150
+70820002600 矩形 连接器 针座 公 插针 单排 2.0 mm 7pin dip jst b7b ph k s lf sn 895
+70820002620 矩形 连接器 针座 公 插针 单排 2.0 mm 8pin dip jst b8b ph k s lf sn 830
+70820002630 矩形 连接器 针座 公 插针 单排 2.0 mm 6pin dip jst b6b ph k s lf sn 490
+70820002980 插座 双排 直脚 2mm 11.9 5 6.5 mm 10pin dip jst b10b phdss lf sn 5
+70820003000 插座 双排 直脚 2mm 25.9 5 6.5 mm 24pin dip jst b24b phdss lf sn 15
+70820003040 矩形 连接器 针座 单排 2.50 mm 3pin dip jst b3b xh a lf sn 895
+70820003060 矩形 连接器 针座 单排 2.50 mm 8pin dip jst b8b xh a lf sn 52
+70820003070 插座 双排 直脚 2mm 35.9 5 6.5 mm 34pin dip jst b34b phdss lf sn 284
+70820003080 插座 双排 直脚 2mm 13.9 5 6.5 mm 12pin dip jst b12b phdss lf sn 2905
+70820003390 插座 单排 直脚 1.5 mm 6pin dip jst b6b zr lf sn 760
+70820003430 矩形 连接器 单排 卧式 2.5 mm 8pin dip jst bs8p shf 1aa lf sn 45
+60810000060 接插件 插座 5p smd5 5pin smd 47346 0001 80
+70820002970 插座 双排 直脚 4.2 mm 9.6 9.6 12.8 mm 4pin dip 87427 0442 5
+60809000230 fpc 连接器 4pin 1mm 单排 smd 52271 0479 550 急用
+70806000220 usb 连接器 双排 2mm 2.54 mm 4pin dip we 614 004 161 21 5
+74606000020 网口 座 rj45 8p8c 7499021210a 24pin dip we 7499021210a 80
+70811000550 接插件 端子 2.0 mm 3a dip18 18pin dip cvilux ci0118p1vdl lf 515
+60811000010 接插件 插座 1p smd1 1pin smd wago 2060 451 998 404 1350
+70805001500 插针 双排 2mm 14pin dip pt2.0 2 7p l 10
+70805001540 插针 pogo pini 单排 2.54 mm 3pin dip szwitchip sm2315 42
+49 11 0110 002 006 贴片 排母 2.0 mm 6 双排 母 不带 内柱 2.0 mm 6 双排 母 不带 内柱 6pin 2 smd p1 1 10000.0
+50 11 0110 003 007 座子 2p 1.25 mm 2p 1.25 贴片 座子 1.25 2p p4 1 10000.0
+51 11 0110 001 026 排线 座 1.25 10p 排线 座 1.25 10p fpc1.25 mm 10p 双面 接卧 3mm 1.25 10pin p6 p7 2 20000.0
+21 11 0110 003 015 贴片 排针 2.0 mm 6 双排 不带 内柱 短针 2.0 mm 6 双排 1806 jp1 1 10000.0
+5 11 0210 003 008 type c 公头 type c 双列 侧 插板 贴片 1 10000.0 板边 侧 插 过 炉
+2 13 0400 020 010 苹果 安卓 一体 公头 pcba 苹果 安卓 一体 接头 1 10000.0 半孔 焊 由 组装 车间 焊
+2 mt14004kk02 弹簧 针 ∅ 2.0 8.0 插 板式 插针 尾部 ∅ 0.86 0.88 mm 10 100000.0 没 组装 bom 减量 2 根
+25 11 0110 001 020 座子 2p 1.25 mm 卧贴 smd 卧式 1.25 mm 2p 2p 1.25 mm p3 p4 2 20000.0
+26 11 0110 001 026 座子 fpc1.25 mm 10p 双面 接卧 fpc1.25 mm 10p 双面 接卧 1.25 mm 10pin p6 1 10000.0
+17 11 0110 001 026 排线 座 1.25 10p con12 fpc1.25 mm 10p 双面 接卧 3mm 1.25 10p p3 1 10000.0
+18 11 0110 001 031 座子 con3 卧贴 ph2.0 3p 但 不要 中间 脚 ph2.0 3w p1 1 10000.0
+28 gsb4116341hr connector usb3 0 type a amphenol usb3 a rec thru 3.0 spec 35000 gsb4116341hr amphenol usb3 0 type a 35000 期货价格 支持
+178 贴片 插座 5p p 1.25 mm h 1.85 mm 1.25 t 4 5aw 卧式 伊川 smd 5pin pitch 1.25 mm 50278 5 1.25 pith 5 2 40 4000 60000
+180 贴片 插座 2p p 1.25 mm h 3.55 mm fp 1.25 t 1 2awb f02 卧式 wafer 1.25 mm 2pin xp 卧式 带扣 atom con 2p 1.25 v ca 2 40 4000 60000
+182 贴片 fpc 插座 20p p 0.5 mm h 2.0 mm 插 掀 掀 f2d20u a1g1 e 20pin 0.5 fpc 20p 0.5 1 20 2000 30000
+183 贴片 fpc 插座 50p p 05 mm 302 5 mm 205030 接触 脱落 倒勾 北 极大 nc con 50p 05 aoror ca 1 北 极大 20 2000 30000
+184 贴片 fpc 插座 8p p 0.5 mm h 2.0 mm 插 掀 掀 f2d08u a1g1 e 8pin 0.5 fpc 8p 0.5 2 40 4000 60000
+185 贴片 fpc 插座 6p p 0.5 mm h 2.0 mm 插 掀 掀 f2d06u a1t1 e1 6 f2dxxu a1t1 e1 6 2 40 4000 60000
+186 2.54 x1x3 con2 2.54 x1x3 3 60 6000 90000
+187 贴片 fpc 插座 40p p 0.5 mm h 2.0 mm 插 掀 掀 f2d40u a1g1 e 40pin 0.5 f2dxxu a1t1 e1 40 2 40 4000 60000
+188 贴片 fpc 插座 10p p 0.5 mm h 2.0 mm 插 掀 掀 f2d10u a1g1 e 10pin 0.5 fpc 10p 0.5 1 20 2000 30000
+192 贴片 插座 connecteur antenne mcb 20279 001e 03 i pex 20279 001e 03 i pex 20279 1 20 2000 30000
+11 4c7602d0 j25 d000486 4 pin 51047 female 51047 jb 连接器 1906
+12 4c7602d0 j25 d000486 4 pin 51047 female 51047 jb 连接器 101
+36 1777 0 36 connfly connector thd jst 4pin white male connector ds1073 4mvw6 1.0 10000
+37 1777 0 37 connfly connector thd jst 3pin white male connector ds1073 3mvw6 2.0 20000
+38 1777 0 38 connfly connector thd jst 2pin white male connector ds1073 2mvw6 1.0 10000
+39 1777 0 39 jst connector thd jst 2pin red male connector b2p vh r 1.0 10000
+48 1777 0 48 connfly flat thd flat ribbon cable 26 awg grey 2.54 pitch dip 13pin ds1057 04 13a26b100mr04 0.1 1000
+29 排针 ph2.54 180 度 1 6p l 12 3.5 ph2.54 180 度 1 6p l 12 3.5 300
+30 排针 ph2.54 180 度 1 8p l 12 3.5 ph2.54 180 度 1 8p l 12 3.5 300
+33 db9 插座 母头 dk8006 09fbg1 dk8006 09fbg1 300
+34 db9 插座 公头 dk8006 09mbg1 dk8006 09mbg1 300
+56 3.5 mm 音视频 接头 2 hp1 j15 pj 3536 pj 393 b 3.5 mm 耳机 座 4 段 3 脚 卧式 焊 pj7 pj3536
+57 1.25 贴片 连接器 1 j1 sm07b ghs tb batt 7pins 1.25
+58 dc 电源 接头 1 j2 dc 031a dc 031a
+59 usb typec 插座 1 j4 usb typec 115h0 usb typec 115h0
+60 tf 卡 插座 1 j5 tf9 ckt01 009d tf9 ckt01 009d
+61 hirose electric fpc 连接器 1 j6 fh35c 31s 0.3 shw 50 fh35c 31s 03shw
+62 samtec 连接器 1 j8 bth 120 02 f d a bth 120 xx x d a
+63 samtec 连接器 1 j9 bsh 050 02 f d a bsh 050 01 x d a
+65 hdmia 贴片 插座 1 j12 hdmia19 hdmi 01a hdmia 贴片 插座 hdmia19 hdmi 01a
+68 zif 连接器 1 j17 zif0s50p40 5051104091 zif0s50p40 5051104091
+69 zif 连接器 2 j18 u20 zif0s50p24 5051102491 zif0s50p24 5051102491
+70 zif 连接器 2 j19 u21 zif0s50p30 5051103091 zif0s50p30 5051103091
+174 mirco usb 5p 插座 1 usb1 zx62r b 5p 30 zx62r b 5p 30
+28 1 samtec 连接器 j38 bsh 120 02 f d a bsh 120 xx x d a
+29 1 samtec 连接器 j39 bth 050 02 f d a bth 050 01 x d a
+ipex 天线 座 贴片 天线 扣子 smt
+20.0 直插 4p 插针 2.54 mm 4p 11.5 mm ll1009 1a 4p 成型 p2 4p 2.54 mm 脚距 bottomlayer 1.0 1000
+21.0 直插 6p 插针 2.54 mm 6p 11.6 mm ll1009 1a 6p 成型 p3 6p 2.54 mm 脚距 bottomlayer 1.0 1000
+j1 10p 2.0 mm
+j2 7p 2.0 mm
+30 25046 ipex 天线 座 贴片 天线 扣子 smt 10 10
+49.0 栅栏 接线 端子台 ex 611 6.35 m 2p 单向 带盖 j1 6.35 mm 2p 1.0 1000
+50.0 180 度 绿色 接线 端子 dg128 7.5 2p 组合 j2 dg128 7.5 2p 2.0 2000
+51.0 180 度 绿色 接线 端子 dg128 5.0 2p dg128 5.0 2p 3.0 3000
+52.0 180 度 绿色 接线 端子 dg500 5.08 2p 5.08 mm 2 8p j3 5.08 mm 脚距 2p 8 8.0 8000
+53.0 简易 牛角 座 ll1008 1a 直角 5mm p1 2.0 mm 脚距 2 12p 1.0 1000
+54.0 直插 4p 单排 排母 ll1014 1a 4p 8.5 mm p2 hdr1 4 1.0 1000
+55.0 直插 6p 单排 排母 ll1014 1a 6p 8.5 mm p3 hdr1 6 1.0 1000
+000170 j1 连接器 39 30 0100 conn header 10pos 4.2 mm ra tin 39 30 0100 1 1120
+000180 j2 连接器 292304 1 conn recept rtang 4 pos au pcb 292304 1 1 1120
+000190 j3 连接器 5 146274 2 1x2 header 1 5 146274 2 1 1120
+000200 j4 j5 j6 j7 j8 j9 j10 j11 连接器 43045 1018 header micro fit vert dual row 10 pin 43045 1018 8 8960
+000210 j15 j18 连接器 100616 2 rj45 ethernet 8c8p 100616 2 2 2240
+000220 j19 连接器 5 146274 2 1x2 header 1 footprint no bom im 5 146274 2 dni 0 0
+000460 u10 集成电路 ic tc2050 idc prog header footprint no part tc2050 idc 1 tag connect 1120
+43 cn1 10 connector connector header connector header through hole 5 position 0156 396 mm white through hole jst sales inc b5p vh lf sn white
+44 cn2 10 connector connector header connector header through hole 3 position 0156 396 mm white through hole jst sales inc b3p vh lf sn white
+45 cn5 next to cn3 10 connector connector header connector header through hole 2 position 0156 396 mm red through hole jst sales inc b2p vh lf sn red
+46 cn5 next to cn4 10 connector connector header connector header through hole 2 position 0156 396 mm white through hole jst sales inc b2p vh lf sn white
+47 cn6 10 connector connector header connector header through hole 4 position 0156 396 mm white through hole jst sales inc b4p vh lf sn white
+48 flat1 0.1 flat flat ribbon cables flat ribbon cable gray 13 conductors 0.100 2.54 mm flat cable 100.0 30.48 m through hole 3m 8125 13 100
+49 p1 p7 p8 p9 p10 p11 p12 p13 dz2 9.0 jumper singal wire jumper ф 0.5 mm through hole
+44 cn1 cn2 20 connector connector header connector header through hole 3 position 0156 396 mm white through hole jst sales inc b3p vh lf sn white
+45 cn3 10 connector connector header connector header through hole 2 position 0156 396 mm red through hole jst sales inc b2p vh lf sn red
+46 cn4 10 connector connector header connector header through hole 2 position 0156 396 mm white through hole jst sales inc b2p vh lf sn white
+47 cn6 10 connector connector header connector header through hole 4 position 0156 396 mm white through hole jst sales inc b4p vh lf sn white
+48 flat1 0.1 flat flat ribbon cables flat ribbon cable gray 13 conductors 0.100 2.54 mm flat cable 100.0 30.48 m through hole 3m 8125 13 100
+49 sw4 p7 p8 p9 p10 p11 p12 p13 dz2 9.0 jumper singal wire jumper ф 0.5 mm through hole
+52 4 con2 con3 con4 con5 axk6s00437yg 40 axk6s00437yg axk6s00437yg 40 7 12 557914 223166 13
+53 1 con1 2 6 1.27 mm 插针 10 boomele 2 6 1.27 mm 插针 直排 针 2 20p 1.27 mm bmp 10 3 0.65597 6.56 2 6 1.27 mm 直插 排针
+56 con das0003z kd 014 con1 2 2 kd 014 3 pin dc jack pin 2mm 400
+57 con fds0050r af7501 n2g1z con4 6 con9 13 8 f 50 pin ffc fpc wire connector pin pitch 0.5 mm 接式 af7xx1 n2g1z reel package af7xx1 a2g1t 1600
+58 con pas0003l ts3b sq j4 j6 7 j11j116 j117 56 p 3 pin pins pin pitch 2.54 mm 單 排排 針 公 180 度 上 接 11200
+59 con pat0002l t2b sq j3 j5 j8j121 j125 91 p 2 pin pins pin pitch 2.54 mm 單 排排 針 公 180 度 上 接 18200
+60 con pat0003l t3b sq j12 j26 j37 j51 j64 j77 j90 j103 8 p 3 pin pins pin pitch 2.54 mm 單 排排 針 公 180 度 上 接 1600
+61 jumper jum a0002 j1 j2 j4 j6 96 a 2 pin jumper pin pitch 2.54 mm – 2006 series b type 19200
+62 con pbt0010f ch81102v100 con3 1 p 10 pin pins pin pitch 2.54 mm 雙 排排 針 公 2x5 180 度 上 接 200
+po20190026 温度 3000028497 db9 公头 插座 白色 直脚 焊 带 鱼叉 螺母 9 db9 公头 针 110
+po20190026 温度 3000011609 条形 连接器 插针 座 5051 2510 hx25404 1 5p 针距 2.54 mm 直形 连接器 110
+po20190026 温度 3000025516 插拔 连接器 插座 0 ° 直 插座 320v12a 2 位 针距 5.08 灰色 phoenix bch 508vs 2 gy 5434311 phoenix 110
+po20190026 温度 3000025517 插拔 连接器 插头 0 ° 直 插头 320v12a 2 位 针距 5.08 灰色 phoenix bcp 508 2 gy 5435721 phoenix 110
+po20190026 温度 3000027364 插拔 连接器 插座 0 ° 弯 插座 320v12a 3 位 针距 5.08 灰色 phoenix bch 508hs 3 gy 5433671 phoenix 440
+po20190026 温度 3000025655 插拔 连接器 插头 0 ° 直 插头 160v8a 3 位 针距 3.81 灰色 phoenix bcp 381 3 gy 5434939 phoenix 440
+po20190026 温度 3000025581 插拔 连接器 插座 0 ° 弯 插座 320v12a 4 位 针距 5.08 灰色 phoenix bch 508hs 4 gy 5433684 phoenix 110
+po20190026 温度 3000025515 插拔 连接器 插头 0 ° 直 插头 320v12a 4 位 针距 5.08 灰色 phoenix bcp 508 4 gy 5435747 phoenix 110
+con das0003z kd 014 con1 2 2 kd 014 3 pin dc jack pin 2mm 400
+con fds0050r af7501 n2g1z con4 6 con9 13 8 f 50 pin ffc fpc wire connector pin pitch 0.5 mm 接式 af7xx1 n2g1z reel package af7xx1 a2g1t 1600
+con pas0003l ts3b sq j4 j6 7 j11j116 j117 56 p 3 pin pins pin pitch 2.54 mm 單 排排 針 公 180 度 上 接 11200
+con pat0002l t2b sq j3 j5 j8j121 j125 91 p 2 pin pins pin pitch 2.54 mm 單 排排 針 公 180 度 上 接 18200
+con pat0003l t3b sq j12 j26 j37 j51 j64 j77 j90 j103 8 p 3 pin pins pin pitch 2.54 mm 單 排排 針 公 180 度 上 接 1600
+con pbt0010f ch81102v100 con3 1 p 10 pin pins pin pitch 2.54 mm 雙 排排 針 公 2x5 180 度 上 接 200
+po20190026 3000011607 5051 2510 条形 连接器 1 4p p2.54 脚距 2.54 直形 连接器 720
+po20190026 3000011609 5051 2510 条形 连接器 1 5p p2.54 脚距 2.54 直形 连接器 720
+po20190026 3000025514 插拔 连接器 插座 0 ° 直 插座 320v12a 4 位 针距 5.08 灰色 bch 508hs 4 gy 5433684 phoenix 720
+po20190026 3000025515 插拔 连接器 插头 0 ° 直 插头 320v12a 4 位 针距 5.08 灰色 bcp 508 4 gy 5435747 phoenix 720
+po20190026 3000025580 插拔 连接器 插座 90 ° 弯 插座 320v12a 2 位 针距 5.08 灰色 phoenix 720
+po20190026 3000025517 插拔 连接器 插头 0 ° 直 插头 320v12a 2 位 针距 5.08 灰色 phoenix 720
+po20190026 3000025587 插拔 连接器 插座 0 ° 直 插座 320v12a 5 位 针距 5.08 灰色 phoenix 720
+po20190026 3000025588 插拔 连接器 插头 0 ° 直 插头 320v12a 5 位 针距 5.08 灰色 phoenix 720
+po20190026 3000025512 插拔 连接器 插座 90 ° 弯 插座 320v12a 6 位 针距 5.08 灰色 phoenix 720
+po20190026 3000025513 插拔 连接器 插头 0 ° 直 插头 320v12a 6 位 针距 5.08 灰色 phoenix 720
+po20190026 温度 3000028497 db9 公头 插座 白色 直脚 焊 带 鱼叉 螺母 9 db9 公头 针 110
+po20190026 温度 3000011609 条形 连接器 插针 座 5051 2510 hx25404 1 5p 针距 2.54 mm 直形 连接器 110
+po20190026 温度 3000025516 插拔 连接器 插座 0 ° 直 插座 320v12a 2 位 针距 5.08 灰色 phoenix bch 508vs 2 gy 5434311 bch 508vs 2 gy 5434311 phoenix 110
+po20190026 温度 3000025517 插拔 连接器 插头 0 ° 直 插头 320v12a 2 位 针距 5.08 灰色 phoenix bcp 508 2 gy 5435721 bcp 508 2 gy 5435721 phoenix 110
+po20190026 温度 3000027364 插拔 连接器 插座 0 ° 弯 插座 320v12a 3 位 针距 5.08 灰色 phoenix bch 508hs 3 gy 5433671 bch 508hs 3 gy 5433671 phoenix 440
+po20190026 温度 3000025655 插拔 连接器 插头 0 ° 直 插头 160v8a 3 位 针距 3.81 灰色 phoenix bcp 381 3 gy 5434939 bcp 381 3 gy 5434939 phoenix 440
+po20190026 温度 3000025581 插拔 连接器 插座 0 ° 弯 插座 320v12a 4 位 针距 5.08 灰色 phoenix bch 508hs 4 gy 5433684 bch 508hs 4 gy 5433684 phoenix 110
+po20190026 温度 3000025515 插拔 连接器 插头 0 ° 直 插头 320v12a 4 位 针距 5.08 灰色 phoenix bcp 508 4 gy 5435747 bcp 508 4 gy 5435747 phoenix 110
+贴片 连接器 a2001wr s 6p ph 6p 2.0 连接器 1 com1
+贴片 连接器 a2001wr s 8p ph 8p 2.0 连接器 1 com2
+fpc 连接器 afa07 s12eca fpc 12p 1.0 1 p2
+fpc 排线 ffc 连接线 12p 1.0 mm 6cm 同向 连线 1
+xs1 j29a 9zkwp a 1 印制板 弯针 法兰盘 尾端 同宽 10.0
+xs2 j29a 51zkwp a 1 印制板 弯针 法兰盘 尾端 同宽 10.0
+xs3 j29a 51zkwp a 1 印制板 弯针 法兰盘 尾端 同宽 10.0
+插 连接器 xp1 j29a 9tjl a 0.3 l400 1 自带 线 长度 400mm 导线 截面积 0.3 mm2 10.0
+插 连接器 xp2 j29a 51tjl a 0.3 l400 1 自带 线 长度 400mm 导线 截面积 0.3 mm2 10.0
+插 连接器 xp3 j29a 51tjl a 0.3 l400 1 自带 线 长度 400mm 导线 截面积 0.3 mm2 10.0
+10 04aw100423101 293 700101601700 连接器 wafer 4p 公 180 ° 2.0 mm 有 塑料 框 dip cen cen yp91 021w1 04b0 1 100 mbs 5330 1.0
+11 04aw100522101 294 700101601800 连接器 wafer 5p 公 180 ° 2.54 mm dip cen cen yp91 011w1 05b0 4 400 mbs 5330 4.0
+12 04aw800212102 295 7a3912300004 连接器 jumper 2p 2.54 mm yellow dip cen yp91 011m1 52b1 2 200 mbs 5330 2.0
+13 04aw900223102 296 700101602000 连接器 pin header 2pin 公 180 ° 2.0 mm dip cen cen zp91 02182 02b1 1 100 mbs 5330 1.0
+14 04aw900423101 297 700101602200 连接器 pin header 2x2 公 180 ° 2.0 mm dip cen zp91 02403 04b1 1 100 mbs 5330 1.0
+15 04aw900623102 298 700101602300 连接器 pin header 1x6 公 180 ° 2.0 mm dip cen zp91 02102 06b1 1 100 mbs 5330 1.0
+16 04aw901023203 299 700101602400 连接器 pin header 2x5 公 180 ° 2.0 mm 缺 p10 smd cen yp91 02514 1011 1 100 mbs 5330 1.0
+17 04aw901222201 300 700101602500 连接器 pin header 2x6 公 180 ° 2.54 mm smd cen zp91 01502 12b1 1 100 mbs 5330 1.0
+18 04awb00827101 301 700101602600 连接器 power conn 8p eps12v 公 180 ° 4.2 mm dip cen w o peg natural cen yp91 114w1 08t0 4 400 mbs 5330 4.0
+19 04aw000145000 302 700100010060 连接器 bo2wi wafer cd w254 02 2p 2.54 mm m180 ° dip cherng weei cd w254 02 4 400 mbs 5330 4.0
+20 04aw000146000 303 700101600400 连接器 bo2wi wafer ca w250 04 4p 2.5 mm m180 ° dip cherng weei 靠背 中空 4p ivory white cherng weei ca w250 04 2 200 mbs 5330 2.0
+21 04aw000148000 304 700101600800 连接器 bo2wi jumper cmj 20bb 2p 2.0 mm dip cherng weei open type black cherng weei cmj 20bb 7 700 mbs 5330 7.0
+22 04aw000149000 305 700101602610 连接器 bo2wi pin header p101 sgn 060 030 02 1x2p 2.54 m180 ° dip cherng weei p101 sgn 060 030 02 2 200 mbs 5330 2.0
+23 04aw000150000 306 701591701049 连接器 bo2wi pin header p101 sgn 060 030 03 1x3p 2.54 m180 ° dip cherng weei p101 sgn 060 030 03 2 200 mbs 5330 2.0
+24 04aw000151000 307 700101601000 连接器 bo2wi pin header p301 sgn 040 028 03 1x3p 2.0 mm m180 ° dip cherng weei p301 sgn 040 028 03 4 400 mbs 5330 4.0
+25 04aw000152000 308 700101602100 连接器 bo2wi pin header p101 sgn 060 030 4 1x4p 2.54 m180 ° dip cherng weei p101 sgn 060 030 4 1 100 mbs 5330 1.0
+26 04aw000154000 309 700101602620 连接器 bo2wi pin header p401 sgn 040 028 10 2x5p 2.0 m180 ° dip cherng weei p401 sgn 040 028 10 1 100 mbs 5330 1.0
+27 04aw000156000 310 700101602630 连接器 bo2wi wafer cp w20 08 8p 2.0 mm m180 ° dip cherng weei cherng weei cp w20 08 1 100 mbs 5330 1.0
+28 04aw000157000 311 700101602640 连接器 bo2wi pin header p101 sgn 060 030 08 1x8p 2.54 m180 ° dip cherng weei p101 sgn 060 030 08 1 100 mbs 5330 1.0
+29 04aw000160000 312 700101602650 连接器 bo2wi pin header p401 sgn 040 028 10 n08 2x5 2.0 m180 ° dip cherng weei p401 sgn 040 028 10 n08 1 100 mbs 5330 1.0
+30 04aw000173000 313 700101602660 连接器 bo2wi pin header p418 mlgn 040 10 rc 2x5p 2.0 m180 ° smd cherng weei p418 mlgn 040 10 rc 1 100 mbs 5330 1.0
+31 04aw000344000 314 700101602710 连接器 bo2wi wafer cshd w10 2x15gor cf194 2x15 1.0 m180 ° smd cherng weei cshd w10 2x15gor cf194 4 400 mbs 5330 lio 53301 lio 53302 2.0 1.0 1.0
+32 04aw000008010 315 700100010050 连接器 bo2wi usb conn sua 1 10v 5b b s235 4p 2.5 mm vertical dip sua 1 10v 5b b s235 2 200 mbs 5330 2.0
+45 04aw000081000 316 700101603700 连接器 bo2wi mini sas hd 10120666 101lf 36p vertical ai fci black fci 10120666 101lf 7 700 mbs 5330 7.0
+46 04aw000276000 317 连接器 bo2wi mini sas hd 10112633 101lf 2x36p right angle ai fci 1x2 internal fci 10112633 101lf 1 100 lio 53303 1.0
+49 04aw000275000 318 700101602690 连接器 bo2wi usb jack jfm38u1f b313 4h 8p8c 2.54 mm f ra dip foxconn jfm38u1f b313 4h 1 100 mbs 5330 1.0
+50 04cw000012010 319 700101603900 连接器 b2eg ngff 75p f ra 0.5 mm black gf 8.5 mm smd foxconn key m foxconn 2e0bc21 s85bm 7h 2 200 mbs 5330 2.0
+51 04cw12881l010 320 700101603210 连接器 b2eg dimmsk 288p f180 ° 0.85 mm black 15u 20.95 mm dip foxconn ah08817 a9b1g 4f 12 1200 mbs 5330 12.0
+52 04cw12881l020 321 700101603211 连接器 b2eg dimmsk 288p f180 ° 0.85 mm blue 15u 20.95 mm dip foxconn ah08817 a9l1g 4f 12 1200 mbs 5330 12.0
+53 04cw31641d105 322 700196420010 连接器 pci expsx16 164p 母 180 ° dip foxconn foxconn 2eg08227 d2d df 3 300 mbs 5330 lrc 53301 2.0 1.0
+54 04dw000022000 323 700196430010 连接器 b2dv dust cover 0p dip foxconn for lga 3647 foxconn wnmel60 80n00 eh 2 200 mbs 5330 2.0
+55 04dw000024000 324 700196430020 连接器 b2dv lga 3647p smd foxconn pe36477 01nk1 1h foxconn pe36477 01nk1 1h 2 200 mbs 5330 2.0
+56 04dw000025000 325 700196430021 连接器 b2dv lga 3647p smd foxconn pe36477 01nk2 1h foxconn pe36477 01nk2 1h 2 200 mbs 5330 2.0
+57 04dw000028000 326 700196430030 连接器 b2dv backplate 0p dip foxconn for lga 3647 foxconn pt44p11 4801 2 200 mbs 5330 2.0
+89 04aw00094l103 327 700150990010 连接器 d sub conn 9p silm type 公 ra 1.385 mm 绿色 dip longpu das0009 03 1 100 mbs 5330 1.0
+90 04aw00153m103 328 连接器 green d sub crt conn 15p slim type 母 ra 0.762 mm 藍色 dip longpu longpu das0015 03 1 100 lio 53301 1.0
+91 04dwa0031e101 329 700194060210 连接器 battery holder 3p 母 180 ° 5.0 mm dip lotes lotes aaa bat 038 k01 1 100 mbs 5330 1.0
+104 04aw000178000 330 700100030700 连接器 bo2wi power 44432 0401 4p 3.0 mm m180 ° dip 44432 0401 6 600 mbs 5330 6.0
+105 04aw000230000 331 700101602680 连接器 bo2wi power 430451212 2x6p 3.0 mm m180 ° dip 430451212 2 200 mbs 5330 2.0
+114 04dwi0403j301 332 700100200710 连接器 sfp conn 2x1 z 8242110000110 母 ra 0.8 mm nextron nextron z 8242110000110 2 200 mbs 5330 2.0
+123 048w000309p01 333 700100010040 连接器 cr2032l be 3v 225mah cr2032l be 1 100 mbs 5330 1.0
+165 04aw701432102 334 700100010100 连接器 rta 1s5aak3a jack rj45 x1 母 ra 2.54 左 黄绿 右 黄绿 dip ude rta 1s5aak3a 1 100 mbs 5330 1.0
+166 04aw702800103 335 700100200900 连接器 rj45 2x1port 10 100 1000 base t led l g y r g y dip ude rm3 1s5a9v1q 3 300 mbs 5330 3.0
+178 04aw000219000 336 700101602670 连接器 bo2wi sata watf 07dblsa1uw 7p 1.27 mm f180 ° smd winwin watf 07dblsa1uw 2 200 mbs 5330 2.0
+179 04cw30981d104 337 700100010006 连接器 pci exps 98p 母 180 ° 1.0 mm dip win win winwin wpes 098an41b22uwc 1 100 mbs 5330 1.0
+180 04aw000003000 338 连接器 bo2wi usb conn us23 42 1 4p 1.4 mm upright dip wonder4 wonder4 us23 42 1 2 200 lio 53301 2.0
+58 05004 00571 dc 插座 649 004 211 22 4 位 插座 1 j18 22
+59 05004 00532 rj45 接口 615 008 142 621 1 n1 22
+60 05029 00713 db9 连接器 part no 618 009 231 221 公 弯脚 1 db1 22
+63 05004 00549 排针 三排 24 位 2mm 2 con1 con2 44
+64 05004 00551 排针 单排 3 位 254 mm 1 p6 22
+65 05004 00550 排针 单排 2 位 254 mm 2 jp4 isp w1 44
+66 05004 00535 简易 牛角 连接器 612 020 216 21 1 jp3 jtag 22
+67 05004 00542 插座 f83 5 2 08 00050 5 j1 j2 j3 j4 j5 welink 11000000000000001
+68 05008 00068 插座 f83 5 c 02 00050 2 p7 p9 welink 44
+58 05004 00571 dc 插座 649 004 211 22 4 位 插座 1 j18 22
+59 05004 00532 rj45 接口 615 008 142 621 1 n1 22
+60 05029 00713 db9 连接器 part no 618 009 231 221 公 弯脚 1 db1 22
+63 05004 00549 排针 三排 24 位 2mm 2 con1 con2 44
+64 05004 00551 排针 单排 3 位 254 mm 1 p6 22
+65 05004 00550 排针 单排 2 位 254 mm 2 jp4 isp w1 44
+66 05004 00535 简易 牛角 连接器 612 020 216 21 1 jp3 jtag 22
+67 05004 00542 插座 f83 5 2 08 00050 5 j1 j2 j3 j4 j5 welink 110
+68 05008 00068 插座 f83 5 c 02 00050 2 p7 p9 welink 44
+hr961160c 100 base tx fast ethernet smd rj45 single port 1x1 with leds 3d rj45 hr961160c cn1 14.0 350.0
+phoenix2r male female 5.08 mm pitch header 2 pin 3d phoenix2r p60 p61 2.0 700.0
+sphd 001t p phd connectors contacts 72450.0
+phr2 phd connectors housing 2 pins single rows 11900.0
+phr3 phd connectors housing 3 pins single rows 6650.0
+phdr 12vs phd connectors housing 12 pins double rows 1750.0
+phdr 22vs phd connectors housing 22 pins double rows 350.0
+2 1761603 7 headers wire housings pin header 20 pos vert low profile 350.0
+5 146280 3 headers wire housings 3p header gold 15u single row 1400.0
+m7582 05 headers wire housings jumper socket open top black 1400.0
+091806 034401 连接器 2edg3.5 5p 90 度 100
+091806 034501 连接器 53398 0771 235
+091806 034601 连接器 53398 0271 215
+091806 034701 连接器 505278 2833 100
+091806 034801 连接器 53398 0571 262
+091806 034901 连接器 53398 0871 115
+091806 035001 连接器 53398 0671 208
+091806 035101 连接器 5p xh 2.54 直 dip 115
+091806 035301 连接器 53398 0471 46
+091806 035401 连接器 8p 4.2 mm 5557 连接器 15
+091806 035501 连接器 2edg5.08 2p 180 度 直插 48
+091806 035601 连接器 2edg5.08 3p 180 度 直插 64
+091807 016701 rx 连接器 b357 110x 1k 袋 sip2 5 1.27 smd g 108
+091807 039001 直插 单排 排母 1 10p 2.0 mm 120
+58 05004 00571 dc 插座 649 004 211 22 4 位 插座 1 j18 22
+59 05004 00532 rj45 接口 615 008 142 621 1 n1 22
+60 05029 00713 db9 连接器 part no 618 009 231 221 公 弯脚 1 db1 22
+63 05004 00549 排针 三排 24 位 2mm 2 con1 con2 44
+64 05004 00551 排针 单排 3 位 254 mm 1 p6 22
+65 05004 00550 排针 单排 2 位 254 mm 2 jp4 isp w1 44
+66 05004 00535 简易 牛角 连接器 612 020 216 21 1 jp3 jtag 22
+67 05004 00542 插座 f83 5 2 08 00050 5 j1 j2 j3 j4 j5 welink 110
+68 05008 00068 插座 f83 5 c 02 00050 2 p7 p9 welink 44
+36 连接器 c2014vs00214p9 0 2 es010218 3 27600
+37 连接器 mxc3n2001 atom rf mxc3n2001 ws060001 2 18400
+38 连接器 usb205fb c1014203 atom usb205fb ws060002 1 9200
+39 连接器 1.0 mm pitch 10pin 掀盖 smt atom fpc10 ws060004 1 9200 fpc10010 43200
+40 连接器 si62c 01200 atom si62c 01200 ws060005 1 9200
+41 连接器 c2014vs00314p9 0 3 es010219 3 27600
+81 连接器 2.54 mm 3pin 插针 jumper3 ws060003 1 9200
+82 连接器 2.54 mm 5pin 插针 hdr254m 1x5 ws060006 1 9200
+43 cn1 10 connector connector header connector header through hole 5 position 0156 396 mm white through hole jst sales inc b5p vh lf sn white 10000 b5p vh lf sn jst 日压 100 2 4working days 0627 627 white color
+44 cn2 10 connector connector header connector header through hole 3 position 0156 396 mm white through hole jst sales inc b3p vh lf sn white 10000 b3p vh lf sn jst 日压 100 2 4working days 041748999999999997 4175 white color
+45 cn5 next to cn3 10 connector connector header connector header through hole 2 position 0156 396 mm red through hole jst sales inc b2p vh lf sn red 10000 b2p vh lf sn jst 日压 100 2 4working days 02931 2931 white color
+46 cn5 next to cn4 10 connector connector header connector header through hole 2 position 0156 396 mm white through hole jst sales inc b2p vh lf sn white 10000 b2p vh lf sn jst 日压 100 2 4working days 02931 2931 white color
+47 cn6 10 connector connector header connector header through hole 4 position 0156 396 mm white through hole jst sales inc b4p vh lf sn white 10000 b4p vh lf sn jst 日压 100 2 4working days 05945 5945 shortage
+7487.0 pa100616 2 100616 2 rj45 ethernet 8c8p 2500
+7487.0 pa292304 1 292304 1 端子 胶壳 1200
+7487.0 pa39 30 0100 39 30 0100 端子 胶壳 1200
+7487.0 pa43045 1018 43045 1018 端子 胶壳 9800
+7487.0 pa5 146274 2 5 146274 2 端子 胶壳 1300
+7485.0 pa43020 1000 43020 1000 端子 胶壳 1000
+7485.0 pa43045 1009 43045 1009 端子 胶壳 2100
+b2b ph k s 2mm pitch header 2 pin 3d b2b ph k s p4 p9 p14 p19 p24 p32 p42 p43 p44 p45 p46 p47 p48 p49 p50 p51 p52 p53 p54 p55 p56 p58 p63 p64 p65 p66 p67 p68 p69 p70 p71 p72 p73 p74 2.0 11900.0
+b3b ph k s 2mm pitch header 3 pin 3d b3b ph k s p2 p3 p6 p8 p11 p13 p16 p18 p21 p23 p26 p28 p29 p30 p31 p34 p35 p37 p38 3.0 6650.0
+b12b phdss lf sn conn header vert 12pos 2mm hdr2x6 p5 p10 p15 p20 p25 12.0 1750.0
+b22b phdss lf sn 2mm pitch header 11 pin dual row 3d b22b phdss lf sn p1 22.0 350.0
+hr961160c 100 base tx fast ethernet smd rj45 single port 1x1 with leds 3d rj45 hr961160c cn1 14.0 350.0
+phoenix2r male female 5.08 mm pitch header 2 pin 3d phoenix2r p60 p61 2.0 700.0
+sphd 001t p phd connectors contacts 72450.0
+phr2 phd connectors housing 2 pins single rows 11900.0
+phr3 phd connectors housing 3 pins single rows 6650.0
+phdr 12vs phd connectors housing 12 pins double rows 1750.0
+phdr 22vs phd connectors housing 22 pins double rows 350.0
+2 1761603 7 headers wire housings pin header 20 pos vert low profile 350.0
+5 146280 3 headers wire housings 3p header gold 15u single row 1400.0
+m7582 05 headers wire housings jumper socket open top black 1400.0
+1 3 03202790 e01a1 高频 插座 ［ sy16 ］ 良特 20279 001e 01 j20279 001e 01 40
+5 3 03dy0114 40sa1 接插件 kel dy01 140s 140pin 0.5 mm pitch sfy140am4 12
+7 3 03tfcard arda1 接插件 ［ sy10ia 55 ］ 海特 tf card 卡槽 tfwf6 ebs1 1102 mis1x s1s1 2000 a tf9 43 859x709 12
+8 3 03687110 030a1 接插件 we 687110149022 687110149022 sfx010am2 12
+9 3 03687106 022a1 接插件 ［ sy10ia 55 ］ we 687106149022 sfx006bm2 12
+10 3 03ar1251 s2pa1 接插件 a1251wr s 2p sfx002am2 12
+85 3 03264472 323a1 34 矩形 插座 ［ sy10ia 55 ］ tyco j2 6447232 3 2 6447232 3 12
+169 1 sno1303c 3c0s1 卡座 sofng sno 1303 c sno 1303 c osimb 12
+4g2403b0 j04 d000074 直脚 单排 排针 2.54 mm 5p 黑色 ph254 1 5pv 排针 2004
+4g2403b0 j25 d000333 boxed pin header straight 2.54 mm flash gold pin 9 must be removed box254 2 5pv stx 2x5 pin 连接器 3003
+28 1 100 j4 power 12v ph2 2 ph 2ak 200 mm ph 针座 boomele item szlcsc 9403 html
+32 接插件 cond 7 p4 2 7pin 2.54 mm 双排 直针 1 20
+单排 针 直插 2.54 4p jp5 1 3
+直插 2.54 5p jp3 1 3
+网口 直插 jp2 1 3
+绿 端子 直插 5.08 5p jp6 1 3
+直插 5.08 11p jp4 1 3
+黑 端子 直插 10p j2 1 3
+接插件 直针 座 带 锁扣 xhb2.54 p 2.54 mm 1 2p p1 p9 p19 2.54 2p 3 21
+接插件 直针 座 带 锁扣 xhb2.54 p 2.54 mm 1 4p p6 p16 2.54 4p 2 15
+接插件 直针 座 带 锁扣 xhb2.54 p 2.54 mm 1 6p p7 2.54 6p 1 9
+接插件 5557 p 4.2 mm c4201wv 2 6p 连接器 p2 4.2 12p 1 9
+接插件 5557 p 4.2 mm c4201wv 2 3p 连接器 p3 p11 p14 4.2 6p 3 21
+接插件 5557 p 4.2 mm c4201wv 2 2p 连接器 p4 p5 p13 4.2 4p 3 21
+接插件 5557 p 4.2 mm c4201wv 1 2p 连接器 p15 p17 p18 4.2 2p 3 21
+接插件 直针 座 jst 连接器 b2p vh fb b p 3.96 1 2p p8 p10 p12 1 2p 3 21
+射频 连接器 射频 连接 同轴线 座 频率 0 6ghz 驻波比 1.3 0 3ghz 1.35 3 6ghz 差损 xxxdb 隔离度 xxxdb 接触 电阻 20m ω 绝缘 电阻 500m ω 2.0 1.9 0.85 mm 818000117 电连 3 3000 con1 con3 con4
+tf31 60s 0.5 h 3.0 hirose
+x6 fh12 15s 1sh fh12 15s 1sh fh12 15s 1sh 1mm pitch connectors for fpc ffc unknown unknown 20
+翻盖 tf 卡座 j1 micro sdfg 1.0 100.0 bottom
+microsim 6 翻盖 卡座 j8 simcard 6pin micro 1.0 100.0 bottom
+16p 8x2 双排 弯脚 座 脚距 2.0 a2009wr 2x08a j4 phb 2x8aw 1.0 100.0 top
+vh3.96 3p 直插 座 j5 power3 3.9 1.0 100.0 top
+2p 直插 座 脚距 2.54 j6 2pin 1.0 100.0 top
+rj45 座子 不带 j7 rj45 1.0 100.0 top
+6p 直插 单排 座 黑色 单边 脚距 2.0 塑高 6mm j9 6p 2.0 单排 座 1.0 100.0 top
+20p 10x2 双排 直插 座 黑色 双边 脚距 2.0 j9 2 20p 10x2 2.0 双排 座 1.0 100.0 top
+4p 直插 单排 针 脚距 2.0 j14 sip4 2.0 1.0 100.0 top
+14p 7x2 双排 直插 座 黑色 双边 脚距 2.0 j15 14p 7x2 2.0 双排 座 1.0 100.0 top
+xh2.0 4p 直插 座 j13 xh2.0 4p 1.0 100.0 top
+10 2 pin header 2mm pitch 2 pin header 2mm pitch 1 1000
+10 2 pin header 2mm pitch 2 pin header 2mm pitch 1 5000
+11 5 pin header 1.27 mm 1.25 mm pitch 5 pin header 1.27 mm 1.25 mm pitch 1 1000
+11 5 pin header 1.27 mm 1.25 mm pitch 5 pin header 1.27 mm 1.25 mm pitch 1 5000
+12 4 pin jst 1.27 mm pitch header 4 pin jst 1.27 mm pitch header jst 4 pin connector 1 1000
+12 4 pin jst 1.27 mm pitch header 4 pin jst 1.27 mm pitch header jst 4 pin connector 1 5000
+13 4 pin jst 1.27 mm 1.25 mm pitch header 4 pin jst 1.27 mm 1.25 mm pitch header jst 4 pin connector 1 1000
+13 4 pin jst 1.27 mm 1.25 mm pitch header 4 pin jst 1.27 mm 1.25 mm pitch header jst 4 pin connector 1 5000
+14 2 pin header 1.27 mm pitch 2 pin header 1.27 mm pitch 11 11000
+14 2 pin header 1.27 mm pitch 2 pin header 1.27 mm pitch 11 55000
+15 2 pin header 1.27 mm 1.25 mm pitch 2 pin header 1.27 mm 1.25 mm pitch 11 11000
+15 2 pin header 1.27 mm 1.25 mm pitch 2 pin header 1.27 mm 1.25 mm pitch 11 55000
+16 2 pin header 1.27 mm 1.25 mm pitch 2 pin header 1.27 mm 1.25 mm pitch jst 2 pin connector 2 2000
+16 2 pin header 1.27 mm 1.25 mm pitch 2 pin header 1.27 mm 1.25 mm pitch jst 2 pin connector 2 10000
+17 5 pin header 1.27 mm pitch 5 pin header 1.27 mm pitch jst 5 pin connector 1 1000
+17 5 pin header 1.27 mm pitch 5 pin header 1.27 mm pitch jst 5 pin connector 1 5000
+18 5 pin header 1.27 mm 1.25 mm pitch 5 pin header 1.27 mm 1.25 mm pitch jst 5 pin connector 1 1000
+18 5 pin header 1.27 mm 1.25 mm pitch 5 pin header 1.27 mm 1.25 mm pitch jst 5 pin connector 1 5000
+21 top 贴片 插座 2pin ph2.0 贴片 插座 kl header top ph 2alb lcp 94v 0 j1 1 10
+22 top 贴片 插座 7pin 1.25 贴片 插座 1.25 7pin 贴片 插座 j3 1 10
+26 top 电源接口 bat 电池 结构件 正极 接头 结构件 bt1 1 120
+27 top 电源接口 bat 电池 结构件 负极 接头 结构件 bt2 1 120
+3 10230003246 贴片 射频 插座 rd3 header top smt 50 ie001wb80 3 ant1 ant3 2 ipex20n4 20
+4 10230004104 贴片 插座 kl header side kl 1.25 7awt 米黄色 lcp ul94v 0 cn1 1 b7s f1.25 ws 10
+55 10230003396 贴片 sim 卡座 hf5 micro sim socket cs 0005 06180 u5 1 smd 10
+pin80 80 座子 2.0 j1 my ied80 2.0 1 5
+pwr2.5 low voltage power supply connector j2 ds 210b 1 5
+header 2x2 header 2 pin dual row p1 p2 hdr2x2 2 10
+sma 5pin p3 p5 sma 5pin 2 10
+header 3x2a header 3 pin dual row p4 p6 hdr2x3 cen 2 10
+091807 037401 接线 端子 me050 508 16 10
+091807 037301 接线 端子 me050 508 12 10
+091807 037201 接线 端子 me050 508 06 10
+091807 037101 接线 端子 me050 508 04 10
+091807 037001 接线 端子 me050 508 03 10
+091807 036901 接线 端子 me050 508 02 10
+091807 036701 0 mc101 508 16 10
+091807 036601 0 mc101 508 12 10
+091807 036501 0 mc101 508 06 10
+091807 036401 0 mc101 508 04 10
+091807 036301 0 mc101 508 03 10
+091807 036201 0 mc101 508 02 10
+091807 036101 哈丁 接插件 9031966921 116
+conn header 2pos 100 vert gold j1 wm4800 nd 70543 0001 each
+conn header shrouded 8pos 100 vert gold j2 wm4806 nd 70543 0007 each
+conn header 3pos 100 vert gold j3 wm4801 nd 70543 0002 each
+18 30 conn header 2pos 100 vert gold j1 j2 j11 wm4800 nd 70543 0001 each
+19 20 conn header 3pos 100 vert gold j4 j10 wm4801 nd 70543 0002 each
+21 10 conn header shrouded 8pos 100 vert gold j13 wm4806 nd 70543 0007 each
+22 10 conn header 6pos 100 vert gold pcb mount j3 wm4804 nd 70543 0005 each
+23 10 conn header 4pos 4.2 mm vert tin j6 wm3801 nd 39 28 1043 each
+24 10 conn header 4pos 4.2 mm vert j5 wm24036 nd 39 30 2040 each
+25 10 conn header shrouded 10pos 100 vert gold pcb mount j7 wm4808 nd 70543 0009 each
+28 10 conn header 2.54 mm 20pos gold p1 s9172 nd sullins connector solutions sbh11 pbpc d10 bk each
+29 20 conn header vert 100 3pos 15au p2 p3 a26545 nd 87224 3 each
+30 10 conn header vert 100 2pos 15au p4 a26543 nd 87224 2 each
+103 10 conn header 5pos 100 vert gold j9 wm4803 nd 70543 0004 each
+10 rfoa02 25 003 connector jumper wire 7 0 有
+11 rfoa02 25 001 connector mini jumper black 1x2p p 2.54 mm mobicon p n mini jumper close xpb 1 110
+12 rfoa02 20 002 connector pin header male 1x40p p 2.54 mm h 11.6 mm through hole straight welfare p n 03 13 1401 mecpart phss40g1 rh mtp125 1140s1 mintron 3 40 0
+13 rfoa02 21 036 connector pin wafer 1x6p p 2.54 mm h 10.5 mm through hole straight 1 110
+48 rfoa02 23 018 terminal block 1x36p 4mmsq female 13.5 a p 5mm camden ctb7300 36f ctb7300 36f cam 8 36 23
+49 rfoa02 23 019 terminal block 1x36p 4mmsq grey male 13.5 a p 5mm camden ctb7300 36m ctb7300 36m camdenboss 8 36 23
+440pin 公头 come 连接器 qt012206 1041 3h 402 51501 51 come 连接器 440pin 2 220 排列 公头 0.5 mm 50v ac 电压 0.5 a 额定电流 75mohm 接触 电阻 支持 信号 速率 10g bps 温度 40 85 ℃ 接触 材料 铜合金 au over ni 互配 bp08060002 公头 bp08060001 母头 配高 8mm come type6 b qt012206 1041 3f ept 402 51501 51 1 300
+push pull micro sd card connector 寻料 松城 702 0000003 1040310811 wq21823 des6 7f 方向 m9001 0080c 001 再建 单独 detection 脚 额定电流 0.5 ma 额定 电压 10v 接触 电阻 140 毫欧 绝缘 电阻 100 兆欧 msd card 寻料 松城 702 0000003 1040310811 wq21823 des6 7f 方向 m9001 0080c 001 再建 单独 detection 脚 1 300
+14 针 2.00 mm 双排 贴装 插针 210 14eg 1024 400 tmm 107 01 l d sm m tr sptz14s4u0350r sz3e 14t 035 027 0 nfr 3136200211 额定电流 1a 持续 通过 工作电压 200 v 绝缘 电阻 1000m ω smt 表贴 盛隆丰 210 14eg 1024 400 1 300
+m12 d header 4 pin m12 d harting 2103 381 4410 300 9920 7000 1000
+b10b phdss lf sn p 10 position header 2mm pitch smd 10 position header connector 2.00 mm pitch th conn header phd top 10pos 2mm b10b phdss jst b10b phdss lf sn p 1500 9920 7000 1000
+b2p vh lf sn 2 position header 3.96 mm pitch through hole b2p vh lf sn jst b2p vh lf sn 300 9920 7000 1000
+b16b phdss lf sn conn header phd top 16pos 2mm b16b phdss lf sn jst b16b phdss lf sn 300 9920 7000 1000
+b4b ph sm4 lf sn 4 position header connector 2mm pitch smd b4b ph sm4 jst b4b ph sm4 lf sn 300 9920 7000 1000
+b5b ph sm4 tb lf sn 5 position header 2mm pitch smd b5b ph sm4 jst b5b ph sm4 tb lf sn 300 9920 7000 1000
+b4b ph k s 4 position header 2mm pich through right angle 4 position header 2mm pitch through right angle b4b ph k s jst b4b ph k s 900 9920 7000 1000
+bm04b pass 4 position header 2mm pitch through hole bm04b pass jst bm04b pass 300 9920 7000 1000
+87758 0616 header 2 row 6 pos 2mm pitch through holes cn2x3 2mm 87758 0616 300 9920 7000 1000
+951103 8622 ar conn header 3pos 2mm vert t h cn3 2mm 3m 951103 8622 ar 300 9920 7000 1000
+jp 2mm conn header 2pos 2mm vert t h 951102 8622 ar 3m 951102 8622 ar 900 9920 7000 1000
+foxconn as0b821 s78b 7 connector foxconn as0b821 s78b 7 foxconn as0b821 s78b 7 300 9920 7000 1000
+d 2.5 mm h 5mm smd standoffs spacers wa smsi smt steel m2.5 intrnl nonstop wurth 9774050151r 1200 9920 7000 1000
+jumper 2x2 header 2 pin dual row 2mm pitch smd tmm 102 06 f d 87759 0414 3000 9920 7000 1000
+jumper 3x2 header 3 pin dual row tmm 103 06 f d hanwin m22 5320305 2400 9920 7000 1000
+2mm pitch jumper jumper busbar shunt microshunt jumper header strips 2 ways 2 mm spc20480 multicomp spc20480 6900 9920 7000 1000
+d sub 2w2c harting d sub 2w2c male angled p n tb 09 69 100 9049 dsub2 2w2c rt harting 09 69 110 9009 600 9920 7000 1000
+jst b2b ph k s header 2 pin jst b2b ph k s jst jst b2b ph k s 600 9920 7000 1000
+usb ux60sc mb 5s8 usb mini b receptacle right angle through hole solder ux60sc mb 5s8 hrs ux60sc mb 5s8 600 9920 7000 1000
+b06b pask lf sn 6 pin header th 2.0 mm pitch b06b pask jst b06b pask lf sn 300 9920 7000 1001
+s16b phdss lf sn s16b phdss lf sn header 8 pin dual row jst s16b phdss lf sn 300 9920 7000 0991
+48338 0052 48338 0052 msata connector 1775862 2 600 9920 7000 0988
+foxconn as0b821 s78b 7 foxconn as0b821 s78b 7 connector foxconn as0b821 s78b 7 600 9920 7000 0988
+b18b phdss lf sn phdss b18b header 18 pin jst b18b phdss lf sn 600 9920 7000 0988
+jst b4b ph k s b04b ph k jst 4pin jst b4b ph k s 1800 9920 7000 0988
+usb mini connector ux60sc mb 5s8 usb mini b receptacle horizontal smt hrs ux60sc mb 5s8 600 9920 7000 0988
+b3b ph k s lf sn b3b ph k s header 3 pin jst b3b ph k s lf sn 1200 9920 7000 0988
+b16b phdss lf sn b16b phdss lf sn header 8 pin dual row jst b16b phdss lf sn 600 9920 7000 0988
+jst b2b ph k s b2b ph k s header 2 pin jst b2b ph k s 1200 9920 7000 0988
+jst b6b ph k s b6b ph k s header 6 pin jst b6b ph k s 600 9920 7000 0988
+jst b3b ph k s b3b ph k s header 3 pin jst b3b ph k s lf sn 600 9920 7000 0988
+b10b ph k s lf sn ph k b10b header 10 pin jst b10b ph k s lf sn 600 9920 7000 0988
+header 3 vh s3p jst 3way right angle jst s3p vh 600 9920 7000 0988
+jumper 2x2 tmm 102 06 f d header 2 pin dual row 2mm pitch smd samtec tmm 102 06 f d sm 600 9920 7000 0988
+header 10 pin dual row 1mm pitch hrs df50 20dp 1v hrs df50 20dp 1v horise hrs df50 20dp 1v 80 9920 7000 0861
+header 2mm pitch double rows through holes b10b phdss lf sn p b10b phdss jst b10b phdss lf sn p 480 9920 7000 0861
+msata connector 48338 0052 48338 0052 48338 0052 80 9920 7000 0861
+smt space m2.5 3mm pem smtso m25 3et 160 9920 7000 0861
+header 10pin fpc connector bottom 54548 1071 54548 1071 54548 1071 80 9920 7000 0861
+header 4 pin b4b ph sm4 tb lf sn b4b ph sm4 jst b4b ph sm4 tb lf sn 80 9920 7000 0861
+micro sd connector pusu push 1.45 mm micro sd 503182 1853 503182 1853 80 9920 7000 0861
+header 3 pos 2mm pitch 951103 8622 ar hdr1x3 3m 951103 8622 ar 240 9920 7000 0861
+501331 1007 header 1.0 mm pico clasp 10way element14 1835985 501331 1007 501331 1007 501331 1007 160 9920 7000 0861
+connector foxconn as0b821 s78b 7 as0b821 s78b 7 foxconn as0b821 s78b 7 80 9920 7000 0861
+smt space m2.5 5mm smtso m25 5et pem smtso m25 5et 320 9920 7000 0861
+jumper 2mm pitch through holes 2mm pitch jumper hd1x2 3m 951102 8622ar 640 9920 7000 0861
+header 2mm pitch header 6 contacts her 6 harwin m22 2520305 80 9920 7000 0861
+header 3 pos 2mm pitch 951103 8622 ar 951103 8622 ar 3m 951103 8622 ar 80 9920 7000 0861
+744032180 inductor 1210 case 18.0 µ h 744032180 ind 744032180 wurth 744032180 320 9920 7000 0861
+df3a 2p 2dsa header df3 2mm 4way df3a 4p 2dsa df3a 4p 2dsa hrs df3a 4p 2dsa 80 9920 7000 0861
+header 4 pin through holes 2mm pitch b04b pask b04b pask jst b04b pask 160 9920 7000 0861
+harting conn 01.27 mm pitch 64 ways 15120642601000 15120642601000 harting 15120642601000 80 9920 7000 0861
+header 4 pin 2mm pitch through whole b4b ph kl b4b ph kl jst b4b ph kl 160 9920 7000 0861
+harting conn 01.27 mm pitch 30 ways 15120302601333 15120302601333 harting 15120302601333 80 9920 7000 0861
+motien 2w 12v to 5v isolated dc dc ve 1205sh ve xxxx sil4 motien ve 1205sh 160 9920 7000 0861
+through hole pin through test pin tp80 5001 320 9920 7000 0861
+usb type a receptacle r a stacked 5787617 1 5787617 1 amp 5787617 1 80 9920 7000 0861
+10 1mm 501331 1007 501331 1007 header 1.0 mm pico clasp 10way element14 1835985 501331 1007 160 9920 7000 0860
+harting conn 1.27 mm pitch 30 ways erf8 020 05.0 l dv tr samtech erf8 020 05.0 l dv tr erf8 020 05.0 l 80 9920 7000 0902
+header 6x2 hdr2x6 header 6 pin dual row jst b12b phdss lf sn 80 9920 7000 0916
+header 3 b3p vh lf sn jst 3way jst b3p vh lf sn 80 9920 7000 0916
+18 jk3 双排 排母 2 7p 2.54 1
+19 jk4 双排 排母 2 5p 2.54 1
+20 jk5 双排 排母 2 7p 2.54 1
+21 jk001 jk003 双排 排母 2 2p 2.54 3
+网口 直插 rj45 5224 8p8c jp2 1 3 rs485 接口 长宽 15.6 x16.6 x16.6 共 8 脚 2.5 mm
+绿 端子 128 2p ex500 5.08 j1 1 3 一体 焊接式 长宽 10.8 x10x14 引脚 5mm
+黑 端子 直插 10p jl25 7.62 j2 1 3 一体 焊接式 长宽 77.5 x13.5 x15 引脚 7.5 mm
+128 2p 绿 端子 一体 直插 焊接式 上面 一样 长宽 10.8 x10x14 引脚 5mm 30 90
+usb b miniusb b j1 usb b 90 度 1 200
+5.08 mm 2 端子 弯 插座 k11 k12 p1 p2 kf2edgk 2p 插头 插座 4 800
+5.08 mm 3 端子 弯 插座 p4 p5 p6 kf2edgk 3p 插头 插座 3 600
+37 接线 端子 xh2.54 5p tjc3 1 p4 500
+38 接线 端子 xh2.54 4p tjc3 1 p5 500
+39 接线 端子 vh3.96 5p 1 p1 500
+40 接线 端子 vh3.96 4p 1 p7 500
+dsub1 dmr 9s dmr 9s 1 10
+j1 j5 xh2.5 j5 xh2.5 1 10
+j2 j5 j6 j7 j8 j9 j4 2edg 5.08 j4 2edg 5.08 6 60
+j3 j4 wj15edgrc 3.81 02 wj15edgrc 3.81 02 2 20
+j1 diout nc3mah 0 1 1200 nc3mah 0
+j5 nmj6hcd2 1 1200 nmj6hcd2
+j6 nmj6hcd2 1 1200 nmj6hcd2
+u21a dsp module to 2x10 female header 2.54 mm 1 1200 61302021821
+u21b dsp module to 2 2x6 female header 2.54 mm 1 1200 61301221821
+18 jk3 双排 排母 2 7p 2.54 1 3000
+19 jk4 双排 排母 2 5p 2.54 1 3000
+20 jk5 双排 排母 2 7p 2.54 1 3000
+21 jk001 jk003 双排 排母 2 2p 2.54 3 9000
+92 探头 插座 wld01 7z 7 dip 得 著 1 500 500 x7
+93 自弹 tf 卡座 tfc08s f0 p010 a 铭讯 1 500 500 x4
+95 10p fpc 排线 连接器 fpc102001 10lt ffc 10 1.0 ffc 10 1.0 联泽瑞 1 500 500 x9
+96 50p fpc 排线 连接器 fpc052001 50ht ffc 50 0.5 ffc 50 0.5 联泽瑞 1 500 500 x6
+97 条形 连接器 ph2.0 3aw 3p 2.0 mm 直针 座 dip 1 500 500 x10 x2
+98 条形 连接器 ph2.0 2aw 2p 2.0 mm 直针 座 dip 1 500 500 x11
+99 条形 连接器 ph2.54 5aw 5p 2.54 mm 弯针 座 dip 1 500 500 x1
+100 插针 直 2p 2.54 mm dip 1 500 500 g1
+101 双排 插针 双排 弯针 ph2.54 2 5p 镀金 1 μ dip 1 500 500 x5
+102 dc 电源插座 cy dc 005 6mm 2mm dip 1 500 500 x8
+106 usb a f 10.0 无边 两脚 插座 usb 插座 af90 度 d 款 10.0 两脚 无卷 边 6.5 dip 1 500 500 x3
+37 双排 排针 2 7p 2.54 弯脚 铜 1 4000
+38 凤凰 端子 kf2edgr 5.08 10pin kf2edgk 5.08 10pin 1 4000
+39 双排 排针 2 2p 2.54 弯脚 铜 1 4000
+s6b ph sm4 tb lf sn jst 6 pin ph connector smd ra ext 6 pin jst connector 6 pin ph connector smd right angle s6b ph sm4 tb lf sn 1 loading ...
+isp isp header isp1 isp2 picisp picisp 2 sam8857 nd
+sma j p h em1 sma j p h em1 j1 5 1814832 1 sma connector 1 loading ... loading ... 2n7002 7 f
+18 1200 j101 minidp receptacle chun lan dp mn pdp0610x0002 critical d to reference
+19 1200 j201 usb c receptacle chun lan i u424324xx 1 critical d to reference
+20 16000 j202 footprint placed
+18 1200 j101 micro usb b receptacle 105017 0001 critical
+20 8000 j103 footprint placed
+21 8400 j104 pin socket smd 2x10 pitch 1.27 mm samtec fle 110 01 g dv k tr
+22 5200 j105 pin socket smd 2x4 pitch 1.27 mm samtec fle 104 01 g dv
+28 11200 j201 footprint placed
+22 17600 j103 footprint placed
+23 18400 j104 pin socket smd 2x08 pitch 1.27 mm samtec fle 108 01 g dv
+28 22400 j201 footprint placed
+29 23200 j401 solder wires directly 直接 焊线
+30 24000 j402 footprint placed
+6 3600 j101 j102 j103 header 2x4 pitch 1.27 mm smd
+7 800 j101 header 2x8 pitch 1.27 mm smd amphenol equivalent
+8 1600 j102 mini displayport receptacle ngguan soshine ssmdr 20f9l1ph5
+9 1600 j105 header 2x4 pitch 1.27 mm smd amphenol 20021121 00008c1lf equivalent
+7 2800 j101 header 2x10 pitch 1.27 mm smd amphenol 20021121 00020c1lf equivalent
+40 针座 4p 单排 直插 公座 脚距 2.54 mm sip 4 10 j6
+41 针座 5p 单排 直插 公座 脚距 2.54 mm sip 5 10 j5
+42 简易 牛角 座 40p 双排 直插 公座 2.54 mm dip 40 10 j3
+43 简易 牛角 座 20p 双排 直插 公座 2.54 mm dip 20 20 j2 j7
+44 简易 牛角 座 10p 双排 直插 公座 2.54 mm dip 10 10 j4
+45 usb 接口 usb m5 03 013 dip 5 10 j1
+87 针座 4p 单排 直插 公座 脚距 2.54 mm sip 4 1000 j6
+88 针座 5p 单排 直插 公座 脚距 2.54 mm sip 5 1000 j5
+89 简易 牛角 座 40p 双排 直插 公座 2.54 mm dip 40 1000 j3
+90 简易 牛角 座 20p 双排 直插 公座 2.54 mm dip 20 2000 j2 j7
+91 简易 牛角 座 10p 双排 直插 公座 2.54 mm dip 10 1000 j4
+92 usb 接口 usb m5 03 013 dip 5 1000 j1
+19 type b usb j1 usb2.0 b ra 1 bot 面 1005
+23 2 20 1.27 mm 排针 p1 p2 2 20 1.27 mm 2 针在 bot 面 2010
+24 2 6 1.27 mm 排针 p3 p4 p5 p6 p12 p14 6 2 1.27 mm nc 针在 top 面
+25 2 8 2mm 排母 p7 p8 p10 p11 2 8 2mm 4 座子 top 面 4020
+26 2 2 2mm 排母 p9 2 3 2mm 1 座子 top 面 1005
+27 2 4 2.54 mm 排针 p13 hdr2x4 1 针在 top 面 1005
+28 2 25 2.54 mm 简易 牛角 p15 con idc 2.54 2x25p nc
+29 2 3 2mm smt 排针 p16 p17 con2x3p 2.00 mm header smt 2 2010
+30 power dip 电源 dc头 p18 dc jack 电芯 1.65 内大孔 6.4 1 bot 面 1000
+31 2 20 2.54 mm 简易 牛角 p19 con idc 2.54 2x20p 1 1000
+32 2 5 2.54 mm 简易 牛角 p20 xlinx jtag 1 1000
+26.0 接插件 dc3 10p 500 jp1 电装 箭头 标记 处 1 脚 豁口 板子 上 箭头 方向
+38 接口 座 30p 双排 弯脚 公座 脚距 2.54 mm dip 30 1 j5
+39 接口 座 22p 双排 弯脚 公座 脚距 2.54 mm dip 22 1 j7
+40 连接器 2p 单排 直插 公座 脚距 2.54 mm sip 2 1 j4
+41 连接器 3p 单排 直插 公座 脚距 2.54 mm sip 3 1 j2
+42 连接器 4p 单排 直插 公座 脚距 2.54 mm sip 4 2 j1 j9
+43 连接器 6p 单排 直插 公座 脚距 2.54 mm sip 6 3 j3 j12 j13
+44 连接器 ml 700 n ml 700 n dip 4 3 t2 t3 t4
+45 针座 2p 单排 直插 公座 脚距 2.54 mm sip 2 1 j6
+46 针座 5p 单排 直插 公座 脚距 2.54 mm sip 5 1 j11
+47 针座 6p 单排 直插 公座 脚距 2.54 mm sip 6 1 j14
+hr911105a hr911105a j1 rj45 led 90 1 10
+dmr 9s db9 母头 j2 db9 lm 1 10
+2 14 双排 排母 boomele 排母 2 2.54 14 p1 cnnt 2.54 2 14 3d header 14x2 1 10
+a2541wv 4p boomele 排针 2.54 4p p3 sip 4 header 4 1 10
+vh3.96 4a boomele vh3.96 4p p4 vh3.96 4p header 4 1 10
+28 连接器 354142 dip 1 2
+29 连接器 scis68 插座 5174341 5 dip 1 2
+17 x1 x2 x3 x4 x5 x6 x7 x8 连接器 插座 4 sh220r 3.5 4p 三 hdr1x4 8 40
+18 x10 1x4 单排 插针 2.54 mm hdr1x4 1 5
+19 x9 1x5 单排 插针 2.54 mm hdr1x5 1 5
+20 x11 1x6 单排 插针 2.54 mm hdr1x6 1 5
+17 x1 x2 x3 x4 x5 x6 x7 x8 连接器 插座 4 sh220r 3.5 4p 三 hdr1x4 8 400
+18 x10 1x4 单排 插针 2.54 mm hdr1x4 1 50
+19 x9 1x5 单排 插针 2.54 mm hdr1x5 1 50
+20 x11 1x6 单排 插针 2.54 mm hdr1x6 1 50
+53 x1 1x5 单排 插针 2.54 mm hdr1x5 1 5
+54 x2 6p 单排 母座 2.54 mm 塑体 8.5 mm hdr1x6 1 5
+55 x3 hdr1x2 1 5
+56 x4 x5 x6 x7 x8 x9 x10 x11 x12 x13 x14 x15 x16 x17 x18 x19 x20 x21 x22 x23 x24 x25 x26 x27 x28 x29 x38 连接器 插座 2 sh220r 3.5 2p 三 sh220r 3.5 2p 27 135
+57 x30 x31 x32 x33 x34 x35 连接器 db15 双排 female dsub1.385 2h15 6 30
+58 x36 x39 x40 连接器 插座 3 sh220r 3.5 3p 三 sh220r 3.5 3p 3 15
+59 x37 连接器 插座 4 sh220r 3.5 4p 三 sh220r 3.5 4p 1 5
+53 x1 1x5 单排 插针 2.54 mm hdr1x5 1 50
+54 x2 6p 单排 母座 2.54 mm 塑体 8.5 mm hdr1x6 1 50
+55 x3 hdr1x2 1 50
+56 x4 x5 x6 x7 x8 x9 x10 x11 x12 x13 x14 x15 x16 x17 x18 x19 x20 x21 x22 x23 x24 x25 x26 x27 x28 x29 x38 连接器 插座 2 sh220r 3.5 2p 三 sh220r 3.5 2p 27 1350
+57 x30 x31 x32 x33 x34 x35 连接器 db15 双排 female dsub1.385 2h15 6 300
+58 x36 x39 x40 连接器 插座 3 sh220r 3.5 3p 三 sh220r 3.5 3p 3 150
+59 x37 连接器 插座 4 sh220r 3.5 4p 三 sh220r 3.5 4p 1 50
+ph 3 2.0 ph 3 ph 3 j1 j3 2 40 ph2.0 直针
+排针 2.54 mm conn 02 03 2.54 mm conn 02 03 2.54 mm j2 1 20 双排 排针 直针
+xh 4 header4 header4 j4 1 20 xh2.54 直针
+kf2510 2a 针座 2.54 m engine header2 j5 1 20 直针
+5557 a e header2 j6 j12 2 40 直针 2p 如图 一
+mx 3.0 2x1p 充放电 header2 j7 j8 j11 3 60 mx3.0 直针 如图 二
+5557 2 2pa header 2 2p header 2 2p j9 j10 j9 白色 j10 红色 直插 2 40 直针 4p 如图 一 只有 白色 没 红色
+usb b usb1 usb1 p1 item szlcsc 92656 html 1 20 1 2
+usb type a usb1 usb1 p2 p3 p4 3 60 如图 三
+sma 连接器 5 1814832 1 5 1814832 1 u10 5 1814832 1 1 20 1 2
+83 mup c719 mup c719 con 6 sim card smt 100mil sp 91h au smd 200
+18 de1e3kx222ma4bn01f de1e3kx222ma4bn01f 2200pf 300v dip 1000
+72 贴片 fh12s 40s 0.5 sh fh12s 40s 0.5 sh hrs smd 接 200
+77 耳机 孔 pj327a 3 tht 200
+82 贴片 sd card wxtw10ap40142 sd card socket smd 200
+81 dip rv010 a21 f01 009 rv009 1 rj45 带凸 带灯 dip 16.6 x13.3 x dip 450
+84 asob221 s90q 4h foxconn smd 200
+86 usb s1e04f 0w8n h15 畅语 dip 200
+22.0 3.0 p3 p4 p7 0039300020 minifit 0039300020 minifit 2 900.0
+23.0 1.0 p5 minidin cui md 40sn md 40sn cui cui md 40sn 300.0
+24.0 1.0 p6 wago 232 134 232 134 wago wago 232 134 300.0
+fakra 接插件 fa1 nzrp pcb 8a 10
+主 接插件 0348260240 10
+3 04aw300943102 700101600600 to wire 連 接器 cas jason190814 green usb3.0 conn 9p 公 up right dip kingf kingfont usbri 20901u010 g 1 500
+4 04aw800213102 700101600900 to wire 連 接器 cas jason190814 green mini jumper open 2p 2.0 mm black astron 30 1201 1g h 2 1000
+5 04aw100422101 700101600500 连接器 cas jason190814 wafer 4p 公 180 ° 2.5 mm 靠背 中空 cen cen yp91 011w3 04b0 1 500
+6 04aw100322101 700101600300 to wire 連 接器 cas jason190814 wafer 3p 公 180 ° 2.54 mm 有 靠背 dip cen cen yp91 011w1 03b0 2 1000
+7 04aw900323102 700101601100 to wire 連 接器 cas jason190814 green pin header 1x3 公 180 ° 2.0 mm dip cen cen zp91 02182 03b1 4 2000
+8 04aw901222101 700101601300 to wire 連 接器 cas jason190814 pin header 2x6 公 180 ° 2.54 mm dip cen zp91 01403 12b1 1 500
+9 04awa00224101 700101601400 to wire 連 接器 cas jason190814 wafer 1x2 公 180 ° 1.25 mm dip cen cen yp91 101w1 02b0 1 500
+10 04awa01423101 700101601500 to wire 連 接器 cas jason190814 box header 2x7 公 180 ° 2.0 mm dip cen zp91 024b9 14y1 1 500
+11 04awb00427101 700101601600 to wire 連 接器 cas jason190814 power conn 4p atx 公 180 ° 4.2 mm dip c cen yp91 114w1 04t0 1 500
+41 04cw30641d010 700196420000 to edge 連 接器 cas jason190816 b2eg pciexp 64p f180 ° 1.0 mm winwin wpes 064an91b41us 2 1000
+5 排针 2 14 2.54 双排 排针 2x14p 2.54 mm p1 1 10
+6 xh2.54 8p aw 弯针 x8821wr 08s n0sn xkb p2 1 10
+7 简易 牛角 公座 2 2.54 12 300s 24p 黑色 pa6t ckmtw 灿 科盟 p3 1 10
+2 3.81 10pin 公座 wj15edgvc 3.81 10p 康奈 克斯 j1 1 10
+3 3.81 10pin 母座 wj15edgk 3.81 10p 康奈 克斯 1 10
+5 简易 牛角 公座 2 2.54 12 300s 24p 黑色 pa6t ckmtw 灿 科盟 p1 1 10
+16 rj45 带 led hr911105a j1 1 10
+17 db9 母头 dmr 9s ckmtw 灿 科盟 j2 1 10
+23 排母 2 2.54 14 2 14 2.54 双排 排母 p1 1 10
+24 排针 2.54 4p a2541wv 4p 连接器 p3 1 10
+25 vh3.96 4p vh3.96 4a p4 1 10
+1 20 j1 20021321 00010c4lf 649 202132100010c4lf amphenol fci headers wire housings 1.27 x1.27 mm btb hdr recept smt 10 pos connector connector 1.27 mm 5x2
+1.0 x1 ds 261a 15.0 dc power connectors power jacks ds 261a
+1 20 p1 67997 114hlf 649 67997 114hlf amphenol fci headers wire housings unshrouded header vert thru hole 14pos 2.54 mm header 7x2 emulation header 7x2
+header 6 header 6 pin p1 p2 tb 6s header 6 2
+fan header 3 pin p5 p6 sun sip3 header 3 2
+header 4 vh3.96 4a boomele … p1 p3 p5 vh3.96 li 4p 4 200 3 600
+dc5.5 2.1 mm dc 005 20a p2 dc 005 2 200 1 200
+header 2 a2501wv 2p 连接器 p4 xh2.54 li 2p 2 200 1 200
+header 2 b2p vh lf sn jst p6 vh3.96 li 2p 2 200 1 200
+header 4 a2501wv 4p 连接器 p8 p9 p10 p11 p12 p13 p14 p15 p16 p17 p18 p19 p20 p21 p22 p23 p24 p25 p26 p27 p28 p29 p30 p31 p7 xh2.54 li 4p 4 200 25 5000
+2411 02 lumberg usb usb 插座 embase usb ci type b 2411 02 usb 1000
+37800868 terminal 端子 jst tab 37800868 picot a souder3 2 1 3mm 1000
+1.0 14080101 2 406549 1 2 100 连接器 amp b modular connector single row four port 8pin shield socket 2.54 led ul
+20.0 14140142 2 2013310 2 1 50 连接器 b dimm simm socket so dimm ddriii 204pin right angle 0.600 mm 0.800 mm no approval
+22.0 fpc0.5 8p fpc0.5 8p 1 50 接线 8pin
+29.0 14050006 wh254 03 236 122 g s 5 250 b pin common square foot pin
+30.0 wh254 08 236 122 g d 1 50 b ordinary square pin 8pin double row straight 2.54 5.84 2mm pcb 3a
+31.0 14050069 wh254 04 236 122 g s 1 50 1 4pin 2.54 mm ultrasonic 针 pcb 默认
+34.0 6pin 1.25 a1251awv 06 f3ma g 1 50 1 6pin 网络
+37.0 14100396 usb a1d41f 4n4n 1 50 连接器 b common socket usb 4pin 25v 1a straight single row mm 2.8 mm solder ul
+38.0 14200137 kf028 1 50 连接器 烨 d socket sim card lock socket 6pin double row straight 2.54 mm 27.5 mm smt 0.5 a for psms mdu project special
+20 0801 0201 i pex 连接器 贴片 20279 001e 01 一代 板端 射频 座 smd 4 射频 接口 j3 j4 2 40
+21 0915 0202 micro sim 卡座 micro sim 1598 mm 151 mm 127 mm sim 卡 连接器 push push micro sim connector smt 2 type j2 1 20
+22 0303 0104 5 芯针 座 125 mm 直插 线 连接器 针座 端 125 mm dip 直针 焊 式 j5 1 20
+23 0910 0603 6 卧式 座 smd 05 mm fpc 连接器 卧式 smt 贴装型 接型 带锁式 j1 1 20
+25023 con6 1.25 smd con6 1.25 mm smd tjc3 1 100 j5
+25025 hr911105a rj45 带灯 rj45 led 带灯 带滤波器 1 100 j7
+25026 风扇 插座 2510 3a dip 2.54 mm 3p 180 ℃ 2 200 j8 j18
+25027 hardy ph d 8a con16 2.0 mm ph d 8a 1 100 j9
+25029 2x30p 1.27 smd 座子 smd 60p 127 带 定位 柱 1 100 j17
+25046 ipex 天线 座 贴片 天线 扣子 smt 1 100 j19
+10.0 插座 con5 p125 smt mx1.25 卧式 贴片 5p 针座 连接器 smt 1 j1 100
+35.0 插座 con6 p125 smt mx1.25 卧式 贴片 5p 针座 连接器 smt 1 led1 100
+36.0 插座 con8 p125 smt mx1.25 卧式 贴片 8p 针座 连接器 smt 1 con1 100
+37.0 插座 fpc22 0 5 fpc 0.5 mm 22p 翻盖式 h1.0 mm 接 smt 1 j1 100
+6.0 ic con 0 8 180 2p j1 smt 1 con2 100
+7.0 插座 fpc22 0 5 fpc 0.5 mm 22p 翻盖式 h1.0 mm smt 1 j1 100
+tb3 1 a98078 nd 282836 4 rm block 4pos side entry 5mm 5000
+tb1 tb2 2 a98080 nd 282836 8 rm block 8pos side entry 5mm 10000
+p3 1 a107790 nd 1734753 1 mini b usb recp vert 5000
+j1 1 jw60zt0r00ct nd stackpole elect jw60zt0r00 jumper 22 awg 3a axial trim and bend to 04 pitch 5000
+49979 1825058 7 11
+49992 1825058 7 30
+50101 5ehdrc 02p dinkle 41
+50113 5ehdrc 04p dinkle 21
+50125 5esdv 02p dinkle 41
+50137 5esdv 04p dinkle 21
+51311 rjsae538102 amphenol 21
+51324 rjsae538102 amphenol 40
+51337 rjsne538108 amphenol 31
+51350 rjsne538108 amphenol 60
+51376 t821114a1s100ceu amphenol 11
+51389 t821114a1s100ceu amphenol 20
+51500 usb b s ra multicomp 11
+51512 usb b s ra multicomp 20
+22 mb 2.5 2 5.08 spec battery connector 2pin male 3.5 mm 1 1000 0
+61 rapc722x switchcraft power connector 1 1000 0
+63 lpje201bgnl rj45 connector 3 3000 0
+j1 cui inc pj 050a power connector 520
+49979 1825058 7 11
+49992 1825058 7 30
+50065 3552 th 194
+50077 3552 th 400
+50101 5ehdrc 02p dinkle 41
+50113 5ehdrc 04p dinkle 21
+50125 5esdv 02p dinkle 41
+50137 5esdv 04p dinkle 21
+13 rj 45 1port black no shield stamped pin 3u gold plating l 20.5 mm h 12.7 mm 90 度 8208c b01 1 3000
+24 con sata l 17.74 h 11.50 7pin gold 15u 180 度 wata 07dplh6u 2 6000
+连接器 板间 连接器 482101201 10
+连接器 同轴 连接器 mmcx khd1 4
+145 贴片 接插件 1.25 mm tsip6 1.25 300
+连接器 笔记本 电池 刀片式 连接器 公头 2.0 mm pitch 8pin 1.0 5.0
+连接器 笔记本 电池 刀片式 连接器 母头 2.0 mm pitch 8pin 1.0 5.0
+连接器 socket hrs df13 2s 1.25 c 536 0001 4 1.25 mm pitch 1.0 10.0
+连接器 straightheader smt hrs df13a 2p 1.25 h 51 1.25 mm pitch 2pin 1.0 10.0
+连接器 socket hrs df13 6s 1.25 c 536 0005 5 1.25 mm pitch 1.0 10.0
+连接器 straightheader smt hrs df13a 6p 1.25 h 51 1.25 mm pitch 6pin 1.0 10.0
+crimpingcontact 端子 hrs df13 2630scfa 04 536 0298 5 04 gold plating 8.0 100.0
+连接器 rightangle header hrs df1e 2p 2.5 ds 36 541 0985 036 2.5 mm pitch 1.0 10.0
+连接器 leplug panel mountlock type hrs df1e 2ep 2.5 c 541 0943 0 3a 1.0 10.0
+plug crimpingcontact 端子 hrs df1e 2022pcfa 541 1003 0 1.2 1.9 mm 20 22awg 2.0 20.0
+retainer 固定器 hrs df1e 2rs p 2.5 541 0971 6 1.0 10.0
+kmmx ab10 smt1sb30 microusb3.0 10
+145 贴片 接插件 1.25 mm tsip6 1.25 300
+51767 39 30 0060 89
+51803 39 01 2060 84
+153013932 耳机 座 b s 1.45 11.6 x7.3 x3.85 5pin 100k
+153013931 耳机 座 b s 1.45 11.6 x7.3 x3.85 5pin 100k
+152011661 板板 连接器 t h 0.7 7.80 x1.90 x0.7 30pin jae 100k
+153012681 usb b t s 1.3 d 5.85 x7.5 x2.45 5pin 100k
+直针 插座 xh2.54 4p xh2.54 4p 3 jp1 jp11 jp12 jp16
+ipex 天线 插座 ipex ipex 1 jp3
+单排 针 pin2x1 2.54 2 jp5 jp13
+pin2x1 2 1pin 4.2 mm 2 jp6 jp9
+直针 插座 1.25 t 6a 1.25 t 6a 1 jp7 弯针 改为 直针
+双排 排针 phd2.0 双排 phd2.0 双排 2x8 1 jp8
+双排 排针 phd2.0 双排 phd2.0 双排 2x4 1 jp2
+tf card tf card 47219 2001 1 jp10
+板对板 连接器 母座 df12d 3.0 60dp 0.5 v 81 smt50l1720w380h230 60female flase 1 jp14
+板对板 连接器 母座 df12d 3.0 80dp 0.5 v 81 smt50l2220w380h230 80female flase 1 jp15
+贴片 螺母 smtso m2 3et 3mm 3 s1 s2 s3
+螺丝 m2 圆头 螺丝 m2 4 3
+25020 3.5 mm 耳机 座 pj 3024m 2 100 j2 j13
+25036 dc 0146 dip 5.5 2.1 2.5 针 1 100
+25037 db9 a dip 9p 2 200
+直插 插座 2p xh 2.54 32 16000 座
+直插 插座 4p xh 2.54 1 500 座
+直插 插座 2p dg128 5.0 5 2500
+直插 网口 hr911105a rj45a 1 500
+电源 连接器 b2b xh a b2b xh a 1 插座 连接线 上 上 dip2 直插 j1 jst 2000
+贴片 接插件 501189 2017 501189 1 1mm 20pin smd20 贴片 j1 2000
+单排 2 插座 b2b xh a b2b xh a 1 2.5 mm 1x2pin dip2 直插 j1 jst 2000
+贴片 接插件 501189 2017 501189 2 1mm 2x10pin sdf20 贴片 j2 j3 4000
+501189 1 1mm 2x10pin smd20 贴片 j5 2000
+天线 插座 sma 四角 座 外螺 内孔 180 度直 母 pcb 头 3077400014000 1 j2
+天线 插座 sma 四角 座 外螺 内孔 180 度直 母 pcb 头 3077400014000 1 j2
+db9 母座 直插 j1 1 5
+hdr 1x4 4p 接插件 jp1 kfhb9500 li 4p 1 5
+hdr 1x2 2p 接插件 jp2 jp3 jp4 jp5 jp6 jp7 jp10 jp11 jp19 jp20 jp21 jp22 jp30 jp31 xh2.54 li 2p 14 70
+hdr 1x2 2p 接插件 jp8 jp9 jp12 jp13 jp14 jp15 jp16 jp17 jp18 jp23 jp24 jp25 jp26 jp27 jp28 jp29 vh3.96 li 2p 16 80
+7 连接器 mm4829 2702ra4 1 10
+8 连接器 连接器 a1002wr s 8p 1 10
+9 耳机 孔 pj 602 pj 602 1 10
+10 usb 连接器 type c 31 m 12 1 10
+11 卡槽 5045280892 1 10
+12 连接器 连接器 a1254wr s 4p 1 10
+13 连接器 连接器 a2001wr s 2p 1 10
+14 连接器 连接器 a1254wr s 2p 3 30
+24 6p7901b0 j25 s000479 conn header smd 40pos 1.27 mm 公 插针 tfm 120 22 l d a samtec 连接器 3
+52349 mtmm 105 02 g d 122 samtech 800.0
+52362 54548 0871 340.0
+52375 22 27 2031 400.0
+连接器 连接器 a1002wr s 8p 2 20
+连接器 连接器 a1002wr s 6p 2 20
+ffc fpc 连接器 hrs fh34srj 14s 0.5 sh 50 2 20
+遥控 左 连接器 连接器 a1002wr s 6p 1 10
+遥控 板右 连接器 连接器 a1002wr s 6p 1 10
+ffc fpc 连接器 hrs fh34srj 14s 0.5 sh 50 1 10
+扬声器 连接器 连接器 a1254wr s 4p 1 10
+连接器 连接器 a1254wr s 2p 1 10
+ffc fpc 连接器 hrs fh34srj 14s 0.5 sh 50 1 10
+70805001020 插针 方脚 排针 直脚 单排 2.54 mm 3pin dip oupiin 2011 1x03g00sb 30
+60805000940 插针 单排 a 引脚 2.54 mm 4pin smd oupiin 2015 1x04g00dab 30
+70810001100 接插件 插座 单排 5.08 mm 绿色 2pin dip ht5.08 2 绿色 kefa 30
+70810001120 接插件 插座 单排 5.08 mm 绿色 4pin dip ht508v 5.08 04p 1 4 40
+70810001130 接插件 插座 单排 5.08 mm 橙色 4pin dip ht508v 5.08 04p 1 5 75
+70810001180 接插件 插座 2.54 mm 1a dip3 3pin dip 优联康 xh2.54 3 820
+70810002790 插座 方孔 单排 6.2 mm 2pin dip jst b02p vl 30
+70810002970 插座 10pin 单排 2.50 mm dip jst b10b xask 1 lf sn 50
+70811000480 接插件 端子 2.5 mm 3a dip5 5pin dip jst b5p shf 1aa lf sn 75
+70820002100 矩形 连接器 针座 公 插针 3pin 接头 公形 引脚 1 排 2.5 mm 3pin dip jst b3p shf 1aa lf sn 60
+70820002790 矩形 连接器 端子 块 接头 针座 单排 2.54 mm 2pin dip degson dg308 2.54 02p 14 00ah 10
+70808000370 d sub 连接器 公座 卧式 dr25 白色 2.77 mm 25pin dip 51225133137w 25
+14 power connection hxb 2a 1.0 h1 400.0
+78.0 fpc 座 0.5 24p smd 翻盖 1.0 cn1 3000
+79.0 贴片 dc 座 dc 00520 l12 w6 h4.8 带 定位 柱 1.0 cn12 带 定位 柱 3000
+81.0 贴片 插座 mx1.25 2p 1.0 cn5 3000
+82.0 贴片 插座 mx1.25 5p 1.0 cn3 3000
+heatsink none 2 577002b00000g heatsink 200
+barrel jack switch barreljack cui pj 102ah horizontal 3d 1 pj 102bh dc barrel jack with an internal switch 100
+conn 02x05 odd even pinheader 2x05 p2.54 mm horizontal 1 prpc005dban m71rc generic connector double row 02x05 odd even pin numbering scheme row 1 odd numbers row 2 even numbers script generated kicad library utils schlib autogen connector 100
+conn coaxial u fl hirose u fl r smt 1 vertical 1 1909763 1 coaxial connector bnc sma smb smc cinch rca 100
+usb b usb2p0 typeb standard 1 usb b1hsb6 on shore usb type b connector 100
+choke commonmodechoke 4pin 4.5 x3.2 mm 2 744235900 coupled inductor 200
+73 dc 座 dc 00520 l12 w6 h4.8 带 定位 柱 1 cn12 3000
+74 弯脚 插座 mx1.25 2p 弯脚 2 bt1 cn11 6000
+75 fpc 座 0.5 40p smd 翻盖 1 cn7 3000
+76 插座 xh2.54 5p 1 cn9 3000
+13 p20313000017 1pin m5 m5 压 铆 端子 m5 压 铆 端子 接插件 1050 紫铜 端子 m5 方 螺丝
+18 p20313000003 8pin 1.25 mm a1252wr s 8p 8pin 1.25 mm 接插件 60
+10pin 2.0 mm 90angles ph2.0 10 1 cn1 8570
+2pin 2.54 mm 90 angles 带 卡扣 ph2.54 2 1 cn2 8570
+2x16pin 2.0 mm 90angles dip32 2.0 1 cn9 8570
+3x2pin 2.54 mm jump6 2.54 1 cn4 8570
+4pin 2.0 mm needle file cn4 20a 2 cn6 cn11 17140
+4x2pin 2.54 mm jump8 2.53 1 cn302 8570
+6pin 2.0 mm 90angles cn6 20a 1 cn10 8570
+dp block dp 47272 001 1 cn7 11370
+jump 2pin 2.54 mm ph2.54 2 2 jp1 jp2 17140
+27 接插件 5566 02a jpx 2 10
+28 接插件 44914 0401 44914 0401 3.0 mm 10
+29 接插件 df11 4dp 2dsa hirose df11 4dp 2dsa 40
+30 接插件 df11 20dp 2dsa hirose df11 20dp 2dsa 10
+31 接插件 df11 24dp 2dsa hirose df11 24dp 2dsa 30
+32 接插件 df11 12dp 2dsa hirose df11 12dp 2dsa 10
+33 接插件 df11 10dp 2dsa hirose df11 10dp 2dsa 20
+40 接插件 353620450 35362 0450 20
+37 2p 接插件 5566 02a 5566 02a 10
+38 4p 接插件 44914 0401 3.0 mm 44914 0401 3.0 mm 10
+39 4p 接插件 df11 4dp 2dsa hirose df11 4dp 2dsa 10
+40 4p 接插件 df11 4dp 2dsa hirose df11 4dp 2dsa 10
+41 4p 接插件 df11 4dp 2dsa hirose df11 4dp 2dsa 10
+42 4p 接插件 df11 4dp 2dsa hirose df11 4dp 2dsa 10
+43 4p 接插件 353620450 353620450 20
+44 12 2p 接插件 df11 24dp 2dsa hirose df11 24dp 2dsa 10
+45 12 2p 接插件 df11 24dp 2dsa hirose df11 24dp 2dsa 10
+47 7 2p 接插件 df11 14dp 2dsa hirose df11 14dp 2dsa 10
+48 7 2p 接插件 df11 14dp 2dsa hirose df11 14dp 2dsa 10
+49 7 2p 接插件 df11 14dp 2dsa hirose df11 14dp 2dsa 10
+50 5 2p 接插件 df11 10dp 2dsa hirose df11 10dp 2dsa 10
+51 5 2p 接插件 df11 10dp 2dsa hirose df11 10dp 2dsa 10
+52 4 2p 接插件 df11 8dp 2dsa hirose df11 8dp 2dsa 10
+53 5 2p 接插件 牛角 座子 2.54 mm 10pin nextron idc2.54 10p 10
+54 4p 接插件 单排 排针 2.54 mm hdr 1x4 10
+17 直插 插座 39281043 5556 2 2 母头 尖脚 jpx 4 40
+18 直插 插座 c3030wv 3p c3030wv 3p 10
+19 直插 插座 39281123 5556 2 6 母头 尖脚 jpx 12 10
+20 直插 插座 0353620450 353620 4p 20
+22 单排 排针 2.54 1 4 镀金 排针 hdr1x4 10
+23 直插 插座 39301039 jpx 3 g 先剪 去 塑料 固定 脚 再 110
+conn header vert 2pos 100 tin 640456 2 公 插座 796
+conn header vert 3pos 100 tin 脚距 254 mm 3pin 直插 座子 1 挡墙 640456 3 公 插座 400
+conn micro sd card push push r a xktf 001b xkb sd 卡座 400
+conn header vert 14pos 2.54 mm 直插 67997 114hlf amphenol fci 连接器 400
+conn header vert 1 10pos 2.54 mm 1 640456 0 连接器 400
+conn header vert 1 6pos 2.54 mm 640456 6 连接器 399
+conn jack stereo 35 mm smd r a sj 3524 smt tr cui inc 连接器 400
+21.0 连接器 df63 2p 3.96 dsa df63 2p 3.96 dsa 2.0 hirose connector
+22.0 连接器 df63 4p 3.96 dsa df63 4p 3.96 dsa 3.0 hirose connector
+23.0 连接器 df63 5p 3.96 dsa df63 5p 3.96 dsa 1.0 hirose connector
+24.0 连接器 df63 6p 3.96 dsa df63 6p 3.96 dsa 2.0 hirose connector
+39.0 接插件 dip 5 2.54 1.0
+40.0 连接器 key 4 1437565 1 1.0
+41.0 接插件 sd micro 472192001 1.0
+42.0 接插件 dip jtag 1761603 3 4.0
+52.0 接插件 mvb d013 d013 rs485 1.0
+53.0 接插件 trdp d013e m trdp d013e m 1.0
+9 连接器 cn1 df63 3p 3.96 dsa df63 3p 3.96 dsa 1 20 hirose connector
+10 连接器 cn2 df63 2p 3.96 dsa df63 2p 3.96 dsa 1 20 hirose connector
+jc01 0022 a 2p 围墙 座 1 2 2.54 con2 2.54 d v 2p 180 ° 直插 2.54 mm 白色 1 550
+jc01 0029 a 6p 围墙 座 1 6 2.0 con6 2.0 d v 6p 180 ° 直插 2.0 mm 白色 1 550
+jc01 0081 a 5 脚 音频 座 smd 音频 座 5 脚 muc5 ф 3.5 s h 贴片 音频 座 5 脚 镀金 耐高温 230 度 2 1100
+jc01 0158 a 4p 围墙 座 1 4 1.25 4p 180 ° 直插 1.25 mm 1 0
+jc01 0017 a 公座 8p 公座 古铜色 1 550
+jx33 0014 a 头 固定 座 图号 mc 4032 34b a 06 0 abs 黑色 1 550
