@@ -203,7 +203,7 @@ class Operate_excel:
 
 def excel_read2txt():
     # 先清空：
-    txt_filePath = r'D:\dufy\code\work_record\data\excel_write'  # 读取文件夹路径,
+    txt_filePath = r'D:\dufy\code\fast_entity30\data\excel_write'  # 读取文件夹路径,
     txt_names = os.listdir(txt_filePath)
     for i, name0 in enumerate(txt_names):  # 文件夹下文件循环
         path = txt_filePath + '\\' + name0
